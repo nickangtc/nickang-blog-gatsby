@@ -6,6 +6,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
+// Destructuring { data, pageContext, location } = props
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
@@ -80,6 +81,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
 export default BlogPostTemplate
 
+// Get a single blog post with specified $slug
+// $slug is passed in when createPages Gatsby API is called in gatsby-node.js
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
