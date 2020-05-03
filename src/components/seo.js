@@ -1,8 +1,5 @@
 /**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
+ * SEO component relies on React Helmet package to insert head meta to every page
  */
 
 import React from "react"
