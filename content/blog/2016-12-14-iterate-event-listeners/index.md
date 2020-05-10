@@ -9,7 +9,7 @@ Here's one way to reduce repetition with event listeners by using an array `.for
 
 The code below uses jQuery selectors and methods to add 'mousedown' event listeners to 4 elements #up, #down, #left and #right.
 
-```
+```js
 // NON-DRY WAY
 // Add event listeners to mouse downs
 $('#up').mousedown(function () {

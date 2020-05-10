@@ -37,7 +37,7 @@ The programming language that the web is built on, JavaScript, is written in Eng
 
 JavaScript certainly looks different compared to English:
 
-```
+```js
 // JavaScript
 function print_hello_world_to_console () {
    console.log('hello world');

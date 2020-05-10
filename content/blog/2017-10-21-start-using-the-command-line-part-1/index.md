@@ -29,7 +29,7 @@ Therefore, you need a way to find out your working directory at any time. To do 
 
 ### pwd - print working directory
 
-```
+```sh
 # running this
 pwd
 
@@ -47,7 +47,7 @@ While seeing your working directory is useful, it's meaningless if you cannot se
 
 It'd be like being in a hotel room but not knowing how you got in there. There are no windows and you can't tell which country or city this room is located. No matter how amazing the room is, you can't know what's happening outside relative to you. Kind of a bummer, eh?
 
-```
+```sh
 # running this
 ls
 
@@ -67,7 +67,7 @@ Here's how it looks on my Macbook (it probably looks different from yours becaus
 
 Next, let's learn about changing to another directory. This is arguably one of the most frequently used commands.
 
-```
+```sh
 # running this
 ls
 
@@ -88,7 +88,7 @@ Some commands expect an argument (like `cd` and we'll soon see, `rm`), while oth
 
 To delete an item, we use the [`rm`](https://www.mankier.com/1/rm) command, which stands for _remove_.
 
-```
+```sh
 rm cute_cat_photo.jpg
 ```
 

@@ -7,7 +7,7 @@ date: "2016-09-06"
 
 Here’s a real example from class today.
 
-```
+```js
 // MY CODE
 function urlEncode(url, params) {
     if (params === undefined) {

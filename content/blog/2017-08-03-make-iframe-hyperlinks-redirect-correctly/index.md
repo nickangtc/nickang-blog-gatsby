@@ -9,13 +9,13 @@ Let's say you're building a HTML/CSS/JS recommendation widget that is supposed t
 
 Thankfully, the fix in this situation is very, very simple. Apparently there is a HTML element called [`<base>`](https://developer.mozilla.org/en/docs/Web/HTML/Element/base) that handles this.
 
-```
+```html
 <base target="_parent">
 ```
 
 By adding this line of code in the `<head>` of your iframe, all URL redirects will happen on the parent document instead of in the iframe document. Something like this:
 
-```
+```html
 <!doctype html>
 <html>
 <head>

@@ -17,7 +17,7 @@ So we cloned `staging` into `master`. Or more accurately, we force-pushed the `s
 
 Here's how I did it for our team:
 
-```
+```sh
 # Rename master to old-master, staging to master
 $ (staging) git checkout master
 $ (master) git branch -m old-master

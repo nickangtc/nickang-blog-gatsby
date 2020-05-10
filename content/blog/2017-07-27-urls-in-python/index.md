@@ -9,7 +9,7 @@ Adding a suffix to image urls (eg. from `abc.com/img/image.jpg to abc.com/img/im
 
 Here's the code:
 
-```
+```py
 import re
 
 def add_suffix_to_image_url(image_url, suffix):
@@ -35,7 +35,7 @@ add_suffix_to_image_url('https://example.com/image/some-cat-image.jpg', '_large'
 
 I'm not sure what use cases there might be for adding prefixes. Some cases probably exist but most likely not for image urls (?). In any case, to do that, just tweak the regex pattern:
 
-```
+```py
 # The same idea applies to adding prefix - just change the regex pattern
 index = re.search(r"(http://|https://)", image_url)
 

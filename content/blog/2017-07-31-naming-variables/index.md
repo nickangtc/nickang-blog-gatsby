@@ -7,7 +7,7 @@ Let's talk about naming variables.
 
 Today I saw something like this in the code base at work. No I'm not sharing the actual code but it's a good enough representation:
 
-```
+```py
 import pandas
 
 class RecommenderUtility(object):
@@ -78,7 +78,7 @@ But this should not be the case! The **onus of clarity and ease of code comprehe
 
 Here is an example of an improvement that is relatively easy to implement and can potentially save a lot of time from deduction.
 
-```
+```py
 # Instead of
 use_sku = True
 
@@ -92,7 +92,7 @@ Ambiguity is enemy number one. Leave no room for different interpretations of wh
 
 Another improvement that can be made with almost no additional effort is writing docstrings. Docstrings are basically multiline comments that appear directly below the `def` or `class` declarations in Python. Practitioners of various programming languages advocate different ways of doing this, but I really like Python docstrings - they are systematic, easy on the eyes (those """), and they even have built-in support even though I don't personally use it (you can call `print my_method.__doc__`).
 
-```
+```py
 class RecommenderUtility(object):
   """
   Execute common tasks needed for Recommender system.

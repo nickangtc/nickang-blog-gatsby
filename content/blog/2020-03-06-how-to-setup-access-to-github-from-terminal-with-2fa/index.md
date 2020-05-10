@@ -32,7 +32,7 @@ This token is what you need to enter as your **password** in Terminal, instead
 
 If you see this error, it most likely means your GitHub account has not been granted access to the repo you're trying to clone.
 
-```
+```sh
 fatal: repository https://github.com/my-repository not found
 ```
 
@@ -50,7 +50,7 @@ And if you see a 404 when loading the repository
 
 If you see this error, it means that you have entered the wrong credentials.
 
-```
+```sh
 fatal: Authentication failed for https://github.com/my-repository
 ```
 

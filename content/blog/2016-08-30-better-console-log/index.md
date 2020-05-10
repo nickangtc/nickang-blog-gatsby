@@ -26,7 +26,7 @@ Console logs will print to the developer console whatever you ask it to print in
 
 Though before today, I was using it wrong. There are two ways to write a console log:
 
-```
+```js
 // method 1: not so good
 console.log(’gameState value: ‘ + gameState);
 

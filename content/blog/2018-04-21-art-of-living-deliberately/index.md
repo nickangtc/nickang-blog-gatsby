@@ -3,9 +3,7 @@ title: "The Art of Living Deliberately"
 date: "2018-04-21"
 ---
 
-> [A post shared by Nick Ang (@nickangtc)](https://www.instagram.com/p/Bh0ieM_nTpU/) on Apr 20, 2018 at 10:33pm PDT
-
-<script async defer="" src="//www.instagram.com/embed.js"></script>
+https://www.instagram.com/p/Bh0ieM_nTpU
 
 I'm currently in the midst of searching for a new job, and one of the biggest [goals](https://www.nickang.com/new-years-resolution-2018/) I wished to achieve with this new job was to relocate to San Francisco. Now, about 4 months into the toughest job search in my life so far, I may finally be coming to a conclusion.
 

@@ -116,15 +116,7 @@ Before coming to Berlin, living comfortably in Singapore, I would occasionally c
 
 Pricing plays with your mind, signalling that a product is of a higher quality if it is priced higher than its shelf mates. _There must be a reason why it's more expensive than this other brand's milk, right?_ Some times it's true, but I've found recently through a blind taste test that it can easily be false as well. I think 80 percent of the more expensive products taste the same and has the same nutritional value as their more affordable counterparts.
 
-> [
-> 
-> View this post on Instagram
-> 
-> ](https://www.instagram.com/p/B4F_wfvn72s/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Nick Ang (@nickangtc)](https://www.instagram.com/p/B4F_wfvn72s/?utm_source=ig_embed&utm_campaign=loading) on Oct 26, 2019 at 12:47pm PDT
-
-<script async src="//www.instagram.com/embed.js"></script>
+https://www.instagram.com/p/B4F_wfvn72s
 
 Buying a slightly more expensive carton of milk might make me feel like I'm progressing in life (_oh look at me, I drink 'superior' milk, I must be successful_), but it is merely an illusion and the cost is extra time because time is traded for money. As Russell Peters puts it, _no thaaank you!_
 

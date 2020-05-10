@@ -45,7 +45,7 @@ Since I'm familiar with JavaScript, I know that the quickest way to access an RE
 
 Within the console, I write a simple program that will help me pick a student who is present at random.
 
-```
+```js
 let students = `Chee Kean
 Jerry
 Justin
@@ -85,20 +85,20 @@ Here are some situations, described in JavaScript code, where I've used an REPL 
 
 Counting digits (useful for verifying, e.g. a credit card number has the correct number of digits):
 
-```
+```js
 '491751971537'.length //=> 12
 ```
 
 Sorting a list of names alphabetically:
 
-```
+```js
 const months = ['Mary', 'Jane', 'Febrian', 'Deckster']
 months.sort() //=> ['Deckster', 'Febrian', 'Jane', 'Mary']
 ```
 
 Sanity-checking code that I've written in a project:
 
-```
+```js
 // Checking whether a HTTP request using
 // fetch will work as expected
 fetch('<https://nickang.com>')
