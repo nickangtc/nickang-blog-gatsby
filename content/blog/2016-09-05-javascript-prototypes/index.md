@@ -15,7 +15,7 @@ The difference becomes apparent only when you consider what happens in the back-
 
 In order to create objects that share exactly the same properties in JavaScript, we use constructors. They look like this:
 
-```
+```js
 function Car (make, model, year, color, seats) {
   this.make = make;
   this.model = model;
@@ -47,7 +47,7 @@ Something fishy aside, what’s worse is that by re-defining these functions, we
 
 Prototypes help solve this problem (and probably more that I’m unaware of at this point) by preventing _repeated instantiation_ of the same block of code. Sticking with the example of a Car constructor, the prototype syntax looks like this:
 
-```
+```js
 Car.prototype.sell = function (newOwner) {
   this.previousOwners.push(this.owner);
   this.owner = newOwner;

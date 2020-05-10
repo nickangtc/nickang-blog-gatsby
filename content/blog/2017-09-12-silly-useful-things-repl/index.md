@@ -17,14 +17,14 @@ Here's an example of how I used it today to understand what happens when someone
 
 Seeing this line of code embedded deep in our code base, I found myself a bit lost.
 
-```
+```js
 // Two assignments in a single line? What sorcery is this?
 window.jQuery = window.$ = $ || jQuery || {};
 ```
 
 It was the first time I've seen someone write two `=` assignment operators in the same line. Although I suspected off the cuff that this was evaluating right to left, and assigning values that way, I couldn't be sure, so I recreated it in Repl and started fiddling with it.
 
-```
+```js
 var wind0w = {};
 var $ = 'jquery v1';
 var jQuery = 'jquery v2';

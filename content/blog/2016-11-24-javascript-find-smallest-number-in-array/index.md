@@ -9,7 +9,7 @@ Though I didn't find this challenge difficult to complete, my solution looked li
 
 Here's what I would have done normally:
 
-```
+```js
 function removeSmallest(numbers) {
   var indexOfSmallest = 0
   var smallestNumber = numbers[0]
@@ -30,7 +30,7 @@ removeSmallest([56,23,10,60,99,105,20931,24,24])
 
 And this is what I saw on [Codewars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/solutions/javascript) today:
 
-```
+```js
 function removeSmallest(numbers) {
   var min = Math.min.apply(null,numbers);
   numbers.splice(numbers.indexOf(min),1);
@@ -54,6 +54,7 @@ More on the `apply` method at [MDN](https://developer.mozilla.org/en-US/docs/Web
 
 UPDATE: With ECMAScript 2015 (ES6), it's become slightly easier to achieve the same thing. The big difference is how clean it looks in ES6 using the 'spread' (`...`) operator:
 
-```
-Math.max(...[-1, 5, 11, 3])
+```js
+const someNumbers = [-1, 5, 11, 3]
+Math.max([...someNumbers])
 ```

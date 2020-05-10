@@ -46,7 +46,7 @@ What constantly judging the situation means is to approach each obstacle with an
 
 Here’s an example:
 
-```
+```ruby
 class RecipesController < ApplicationController
     def show
     @recipe = Recipe.find(params[:id])
@@ -59,7 +59,7 @@ Is it important to know how Recipe.find(params\[:id\]) works? I can kind of gues
 
 What about this?
 
-```
+```ruby
 # in app/views/recipes/new.html.erb
 <%= form_for @recipe do |f| %>
   <%= f.label :name %>:

@@ -49,13 +49,14 @@ Apparently, when the queue is relatively large, this internal re-indexing operat
 
 Here is my implementation of a `Queue` class with [JSDoc](http://usejsdoc.org/) style docstrings to aid your reading.
 
-/\*\*
- \* Implementation of Queue.
- \*/
+```js
+/**
+ * Implementation of Queue.
+ */
 class Queue {
-    /\*\*
-     \* Create a queue.
-     \*/
+    /**
+     * Create a queue.
+     */
     constructor () {
         this.store = {};
         this.front = 0;
@@ -63,78 +64,56 @@ class Queue {
     }
 }
 
-/\*\*
- \* Add item to end of queue.
- \* @param {\*} The data to store in the position.
- \*/
+/**
+ * Add item to end of queue.
+ * @param {*} The data to store in the position.
+ */
 Queue.prototype.enqueue = function (data) {
-    this.store\[this.end\] = data;
+    this.store[this.end] = data;
     this.end++;
 };
 
-/\*\*
- \* Remove item from queue and return its data.
- \* @return {\*} The data stored in item.
- \*/
+/**
+ * Remove item from queue and return its data.
+ * @return {*} The data stored in item.
+ */
 Queue.prototype.dequeue = function () {
     if (this.front === this.end) return null;
 
-    const data = this.store\[this.front\];
-    delete this.store\[this.front\];
+    const data = this.store[this.front];
+    delete this.store[this.front];
     this.front++;
     return data;
 };
 
-/\*\*
- \* Return current size of queue.
- \* @return {number} Size of queue.
- \*/
+/**
+ * Return current size of queue.
+ * @return {number} Size of queue.
+ */
 Queue.prototype.size = function () {
     return this.end - this.front;
 };
 
-/\*\*
- \* Return item at front of queue without dequeueing.
- \* @return {\*} The data stored in item.
- \*/
+/**
+ * Return item at front of queue without dequeueing.
+ * @return {*} The data stored in item.
+ */
 Queue.prototype.peek = function () {
     if (this.size() === 0) return null;
-    return this.store\[this.front\];
+    return this.store[this.front];
 };
+```
 
 I've added some lines of code that pits this implementation's runtime performance against that of a native array queue that can be found in this [Gist](https://gist.github.com/nickangtc/79e49eb723a3a91ddd62f38563361add). My implementation is a few milliseconds slower for smaller queues (less than 100k items) but is significantly faster for queues above that size.
 
 Here's a quick breakdown of the runtime performance of the 2 implementations (the test involved enqueuing a number of items and dequeueing an item at every multiple of 10):
 
-Queue size
-
-`Array`
-
-`Queue`
-
-10,000
-
-1 ms
-
-4 ms
-
-60,000
-
-60 ms
-
-7 ms
-
-100,000
-
-415 ms
-
-8 ms
-
-200,000
-
-2,134 ms
-
-13 ms
+|Queue size|Array|Queue|
+|--- |--- |--- |
+|10,000|1 ms|4 ms|
+|60,000|60 ms|7 ms|
+|100,000|415 ms|8 ms|
+|200,000|2,134 ms|13 ms|
 
 ### Summary
 

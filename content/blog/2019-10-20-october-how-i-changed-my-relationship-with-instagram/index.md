@@ -7,15 +7,7 @@ Earlier this year in February, I published my last post on Instagram and left th
 
 The straw that broke the camel's back was the moment that I realised I was, just like basically everyone else on Instagram, participating in a posturing culture. I mean, this post says it all. I was alone in a hotel in Copenhagen, so who took the bloody photo?
 
-> [
-> 
-> View this post on Instagram
-> 
-> ](https://www.instagram.com/p/Bh0ieM_nTpU/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Nick Ang (@nickangtc)](https://www.instagram.com/p/Bh0ieM_nTpU/?utm_source=ig_embed&utm_campaign=loading) on Apr 20, 2018 at 10:33pm PDT
-
-<script async src="//www.instagram.com/embed.js"></script>
+https://www.instagram.com/p/Bh0ieM_nTpU
 
 It's 2019, so I will spare you the sermon on how using social media could cause imbalance in your life.
 

@@ -21,27 +21,33 @@ Here's an example of a command line program that accepts some arguments and outp
 
 **parrot.js**
 
+```js
 const inputArray = process.argv.splice(2);
 const inputString = inputArray.join(' ');
 
 console.log(inputString);
+```
 
 And on the command line:
 
+```sh
 node parrot.js hello parrot!
 
 # prints "hello parrot!" in Terminal
+```
 
 The main thing to notice here is that `process.argv` is an array, and the first 2 arguments are not useful most of the time, so we skip them by splicing them away.
 
+```js
 // output of console.log(process.argv)
-\[ '/Users/nicholasang/.nvm/versions/node/v8.5.0/bin/node',
+[ '/Users/nicholasang/.nvm/versions/node/v8.5.0/bin/node',
   '/Users/nicholasang/Code/parrot.js',
   'hello',
-  'parrot!' \]
+  'parrot!' ]
 
 // extract arguments
 const arguments = process.argv.splice(2);
+```
 
 Just by creating a JavaScript file that uses `process.argv` and using Node to run it, we have a command line program that runs JavaScript straight from Terminal! That is something.
 
@@ -53,21 +59,24 @@ The goal of sharing this is to help provide you (and future me) some intuition o
 
 The command line signature looks like this:
 
+```sh
 node baconian-cipher.js # example usage
 node baconian-cipher.js encode STRIKE NOW
 
 # outputs 'baaba baabb baaab abaaa ababa aabaa  abbab abbba babba' 
+```
 
 The first part of the `baconian-cipher.js` command line program handles the command line interface input.
 
-/\*\*
- \* ===========================
- \* Command line interface
- \* ===========================
- \*/
+```js
+/**
+ * ===========================
+ * Command line interface
+ * ===========================
+ */
 
 // Extract command line arguments
-const action = process.argv\[2\];
+const action = process.argv[2];
 const input = process.argv.splice(3).join(' ');
 
 // Map valid command line inputs to the correct functions
@@ -77,21 +86,23 @@ const actionMapper = {
 };
 
 // Execute
-const output = actionMapper\[action\](input);
+const output = actionMapper[action](input);
 console.log(output);
+```
 
 With that set up, the second part (there are only two parts to this simple program) is the implementation of the cipher logic.
 
-/\*\*
- \* ===========================
- \* Implementation
- \* ===========================
- \*/
+```js
+/**
+ * ===========================
+ * Implementation
+ * ===========================
+ */
 
-/\*\*
- \* Baconian cipher
- \* Encode any string consisting of A-Z charset
- \*/
+/**
+ * Baconian cipher
+ * Encode any string consisting of A-Z charset
+ */
 function encode(string) {
   let encoded = '';
 
@@ -105,15 +116,15 @@ function encode(string) {
     }
 
     const encodedChr = encodeChr(chr);
-    if (encodedChr !== undefined) encoded += \` ${encodedChr}\`;
+    if (encodedChr !== undefined) encoded += ` ${encodedChr}`;
   }
 
   return encoded;
 }
 
-/\*\*
- \* Helper function that returns an encrypted character
- \*/
+/**
+ * Helper function that returns an encrypted character
+ */
 function encodeChr(chr) {
   const charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
@@ -136,10 +147,11 @@ function encodeChr(chr) {
     }
   }
 
-  // console.log(\`encoding ${chr} as ${encodedChr}\`);
+  // console.log(`encoding ${chr} as ${encodedChr}`);
 
   return encodedChr;
 }
+```
 
 ## Useful tips when using process.argv
 
@@ -147,7 +159,8 @@ If your command line program is designed to take in an argument that is the name
 
 I'm unaware of any built-in way to invoke a function using a string directly other than to use an object to map it over.
 
-const action = process.argv\[2\];
+```js
+const action = process.argv[2];
 const input = process.argv.splice(3).join(' ');
 
 // Map valid command line inputs to the correct functions
@@ -156,16 +169,19 @@ const actionMapper = {
 };
 
 // Execute
-const output = actionMapper\[action\](input);
+const output = actionMapper[action](input);
+```
 
 Another tip is to use `splice()` and `join()` together to catch all remaining arguments for passing into your function. From the above Baconian cipher example:
 
+```js
 // Extract command line arguments
-const action = process.argv\[2\];
+const action = process.argv[2];
 const input = process.argv.splice(3).join(' ');
 
-// printing \`input\` will produce:
-// \['STRIKE', 'NOW'\]
+// printing `input` will produce:
+// ['STRIKE', 'NOW']
+```
 
 ## Summary
 

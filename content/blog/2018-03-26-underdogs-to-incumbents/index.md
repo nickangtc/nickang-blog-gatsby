@@ -19,11 +19,7 @@ At some point, the incumbent, under intense scrutiny, breaks. Then, all scrolls 
 
 Two things happened today.
 
-> [Today, the inevitable happened. Momentous day! 😎 But I'm also worried as a consumer about the things an all powerful Grab will be able to do to us directly as passengers, eaters, and spenders, and also what their eventual squeeze on the market (drivers, food hawkers and restaurateurs) will spell for us. Hopefully a company with Southeast Asian DNA will behave differently from the large tech companies from the US. Fingers crossed... #grabbuysuber](https://www.instagram.com/p/Bgxsvdkj7AU/)
-> 
-> A post shared by [Nick Ang](https://www.instagram.com/nickangtc/) (@nickangtc) on Mar 25, 2018 at 11:34pm PDT
-
-<script async defer="" src="//www.instagram.com/embed.js"></script>
+https://www.instagram.com/p/Bgxsvdkj7AU
 
 First, the ride-sharing, food-delivering, mobile-wallet-providing company Grab has effectively bought over Uber's businesses in Southeast Asia. It's an unprecedented triumph for technology entrepreneurship in the region, but that same lack of precedence puts us in a precarious position. How will this newly minted _incumbent_ behave henceforth?
 

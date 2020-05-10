@@ -15,7 +15,7 @@ Let's dive in!
 
 The first command for this post is [`touch`](https://www.mankier.com/1/touch). Hopefully you're not too thrown off by the name of the command (but yes, it sure is a weird name). `touch` means "create file."
 
-```
+```sh
 touch new_file.txt
 ```
 
@@ -25,7 +25,7 @@ Note that by default, this new file is always going to be empty.
 
 ### mkdir - create a new directory
 
-```
+```sh
 mkdir new_directory
 ```
 
@@ -33,7 +33,7 @@ mkdir new_directory
 
 Once a directory is created, you can `cd` into it and make new file babies or even more subdirectories.
 
-```
+```sh
 cd new_directory
 ```
 
@@ -43,13 +43,13 @@ Let's say you have a directory called "directory\_with\_3\_files" with 3 files i
 
 If you thought to do this:
 
-```
+```sh
 rm directory_with_3_files
 ```
 
 You'd have made the most logical guess, but `rm` doesn't work that way.
 
-```
+```sh
 # running this
 rm directory_with_3_files
 
@@ -61,7 +61,7 @@ Don't worry, I made the same mistake when I first learned to use the CLI too. It
 
 So how _do_ you delete an entire directory along with its contents?
 
-```
+```sh
 rm -r directory_with_3_files
 
 # trying to cd into the folder
@@ -85,7 +85,7 @@ Ok, that's all you need to know about flags! Now let's return to our regularly s
 
 ### cp - copy a file or directory
 
-```
+```sh
 # make a copy of original_file.txt in current directory and call it copied_file.txt
 cp original_file.txt copied_file.txt
 
@@ -99,7 +99,7 @@ cp -r original_directory copied_directory
 
 Ok, let's learn one final command with this post: [`mv`](https://www.mankier.com/1/mv).
 
-```
+```sh
 # move a file one directory up
 mv file.txt ../file.txt
 

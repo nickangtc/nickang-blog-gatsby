@@ -1,5 +1,21 @@
-$color: black;
+$green: #33673b;
+$red: #cc2936;
 
-* {
-    color: $color;
+body {
+    background-color: #F5EFDF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    a {
+        color: black;
+    }
+
+    a:hover {
+        color: $red;
+    }
+}
+
+a {
+    text-decoration-color: $red !important;
+    color: $red;
 }

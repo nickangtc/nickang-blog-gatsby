@@ -7,7 +7,7 @@ date: "2017-09-26"
 
 Use case: You want to switch to a different branch on the same project (say from `feature-branch` to `staging`), but you have uncommitted changes and git insists you commit before switching branches.
 
-```
+```sh
 # from feature branch
 git checkout staging
 
@@ -21,7 +21,7 @@ Using `git stash` is really straightforward for most cases. It involves `git sta
 
 To stash your uncommitted changes:
 
-```
+```sh
 # stash uncommitted changes before switching to work on another branch
 git stash
 git checkout staging
@@ -29,7 +29,7 @@ git checkout staging
 
 When you're done working on the other branch, restore your uncommitted changes:
 
-```
+```sh
 # restore previously stashed changes
 git checkout feature-branch
 git stash pop
@@ -54,7 +54,7 @@ A **reluctant commit** (I use the shorthand "RC" in commit messages to indicate 
 
 The benefit of this RC approach is that you don't have to rely on your own memory to remember that you had already begun work on the branch - it's already committed. Run `git log` to check what you'd already done, and carry on from there.
 
-```
+```sh
 # do a reluctant commit before switching to another branch
 git add .
 git commit -m "RC: in middle of adding product API"

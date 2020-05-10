@@ -17,9 +17,7 @@ The problem with thinking this way, I now see, is that it assumes that a job sea
 
 You know those carnival games that involve you tossing a handful of plastic rings at glass bottles, hoping some will catch around the bottles' necks so you'd win a prize? Job searching, to me, is _sort of_ like that game. Let me explain.
 
-> [A post shared by Nick Ang (@nickangtc)](https://www.instagram.com/p/BdFrNgeDVrV/) on Dec 24, 2017 at 6:41am PST
-
-<script async defer="" src="//www.instagram.com/embed.js"></script>
+https://www.instagram.com/p/BdFrNgeDVrV
 
 There are a bunch of bottles huddled together in the middle of the table, but not all bottles are identical. The coloured ones are worth more (points) than the transparent ones. And the gold ones are worth more than the ones painted with a primary colour.
 

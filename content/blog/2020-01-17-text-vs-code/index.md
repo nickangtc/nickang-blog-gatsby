@@ -25,7 +25,7 @@ And any text that a computer can interpret and run? That's called code. (It's ca
 
 A computer will only interpret the contents of a file as code if you modify its file extension. For example, you could have a file that contains this text (it's HTML code, actually, but code is just text, remember?):
 
-```
+```html
 <h1>Meow, world!</h1>
 <p>Purrr.</p>
 ```

@@ -7,11 +7,7 @@ One thing led to another, as usual. Elon Musk shared a video on Instagram and I 
 
 It's not about rockets and not about electric cars, so by process of elimination - you guessed it. It's about artificial intelligence.
 
-> [Nothing will affect the future of humanity more than digital super-intelligence. Watch Chris Paine’s new AI movie for free until Sunday night at link in bio.](https://www.instagram.com/p/BhN3LkNAfv6/)
-> 
-> A post shared by [Elon Musk](https://www.instagram.com/elonmusk/) (@elonmusk) on Apr 5, 2018 at 10:05pm PDT
-
-<script async defer="" src="//www.instagram.com/embed.js"></script>
+[Nothing will affect the future of humanity more than digital super-intelligence. Watch Chris Paine’s new AI movie for free until Sunday night at link in bio.](https://www.instagram.com/p/BhN3LkNAfv6/)
 
 - Faustian bargain when using free products and services like Google and Facebook- you are the product (more specifically, the data you produce)
 - AI is only possible because of the ubiquity of devices able to collect data 24/7

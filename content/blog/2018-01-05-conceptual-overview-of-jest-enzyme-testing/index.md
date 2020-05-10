@@ -132,11 +132,11 @@ Sometimes, you will need to override the old snapshot with a new one (when you c
     - if it is expected, then update your snapshot (see below for command to do this)
     - if the change is unexpected, fix your implementation and re-run the test until it passes again!
 
-```
-// update ALL snapshots
+```sh
+# update ALL snapshots
 $ npm run test:up
 
-// or if in watch mode, hit 'u' (only after confirming changes are EXPECTED)
+# or if in watch mode, hit 'u' (only after confirming changes are EXPECTED)
 $ npm run test:watch
 ```
 

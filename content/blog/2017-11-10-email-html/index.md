@@ -23,12 +23,16 @@ But I really hope for the sake of the humanity of developers that the bosses of 
 
 Here's how bad it looks. This snippet is just a _part_ of a (very good) [tutorial](https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919) on how to write HTML for email. Just think about how difficult it is for any human being to understand this mess!
 
-  
-  
-  
-  
-  
-  body {
+```html
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--[if !mso]><!-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!--<![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    body {
     margin: 0 !important;
     padding: 0;
     background-color: #ffffff;
@@ -44,7 +48,7 @@ Here's how bad it looks. This snippet is just a _part_ of a (very good) [tutoria
     img {
         border: 0;
     }
-    div\[style\*="margin: 16px 0"\] { 
+    div[style*="margin: 16px 0"] { 
         margin:0 !important;
     }
     .wrapper {
@@ -57,7 +61,7 @@ Here's how bad it looks. This snippet is just a _part_ of a (very good) [tutoria
         max-width: 600px;
         margin: 0 auto;
     }
-<div></div>
+
     .outer {
         Margin: 0 auto;
         width: 95%;
@@ -88,65 +92,65 @@ Here's how bad it looks. This snippet is just a _part_ of a (very good) [tutoria
         font-weight: bold;
         Margin-bottom: 12px;
     }
-<div></div>
-    /\* One column layout \*/
+
+    /* One column layout */
     .one-column .contents {
         text-align: left;
     }
     .one-column p {
         font-size: 14px;
         Margin-bottom: 10px;
-    } 
-  
-  
+    }
+  </style>
+  <title></title>
+  <!--[if (gte mso 9)|(IE)]>
+    <style type="text/css">
+        table {border-collapse: collapse;}
+    </style>
+    <![endif]-->
+</head>
 
-  
-
-    
-
-      
-
+<body>
+  <center class="wrapper">
+    <div class="webkit">
+<!--[if (gte mso 9)|(IE)]>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+      <table id="main-table" class="outer" align="center">
+        <tr>
+          <td class="full-width-image">
+              <!-- This is where you start actually adding HTML, and they look like more of this -->
+              [content goes here]
+          </td>
+        </tr>
         
-
-          
-
-              
-              \[content goes here\]
-          
-
-        
-
-        
-        
-
-          
-
-            
-
-              
-
-                
-
-                  
-
-Lorem ipsum dolor sit amet
-
+        <tr>
+          <td class="one-column">
+            <table width="100%">
+              <tr>
+                <td class="inner contents">
+                  <p class="h1">Lorem ipsum dolor sit amet</p>
                   Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent
                     in felis ut velit pretium lobortis rhoncus ut erat.
-                
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
 
-              
+      </table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+    </div>
+  </center>
+</body>
 
-            
-
-          
-
-        
-
-      
-
-    
-
-  
+</html>
+```
 
 Email is not going anywhere, even in the age of Slack and WhatsApp and Messenger. Can we at least make it a pleasant technology to work with?

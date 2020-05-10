@@ -55,7 +55,7 @@ Here's a contrived but illuminating example. To move a file two folders up from 
 
 This is how you do the same thing on the command line:
 
-```
+```sh
 cd /folder_name     # 1
 mv file_123.txt ../../  # 2
 ```
@@ -72,7 +72,7 @@ Using the same example of moving a file two directories up, imagine that for som
 
 Programmers can write a shell script to automate this process (and much more complex ones) by chaining a few CLI commands together.
 
-```
+```sh
 # reorganise_folders.sh
 
 cd /folder_name                 

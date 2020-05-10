@@ -4,37 +4,47 @@ date: "2020-05-07"
 description: An in-house technical bootcamp is highly valuable to the business, the employees who are participants, and the teacher (me).
 ---
 
-I joined Smartly.io as a Service Operations Engineer close to 2 years ago. One of the first impactful things I did was to establish an in-house web development bootcamp that I coined the "Tech AM Bootcamp" (AM = Account Manager). I ran the first iteration with 6 participants from our Asia Pacific offices in February 2019 and today, I just concluded the second iteration of the bootcamp that started in February 2020, this time with our European offices.
+I joined Smartly.io as a Service Operations Engineer close to 2 years ago. One of the first impactful things I did was to establish an in-house web development bootcamp that I called the "Tech AM Bootcamp" (AM = Account Manager) and I've since conducted it with two groups, each spanning 13 weeks.
 
-In this post I document what I learned from teaching colleagues how to code, fresh from my mind as I come out of that last video call.
+In this post, I document what I have learned from teaching colleagues how to code. I am writing this fresh from having just concluded the second cohort, teeming with excitement and relief.
 
-## On the power dynamics of teaching colleagues
+## A safe learning environment can be created in a bootcamp
 
-Two years ago when I pitched this bootcamp internally, I was most worried about stepping on my colleagues' tails or inadvertently making them feel stupid. But this turned out to not be a problem at all. Your mileage may vary because this is largely dependent on the culture at your company. 
+Two years ago when I joined and pitched the bootcamp internally, I was most worried that I wouldn't be able to teach colleagues as effectively as I taught strangers in external bootcamps. A few things contributed to my worry:
 
-For me, it was easy to assume a temporary instructor identity because I work in a company that treasures learning. We costantly ensure we have a **safe** environment for people to learn, and to learn we usually need teachers. I am very glad that I work with a bunch of people who are humble and want to learn, and the where the leadership team continues to emphasise its importance. It's not something that can be said for all companies.
+- What if my tone of speech gets misconstrued as out-of-my-place, condescending, or otherwise inappropriate in a workpalce setting?
+- Will they be able to commit to the bootcamp so that it becomes a worthwhile endeavour and not a half-assed professional development type of course?
 
-## In-house technical bootcamps are highly valuable
+Turns out, I didn't need to worry, because **a bootcamp is like a bubble within the larger organisation**. As long as you set the rules clearly during enrolment, those who have chosen to step into the bubble are a small, self-selected group of willing learners. I've found that setting expectations even before enrolment was key to the success of the in-house bootcamps I've run at Smartly.io.
 
-This is high-value work, because the colleagues I taught were mostly customer-facing and they already have a clear understanding of what pains our customers face most acutely and therefore they have project ideas in abundance. What they lacked, until now, were the tools to implement those projects.
+Of course, there is something to be said about company culture and how it provides a safe learning environment. Smartly.io has a great environment for learning. That said, I strongly believe that if you can get buy-in for conducting a bootcamp, and if you set expectations of commitment before enrolment, then you can create a safe learning environment *within* the bootcamp class. Bring a bunch of self-motivated learners together, set expectations early, and it will be easy to create a safe environment where people can ask questions freely without worrying about being judged socially or professionally.
 
-Maybe it is a little weird for me to say this, but one takeaway here for technology-powered businesses is perhaps that if they come across technical people who can teach, they should try their best to attract them. Teachers can help a business in many important ways; they enable salespeople to convert more sales, account managers to keep existing customers happy, and contribute to retaining employees internally.
+## In-house technical bootcamps are more valuable than commercial ones
 
-TK - link to blog post about Mani bulk resizing images.
+This is high-value work, because the colleagues I taught were mostly customer-facing and they already understood the acute pains that our (their) customers face. What they lacked, until now, were the skills to implement those projects.
 
-TK - more examples of why it is VALUABLE
+And this is where my knowledge of our product comes in handy. As I conducted each class, teaching JavaScript loops and conditionals, functions and HTTP requests, I would relate these to the scripts and customised tools that we have built for our existing client base. I regularly hear colleagues thinking out loud, saying something along the lines of "oooh, so I can use this to solve that bulk-duplication problem that my client has been facing for months and the product team hasn't prioritised on the feature roadmap", to which I usually reply, with lit-up eyes, "Yes!"
 
-## On teaching online remotely
+Sometimes they have also found ways to improve their own personal workflow, like when one of my colleagues, after learning how to use Terminal, found a one-liner command that could bulk-resize images in a folder so that they can fit in a single email to our accountant. (TK link)
 
-- Remote teaching was not difficult! I expected it to be challenging, but when you *level the playing field* by making everyone participate remotely, most of the remote-related challenges  melt away
-- Tried doing "everyone's mics are on" but that didn't help too much -> what helped a lot was changing from headphones to earphones to feel less isolated
+## Effective live online learning is possible when the playing field is levelled
 
-- Tips for conducting high-quality, enjoyable online classes 
-- Change the scaling of your monitor to have everything slightly bigger (like what your grandfather might set on his personal laptop) -> it helps participants more clearly see what you have on the screen
+The second bootcamp that started in February 2020, just before COVID-19 cases increased exponentially throughout Europe. It forced me to switch from teaching mostly in-person in Berlin with some remote participants from Amsterdam, Paris, Madrid, and Helsinki to teaching completely remotely from a corner of my apartment. It's funny to say this, but looking back, I appreciate being thrusted into learning how to conduct classes remotely.
+
+TK - link to DHH JF periscope https://www.pscp.tv/jasonfried/1MYGNkzzNpXJw
+
+Levelling the playing field - that was the single most important thing that helped make online teaching and learning possible for us. This is something that Jason Fried and DHH from Basecamp (a fully remote company in business for 20 years) emphasised time and again, most recently in a Periscope live Q&A that can be found [here](https://www.pscp.tv/jasonfried/1MYGNkzzNpXJw). It turns out, most remote-related challenges really do melt away when *everyone* is joining the class from different places.
+
+Some insights for conducting high-quality live online classes:
+
+- Change the scaling of your monitor to have everything slightly bigger (like what your grandfather might set on his personal laptop)→ it helps participants more clearly see what you have on the screen
+
 - The world is still learning the dynamics of online calls, so lay your expectations as ground rules at the beginning of the call (e.g. "I won't be able to see you I don't have a second screen, so please make some sound if you want to say something any time.")
 
-## On ability to teach technical concepts
+## On the art of teaching
 
-- When it comes to teaching, 70 percent of the battle is already won if you have students who are self-motivated to learn what you are going to teach. The others are 10 percent encouragement and 20 percent instructional quality
+> When the student is ready, the teacher appears. - Someone
 
-- My ability to teach the same topic has improved significantly since the last time I taught it. I explain concepts more clearly because I remember (surprisingly) the foibles from the last time I taught it to a group of people. By now I've taught the basics of JavaScript programming more than 5 times to strangers and to colleagues and I can recall all the times when some way of explaining a concept flopped. It's probably a mix of wanting to avoid embarrassment and a genuine desire to want to get the message across clearly.
+When it comes to teaching, 70 percent of the battle is already won if you have students who are self-motivated to learn what you are going to teach, so it pays to focus on recruiting only those who appear ready to learn. The other 10 percent and 20 percent are won by consistent encouragement and instructional quality.
+
+My ability to teach the same topic has improved significantly since the last time I taught it. I explain concepts more clearly because I remember (to my surprise) the foibles from the last time I taught it. By now I've taught the basics of JavaScript programming more than 5 times to strangers and to colleagues and I can recall all the times when some way of explaining a concept just didn't work. It's probably a mix of wanting to avoid embarrassment and a genuine desire to want to get the message across clearly.
