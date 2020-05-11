@@ -3,7 +3,7 @@ title: "All you need to know about Git and GitHub"
 date: "2018-02-28"
 ---
 
-\[caption id="attachment\_2262" align="aligncenter" width="600"\]![git and github nickang blog](images/git-and-github-nickang-blog.png) Photo by Paul Gilmore.\[/caption\]
+![git and github nickang blog](images/git-and-github-nickang-blog.png) Photo by Paul Gilmore.
 
 New to programming and heard about the usefulness of git and GitHub? In this article, I'll give you the only quick and dirty summary that you need to have a clear conceptual understanding of what these things are and what they're not.
 

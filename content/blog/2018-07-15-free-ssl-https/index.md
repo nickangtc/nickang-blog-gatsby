@@ -7,7 +7,7 @@ I have a little news to share. For the first time in this blog's history, we hav
 
 Why is this interesting? Well, I actually didn't pay for the SSL certificate. I just checked my email a few days back and received an email from my hosting service provider, [Bluehost](https://www.bluehost.com/), about claiming free SSL.
 
-\[caption id="attachment\_2692" align="aligncenter" width="740"\]![screenshot of bluehost email free ssl nick ang blog](images/bluehost-email-free-ssl-nick-ang-blog.png) The cool email from Bluehost\[/caption\]
+![screenshot of bluehost email free ssl nick ang blog](images/bluehost-email-free-ssl-nick-ang-blog.png) The cool email from Bluehost
 
 Before I speculate why I am, along with probably tens of thousands of people, getting a free lunch, let's have a quick primer on what SSL is and does for us.
 
@@ -50,11 +50,11 @@ However, Google has been pushing for secure sites to be the norm for a while now
 
 > Beginning in July 2018 with the release of Chrome 68, Chrome will mark all HTTP sites as “not secure”.
 
-\[caption id="attachment\_2694" align="aligncenter" width="726"\]![google not secure logo](images/google-not-secure-logo.png) The Not secure sign in Chrome. It might as well be screaming "Leave now or you'll be hacked!"\[/caption\]
+![google not secure logo](images/google-not-secure-logo.png) The Not secure sign in Chrome. It might as well be screaming "Leave now or you'll be hacked!"
 
 In case you've somehow never come across it, Chrome's "Not Secure" sign is a conspicuous red sign on the address bar.
 
-\[caption id="attachment\_2697" align="aligncenter" width="646"\]![screenshot chrome secure logo nick ang blog](images/screenshot-chrome-secure-logo-nick-ang-blog.png) Much better\[/caption\]
+![screenshot chrome secure logo nick ang blog](images/screenshot-chrome-secure-logo-nick-ang-blog.png) Much better
 
 Although the realities of a so-called Not Secure site are much less severe than the red sign suggests, it may have a negative impact on the visitor's experience. So, even bloggers are hopping on the bandwagon.
 

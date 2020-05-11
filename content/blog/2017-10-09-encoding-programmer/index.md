@@ -3,7 +3,7 @@ title: "Encoding for programmers"
 date: "2017-10-09"
 ---
 
-\[caption id="attachment\_1289" align="aligncenter" width="768"\]![red book with 8 bit bytes carved on the cover](images/hope-house-press-390262-768x1024.jpg) Photo by Hope House Press on Unsplash\[/caption\]
+![red book with 8 bit bytes carved on the cover](images/hope-house-press-390262-768x1024.jpg) Photo by Hope House Press on Unsplash
 
 I've been running into Unicode and ASCII and related encoding/decoding issues recently at work. We had an email that didn't get sent out and all I got was an error message that said that some character could not be encoded in ASCII as "ordinal out of range". That set me back for many hours and I only _think_ I've managed to fix it (by wrapping u'' around every string in the affected module in Python).
 

@@ -3,7 +3,7 @@ title: "Why we should always make time for books"
 date: "2019-11-24"
 ---
 
-\[caption id="attachment\_3456" align="aligncenter" width="640"\]![Why we should always make time for books](images/why-we-should-always-make-time-for-books-nick-ang-blog-2-1024x683.jpg) Photo by freddie marriage\[/caption\]
+![Why we should always make time for books](images/why-we-should-always-make-time-for-books-nick-ang-blog-2-1024x683.jpg) Photo by freddie marriage
 
 I love reading. It wasn't always like that, but in 2019, I've started reading much more than I used to. This year, by my estimation, I have read 10 books so far. Each of them unique, and stimulated my mind into thinking about the infinite topics of life.
 

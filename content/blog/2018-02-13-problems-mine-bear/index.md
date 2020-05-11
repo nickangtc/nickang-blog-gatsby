@@ -3,7 +3,7 @@ title: "My problems are mine to bear"
 date: "2018-02-13"
 ---
 
-\[caption id="attachment\_2211" align="aligncenter" width="840"\]![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) Somewhere in Oakland along Market Street.\[/caption\]
+![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) Somewhere in Oakland along Market Street.
 
 I'm currently in the San Francisco Bay Area for a short vacation. It's been a fun trip so far and it's also quite fruitful as I'm meeting friends who are based here who are mostly working in tech.
 

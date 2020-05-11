@@ -3,7 +3,7 @@ title: "How to get started with programming (part 1)"
 date: "2017-10-16"
 ---
 
-\[caption id="attachment\_1423" align="aligncenter" width="600"\]![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash\[/caption\]
+![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash
 
 I've only been a professional software engineer for about a year, but one of the questions I'm frequently asked by friends and strangers alike is, "How do I get started with programming?"
 

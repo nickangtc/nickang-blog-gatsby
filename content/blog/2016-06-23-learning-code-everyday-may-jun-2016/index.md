@@ -17,11 +17,11 @@ At home I spent the remaining 3-4 hours coding. I'm currently coding a simple Wi
 
 Before long, my parents came to pick us up for dinner. We ate some delicious Chinese food at an upmarket restaurant called Pu Tien in an upmarket shopping mall, Ion Orchard.
 
-\[caption id="attachment\_418" align="aligncenter" width="840"\]![wife banter with husband](images/DSCF0239_nickang_edited-1024x683.jpg) Banter while waiting to be seated.\[/caption\]
+![wife banter with husband](images/DSCF0239_nickang_edited-1024x683.jpg) Banter while waiting to be seated.
 
-\[caption id="attachment\_417" align="aligncenter" width="840"\]![women carrying mannequins](images/DSCF0260_nickang_edited-1024x683.jpg) Caught human trafficking at Ion Orchard shopping mall. Busted!\[/caption\]
+![women carrying mannequins](images/DSCF0260_nickang_edited-1024x683.jpg) Caught human trafficking at Ion Orchard shopping mall. Busted!
 
-\[caption id="attachment\_419" align="aligncenter" width="840"\]![An Asian face like you've never seen](images/DSCF0253_nickang_edited-1024x683.jpg) An Asian face like you've never seen\[/caption\]
+![An Asian face like you've never seen](images/DSCF0253_nickang_edited-1024x683.jpg) An Asian face like you've never seen
 
 That about sums up my day today.
 

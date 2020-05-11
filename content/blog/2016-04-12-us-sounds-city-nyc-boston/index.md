@@ -13,7 +13,7 @@ Our friend Dai Nan came to receive us at South Station. I have to admit, it’s 
 
 He’s in Boston University doing his masters in education and offered to put us up for the three days we’ll be staying here, for free, in his college dorm. (Thanks Dai Nan!) I predict we’ll deplete some of his food stashes while we’re here since its so freaking cold outside.
 
-\[caption id="attachment\_299" align="aligncenter" width="840"\]![Harvard Yard](images/DSCF7338-1024x683.jpg) Harvard Yard\[/caption\]
+![Harvard Yard](images/DSCF7338-1024x683.jpg) Harvard Yard
 
 ##### A Walk Through Harvard University
 
@@ -32,7 +32,7 @@ But I’ll state two facts I learned on the tour:
 - More than a handful of Harvard's yearly intake of students consist of those whose parents also went to Harvard.
 - Apparently there are about 12 invitation-only clubs that against the wishes of the administration, and these clubs have millions of dollars in assets.
 
-\[caption id="attachment\_297" align="aligncenter" width="840"\]![Dim sum in Boston](images/DSCF7374_edited-1024x683.jpg) Dim sum in Boston Chinatown\[/caption\]
+![Dim sum in Boston](images/DSCF7374_edited-1024x683.jpg) Dim sum in Boston Chinatown
 
 ##### Tipping: The Most Unbearable Thing In American Culture
 
@@ -47,7 +47,7 @@ These are my top reasons for hating the American tipping culture. And no, I fran
 
 /end rant
 
-\[caption id="attachment\_298" align="aligncenter" width="840"\]![On a laundry run with our Airbnb host, Ariell, in Brooklyn](images/DSCF7297_edited-1024x683.jpg) On a laundry run with our Airbnb host, Ariell, in Brooklyn\[/caption\]
+![On a laundry run with our Airbnb host, Ariell, in Brooklyn](images/DSCF7297_edited-1024x683.jpg) On a laundry run with our Airbnb host, Ariell, in Brooklyn
 
 ##### Sounds of New York City
 
@@ -63,23 +63,23 @@ Boston 'T' train (their subway):
 
 ##### Interesting Sights in Boston:
 
-\[caption id="attachment\_284" align="aligncenter" width="840"\]![boston police harleys](images/DSCF7563_edited-1024x683.jpg) Boston Policemen have badass rides\[/caption\]
+![boston police harleys](images/DSCF7563_edited-1024x683.jpg) Boston Policemen have badass rides
 
-\[caption id="attachment\_295" align="aligncenter" width="840"\]![squirrels in boston common](images/DSCF7430_edited-1024x683.jpg) Shameless American squirrels\[/caption\]
+![squirrels in boston common](images/DSCF7430_edited-1024x683.jpg) Shameless American squirrels
 
-\[caption id="attachment\_294" align="aligncenter" width="683"\]![squirrel in a bin](images/DSCF7435_edited-683x1024.jpg) A squirrel's gotta do what a squirrel's gotta do (to eat)\[/caption\]
+![squirrel in a bin](images/DSCF7435_edited-683x1024.jpg) A squirrel's gotta do what a squirrel's gotta do (to eat)
 
-\[caption id="attachment\_293" align="aligncenter" width="840"\]![swan lake boston public garden](images/DSCF7457_edited-1024x678.jpg) Swan Lake in Boston's Public Garden, established in 1873\[/caption\]
+![swan lake boston public garden](images/DSCF7457_edited-1024x678.jpg) Swan Lake in Boston's Public Garden, established in 1873
 
-\[caption id="attachment\_292" align="aligncenter" width="840"\]![swan lake](images/DSCF7467_edited-1024x683.jpg) Contemplating in Boston Public Garden\[/caption\]
+![swan lake](images/DSCF7467_edited-1024x683.jpg) Contemplating in Boston Public Garden
 
-\[caption id="attachment\_291" align="aligncenter" width="840"\]![spring flowers in boston](images/DSCF7477_edited-1024x683.jpg) Signs of Spring in zero degree celsius\[/caption\]
+![spring flowers in boston](images/DSCF7477_edited-1024x683.jpg) Signs of Spring in zero degree celsius
 
-\[caption id="attachment\_289" align="aligncenter" width="840"\]![boston common](images/DSCF7502_edited-1024x683.jpg) Boston Common, established in 1634 - that's 140 years before US independence!\[/caption\]
+![boston common](images/DSCF7502_edited-1024x683.jpg) Boston Common, established in 1634 - that's 140 years before US independence!
 
-\[caption id="attachment\_287" align="aligncenter" width="840"\]![Downtown crossing](images/DSCF7519_edited-1024x683.jpg) The happening Downtown Crossing in downtown Boston\[/caption\]
+![Downtown crossing](images/DSCF7519_edited-1024x683.jpg) The happening Downtown Crossing in downtown Boston
 
-\[caption id="attachment\_285" align="aligncenter" width="683"\]![DSCF7546_edited](images/DSCF7546_edited-683x1024.jpg) Near Chinatown - looks straight out of a romance movie scene\[/caption\]
+![DSCF7546_edited](images/DSCF7546_edited-683x1024.jpg) Near Chinatown - looks straight out of a romance movie scene
 
 ![DSCF7409_edited](images/DSCF7409_edited-1024x683.jpg)
 

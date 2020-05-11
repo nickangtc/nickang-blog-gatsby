@@ -3,7 +3,7 @@ title: "How to implement a Linked List in JavaScript"
 date: "2017-11-18"
 ---
 
-\[caption id="attachment\_1770" align="aligncenter" width="600"\]![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash\[/caption\]
+![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash
 
 In this post, you'll learn how to implement a linked list in JavaScript. This is the second part of a 2-parter post on linked lists (read [part 1](https://www.nickang.com/linked-list-explained-part-1/)).
 
@@ -19,7 +19,7 @@ Here are the key components of a linked list data structure:
 
 This is what a linked list looks like conceptually:
 
-\[caption id="attachment\_1738" align="aligncenter" width="840"\]![doubly linked list illustration with nodes head and tail](images/linked-list-head-and-tail-and-nodes-1024x388.png) Conceptual illustration of what a linked list looks like\[/caption\]
+![doubly linked list illustration with nodes head and tail](images/linked-list-head-and-tail-and-nodes-1024x388.png) Conceptual illustration of what a linked list looks like
 
 To get started, we need to declare two constructor functions (or "classes" if you're using ES6). One constructor is for constructing new linked list objects and the other is for constructing new node objects.
 
@@ -65,7 +65,7 @@ What's happening here?
 
 One more point to take note of is what happens if there is only one node in the linked list. When that happens, both the `head` and `tail` should point to the same node.
 
-\[caption id="attachment\_1758" align="aligncenter" width="840"\]![linked list illustration of node combinations nickang](images/linked-list-head-tail-combinations-1024x350.png) Head and tail pointers of a linked list with no node, one node, and multiple nodes respectively\[/caption\]
+![linked list illustration of node combinations nickang](images/linked-list-head-tail-combinations-1024x350.png) Head and tail pointers of a linked list with no node, one node, and multiple nodes respectively
 
 ### Method to add a new node to the tail
 

@@ -3,7 +3,7 @@ title: "Good weather and access to nature"
 date: "2019-02-23"
 ---
 
-\[caption id="attachment\_3270" align="aligncenter" width="840"\]![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco\[/caption\]
+![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco
 
 Living on the 25th floor of a tall mixed-purpose building in the middle of the city is supposed to be amazing. And in many ways, it is. What I find lacking has little to do with where our building is, but what this city is.
 

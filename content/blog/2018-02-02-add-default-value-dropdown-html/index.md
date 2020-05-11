@@ -3,12 +3,6 @@ title: "How to add default value to dropdown HTML (I did not know)"
 date: "2018-02-02"
 ---
 
-Is this what you're trying to create in your HTML form?
-
-![how to add default value to dropdown HTML](images/giphy.gif)
-
-If you're looking for the answer, skip straight to the section below. I usually do a bit of a preamble in these posts, since this is ultimately a blog.
-
 So, I'm currently teaching a front-end web development course at [General Assembly](http://www.generalassemb.ly/), and one of the best things about being an instructor is that you get asked questions all the time.
 
 Broad questions, specific questions, out-of-left-field questions. Every class has students asking them, and it's awesome!

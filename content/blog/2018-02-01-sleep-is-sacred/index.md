@@ -3,7 +3,7 @@ title: "Sleep is sacred"
 date: "2018-02-01"
 ---
 
-\[caption id="attachment\_2153" align="aligncenter" width="840"\]![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) Photo by Natalia Figueredo on Unsplash\[/caption\]
+![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) Photo by Natalia Figueredo on Unsplash
 
 I'm very sleepy as I write this because I stayed up past midnight last night trying to add That One Last Part™ to a project I'm working on. This is my enthusiasm post-mortem.
 

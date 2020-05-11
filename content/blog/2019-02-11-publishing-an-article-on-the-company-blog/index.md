@@ -3,7 +3,7 @@ title: "Publishing an article on the company blog"
 date: "2019-02-11"
 ---
 
-\[caption id="attachment\_3254" align="aligncenter" width="840"\]![Smartly.io Futurio group photo ](images/Smartly_2019_Group_Purple-1024x559.jpg) Photo by Smartly.io\[/caption\]
+![Smartly.io Futurio group photo ](images/Smartly_2019_Group_Purple-1024x559.jpg) Photo by Smartly.io
 
 Today an article that I wrote was published on the [Smartly.io](https://smartly.io) blog. It’s a piece titled “Trust, Alignment and Action — Nick’s Learnings from Futurio 2019” and it’s about what I’ve learned from our company-wide offsite, Futurio.
 

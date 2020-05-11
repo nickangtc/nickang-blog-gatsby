@@ -3,7 +3,7 @@ title: "Programming is like exercise"
 date: "2018-03-11"
 ---
 
-\[caption id="attachment\_2302" align="aligncenter" width="840"\]![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) Photo by Tikkho Maciel on Unsplash\[/caption\]
+![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) Photo by Tikkho Maciel on Unsplash
 
 It's been a while, but I finally managed to find a good time and the willpower to drag my ass out for a little exercise today.
 

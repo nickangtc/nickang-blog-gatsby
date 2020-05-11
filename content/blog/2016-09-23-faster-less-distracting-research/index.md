@@ -3,7 +3,7 @@ title: "Spidey - the faster, less distracting way to do research online"
 date: "2016-09-23"
 ---
 
-\[caption id="attachment\_663" align="aligncenter" width="840"\]![general assembly singapore web development course in session](images/20160923-IMG_20160923_140726-1024x768.jpg) It’s the end of the week, a project week, a project week-eeeennnnd! (Wong Fu Productions reference.)\[/caption\]
+![general assembly singapore web development course in session](images/20160923-IMG_20160923_140726-1024x768.jpg) It’s the end of the week, a project week, a project week-eeeennnnd! (Wong Fu Productions reference.)
 
 Today is Friday, 23rd September 2016, week 6 of the intense 12-week GA web development course. Each of us have just completed a full-stack web app—the first for many of us including me—and presented it to the class. It was great!
 
@@ -20,7 +20,7 @@ Before describing the project I worked on, I’m going to list the things I’ve
 
 As you can see, I’ve learned a lot this week. I owe it to the good programming of the Web Development Immersive course and to my classmates who did their best and inspired me along the way.
 
-\[caption id="attachment\_664" align="aligncenter" width="840"\]![beer and wine](images/20160923-IMG_20160923_160832-1024x768.jpg) A great way to celebrate after a week of hard work and growth!\[/caption\]
+![beer and wine](images/20160923-IMG_20160923_160832-1024x768.jpg) A great way to celebrate after a week of hard work and growth!
 
 ## Introducing Spidey 1.0
 

@@ -29,7 +29,7 @@ There’s a second part to the challenge, which is rather open-ended if interpre
 
 Though not an over-achieving type, I set out to create the so-called “simple AI”. It took me about an hour to write the function that made a random box selection in vanilla JavaScript, and another 2 hours to integrate it into the existing 1-player game. After some restructuring, it worked.
 
-\[caption id="attachment\_549" align="aligncenter" width="450"\]![tic tac toe game gif](images/ic-tac-toe-game20160821223435.gif) A dialogue box pops up to announce the winner (doesn't show up here)\[/caption\]
+![tic tac toe game gif](images/ic-tac-toe-game20160821223435.gif) A dialogue box pops up to announce the winner (doesn't show up here)
 
 I witnessed, for the first time, a computer programme that I created playing against me. It was beautiful. I smiled even though I was the only person in the room. A moment to savour!
 

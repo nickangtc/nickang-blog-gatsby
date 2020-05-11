@@ -3,7 +3,7 @@ title: "What are bugs in software?"
 date: "2017-10-31"
 ---
 
-\[caption id="attachment\_1586" align="aligncenter" width="600"\]![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) Photo by Glen Carrie on Unsplash\[/caption\]
+![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) Photo by Glen Carrie on Unsplash
 
 "Crap, I think there's a bug. This isn't supposed to work like that!"
 

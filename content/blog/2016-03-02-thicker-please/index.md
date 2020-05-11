@@ -3,7 +3,7 @@ title: "Thicker, please"
 date: "2016-03-02"
 ---
 
-\[caption id="attachment\_42" align="alignnone" width="840"\]![Microground...? ](images/essenso-1024x534.png) Microground...?\[/caption\]
+![Microground...? ](images/essenso-1024x534.png) Microground...?
 
 I was sure I hated this brand of coffee.
 
@@ -19,7 +19,7 @@ Over the next few weeks I drank one sachet every few days and didn’t think muc
 
 How? I made it thicker.
 
-\[caption id="attachment\_41" align="alignnone" width="840"\]![Our material should look good and deliver a punch at the same time](images/espresso-whip-1024x683.jpg) Our material should look good and deliver a punch at the same time\[/caption\]
+![Our material should look good and deliver a punch at the same time](images/espresso-whip-1024x683.jpg) Our material should look good and deliver a punch at the same time
 
 For some reason I told myself to add a lot less water this time. I think it’s my mind subconsciously deciding that it'd be a good idea to get caffeine into my body in the least amount of time and reduce the yucky-ness - like I always do with medicine.
 

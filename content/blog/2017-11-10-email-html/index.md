@@ -3,7 +3,7 @@ title: "Dear email HTML, please get better"
 date: "2017-11-10"
 ---
 
-\[caption id="attachment\_1675" align="aligncenter" width="600"\]![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) Photo by Erik-Jan Leusink on Unsplash\[/caption\]
+![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) Photo by Erik-Jan Leusink on Unsplash
 
 I dislike email HTML. There, I openly said it! I really had to get that out of my system before I go crazy.
 

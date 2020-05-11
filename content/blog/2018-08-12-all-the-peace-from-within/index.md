@@ -3,7 +3,7 @@ title: "All the peace from within"
 date: "2018-08-12"
 ---
 
-\[caption id="attachment\_2774" align="aligncenter" width="840"\]![boat quay nickang](images/boat-quay-nickang-1024x1024.jpg) In the morning making my way along the Singapore River to get to the gym\[/caption\]
+![boat quay nickang](images/boat-quay-nickang-1024x1024.jpg) In the morning making my way along the Singapore River to get to the gym
 
 I've been practising meditation on and off for something like three years now. Some days immediately after sitting through a 10-minute unguided meditation session, I'm able to see a truth very clearly: the truth that everything we need to feel at peace with all that is going on is readily available from within.
 

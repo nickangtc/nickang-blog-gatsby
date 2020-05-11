@@ -3,7 +3,7 @@ title: "Why do some developers use Object.prototype.hasOwnProperty.call()?"
 date: "2018-02-04"
 ---
 
-\[caption id="attachment\_2190" align="aligncenter" width="840"\]![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) Original photo credit: Pete Wright\[/caption\]
+![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) Original photo credit: Pete Wright
 
 You might have read someone else's JavaScript code recently and came across something like this:
 

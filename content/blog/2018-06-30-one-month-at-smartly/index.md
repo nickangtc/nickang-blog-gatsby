@@ -3,7 +3,7 @@ title: "One month at Smartly!"
 date: "2018-06-30"
 ---
 
-\[caption id="attachment\_2642" align="aligncenter" width="1000"\]![smartly futurio june 2018](images/futurio-june-2018.jpg) My most unbelievable first week of work at Futurio 2018 in Haikkoo, Finland\[/caption\]
+![smartly futurio june 2018](images/futurio-june-2018.jpg) My most unbelievable first week of work at Futurio 2018 in Haikkoo, Finland
 
 I'm currently working in an organisation that makes me feel valued. The company invests resources and takes risks with me, and in return, I invest what I can in the future of the company. It's really so beautifully simple.
 

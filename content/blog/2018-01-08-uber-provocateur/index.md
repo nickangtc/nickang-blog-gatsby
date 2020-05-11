@@ -3,7 +3,7 @@ title: "Uber the provocateur"
 date: "2018-01-08"
 ---
 
-\[caption id="attachment\_2018" align="aligncenter" width="600"\]![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) A still from Uber's "Let's unlock cities" campaign\[/caption\]
+![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) A still from Uber's "Let's unlock cities" campaign
 
 Ads before a movie screening in the cinema are like the tasty dessert before a meal. With the big screen and surround sound, ads become extra poignant. Recently there was one ad that really stood out for me - I mean, it _really_ popped out.
 

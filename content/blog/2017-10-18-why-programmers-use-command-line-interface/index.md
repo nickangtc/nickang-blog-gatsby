@@ -3,7 +3,7 @@ title: "Bite Size Programming - Why do programmers use a Command Line Interface?
 date: "2017-10-18"
 ---
 
-\[caption id="attachment\_1433" align="aligncenter" width="600"\]![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) Photo by Paweł Durczok on Unsplash\[/caption\]
+![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) Photo by Paweł Durczok on Unsplash
 
 First of all, what is a Command Line Interface?
 
@@ -55,7 +55,7 @@ Here's a contrived but illuminating example. To move a file two folders up from 
 
 This is how you do the same thing on the command line:
 
-```sh
+```shell
 cd /folder_name     # 1
 mv file_123.txt ../../  # 2
 ```
@@ -72,7 +72,7 @@ Using the same example of moving a file two directories up, imagine that for som
 
 Programmers can write a shell script to automate this process (and much more complex ones) by chaining a few CLI commands together.
 
-```sh
+```shell
 # reorganise_folders.sh
 
 cd /folder_name                 

@@ -3,7 +3,7 @@ title: "Go meta"
 date: "2017-10-11"
 ---
 
-\[caption id="attachment\_1304" align="aligncenter" width="840"\]![desert](images/mark-eder-310600-1024x683.jpg) Photo by Mark Eder on Unsplash\[/caption\]
+![desert](images/mark-eder-310600-1024x683.jpg) Photo by Mark Eder on Unsplash
 
 Bone dry. That's today for me.
 

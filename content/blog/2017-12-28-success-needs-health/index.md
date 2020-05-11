@@ -3,7 +3,7 @@ title: "Success needs health"
 date: "2017-12-28"
 ---
 
-\[caption id="attachment\_1945" align="aligncenter" width="840"\]![](images/20171227-laksa-nickang-blog-1024x768.jpg) Singapore laksa from a nearby makeshift food court near work\[/caption\]
+![](images/20171227-laksa-nickang-blog-1024x768.jpg) Singapore laksa from a nearby makeshift food court near work
 
 All the success in the world means nothing if you don't have good health to enjoy it.
 

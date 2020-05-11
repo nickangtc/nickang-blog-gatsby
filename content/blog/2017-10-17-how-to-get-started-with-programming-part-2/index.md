@@ -3,7 +3,7 @@ title: "How to get started with programming (part 2)"
 date: "2017-10-17"
 ---
 
-\[caption id="attachment\_1423" align="aligncenter" width="600"\]![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash\[/caption\]
+![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash
 
 Hello internet!
 

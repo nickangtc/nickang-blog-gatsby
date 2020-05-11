@@ -3,7 +3,7 @@ title: "How to know you are a junior developer"
 date: "2017-10-13"
 ---
 
-\[caption id="attachment\_1317" align="aligncenter" width="840"\]![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) Photo by Gili Benita on Unsplash\[/caption\]
+![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) Photo by Gili Benita on Unsplash
 
 Today I heard a hilarious way of benchmarking one's noob-ness in the tech industry as a developer. It was a passing comment by my friend Terence over a beer this lovely evening when we were talking about our fledgling careers in tech.
 

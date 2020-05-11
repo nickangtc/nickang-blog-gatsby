@@ -7,7 +7,7 @@ I’m trying to understand something…
 
 I get very excited when I read certain books. Recently it’s been Seth Godin’s series of books on marketing and other interesting ideas. I just finished _We Are All Weird_.
 
-\[caption id="attachment\_104" align="aligncenter" width="356"\]![Seth Godin's interesting book We Are All Weird](images/we-are-all-weird.jpg) Seth Godin's interesting book We Are All Weird\[/caption\]
+![Seth Godin's interesting book We Are All Weird](images/we-are-all-weird.jpg) Seth Godin's interesting book We Are All Weird
 
 Getting through the book was a breeze despite his unorthodox way of organising his thoughts (I imagine it’s a lot more haphazard than most people can accept). It’s a book that got me excited many times, with his repeated (successful, in my eyes) strikes against mass marketing and the call towards tribal marketing.
 

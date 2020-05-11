@@ -3,7 +3,7 @@ title: "A kickass blog"
 date: "2018-01-15"
 ---
 
-\[caption id="attachment\_2055" align="aligncenter" width="1354"\]![matt mullenweg kickass blog](images/Screen-Shot-2018-01-15-at-11.29.29-PM.png) Screenshot of Matt Mullenweg's blog\[/caption\]
+![matt mullenweg kickass blog](images/Screen-Shot-2018-01-15-at-11.29.29-PM.png) Screenshot of Matt Mullenweg's blog
 
 There are many awesome blogs scattered across the vast internet, but none feels more organic than Matt Mullenweg's [blog](https://ma.tt/).
 

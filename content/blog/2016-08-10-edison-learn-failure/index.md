@@ -21,7 +21,7 @@ While the Pi has been a great surveillance camera, operating as it was intended 
 
 This has nothing to do with anyone else but me, since I was the one who installed the camera in the ceiling at the corner of our living room. Since it went up, it has fallen from its vantage point on 5 occasions. If this were to be a finished product used in a customer’s home, my business would also be finished.
 
-\[caption id="attachment\_491" align="aligncenter" width="840"\]![cctv contraption homemade](images/cctv-contraption_nickang_edited-1024x768.jpg) Raspberry Pi on top, 'fake' CCTV shell below\[/caption\]
+![cctv contraption homemade](images/cctv-contraption_nickang_edited-1024x768.jpg) Raspberry Pi on top, 'fake' CCTV shell below
 
 The camera is a two-part contraption consisting of the Raspberry Pi in an enclosure and an empty CCTV shell precariously taped together. It has fallen once every week or so, and each time I do a post-mortem to identify the point of weakness. It falls, I inspect, remedy, and re-instate it.
 

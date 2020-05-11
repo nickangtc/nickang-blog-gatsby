@@ -3,7 +3,7 @@ title: "Reflecting on 1 month of being vegetarian"
 date: "2018-07-28"
 ---
 
-\[caption id="attachment\_2744" align="aligncenter" width="900"\]![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now\[/caption\]
+![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now
 
 It's been an interesting month of being vegetarian for the first time. I was compelled by ethics but ultimately made the leap to experimenting with vegetarianism because of its purported health benefits and the influence of a few newfound friends (colleagues) who are vegetarian (more details in [this post](https://www.nickang.com/why-im-going-vegetarian/)).
 

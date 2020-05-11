@@ -3,7 +3,7 @@ title: "The key to forming new habits"
 date: "2018-05-15"
 ---
 
-\[caption id="attachment\_2536" align="aligncenter" width="840"\]![single red rose against brick wall](images/masaaki-komori-582888-unsplash-1024x684.jpg) Photo by Masaaki Komori on Unsplash\[/caption\]
+![single red rose against brick wall](images/masaaki-komori-582888-unsplash-1024x684.jpg) Photo by Masaaki Komori on Unsplash
 
 Over the last 6 months or so, I've been using a mobile app called [HabitBull](http://www.habitbull.com/) to measure my success at forming new habits. It's a free app for tracking up to five habits and it works exactly as it should, without frills, just the way I like it for tools!
 

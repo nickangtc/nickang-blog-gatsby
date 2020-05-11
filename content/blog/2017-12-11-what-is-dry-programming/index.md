@@ -3,7 +3,7 @@ title: "What is DRY (in programming)?"
 date: "2017-12-11"
 ---
 
-\[caption id="attachment\_1845" align="aligncenter" width="600"\]![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) Photo by Ben Neale on Unsplash\[/caption\]
+![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) Photo by Ben Neale on Unsplash
 
 Ever heard someone tell you that your code is not "DRY"? What's the deal with that? Are they saying that your code can hold a lot of water...?
 

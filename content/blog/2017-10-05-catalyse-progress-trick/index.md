@@ -3,7 +3,7 @@ title: "A trick to catalyse progress"
 date: "2017-10-05"
 ---
 
-\[caption id="attachment\_1254" align="aligncenter" width="840"\]![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) Photo by Mikito Tateisi on Unsplash\[/caption\]
+![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) Photo by Mikito Tateisi on Unsplash
 
 Making progress is hard. Inertia can kill a project before it even begins.
 
@@ -25,7 +25,7 @@ Mei recently shared with me a little secret that she's been using to keep up the
 
 It's a beautifully simple trick involving a self-imposed, arbitrarily set rule that cleverly makes use of our desire for patterns. Ready to know what it is?
 
-\[caption id="attachment\_1251" align="aligncenter" width="576"\]![screenshot of charlaneyu makeup portfolio on Instagram showing an organised pattern](images/Screenshot_2017-10-05-08-31-20-576x1024.png) My wife's make-up portfolio on Instagram (@charlane\_yu)\[/caption\]
+![screenshot of charlaneyu makeup portfolio on Instagram showing an organised pattern](images/Screenshot_2017-10-05-08-31-20-576x1024.png) My wife's make-up portfolio on Instagram (@charlane\_yu)
 
 Notice the pattern yet?
 

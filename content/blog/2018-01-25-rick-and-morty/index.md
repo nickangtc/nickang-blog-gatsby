@@ -3,7 +3,7 @@ title: "Rick and Morty, bitch!"
 date: "2018-01-25"
 ---
 
-\[caption id="attachment\_2124" align="aligncenter" width="780"\]![rick and morty](images/rick-and-morty.png) Why the heck is Rick's skin gray?\[/caption\]
+![rick and morty](images/rick-and-morty.png) Why the heck is Rick's skin gray?
 
 Rick and Morty is such a endearingly weird show that I feel that I need to address it in a blog post. It's so odd that I must have went "Hahah, what the fuck?" about 10 times before the end of episode one.
 

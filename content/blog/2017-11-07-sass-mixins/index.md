@@ -3,7 +3,7 @@ title: "Writing my first Sass mixins"
 date: "2017-11-07"
 ---
 
-\[caption id="attachment\_1670" align="aligncenter" width="600"\]![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) Photo by Dmitri Popov on Unsplash\[/caption\]
+![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) Photo by Dmitri Popov on Unsplash
 
 [Sass](http://sass-lang.com/) is a CSS **pre-processor**. Even though I've been using Sass in many projects, I realised recently at work that I'd only been using it in a very primitive way. Sass mixins didn't even exist in my mind.
 
@@ -21,7 +21,7 @@ Instead of telling you what mixins are, let me just show you the code that I rec
 
 This is the badge (`.badge-deprecated`) I needed to code. We already had an existing badge called `.badge-uninstalled`, but just repeating the code would be a bad solution. Hard to maintain and follow.
 
-\[caption id="attachment\_1659" align="aligncenter" width="235"\]![writing my first sass mixins badge css screenshot](images/BSP-writing-my-first-saas-mixins-badge-css-screenshot.png) The badge and tooltip I had to style\[/caption\]
+![writing my first sass mixins badge css screenshot](images/BSP-writing-my-first-saas-mixins-badge-css-screenshot.png) The badge and tooltip I had to style
 
 Here's the code that I might have written if I hadn't known about mixins.
 

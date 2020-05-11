@@ -3,7 +3,7 @@ title: "The uncommon (and invaluable) ability to recognise a noisy mind"
 date: "2018-01-28"
 ---
 
-\[caption id="attachment\_2135" align="aligncenter" width="840"\]![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) Photo by Levi XU on Unsplash\[/caption\]
+![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) Photo by Levi XU on Unsplash
 
 One of the biggest benefits I've personally gotten from meditating daily is the invaluable ability to recognise when my mind is noisy.
 

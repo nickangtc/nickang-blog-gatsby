@@ -3,7 +3,7 @@ title: "How to create simple Command Line Program with Node"
 date: "2018-03-24"
 ---
 
-\[caption id="attachment\_2356" align="aligncenter" width="600"\]![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) Photo by Blake Connally on Unsplash\[/caption\]
+![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) Photo by Blake Connally on Unsplash
 
 I have something to admit. The first time we were introduced to Node.js at programming bootcamp, I only had a [vague idea](https://www.nickang.com/nodejs-server-nightmare/) of what it did.
 
@@ -30,7 +30,7 @@ console.log(inputString);
 
 And on the command line:
 
-```sh
+```shell
 node parrot.js hello parrot!
 
 # prints "hello parrot!" in Terminal
@@ -59,7 +59,7 @@ The goal of sharing this is to help provide you (and future me) some intuition o
 
 The command line signature looks like this:
 
-```sh
+```shell
 node baconian-cipher.js # example usage
 node baconian-cipher.js encode STRIKE NOW
 

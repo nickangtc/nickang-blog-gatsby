@@ -3,7 +3,7 @@ title: "(US) Crossing States of Being"
 date: "2016-04-14"
 ---
 
-\[caption id="attachment\_310" align="aligncenter" width="840"\]![(Guacamole) man of the hour at Qdoba Mexican restaurant in Boston](images/DSCF7589_edited-1024x683.jpg) (Guacamole) man of the hour at Qdoba Mexican restaurant in Boston\[/caption\]
+![(Guacamole) man of the hour at Qdoba Mexican restaurant in Boston](images/DSCF7589_edited-1024x683.jpg) (Guacamole) man of the hour at Qdoba Mexican restaurant in Boston
 
 For today’s travelogue post I’m going to try something different from what I’ve done so far and write about one (maybe two) thoughts inspired by events on the road at some length instead of just recounting them.
 
@@ -17,7 +17,7 @@ A couple of interesting things I've learned about America these few days:
 
 \* \* \*
 
-\[caption id="attachment\_306" align="aligncenter" width="840"\]![Enroute to Chicago via NY, there's Wi-fi on Bolt buses!](images/DSCF7710_edited-1024x683.jpg) Enroute to Chicago via NY, there's Wi-fi on Bolt buses!\[/caption\]
+![Enroute to Chicago via NY, there's Wi-fi on Bolt buses!](images/DSCF7710_edited-1024x683.jpg) Enroute to Chicago via NY, there's Wi-fi on Bolt buses!
 
 ##### Shuffling From State to State (of Being)
 
@@ -27,9 +27,9 @@ Between scanning the simple menu at Barking Crabs and deciding how many clam cho
 
 We’re in a highly rated restaurant so there’s no worry at all that we’d be paying good money for bad food. It’s good money, good food in here, that much we were sure about. But we still had trouble ordering food, especially for Mei and I because our arrangement was that Dai Nan (our friend host) would pick up the bill for food and we’d pay for drinks. Seafood remains more expensive than hops even in Boston.
 
-\[caption id="attachment\_309" align="aligncenter" width="840"\]![Boston Barking Crab restaurant has amazing lobsters and seriously the perfect white beer](images/DSCF7685_edited-1024x683.jpg) Boston Barking Crab restaurant has amazing lobsters and seriously the perfect white beer\[/caption\]
+![Boston Barking Crab restaurant has amazing lobsters and seriously the perfect white beer](images/DSCF7685_edited-1024x683.jpg) Boston Barking Crab restaurant has amazing lobsters and seriously the perfect white beer
 
-\[caption id="attachment\_308" align="aligncenter" width="840"\]![DSCF7693_edited](images/DSCF7693_edited-1024x683.jpg) Inside Barking Crab, overseeing the harbour and Boston skyline\[/caption\]
+![DSCF7693_edited](images/DSCF7693_edited-1024x683.jpg) Inside Barking Crab, overseeing the harbour and Boston skyline
 
 At times I’d come dangerously close to getting a jolt down my spine when I catch the word ‘market’ in the corner of my eye. Market is short for ‘market price’, which could pretty much be substitution for ‘more expensive than you’d think to pay’. Those are the ones that truly scare the likes of me off. Market price? I’ll order it when I have money.
 
@@ -43,7 +43,7 @@ What’s really important here for me is to remember that with time, we all cros
 
 ##### New York to California in 4 Days
 
-\[caption id="attachment\_307" align="aligncenter" width="840"\]![We're ready for our hands-free part of the trip from NY to Emeryville, California! ](images/DSCF7699_edited-1024x683.jpg) We're ready for our hands-free part of the trip from NY to Emeryville, California!\[/caption\]
+![We're ready for our hands-free part of the trip from NY to Emeryville, California! ](images/DSCF7699_edited-1024x683.jpg) We're ready for our hands-free part of the trip from NY to Emeryville, California!
 
 In other news, we're on the way to Chicago now. We'll leave New York for Chicago in half an hour from now by bus (Megabus). It's an 18 hour journey. Once we're there, we have 5 hours before boarding the California Zephyr Amtrak train that stops in Emeryville, California. The plan is to take a connecting bus from Emeryville to San Francisco which takes half an hour, and we should be able to walk to the Youth Hostel and crash in our bed.
 

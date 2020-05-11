@@ -3,11 +3,11 @@ title: "The software developer's craft"
 date: "2018-01-14"
 ---
 
-\[caption id="attachment\_2048" align="aligncenter" width="3692"\]![software developers craft post banner](images/20171223-software-developers-craft-nickang-blog.jpg) What my desk looks like on a good day from working at home\[/caption\]
+![software developers craft post banner](images/20171223-software-developers-craft-nickang-blog.jpg) What my desk looks like on a good day from working at home
 
 I'd recently taken up watching Chef's Table during work breaks. I love it for its artful presentation and masterful storytelling. Chef's Table is really not about cooking or even food; to me, it is clearly about humanity and our capacity to create, in spite of our fundamental humanly flaws. It is about the melody of failure and success and learning what matters to each of us.
 
-\[caption id="attachment\_2049" align="aligncenter" width="500"\]![chefs table documentary poster](images/artworks-000125496240-3722zs-t500x500.jpg) Chef's Table poster (I watch it on Netflix)\[/caption\]
+![chefs table documentary poster](images/artworks-000125496240-3722zs-t500x500.jpg) Chef's Table poster (I watch it on Netflix)
 
 That said, Chef's Table is not called The Triumph Of The Human Spirit, and so it is still using food and cooking as the vehicle for moving a story forward. My gut tells me that at least a handful of young chefs have been and continue to be informed by the character of the unique chefs featured in the show.
 

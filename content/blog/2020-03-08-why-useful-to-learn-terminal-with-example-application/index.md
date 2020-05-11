@@ -47,7 +47,7 @@ After he learned the basic commands of Terminal from our class, M saw an opportu
 
 Here's the one-liner that helped him to resize all the images in a folder. I did _not_ teach the `sips` command in class:
 
-```sh
+```shell
 sips -Z 1080 *.jpg
 ```
 

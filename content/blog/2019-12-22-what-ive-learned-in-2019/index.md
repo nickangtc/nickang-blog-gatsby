@@ -3,7 +3,7 @@ title: "What I've learned in 2019"
 date: "2019-12-22"
 ---
 
-\[caption id="attachment\_3483" align="aligncenter" width="640"\]![Walking in our neighbourhood in Mitte, Berlin](images/2019-look-back-at-what-ive-done-and-learned-nick-ang-blog-1-1024x768.jpg) Walking in our new neighbourhood in Mitte, Berlin\[/caption\]
+![Walking in our neighbourhood in Mitte, Berlin](images/2019-look-back-at-what-ive-done-and-learned-nick-ang-blog-1-1024x768.jpg) Walking in our new neighbourhood in Mitte, Berlin
 
 ## The value of writing daily
 
@@ -45,7 +45,7 @@ I could have saved some money and time, not to mention grow stronger, if I had e
 
 ## Provide value, gain bargaining power
 
-\[caption id="attachment\_3492" align="alignright" width="576"\]![nick reading his kindle with Brownie on a campervan](images/campervan-bed-nick-ang-blog-576x1024.jpg) A picture from our first campervan road trip, somewhere in the north of Germany\[/caption\]
+![nick reading his kindle with Brownie on a campervan](images/campervan-bed-nick-ang-blog-576x1024.jpg) A picture from our first campervan road trip, somewhere in the north of Germany
 
 This year my wife and I and our dog Brownie moved from Singapore to Berlin while I remained employed by the same company. What a great deal! I'm honestly still pinching myself sometimes wondering if we're really here, fulfiling our promise to ourselves that we will live abroad for some time before deciding on a place in this world to call home.
 
@@ -66,7 +66,7 @@ But in my honest opinion, you ought to be able to recognise this and create a pl
 
 ## Commuting is a pain in the ass that can be eliminated
 
-\[caption id="attachment\_3491" align="aligncenter" width="640"\]![a view of the shophouses by the Singapore River where my office is in central Singapore](images/singapore-river-skyline-smartlyio-office-nick-ang-blog-1024x572.jpg) The Smartly.io office is somewhere in this photo\[/caption\]
+![a view of the shophouses by the Singapore River where my office is in central Singapore](images/singapore-river-skyline-smartlyio-office-nick-ang-blog-1024x572.jpg) The Smartly.io office is somewhere in this photo
 
 My wife is a makeup artist and her work involves frequent visits to hotels where wedding banquets are held. In Singapore, most hotels are near the city centre.
 

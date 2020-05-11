@@ -91,7 +91,7 @@ Armed with this realisation, I reinstalled Instagram on my phone and created my 
 
 ## How I use Instagram now
 
-\[caption id="attachment\_3443" align="aligncenter" width="576"\]![nick ang instagram close friends list](images/nick-ang-instagram-576x1024.png) Sharing only to Close Friends\[/caption\]
+![nick ang instagram close friends list](images/nick-ang-instagram-576x1024.png) Sharing only to Close Friends
 
 Two weeks have quickly passed and we've experienced a lot in Berlin, even though by any measure, we are taking things slowly.
 

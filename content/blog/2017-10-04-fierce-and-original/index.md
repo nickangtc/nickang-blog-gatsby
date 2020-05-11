@@ -3,7 +3,7 @@ title: "Fierce and original in our work"
 date: "2017-10-04"
 ---
 
-\[caption id="attachment\_1244" align="aligncenter" width="4928"\]![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) Photo by Aarón Blanco Tejedor on Unsplash\[/caption\]
+![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) Photo by Aarón Blanco Tejedor on Unsplash
 
 A couple of weeks ago, I shared a wonderful quote with my friend Kai over a bathroom conversation:
 

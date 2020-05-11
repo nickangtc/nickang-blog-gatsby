@@ -3,7 +3,7 @@ title: "Bite Size Programming - How does the internet work?"
 date: "2017-10-20"
 ---
 
-\[caption id="attachment\_1450" align="aligncenter" width="600"\]![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) Photo by Antonio Grosz on Unsplash\[/caption\]
+![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) Photo by Antonio Grosz on Unsplash
 
 Here's a rhetorical question: Have you ever wondered how does the internet work? How is it possible that you can enter (what used to be) a cryptic string of characters and have a page full of text, images, videos and user interactions loaded just like that, like magic?
 

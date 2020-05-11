@@ -3,7 +3,7 @@ title: "Users expect bug-free software"
 date: "2017-10-19"
 ---
 
-\[caption id="attachment\_1440" align="aligncenter" width="840"\]![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) Photo by rawpixel.com on Unsplash\[/caption\]
+![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) Photo by rawpixel.com on Unsplash
 
 Users don't care how your product works. As long as it works.
 

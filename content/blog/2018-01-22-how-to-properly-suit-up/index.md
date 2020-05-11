@@ -31,7 +31,7 @@ So, take that raggedy t-shirt you've worn for the thousandth time off before pro
 
 Every gentleman should style their hair, says every gentleman. Thus, if you so choose to be gentlemanly, style your hair now.
 
-\[caption id="attachment\_2113" align="aligncenter" width="840"\]![selfie with hair](images/20180121-properly-suiting-up-hair-nickang-blog-1024x768.jpg) Most wouldn't call this a hairstyle, but I just tend to\[/caption\]
+![selfie with hair](images/20180121-properly-suiting-up-hair-nickang-blog-1024x768.jpg) Most wouldn't call this a hairstyle, but I just tend to
 
 Yes, you're half-naked (or fully - doesn't matter), but this is behind the scenes and it's OK.
 
@@ -53,7 +53,7 @@ Watches and rings and earrings and what-have-yous go on now.
 
 ### Shoes on
 
-\[caption id="attachment\_2112" align="aligncenter" width="840"\]![leather shoes and blue pants](images/20180121-properly-suiting-up-shoes-nickang-blog-1024x768.jpg) My trusty 4 year-old Ecco leather... dress boots? Something like that. It feels and looks great\[/caption\]
+![leather shoes and blue pants](images/20180121-properly-suiting-up-shoes-nickang-blog-1024x768.jpg) My trusty 4 year-old Ecco leather... dress boots? Something like that. It feels and looks great
 
 Bend down to your feet and slip those shoes on. Be mindful of the struggle around the belly area - you'll want to feel for and gauge the maximum tension your pants can take. Everything has a limit...
 
@@ -63,7 +63,7 @@ Lastly, don't forget the piece that will make you look _just_ like every other (
 
 ## Finally, time to move on
 
-\[caption id="attachment\_2111" align="aligncenter" width="840"\]![nick ang suited up](images/20180121-properly-suiting-up-done-nickang-blog-1024x768.jpg) That's me looking kinda dorky even after suiting up \[/caption\]
+![nick ang suited up](images/20180121-properly-suiting-up-done-nickang-blog-1024x768.jpg) That's me looking kinda dorky even after suiting up 
 
 Ok off with the charades, I'm just kidding about this whole "proper" shenanigans. Satire is hard!
 

@@ -3,7 +3,7 @@ title: "Temptation to just build stuff"
 date: "2018-01-03"
 ---
 
-\[caption id="attachment\_1986" align="aligncenter" width="840"\]![mannequin wearing santa hat looking broken](images/buzz-andersen-138897-1024x681.jpg) Photo by Buzz Andersen on Unsplash\[/caption\]
+![mannequin wearing santa hat looking broken](images/buzz-andersen-138897-1024x681.jpg) Photo by Buzz Andersen on Unsplash
 
 I'm beginning to adopt an engineer's mentality of wanting to build things because it's fun and I'd probably learn a few things along the way.
 
@@ -15,7 +15,7 @@ And the second extension was a website timer that automatically records the numb
 
 I had even spent about 3 hours reading the Chrome extension guides and building their tutorial apps.
 
-\[caption id="attachment\_1988" align="aligncenter" width="825"\]![chrome extension guides screenshot of tabs](images/Screen-Shot-2018-01-03-at-7.35.29-AM.png) I had already spent 3 hours reading and doing tutorials on building Chrome extensions\[/caption\]
+![chrome extension guides screenshot of tabs](images/Screen-Shot-2018-01-03-at-7.35.29-AM.png) I had already spent 3 hours reading and doing tutorials on building Chrome extensions
 
 But I now realise that my prevailing mentality, which I think is typical of an engineer's, is problematic.
 

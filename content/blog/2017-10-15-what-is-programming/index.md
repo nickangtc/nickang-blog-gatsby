@@ -3,7 +3,7 @@ title: "Bite Size Programming - What is programming?"
 date: "2017-10-15"
 ---
 
-\[caption id="attachment\_1428" align="aligncenter" width="600"\]![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) Photo by Gilles Lambert on Unsplash\[/caption\]
+![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) Photo by Gilles Lambert on Unsplash
 
 Let's begin this segment from the very top and ask, what is programming?
 

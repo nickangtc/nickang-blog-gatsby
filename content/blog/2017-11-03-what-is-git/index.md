@@ -3,7 +3,7 @@ title: "What is Git?"
 date: "2017-11-03"
 ---
 
-\[caption id="attachment\_1617" align="aligncenter" width="600"\]![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash\[/caption\]
+![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash
 
 What's this weird sounding thing called Git? Is it Git or just git? What does it do, who uses it, and is it actually useful? In this post, you'll learn all you need to know about git (yes, it's just _git_!).
 

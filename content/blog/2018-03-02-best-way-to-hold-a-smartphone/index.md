@@ -3,7 +3,7 @@ title: "Best way to hold a smartphone"
 date: "2018-03-02"
 ---
 
-\[caption id="attachment\_2267" align="aligncenter" width="840"\]![best way to hold a smartphone nickang blog](images/best-way-to-hold-a-smartphone-nickang-blog-1024x678.jpg) That hand is gonna cramp up any moment now...\[/caption\]
+![best way to hold a smartphone nickang blog](images/best-way-to-hold-a-smartphone-nickang-blog-1024x678.jpg) That hand is gonna cramp up any moment now...
 
 Have you ever had cramped hands from thumb typing on your smartphone? I'm experiencing it right now as I write this in a hotel lobby without my Macbook and [Logitech Keys to Go](http://amzn.to/2tcjKIL), and it is incredibly frustrating. I feel like punching a pillow after every full stop!
 
@@ -13,7 +13,7 @@ Of course not. All questions that start with "Am I the only one..." share the sa
 
 Is there an obvious solution that everyone knows that I don't?
 
-\[caption id="attachment\_2271" align="aligncenter" width="840"\]![best way to hold a smartphone for least fatigue](images/best-way-to-hold-a-smartphone-for-least-fatigue-2-1024x807.jpeg) The most comfortable way I could devise to hold my phone for prolonged typing.\[/caption\]
+![best way to hold a smartphone for least fatigue](images/best-way-to-hold-a-smartphone-for-least-fatigue-2-1024x807.jpeg) The most comfortable way I could devise to hold my phone for prolonged typing.
 
 The most comfortable of all approaches I've tried is the "hold it parallel to the ground resting on two fingers of each hand" approach. It largely solves the cramped-hands problem, but introduces a cramped neck problem!
 

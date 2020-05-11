@@ -3,7 +3,7 @@ title: "Getting sick of looking at a screen"
 date: "2019-10-16"
 ---
 
-\[caption id="attachment\_3434" align="aligncenter" width="640"\]![sick of looking at a screen](images/adrien-olichon-0RoIEgga6vs-unsplash-1024x683.jpg) Photo by Adrien Olichon on Unsplash\[/caption\]
+![sick of looking at a screen](images/adrien-olichon-0RoIEgga6vs-unsplash-1024x683.jpg) Photo by Adrien Olichon on Unsplash
 
 I'm looking for a word that describes this exact feeling because it was how I felt yesterday from around 4 pm. That was when I left the office and headed home after a long 4-hour meeting with the team. I was participating remotely from Berlin, while the rest of the team were in Helsinki.
 

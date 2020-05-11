@@ -3,7 +3,7 @@ title: "Day 1 at General Assembly Singapore Web Development course"
 date: "2016-08-16"
 ---
 
-\[caption id="attachment\_517" align="aligncenter" width="840"\]![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) What our classroom looks like from the inside.\[/caption\]
+![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) What our classroom looks like from the inside.
 
 Michelangelo said this of marble: inside every block lies a sculpture to be discovered. All it needs is for its edges to be carved off.
 

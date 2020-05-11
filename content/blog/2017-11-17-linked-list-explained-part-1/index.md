@@ -3,7 +3,7 @@ title: "Linked List explained"
 date: "2017-11-17"
 ---
 
-\[caption id="attachment\_1766" align="aligncenter" width="600"\]![linked list explained banner nickang](images/BSP-linked-list-explained.png) Photo by Simon Abrams on Unsplash\[/caption\]
+![linked list explained banner nickang](images/BSP-linked-list-explained.png) Photo by Simon Abrams on Unsplash
 
 A linked list is one of many commonly used data structures. The first thing to know about linked lists is that they are not the same thing as array-like primitives (eg. [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) in JavaScript or [`List`](https://docs.python.org/3/tutorial/datastructures.html) in Python). They are similar in some ways, but they have different strengths and weaknesses.
 

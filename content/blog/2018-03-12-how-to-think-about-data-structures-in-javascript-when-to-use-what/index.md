@@ -3,7 +3,7 @@ title: "How to think about data structures in JavaScript (and when to use what)"
 date: "2018-03-12"
 ---
 
-\[caption id="attachment\_2312" align="aligncenter" width="840"\]![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) Photo by Beatriz Pérez Moya on Unsplash\[/caption\]
+![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) Photo by Beatriz Pérez Moya on Unsplash
 
 If you're just starting to learn to program, it can take a while to wrap your head around data structures like arrays and objects.
 

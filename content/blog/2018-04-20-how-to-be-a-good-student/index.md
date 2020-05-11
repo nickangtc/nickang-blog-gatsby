@@ -3,7 +3,7 @@ title: "How to be a good student"
 date: "2018-04-20"
 ---
 
-\[caption id="attachment\_2436" align="aligncenter" width="840"\]![](images/chalis007-189517-unsplash-1024x683.jpg) Photo by 胡 卓亨 on Unsplash\[/caption\]
+![](images/chalis007-189517-unsplash-1024x683.jpg) Photo by 胡 卓亨 on Unsplash
 
 > When the student is ready, the teacher will appear. - Tao Te Ching
 

@@ -3,7 +3,7 @@ title: "Always get the basics first"
 date: "2016-08-21"
 ---
 
-\[caption id="attachment\_545" align="aligncenter" width="840"\]![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript\[/caption\]
+![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript
 
 Whenever learning something new, start with the basics. Web programming has become a mature enough industry to have its own set of community-made tools that purport to help make coding easier, but it’s a mistake to learn those before nailing down the basics, as I did.
 

@@ -3,7 +3,7 @@ title: "(US) Chicago, San Francisco, Bakersfield and Oakhurst"
 date: "2016-04-21"
 ---
 
-\[caption id="attachment\_330" align="aligncenter" width="840"\]![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) Took a picture of this roadside wildflower with stunning colours\[/caption\]
+![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) Took a picture of this roadside wildflower with stunning colours
 
 Finally found the time to write my travelogue. I’m behind by three days now I think. I’ve been experiencing and seeing and thinking about so many things I hope I don’t miss too many out.
 
@@ -35,7 +35,7 @@ I tell this story because when it played back the first time in my head during o
 
 Frequent travellers mature as consumers the earliest, I think, because being abroad puts you closer to your survival than cruising mode. That means you’re more alert to people who don’t care about you (since at the back of their minds they probably won’t ever see you again) and might be out to profit off you. Ultimately for me, travel has made me a much more savvy consumer and accelerated my growth in self-reliance in general. And what more are we but consumers most of the time throughout our short lives?
 
-\[caption id="attachment\_329" align="aligncenter" width="840"\]![Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance](images/DSCF8280_edited-1024x683.jpg) Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance\[/caption\]
+![Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance](images/DSCF8280_edited-1024x683.jpg) Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance
 
 So we got ourselves a Hyundai Elantra in the end. Renting with car companies is always an interesting experience because you never know what car you’re going to get exactly. I can’t say I’m disappointed this time. This white Elantra looks like as though it just slid out of the factory floor; it’s clean inside and outside and has only been driven 18,000 miles. I happily hopped in with Mei and pulled out of the driveway of Hilton Hotel like a play-pretend rich guy in a Ferrari.
 
@@ -78,7 +78,7 @@ Driving through the windy and up-and-down single-lane roads in the ‘park’ is
 
 Getting out and sitting on a huge slab of granite that must have fallen from the face of the mountains is also an experience not to be missed. Photos don’t do justice to the majesty of a place like Yosemite, but we try anyways. It’s just too beautiful to be left unrecorded. In these situations, a photo serves merely the function of eliciting the shape and form of memories; it’s dull and mostly unremarkable until you fill it in with your unique memories that colour and give it depth.
 
-\[caption id="attachment\_327" align="alignnone" width="840"\]![Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite](images/DSCF8311_edited-1-1024x683.jpg) Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite\[/caption\]
+![Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite](images/DSCF8311_edited-1-1024x683.jpg) Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite
 
 As I wound along the road of the Yosemite, I eventually caught up with the car in front. On the way in there were take-over lanes that periodically came up, but on the way down there were no such thing. And this car was going _so_ slowly I almost fell asleep tailing him.
 
@@ -102,8 +102,8 @@ Without sounding like a reviewer I’m just going to say one last thing about th
 
 ##### Some Photos From the Journey
 
-\[caption id="attachment\_332" align="aligncenter" width="840"\]![Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train](images/DSCF7877_edited-1024x683.jpg) Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train\[/caption\]
+![Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train](images/DSCF7877_edited-1024x683.jpg) Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train
 
-\[caption id="attachment\_331" align="aligncenter" width="840"\]![Member of the Amtrak staff who I saw throughout the two-day cross country ride](images/DSCF8061_edited-1024x683.jpg) Member of the Amtrak staff who I saw throughout the two-day cross country ride\[/caption\]
+![Member of the Amtrak staff who I saw throughout the two-day cross country ride](images/DSCF8061_edited-1024x683.jpg) Member of the Amtrak staff who I saw throughout the two-day cross country ride
 
-\[caption id="attachment\_333" align="aligncenter" width="840"\]![The splendid Observation Deck onboard the California Zephyr](images/DSCF7772_edited-1024x683.jpg) The splendid Observation Deck onboard the California Zephyr where all the socialising happens\[/caption\]
+![The splendid Observation Deck onboard the California Zephyr](images/DSCF7772_edited-1024x683.jpg) The splendid Observation Deck onboard the California Zephyr where all the socialising happens

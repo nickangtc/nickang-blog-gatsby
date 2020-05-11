@@ -3,7 +3,7 @@ title: "Meta Work Talk"
 date: "2016-05-24"
 ---
 
-\[caption id="attachment\_392" align="aligncenter" width="840"\]![man working with his hands](images/man-craftsman-1024x683.jpeg) Image: [Eddie Klaus](https://unsplash.com/@eduardo_mekmuffin)\[/caption\]
+![man working with his hands](images/man-craftsman-1024x683.jpeg) Image: [Eddie Klaus](https://unsplash.com/@eduardo_mekmuffin)
 
 I've been thinking lately about talking about work. It's something young people fresh out of college naturally pick up, but it can be kind of problematic.
 

@@ -3,7 +3,7 @@ title: "My view on changing jobs"
 date: "2019-04-09"
 ---
 
-\[caption id="attachment\_3348" align="aligncenter" width="640"\]![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) Photo by Erol Ahmed\[/caption\]
+![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) Photo by Erol Ahmed
 
 As a company grows, even if the resignation rate remains constant, the absolute number of employees who leave the company each month will grow in tandem.
 

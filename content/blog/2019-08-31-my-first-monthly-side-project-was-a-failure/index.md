@@ -3,7 +3,7 @@ title: "My first monthly side project was a failure. September will be better"
 date: "2019-08-31"
 ---
 
-\[caption id="attachment\_3427" align="aligncenter" width="640"\]![nick ang youtube](images/sara-kurfess-O1mej4P-Rws-unsplash-1024x683.jpg) Photo by Sara Kurfeß on Unsplash\[/caption\]
+![nick ang youtube](images/sara-kurfess-O1mej4P-Rws-unsplash-1024x683.jpg) Photo by Sara Kurfeß on Unsplash
 
 I had two habits going. This was supposed to be a third habit. I would work on a [new side project every month](https://www.nickang.com/one-project-every-month/), which should involve doing something every day for that month. For August, the goal was to code, for 20 minutes a day, a simple frontend that makes dummy API calls to a would-be API. This first side project was a failure.
 

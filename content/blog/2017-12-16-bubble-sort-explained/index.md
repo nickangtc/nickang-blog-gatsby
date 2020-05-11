@@ -3,7 +3,7 @@ title: "Bubble sort explained"
 date: "2017-12-16"
 ---
 
-\[caption id="attachment\_1864" align="aligncenter" width="600"\]![bubble sort explained banner ](images/BSP-bubble-sort-explained.png) Photo by Sime Basioli on Unsplash\[/caption\]
+![bubble sort explained banner ](images/BSP-bubble-sort-explained.png) Photo by Sime Basioli on Unsplash
 
 The goal of bubble sort is to sort an array in ascending or descending order according to a sortable property.
 

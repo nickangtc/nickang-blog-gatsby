@@ -5,7 +5,7 @@ date: "2017-10-03"
 
 I had an interesting conversation with my friend Rama today. We talked about many things, from management to meditation, creating music to digging shell scrapes. The most interesting topic that we explored was the idea of a generalist versus a specialist.
 
-\[caption id="attachment\_1234" align="aligncenter" width="3347"\]![table with laptops and an empty chair](images/table-with-laptops-and-an-empty-chair.jpg) Photo by rawpixel.com on Unsplash\[/caption\]
+![table with laptops and an empty chair](images/table-with-laptops-and-an-empty-chair.jpg) Photo by rawpixel.com on Unsplash
 
 A specialist is someone who understands deeply an area of a field. Such a person is an expert in doing all things related to that area. This might take the form of a front-end developer who is close to the cutting edge of programming languages and myriad frameworks used in the realm of front-end development. He is probably also good at designing and implementing good user experiences.
 

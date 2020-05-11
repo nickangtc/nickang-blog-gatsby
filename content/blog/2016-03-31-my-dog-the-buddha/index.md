@@ -7,7 +7,7 @@ Brownie, my toy poodle, might just be Buddha. I seriously think that to myself a
 
 I’d be sitting in bed with my laptop thinking what I should be doing first and what’s next in a list of 5 things to do, and I’d find him lying with his belly on the floor next to me resting his jaw on his little paws, eyes wide open and looking at me as if asking, “Lost in your mind, again?”
 
-\[caption id="attachment\_176" align="aligncenter" width="840"\]![Brownie, looking as though asking with contempt: Lost in your mind maze again?](images/brownie-judging-dog-1024x579.jpg) Brownie, looking as though asking with contempt: Lost in your mind maze again?\[/caption\]
+![Brownie, looking as though asking with contempt: Lost in your mind maze again?](images/brownie-judging-dog-1024x579.jpg) Brownie, looking as though asking with contempt: Lost in your mind maze again?
 
 Of course, dogs don’t judge, so all that interpretation is just happening in my mind. Oh look, my mind again.
 

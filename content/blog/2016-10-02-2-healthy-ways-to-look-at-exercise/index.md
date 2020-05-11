@@ -3,7 +3,7 @@ title: "Two healthy ways to look at exercise"
 date: "2016-10-02"
 ---
 
-\[caption id="attachment\_676" align="aligncenter" width="840"\]![remote work under the block in singapore](images/20161002-IMG_20161002_083841-1024x715.jpg) Laptop work is inherently unhealthy (yup that's Ruby on Rails)\[/caption\]
+![remote work under the block in singapore](images/20161002-IMG_20161002_083841-1024x715.jpg) Laptop work is inherently unhealthy (yup that's Ruby on Rails)
 
 Recently I’ve been finding myself lethargic quite a lot and I think it’s even starting to affect my mood and attention span, and my performance in class is deteriorating because of it. In other words, shit is getting real, and it’s time to do something about it.
 

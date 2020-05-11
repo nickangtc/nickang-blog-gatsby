@@ -5,7 +5,7 @@ date: "2017-09-14"
 
 The idea of blogging has changed. In the past when people first started to use Blogger to publicly share stories about their lives, blogs were like a sort of public log - you know, like a b-log. I think that's actually the etymology of the word. Now, most of us have blogs because they aid us in our careers, and I'm starting to miss blogging the old way.
 
-\[caption id="attachment\_1144" align="aligncenter" width="840"\]![desktop filled with laptop and coffee mugs from working from home](images/20170913-DSCF3097-1024x683.jpg) My work desk when I'd just finished a day of working from home\[/caption\]
+![desktop filled with laptop and coffee mugs from working from home](images/20170913-DSCF3097-1024x683.jpg) My work desk when I'd just finished a day of working from home
 
 If I were honest with myself, I know that publicity is a part of why I keep a blog. It sounds weird to admit it, but I often write posts because I think it makes me look like I have a life and that I actually think. My reasoning goes something like this:
 

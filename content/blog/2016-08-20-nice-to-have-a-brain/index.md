@@ -3,7 +3,7 @@ title: "Nice to have a brain"
 date: "2016-08-20"
 ---
 
-\[caption id="attachment\_541" align="aligncenter" width="840"\]![classroom with people at general assembly singapore](images/20160819-DSCF8116-1024x683.jpg) In class at General Assembly Singapore\[/caption\]
+![classroom with people at general assembly singapore](images/20160819-DSCF8116-1024x683.jpg) In class at General Assembly Singapore
 
 With the advent of affordable personal computers came a defeatist belief that “we can never beat the machines” in terms of memory and processing power. A computer’s ability to download information into its “brain” is stupendous compared to a human’s, limited by the number of transistors its motherboard contains, which has expanded exponentially for decades and only starting to plateau as scientists recently stopped being able to squeeze more transistors on the same-sized chip.
 

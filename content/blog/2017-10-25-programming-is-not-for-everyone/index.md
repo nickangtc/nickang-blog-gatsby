@@ -3,7 +3,7 @@ title: "Bite Size Programming - Programming is not for everyone"
 date: "2017-10-25"
 ---
 
-\[caption id="attachment\_1522" align="aligncenter" width="600"\]![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) Jesse Eisenberg in The Social Network\[/caption\]
+![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) Jesse Eisenberg in The Social Network
 
 I recently had a few conversations with people who are not software engineers and a surprising number of these conversations veered towards my journey into programming. Many of them remarked that what I did is amazing (I don't agree), and almost all of them mentioned one thing:
 

@@ -3,7 +3,7 @@ title: "Introducing Bite Size Programming"
 date: "2017-10-14"
 ---
 
-\[caption id="attachment\_1431" align="aligncenter" width="600"\]![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) Photo by rawpixel.com on Unsplash\[/caption\]
+![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) Photo by rawpixel.com on Unsplash
 
 I'm really excited about setting myself a new challenge, one that I think will play nice with both the daily writing challenge and my professional work as a software engineer.
 

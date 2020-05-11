@@ -3,7 +3,7 @@ title: "Binary Search explained"
 date: "2017-11-22"
 ---
 
-\[caption id="attachment\_1788" align="aligncenter" width="600"\]![binary search blog banner nickang](images/BSP-binary-search-2.png) Photo by Pablo Garcia Saldaña on Unsplash\[/caption\]
+![binary search blog banner nickang](images/BSP-binary-search-2.png) Photo by Pablo Garcia Saldaña on Unsplash
 
 If you're a software engineer, you've probably heard about binary search before. And if you don't know what it is, how it's implemented, and its strengths and weaknesses, this post is for you.
 
@@ -49,7 +49,7 @@ Well, it takes only 10 iterations to find an entry among 1,000 entries, 17 itera
 
 Plotted on a graph with number of operations on the y-axis and input size (total number of entries in the phonebook) on the x-axis, the time complexity of binary search looks like this:
 
-\[caption id="attachment\_1784" align="aligncenter" width="654"\]![binary search graph nickang blog](images/binary-search-graph.png) The amazing time complexity of binary search (O(log n))\[/caption\]
+![binary search graph nickang blog](images/binary-search-graph.png) The amazing time complexity of binary search (O(log n))
 
 In other words, the binary search algorithm takes **logarithmically less time to execute as the input size grows**. So, in terms of [Big O notation](https://www.nickang.com/algorithm-time-complexity-big-o-notation/), binary search is said to be a **O(log n) time** algorithm.
 

@@ -3,7 +3,7 @@ title: "Why use Binary Search Tree?"
 date: "2017-12-10"
 ---
 
-\[caption id="attachment\_1835" align="aligncenter" width="600"\]![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png) Photo by Nathan Fertig on Unsplash\[/caption\]
+![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png) Photo by Nathan Fertig on Unsplash
 
 If you already know what a binary search tree is for and how it works, read on to learn about their main strengths and weaknesses in this post! Otherwise, feel free to take a moment to read [part 1](https://www.nickang.com/binary-search-tree-explained/) for an introduction.
 
@@ -57,7 +57,7 @@ For example, if we attempted to insert the following sorted array into a binary 
 
 … will result in a tree that looks like this…
 
-\[caption id="attachment\_1832" align="aligncenter" width="840"\]![imbalanced binary search tree](images/BSP-imbalanced-binary-search-tree-2-1024x588.png) Doesn't even look like a tree when it's this imbalanced...\[/caption\]
+![imbalanced binary search tree](images/BSP-imbalanced-binary-search-tree-2-1024x588.png) Doesn't even look like a tree when it's this imbalanced...
 
 Ugliness is not the only problem with such a tree - performance, as you can imagine, will also be negatively affected.
 

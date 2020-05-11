@@ -3,7 +3,7 @@ title: "Subjective experience"
 date: "2018-04-02"
 ---
 
-\[caption width="1080"\]![Carousell typewriter olympia b12](images/screenshot_20180401-2241166293537043206233660.jpg "Carousell typewriter olympia b12")One of my few struggles today was to reason with myself to buy (or not) this typewriter for $120\[/caption\]
+![Carousell typewriter olympia b12](images/screenshot_20180401-2241166293537043206233660.jpg "Carousell typewriter olympia b12")One of my few struggles today was to reason with myself to buy (or not) this typewriter for $120
 
 What's daily life if not a series of subjective experiences?
 

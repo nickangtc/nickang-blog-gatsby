@@ -3,7 +3,7 @@ title: "Recognise a tool for what it is"
 date: "2018-04-29"
 ---
 
-\[caption id="attachment\_2474" align="aligncenter" width="840"\]![drawing app iPad overwhelm 2 nickang sketch](images/drawing-app-iPad-overwhelm-2-1024x768.png) What I look like in my room watching YouTube videos of other artists drawing on their iPads\[/caption\]
+![drawing app iPad overwhelm 2 nickang sketch](images/drawing-app-iPad-overwhelm-2-1024x768.png) What I look like in my room watching YouTube videos of other artists drawing on their iPads
 
 I just invested SGD $640 to buy an iPad 2018 with an Apple Pencil, and the first I did after some super amateurish doodling was--you guessed it--watching YouTube videos. Of other people drawing with theirs.
 

@@ -3,7 +3,7 @@ title: "Adapt and forget"
 date: "2017-11-06"
 ---
 
-\[caption id="attachment\_1645" align="aligncenter" width="840"\]![sapling](images/francesco-gallarotti-72602-1024x683.jpg) Photo by Francesco Gallarotti on Unsplash\[/caption\]
+![sapling](images/francesco-gallarotti-72602-1024x683.jpg) Photo by Francesco Gallarotti on Unsplash
 
 The air conditioner in my office is really loud but I just realised this: I hadn't noticed it at all!
 

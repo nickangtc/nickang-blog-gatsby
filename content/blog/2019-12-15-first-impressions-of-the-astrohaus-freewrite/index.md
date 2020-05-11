@@ -3,7 +3,7 @@ title: "First impressions of the Astrohaus Freewrite"
 date: "2019-12-15"
 ---
 
-\[caption id="attachment\_3475" align="aligncenter"\]![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg) My Astroahaus Freewrite fresh out of the box\[/caption\]
+![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg) My Astroahaus Freewrite fresh out of the box
 
 Hello, you. I want to tell you about the Freewrite, a device that I hold very close to my heart because I've _always_ wanted something like it. In fact, I started working on this as a one-man startup in 2014, at about the same time as the guys at Astrohaus did. They were just a lot more technically capable than I was. Instead of building my tech product, I shelved the idea after 9 months of working on it and went back to school to [learn programming](https://www.nickang.com/general-assembly-singapore-web-development/).
 
@@ -56,7 +56,7 @@ Everything else? Go to the web app. But hey, that will disrupt your flow, so per
 
 ## A real keyboard
 
-\[caption id="attachment\_3467" align="aligncenter"\]![The Freewrite keyboard has very nice mechanical Cherry MX brown switches](images/astrohaus-freewrite-in-a-cafe-nick-ang-blog-1024x683.jpg) Image by Astrohaus\[/caption\]
+![The Freewrite keyboard has very nice mechanical Cherry MX brown switches](images/astrohaus-freewrite-in-a-cafe-nick-ang-blog-1024x683.jpg) Image by Astrohaus
 
 Typing is not a natural act. We learn, increasingly younger, how to type on a computer keyboard. But to me, till this day as a writer and programmer, I still find typing as unnatural as wearing a tie. And this is one of the reasons why an ergonomic keyboard makes such a big difference, and the Freewrite's keyboard delivers.
 
@@ -108,7 +108,7 @@ That said, I would be happy to keep using it if it consistently helped me to foc
 
 ## Concluding thoughts about the Freewrite (for now)
 
-\[caption id="attachment\_3473" align="aligncenter"\]![The Astrohaus Freewrite can be brought outdoors for use too](images/astrohaus-freewrite-on-the-rocks-nick-ang-blog-1024x536.jpg) Image by Astrohaus\[/caption\]
+![The Astrohaus Freewrite can be brought outdoors for use too](images/astrohaus-freewrite-on-the-rocks-nick-ang-blog-1024x536.jpg) Image by Astrohaus
 
 I'm in love. I found myself telling my wife this morning during our hour-long walk with Brownie around the wet and cold streets of Berlin that I really believe this device will change my life. I will be writing so much more because of it.
 

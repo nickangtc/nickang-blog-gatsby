@@ -3,7 +3,7 @@ title: "The reality of game development"
 date: "2016-10-15"
 ---
 
-\[caption id="attachment\_746" align="aligncenter" width="840"\]![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) Grave Matters, a game by our web development instructor and two friends\[/caption\]
+![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) Grave Matters, a game by our web development instructor and two friends
 
 Our instructor at General Assembly is also a game developer, and he recently showed us his wares. It was my first glimpse into the world of game development and I found it magical.
 

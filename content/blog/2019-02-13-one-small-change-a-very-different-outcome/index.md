@@ -3,7 +3,7 @@ title: "One small change, a very different outcome"
 date: "2019-02-13"
 ---
 
-\[caption id="attachment\_3244" align="aligncenter" width="840"\]![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) Photo by SpaceX\[/caption\]
+![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) Photo by SpaceX
 
 I recently heard an analogy of a pilot who, before takeoff, turned the nose of his plane one degree to the left. At the destination airport, confused passengers alighted in an airport in Washington state instead of New York.
 

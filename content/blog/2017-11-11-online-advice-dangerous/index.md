@@ -3,7 +3,7 @@ title: "Why online advice is dangerous"
 date: "2017-11-11"
 ---
 
-\[caption id="attachment\_1691" align="aligncenter" width="840"\]![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) Medium is becoming a major source of online advice for me and I'm getting worried\[/caption\]
+![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) Medium is becoming a major source of online advice for me and I'm getting worried
 
 It's 8:00am in the morning on a weekday and I'm sitting in my living room mindlessly having breakfast. My attention is being given to the Medium posts appearing on my feed this morning. In this particular week, I'm occupied by thoughts about careers, so I tap into posts that discuss the topic.
 

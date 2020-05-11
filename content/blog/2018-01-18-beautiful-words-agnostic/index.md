@@ -23,7 +23,7 @@ What a beautiful word!
 
 ### The hike and the question
 
-\[caption id="attachment\_2093" align="aligncenter" width="840"\]![hiking bukit timah hill singapore](images/20180117-bukit-timah-hill-climb-nickang-blog-1024x768.jpg) Me at the top of the tallest hill in Singapore - a staggering 164m!\[/caption\]
+![hiking bukit timah hill singapore](images/20180117-bukit-timah-hill-climb-nickang-blog-1024x768.jpg) Me at the top of the tallest hill in Singapore - a staggering 164m!
 
 Today during my hike down Bukit Timah Hill, Charlane and I bumped into a really fascinating guy called James. He sounds like he is about 55 years old but looks like he is 45, fit as they come.
 

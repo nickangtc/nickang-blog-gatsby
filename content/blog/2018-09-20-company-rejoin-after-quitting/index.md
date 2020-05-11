@@ -3,7 +3,7 @@ title: "I work in a company where people rejoin after quitting"
 date: "2018-09-20"
 ---
 
-\[caption id="attachment\_2881" align="aligncenter" width="4813"\]![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) Not my colleagues, but this scene is totally normal in Smartly.io\[/caption\]
+![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) Not my colleagues, but this scene is totally normal in Smartly.io
 
 I just wanted to tell the world how cool I think that is. Why would people rejoin after quitting, all things considered?
 

@@ -3,7 +3,7 @@ title: "Bruises mean progress"
 date: "2017-10-10"
 ---
 
-\[caption id="attachment\_1298" align="aligncenter" width="840"\]![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) Photo by Solal Ohayon on Unsplash\[/caption\]
+![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) Photo by Solal Ohayon on Unsplash
 
 I've been going for Muay Thai classes recently. Training has been interesting so far. They switch up the routine so often that I haven't gone for enough training to actually see anything routine in it. So far, so good.
 
@@ -15,7 +15,7 @@ Yesterday, I went for training and it was the most intense sessions I've had so 
 
 This morning, to my surprise, I woke up to this.
 
-\[caption id="attachment\_1297" align="aligncenter" width="840"\]![bruised right foot](images/IMG_20171010_113322-1024x768.jpg) My bruised foot after my first proper muay thai training session\[/caption\]
+![bruised right foot](images/IMG_20171010_113322-1024x768.jpg) My bruised foot after my first proper muay thai training session
 
 That's right, bruises. My ankle has swelled up and is bruised along with the top of my foot and shin. Every inch is tender and hurts with any touch involving a slight prod.
 

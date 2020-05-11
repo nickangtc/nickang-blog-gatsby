@@ -3,7 +3,7 @@ title: "What are you trying to say?"
 date: "2019-05-01"
 ---
 
-\[caption id="attachment\_3365" align="aligncenter" width="640"\]![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) Photo by Thought Catalog\[/caption\]
+![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) Photo by Thought Catalog
 
 I want to admit something. Half the time, I don’t really know what I want to say.
 

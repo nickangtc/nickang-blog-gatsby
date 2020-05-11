@@ -3,7 +3,7 @@ title: "Binary Search Tree explained"
 date: "2017-12-03"
 ---
 
-\[caption id="attachment\_1819" align="aligncenter" width="600"\]![binary search tree explained nickang blog banner](images/BSP-binary-search-tree-explained.png) Not my arm. Photo by Patrick Fore on Unsplash\[/caption\]
+![binary search tree explained nickang blog banner](images/BSP-binary-search-tree-explained.png) Not my arm. Photo by Patrick Fore on Unsplash
 
 What is a binary search tree? How is it related to binary search? Is it an algorithm or a data structure?
 
@@ -19,7 +19,7 @@ In a binary search tree, each data element (or data item, or data point... call 
 
 Here's an illustration:
 
-\[caption id="attachment\_1810" align="aligncenter" width="840"\]![binary search tree illustration](images/binary-search-tree-illustration-1024x585.png) My best rendition of a Binary search tree\[/caption\]
+![binary search tree illustration](images/binary-search-tree-illustration-1024x585.png) My best rendition of a Binary search tree
 
 Each circle is a node in the overall binary search tree. As you can see, not all nodes have a parent (eg. the root node at the top) and not all nodes have children nodes (eg. every extreme last node).
 
@@ -33,7 +33,7 @@ Nodes are placed in the same way binary search is carried out. That is, we start
 
 As a rule, if the new value is smaller than or equals to the current node's value, we _attempt_ to create a new node to its **left**. If it's a **bigger** value, we attempt to do the same but on the **right**.
 
-\[caption id="attachment\_1814" align="aligncenter" width="840"\]![binary search tree add new node](images/binary-search-tree-add-new-node-2-1024x464.png) Smaller or equal values go left, and bigger values go right\[/caption\]
+![binary search tree add new node](images/binary-search-tree-add-new-node-2-1024x464.png) Smaller or equal values go left, and bigger values go right
 
 Notice I said _attempt_. That's because each time we move to inspect a node, we'd have to check if it already has a child in the position we want to create a node at.
 
@@ -51,7 +51,7 @@ So that's how a new data element is added to a binary search tree.
 
 Now on to a small technical qualifier - what I've just said it is not completely accurate. Each "node" would actually be more accurately seen as a separate binary search tree in itself.
 
-\[caption id="attachment\_1812" align="aligncenter" width="840"\]![binary search tree nodes](images/binary-search-tree-nodes-1024x585.png) Each "node" in a binary search tree is actually another binary search tree\[/caption\]
+![binary search tree nodes](images/binary-search-tree-nodes-1024x585.png) Each "node" in a binary search tree is actually another binary search tree
 
 So each "node" is a binary search tree that is contained in another binary search tree. Also, in terms of implementation, each "node" is created from the same `BinarySearchTree` constructor function as the original binary search tree object.
 

@@ -3,7 +3,7 @@ title: "Weird happy people"
 date: "2018-08-23"
 ---
 
-\[caption id="attachment\_2812" align="aligncenter" width="6000"\]![really weird picture of guy standing on float in a pool doing hitler salute](images/neko-tai-604234-unsplash.jpg) This picture is so weird! Photo by Neko Tai on Unsplash\[/caption\]
+![really weird picture of guy standing on float in a pool doing hitler salute](images/neko-tai-604234-unsplash.jpg) This picture is so weird! Photo by Neko Tai on Unsplash
 
 I just realised this: I really want to meet as many weird happy people as possible.
 

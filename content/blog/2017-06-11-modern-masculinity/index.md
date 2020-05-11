@@ -11,7 +11,7 @@ date: "2017-06-11"
 
 Welcome to the state of masculinity in 2017.
 
-\[caption id="attachment\_1066" align="aligncenter" width="840"\]![dead animal head trophy](images/vincent-erhart-193379-1024x683.jpg) Photo credit: [Vincent Erhart](https://unsplash.com/@vince_erhart)\[/caption\]
+![dead animal head trophy](images/vincent-erhart-193379-1024x683.jpg) Photo credit: [Vincent Erhart](https://unsplash.com/@vince_erhart)
 
 At a time when feminism is said without the accompanying word "movement", men look awfully backwards. Feminism has encouraged and continue to support hundreds of thousands of girls and women around the world to proactively change the way society views and treats them in the workplace, in positions of power, at home and on the street.
 

@@ -21,24 +21,24 @@ On a lighter note, I just realised how angry I can sometimes get with hotel show
 
 Photos from today
 
-\[caption id="attachment\_438" align="aligncenter" width="840"\]![home karaoke hong kong](images/DSCF7618_nickang_edited-1024x683.jpg) Karaoke at our friend Steph's beautiful home in Hong Kong\[/caption\]
+![home karaoke hong kong](images/DSCF7618_nickang_edited-1024x683.jpg) Karaoke at our friend Steph's beautiful home in Hong Kong
 
-\[caption id="attachment\_439" align="aligncenter" width="840"\]![victoria harbour ](images/DSCF7611_nickang_edited-1024x683.jpg) View of Victoria Harbour from Steph's living room.\[/caption\]
+![victoria harbour ](images/DSCF7611_nickang_edited-1024x683.jpg) View of Victoria Harbour from Steph's living room.
 
-\[caption id="attachment\_440" align="aligncenter" width="840"\]![hong kong mtr](images/DSCF7595_nickang_edited-1024x683.jpg) Hong Kong MTR ride\[/caption\]
+![hong kong mtr](images/DSCF7595_nickang_edited-1024x683.jpg) Hong Kong MTR ride
 
 ![hong kong mtr escalator](images/DSCF7593_nickang_edited-1024x683.jpg)
 
-\[caption id="attachment\_442" align="aligncenter" width="840"\]![people in white jumpsuits in a mall that look like astronauts](images/DSCF7578_nickang_edited-1024x683.jpg) Shopping mall astronauts.\[/caption\]
+![people in white jumpsuits in a mall that look like astronauts](images/DSCF7578_nickang_edited-1024x683.jpg) Shopping mall astronauts.
 
-\[caption id="attachment\_443" align="aligncenter" width="840"\]![greyhound cafe hong kong city plaza mall](images/DSCF7574_nickang_edited-1024x683.jpg) Interior of the Greyhound Cafe in City Plaza Mall at Taikoo.\[/caption\]
+![greyhound cafe hong kong city plaza mall](images/DSCF7574_nickang_edited-1024x683.jpg) Interior of the Greyhound Cafe in City Plaza Mall at Taikoo.
 
-\[caption id="attachment\_445" align="aligncenter" width="840"\]![starbucks reserve hong kong](images/DSCF7544_nickang_edited-1024x683.jpg) Starbucks 'reserve' section.\[/caption\]
+![starbucks reserve hong kong](images/DSCF7544_nickang_edited-1024x683.jpg) Starbucks 'reserve' section.
 
 ![peekaboo](images/DSCF7457_nickang_edited-1024x683.jpg)
 
-\[caption id="attachment\_447" align="aligncenter" width="840"\]![hide and seek](images/DSCF7451_nickang_edited-1024x683.jpg) A little hide and seek.\[/caption\]
+![hide and seek](images/DSCF7451_nickang_edited-1024x683.jpg) A little hide and seek.
 
-\[caption id="attachment\_448" align="aligncenter" width="840"\]![person holding camera on selfie stick facing you](images/DSCF7417_nickang_edited-1024x683.jpg) Everybody be vloggin'.\[/caption\]
+![person holding camera on selfie stick facing you](images/DSCF7417_nickang_edited-1024x683.jpg) Everybody be vloggin'.
 
 ![kid and grandmother looking at each other playfully](images/DSCF7392_nickang_edited-1024x683.jpg)

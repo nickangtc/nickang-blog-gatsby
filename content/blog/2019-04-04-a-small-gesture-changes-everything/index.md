@@ -3,7 +3,7 @@ title: "A small gesture changes everything"
 date: "2019-04-04"
 ---
 
-\[caption id="attachment\_3341" align="aligncenter" width="640"\]![a small gesture changes everything nick ang blog](images/a-small-gesture-changes-everything-nick-ang-blog-1024x621.jpg) Photo by Tom Ezzatkhah\[/caption\]
+![a small gesture changes everything nick ang blog](images/a-small-gesture-changes-everything-nick-ang-blog-1024x621.jpg) Photo by Tom Ezzatkhah
 
 I was back today at where all interestingness in my career began - the [General Assembly](https://generalassemb.ly/locations/singapore) campus in Singapore. It sprang up in Singapore from New York 4 years ago and I made my way into its history 3 years ago, fresh from a failed startup, attempting to learn to code.
 

@@ -3,7 +3,7 @@ title: "Shorter code is not necessarily better code"
 date: "2016-09-06"
 ---
 
-\[caption id="attachment\_605" align="aligncenter" width="840"\]![people smiling in front of pinnacles at duxton](images/20160906-IMG_20160906_123527-1024x768.jpg) Going to lunch\[/caption\]
+![people smiling in front of pinnacles at duxton](images/20160906-IMG_20160906_123527-1024x768.jpg) Going to lunch
 
 Here’s a real example from class today.
 

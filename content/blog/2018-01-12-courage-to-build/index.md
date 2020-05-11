@@ -3,7 +3,7 @@ title: "Regaining the courage to build"
 date: "2018-01-12"
 ---
 
-\[caption id="attachment\_2040" align="aligncenter" width="6000"\]![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash\[/caption\]
+![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash
 
 Before [Becoming Technical](https://www.nickang.com/entering-digital-jungle/)™, I had about a hundred ideas of what I would build. Something to automate this and that, something else to make this or that less painful. But as I became more and more technical, something insidious started to take root inside me. I became less, not more, confident in building stuff. It's so bad that since [graduating](https://www.nickang.com/general-assembly-singapore-review/) from General Assembly, I'd stopped working on personal side projects altogether.
 

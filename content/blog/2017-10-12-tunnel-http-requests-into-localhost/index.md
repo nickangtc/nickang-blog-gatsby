@@ -3,7 +3,7 @@ title: "How to tunnel HTTP requests into localhost"
 date: "2017-10-12"
 ---
 
-\[caption id="attachment\_1308" align="aligncenter" width="840"\]![ngrok explanation illustration](images/ngrok-1024x683.png) Source: https://ngrok.com/product\[/caption\]
+![ngrok explanation illustration](images/ngrok-1024x683.png) Source: https://ngrok.com/product
 
 Suppose you're part of the engineering team of a tech company whose product is involves giving users product recommendation widgets for online stores. Since the product is already in the wild, so to speak, how do you test developmental features on live stores?
 
@@ -46,6 +46,6 @@ If you have the need for such a tool but haven't heard of it, I hope this post h
 
 I recently walked into a bazaar at Isetan where they were obviously running a clearance sale to purge their inventory for Christmas. Many things were on sale, but only one thing really caught my eye...
 
-\[caption id="attachment\_1311" align="aligncenter" width="840"\]![mug that says I must get up my coffee needs me](images/20171011-favourite_new_mug_IMG_20171011_183716-1024x768.jpg) My favourite new mug\[/caption\]
+![mug that says I must get up my coffee needs me](images/20171011-favourite_new_mug_IMG_20171011_183716-1024x768.jpg) My favourite new mug
 
 It made me chuckle to myself. The fact that it was going for SG$3.50 made it a sweet, sweet deal. I'm still smiling to myself every time I brew a cup of coffee at work with it. Ahh, nothing beats simple pleasures.

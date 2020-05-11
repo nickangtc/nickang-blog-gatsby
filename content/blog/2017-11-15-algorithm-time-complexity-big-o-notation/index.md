@@ -3,7 +3,7 @@ title: "Algorithm time complexity and the Big O notation"
 date: "2017-11-15"
 ---
 
-\[caption id="attachment\_1722" align="aligncenter" width="600"\]![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png) Photo by Lysander Yuen on Unsplash\[/caption\]
+![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png) Photo by Lysander Yuen on Unsplash
 
 Big O notation has attained superstar status among the other concepts of math because of programmers like to use it in discussions about algorithms (and for good reason). It's a quick way to talk about algorithm time complexity.
 
@@ -38,7 +38,7 @@ Instead, Big O notation is a way of approximating how much **more** time and spa
 
 Here’s a useful graph from a very good [stackoverflow post](https://stackoverflow.com/a/487278/6463816) that shows all the practical Big O types and their general performance characteristics.
 
-\[caption id="attachment\_1702" align="aligncenter" width="550"\]![big o notation time space complexity graph from stackoverflow](images/big-o-notation-complexity-from-stackoverflow.png) Source: cletus on https://stackoverflow.com/a/487278/6463816\[/caption\]
+![big o notation time space complexity graph from stackoverflow](images/big-o-notation-complexity-from-stackoverflow.png) Source: cletus on https://stackoverflow.com/a/487278/6463816
 
 Now let’s nourish our understanding so far with a simplistic example.
 

@@ -3,7 +3,7 @@ title: "You are new, speak up!"
 date: "2018-07-15"
 ---
 
-\[caption id="attachment\_2686" align="aligncenter" width="840"\]![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) Photo by BRUNO CERVERA on Unsplash\[/caption\]
+![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) Photo by BRUNO CERVERA on Unsplash
 
 A CEO, who is also a founder, gathers all new employees in a room during onboarding week and tells them this:
 

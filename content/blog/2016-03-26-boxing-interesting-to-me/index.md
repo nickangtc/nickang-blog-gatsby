@@ -17,7 +17,7 @@ But evidently these men were both huge fans of boxing, too, and Cal had quite a 
 
 I’ll cut the story short here and give you a chance to experience his powerful storytelling, but I’ll summarise what happened for me in these two hours of listening to the podcast. I became enthralled with boxing.
 
-\[caption id="attachment\_161" align="aligncenter" width="562"\]!["The Greatest" Muhammad Ali](images/ali.jpg) "The Greatest" Muhammad Ali\[/caption\]
+!["The Greatest" Muhammad Ali](images/ali.jpg) "The Greatest" Muhammad Ali
 
 Tim and Cal dropped many boxers’ names, of which I knew only one; and it’s probably the one everyone has heard of - Muhammad Ali. They mentioned a few epic matches and I got so excited I decided that becoming a hazard on the road (and risking my own life) to note them down in Evernote while driving was worth it. Nobody died in the preparation of this article.
 
@@ -25,13 +25,13 @@ It paid off.
 
 Youtube truly has every video on the planet. It was 8:30pm when I entered into the Youtube search bar: “George Foreman vs Muhammad Ali”.
 
-\[caption id="attachment\_147" align="aligncenter" width="536"\]![George Foreman (red) vs Muhammad Ali (white)](images/ali-vs-foreman.png) George Foreman (red) vs Muhammad Ali (white)\[/caption\]
+![George Foreman (red) vs Muhammad Ali (white)](images/ali-vs-foreman.png) George Foreman (red) vs Muhammad Ali (white)
 
 For a millennial to watch an hour-long video on Youtube from 0:00 to 1:00 is a modern day accomplishment. I started with my back resting comfortably against the seat at the dining table but as the intensity built up (with Ali dancing and air-punching in the ring waiting for George Foreman, the angry heavyweight champion), my butt clenched and slowly inched toward the edge of the seat.
 
 The next hour was one of the best experiences as a spectator in my life. To immortalise the moment I took a photo of the setup: a laptop on a messy dining table. “What a sport!” I exclaimed to myself as my wife had long left the table to do something else.
 
-\[caption id="attachment\_148" align="aligncenter" width="840"\]![The humble set up of the day I started to appreciate boxing as a sport](images/IMAG5874-1024x579.jpg) The humble set up on the day I started to appreciate boxing as a sport\[/caption\]
+![The humble set up of the day I started to appreciate boxing as a sport](images/IMAG5874-1024x579.jpg) The humble set up on the day I started to appreciate boxing as a sport
 
 Boxing had never appeared interesting to me at all before today. Two guys tangoing around a square ring with ropes dealing punches and occasionally hugging each other before shooting more punches… that’s sounds interesting, but since boxers are generally tough guys, punches didn’t seem to do very much. I didn’t know what I was looking for.
 

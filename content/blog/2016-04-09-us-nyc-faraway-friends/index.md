@@ -9,7 +9,7 @@ It’s four days into our trip to the US and I think we’ve settled into a groo
 
 That’s a good sign. Internal stability on a trip like this is something I consider very important - how else can we reflect deeply and truthfully, unhindered by vagaries? That’s the point of travelling to me–to think and reflect and learn things about people and places–so I always hope I’ll get to that state as soon as possible (sometimes it’s not possible, especially for short getaway-type vacations). Glad I’m able to notice it today.
 
-\[caption id="attachment\_270" align="aligncenter" width="840"\]![The dog has entered Barnes and Noble - this should be a problem, except it isn't and shouldn't!](images/DSCF7198-1024x683.jpg) The dog has entered Barnes and Noble - this should be a problem, except it isn't and shouldn't!\[/caption\]
+![The dog has entered Barnes and Noble - this should be a problem, except it isn't and shouldn't!](images/DSCF7198-1024x683.jpg) The dog has entered Barnes and Noble - this should be a problem, except it isn't and shouldn't!
 
 Interesting things that happened today:
 
@@ -29,7 +29,7 @@ Our friends who were our former Airbnb guests in Singapore have been living in N
 
 Eating charred broccoli with them in a small restaurant in NYC was oddly fun and familiar, and us four sitting at a table together reminded me of the nights that they spent with us in our home in August last year. Sherry is the business person with an explosive personality and Keng is the developer with a serious penchant for open-source software and artificial intelligence.
 
-\[caption id="attachment\_274" align="aligncenter" width="840"\]![Said charred broccoli - I'm sure this wasn't part of the plan. Right?](images/DSCF7279-1024x683.jpg) Said charred broccoli - I'm sure this wasn't part of the plan. Right?\[/caption\]
+![Said charred broccoli - I'm sure this wasn't part of the plan. Right?](images/DSCF7279-1024x683.jpg) Said charred broccoli - I'm sure this wasn't part of the plan. Right?
 
 Now the thing is, with only less than two weeks of intermittent interaction back in Singapore in our apartment, our friendship shouldn’t be robust enough for us to want to meet up in a faraway land (they’re not from NYC either). But we did. It was a pleasant surprise hearing from one of them asking to meet when they’d seen some update on social media about us being in town. It’s always a nice surprise to learn of a friendship that you weren’t sure existed.
 
@@ -39,7 +39,7 @@ It’s the perfect recipe for a memorable and eventful night, and a much better 
 
 Other photos in the roll:
 
-\[caption id="attachment\_271" align="aligncenter" width="840"\]![DSCF7218](images/DSCF7218-1024x683.jpg) Beautiful brownstone houses, just like the kind in the movies where the girl kisses the guy by the porch\[/caption\]
+![DSCF7218](images/DSCF7218-1024x683.jpg) Beautiful brownstone houses, just like the kind in the movies where the girl kisses the guy by the porch
 
 ![DSCF7226](images/DSCF7226-1024x683.jpg)
 

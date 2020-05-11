@@ -3,7 +3,7 @@ title: "How I think about Work-Life Balance"
 date: "2018-07-14"
 ---
 
-\[caption id="attachment\_2668" align="aligncenter" width="768"\]![working in smartly singapore office nickang blog](images/smartly-singapore-office-nickang-blog-e1531540364775-768x1024.jpg) A glimpse into our Singapore office!\[/caption\]
+![working in smartly singapore office nickang blog](images/smartly-singapore-office-nickang-blog-e1531540364775-768x1024.jpg) A glimpse into our Singapore office!
 
 I initially intended to write one post summarising the top three things that I think are done well at [Smartly.io](https://smartly.io) in terms of company culture, but I haven't found the time to. So instead of one big post, here's the first of multiple smaller posts detailing distinct cultural traits that make work life at my new job so remarkable.
 

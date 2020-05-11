@@ -3,7 +3,7 @@ title: "No idea what to write about"
 date: "2017-10-07"
 ---
 
-\[caption id="attachment\_1277" align="aligncenter" width="840"\]![hand holding a white washed polaroid](images/markus-spiske-215992-1024x683.jpg) Photo by Markus Spiske on Unsplash\[/caption\]
+![hand holding a white washed polaroid](images/markus-spiske-215992-1024x683.jpg) Photo by Markus Spiske on Unsplash
 
 Right now I'm just sitting here searching my mind for thoughts, including those I've had throughout the day (if I was mindful enough to notice them) and new ones as they emerge. So far, nothing.
 

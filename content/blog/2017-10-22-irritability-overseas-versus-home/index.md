@@ -3,7 +3,7 @@ title: "Irritability overseas versus at home"
 date: "2017-10-22"
 ---
 
-\[caption id="attachment\_1485" align="aligncenter" width="840"\]![singapore roads viewed from overhead bridge](images/IMG_20171021_173405-1024x768.jpg) At Beach Road in Singapore\[/caption\]
+![singapore roads viewed from overhead bridge](images/IMG_20171021_173405-1024x768.jpg) At Beach Road in Singapore
 
 We recently went to Bali again. It was our 6th trip there this time. I guess you could say we're a little obsessed with the place.
 

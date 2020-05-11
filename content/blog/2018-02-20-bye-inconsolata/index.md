@@ -3,7 +3,7 @@ title: "Bye Inconsolata"
 date: "2018-02-20"
 ---
 
-\[caption id="attachment\_2232" align="aligncenter" width="840"\]![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) The old typeface for this blog - bye Inconsolata!\[/caption\]
+![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) The old typeface for this blog - bye Inconsolata!
 
 It's official, I'm sick of the [Inconsolata](https://fonts.google.com/?query=inconsolata) font!
 

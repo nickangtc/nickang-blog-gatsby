@@ -3,7 +3,7 @@ title: "(US) A Little Broadway"
 date: "2016-04-08"
 ---
 
-\[caption id="attachment\_263" align="aligncenter" width="640"\]![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) Every train has a thunderous arrival in NYC\[/caption\]
+![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) Every train has a thunderous arrival in NYC
 
 A train in New York City’s subway first sputters before growing into a series of clanging as the old train grates the tracks that are more than a century old.
 
@@ -11,7 +11,7 @@ A train in New York City’s subway first sputters before growing into a series 
 
 Case in point: I’m someone who gets easily nauseated on moving vehicles and I don’t get light-headed while reading on a train in Singapore; there’s no doubt that I do in New York. Ask the person who sat next to me today.
 
-\[caption id="attachment\_253" align="aligncenter" width="640"\]![Times Square and a little weirdness from that naked Cowboy Oysters guy](images/DSCF7125_edited-1.jpg) Times Square and a little weirdness from that naked Cowboy Oysters guy\[/caption\]
+![Times Square and a little weirdness from that naked Cowboy Oysters guy](images/DSCF7125_edited-1.jpg) Times Square and a little weirdness from that naked Cowboy Oysters guy
 
 ##### Broadway
 
@@ -25,7 +25,7 @@ After flattening our butts on the metal-grill chairs in the middle of Times Squa
 
 It’s a list of Broadway shows, some at 50% off!
 
-\[caption id="attachment\_251" align="aligncenter" width="640"\]![tkts I suppose means tickets](images/DSCF7141_edited-1.jpg) tkts I suppose means tickets\[/caption\]
+![tkts I suppose means tickets](images/DSCF7141_edited-1.jpg) tkts I suppose means tickets
 
 Tkts is apparently an initiative by the Theatre Development Fund, which I imagine is a non-governmental organisation, maybe even a non-profit with the self-understood aim of developing theatre in New York City. Even though Broadway is Broadway, there has to be unsold tickets, which I suppose could be let off cheap?
 
@@ -43,9 +43,9 @@ I did try thinking of hacks to catch an act cheap, but we’ve only got one day 
 
 We’ll return a few years from now and if there’s little reason to pinch pennies then, we’ll catch a couple.
 
-\[caption id="attachment\_266" align="aligncenter" width="640"\]![A guy whose shoes must be shined... Wall Street!](images/DSCF6957_edited-1.jpg) A guy whose shoes must be shined... Wall Street!\[/caption\]
+![A guy whose shoes must be shined... Wall Street!](images/DSCF6957_edited-1.jpg) A guy whose shoes must be shined... Wall Street!
 
-\[caption id="attachment\_265" align="aligncenter" width="427"\]![The NYSE](images/DSCF6968_edited-1.jpg) The NYSE\[/caption\]
+![The NYSE](images/DSCF6968_edited-1.jpg) The NYSE
 
 ![wall street chef](images/DSCF6973_edited-1.jpg)
 
@@ -57,15 +57,15 @@ Some other things I thought about:
 
 **Some other photos**:
 
-\[caption id="attachment\_260" align="aligncenter" width="427"\]![chrysler building](images/DSCF7018_edited-1.jpg) The Chrysler Building - I think this looks better than the Empire State\[/caption\]
+![chrysler building](images/DSCF7018_edited-1.jpg) The Chrysler Building - I think this looks better than the Empire State
 
-\[caption id="attachment\_262" align="aligncenter" width="640"\]![Grand Central Terminal, a herculean beauty](images/DSCF7003_edited-1.jpg) Grand Central Terminal, a herculean beauty\[/caption\]
+![Grand Central Terminal, a herculean beauty](images/DSCF7003_edited-1.jpg) Grand Central Terminal, a herculean beauty
 
-\[caption id="attachment\_257" align="aligncenter" width="640"\]![police NYPD NYC](images/DSCF7064_edited-1.jpg) Police raiding a car in Broadway. I bet brutality is on everyone's mind as they watched\[/caption\]
+![police NYPD NYC](images/DSCF7064_edited-1.jpg) Police raiding a car in Broadway. I bet brutality is on everyone's mind as they watched
 
-\[caption id="attachment\_258" align="aligncenter" width="640"\]![DSCF7045_edited](images/DSCF7045_edited-1.jpg) In the New York Public Library\[/caption\]
+![DSCF7045_edited](images/DSCF7045_edited-1.jpg) In the New York Public Library
 
-\[caption id="attachment\_250" align="aligncenter" width="640"\]![subway ride NYC](images/DSCF7151_edited-1.jpg) Typical of a subway ride in NYC - everyone's tired\[/caption\]
+![subway ride NYC](images/DSCF7151_edited-1.jpg) Typical of a subway ride in NYC - everyone's tired
 
 ![DSCF6952_edited](images/DSCF6952_edited-1.jpg)
 

@@ -3,7 +3,7 @@ title: "Treasure! That's just what you are"
 date: "2016-10-09"
 ---
 
-\[caption id="attachment\_709" align="aligncenter" width="475"\]![bruno mars treasure music video](images/bruno-mars-treasure.jpg) That's Bruno Mars\[/caption\]
+![bruno mars treasure music video](images/bruno-mars-treasure.jpg) That's Bruno Mars
 
 Today, for the third time since we moved in to our new apartment a year ago, we snagged a great deal. We found three pots of fake plants sitting by the garbage and took two of them home for free. I know an amazing deal when I take one (or two).
 

@@ -3,7 +3,7 @@ title: "A very involved job application"
 date: "2018-04-03"
 ---
 
-\[caption width="2999"\]![Riding on Stevens road ](images/img_20180403_2328428105026912879685680.jpg "Riding on Stevens road ")Today's thoughts were formed while riding in the Singaporean traffic jam\[/caption\]
+![Riding on Stevens road ](images/img_20180403_2328428105026912879685680.jpg "Riding on Stevens road ")Today's thoughts were formed while riding in the Singaporean traffic jam
 
 Among the many interviews I'm doing at the moment, none has been more involved than the one I'm going for tomorrow. I'll not reveal the company name for now since it's not much of a value-add, but don't read that as me saying it's a negative experience. It's not. It's just more involved than what is typical, which is fascinating.
 

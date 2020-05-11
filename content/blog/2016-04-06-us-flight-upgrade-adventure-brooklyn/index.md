@@ -9,17 +9,17 @@ I’m going to keep this brief so I can go to sleep soon, seeing that it’s jus
 
 We’re in Brooklyn, New York. It’s a first for both of us in the Big Apple (why is it called that anyway?) and to be honest, I’m not sure whether it’s the fatigue or not, but I was underwhelmed. Neither was Mei gasping in awe when we walked around the streets of Sunset Park in Brooklyn.
 
-\[caption id="attachment\_193" align="aligncenter" width="640"\]![Leaving Singapore](images/DSCF6536_edited.jpg) Leaving Singapore\[/caption\]
+![Leaving Singapore](images/DSCF6536_edited.jpg) Leaving Singapore
 
 Come to think of it I’m pretty sure it was the –1 degree celsius weather that made everything hard to appreciate. All we really wanted was to find that damned Airbnb apartment as soon as possible so our noses wouldn’t fall off.
 
-\[caption id="attachment\_196" align="aligncenter" width="640"\]![Looks like the New Yorkers took their winter clothing off the shelf too early](images/DSCF6585_edited.jpg) Looks like the New Yorkers took their winter clothing off the shelf too early\[/caption\]
+![Looks like the New Yorkers took their winter clothing off the shelf too early](images/DSCF6585_edited.jpg) Looks like the New Yorkers took their winter clothing off the shelf too early
 
 It’s Spring in New York, and apparently that doesn’t mean it’s above 10 or even above 0 degrees celsius here. Snowstorms are common. I don’t think we experienced a snowstorm today though, since, well, there wasn’t a speck of snow. But it’s definitely not normal spring weather either. Lucky us, I guess?
 
 Speaking of lucky, some cool things happened today during our pilgrimage to the John F. Kennedy (JFK) International Airport from Singapore’s Changi Airport. What kind of cool stuff?
 
-\[caption id="attachment\_194" align="aligncenter" width="640"\]![In Frankfurt I swear I wanted to be just like them at Changi Airport](images/DSCF6547_edited.jpg) In Frankfurt I swear I wanted to be just like them at Changi Airport\[/caption\]
+![In Frankfurt I swear I wanted to be just like them at Changi Airport](images/DSCF6547_edited.jpg) In Frankfurt I swear I wanted to be just like them at Changi Airport
 
 Free upgrades!
 
@@ -32,7 +32,7 @@ On to a rapid fire Q&A:
 - Where should I put my lithium ion batteries for a flight leaving from Singapore Changi Airport? - In your carry-on bag. Don’t check it in or it might bounce! (This differs by airport, I believe. Once, in Xiamen, China, security confiscated—ie. threw away—Mei’s $70 powerbank when she brought it in her hand carry).
 - Why do headphones on planes use two pins instead of one? (Not sure, but I know and can feel my brain slowing down a lot right now, so I’m going to guess it’s something to do with legacy technology infrastructure…)
 
-\[caption id="attachment\_197" align="aligncenter" width="640"\]![Inside a Dean & Deluca, an upmarket supermarket ](images/DSCF6587_edited.jpg) Inside a Dean & Deluca, an upmarket supermarket on Broadway\[/caption\]
+![Inside a Dean & Deluca, an upmarket supermarket ](images/DSCF6587_edited.jpg) Inside a Dean & Deluca, an upmarket supermarket on Broadway
 
 Over the 20 plus hours flights I’ve had time to read Mike Tyson’s autobiography, watch one and a half films and wonder about things.
 
@@ -47,7 +47,7 @@ I had time, so I wondered about a few things here and there:
 
 Sitting at my Airbnb apartment in Brooklyn now, having eaten some cheap tacos we found at a food truck nearby for dinner, I feel satisfied. Our host Ariell is very gracious, apologising for not providing towels upon arrival and other little things like that that shouldn’t warrant profuse apologies. Everything is looking good. Ok, maybe except my greasy hair and cracked feet.
 
-\[caption id="attachment\_198" align="aligncenter" width="640"\]![Food truck tacos near our Brooklyn apartment](images/DSCF6600_edited.jpg) Food truck tacos near our Brooklyn apartment\[/caption\]
+![Food truck tacos near our Brooklyn apartment](images/DSCF6600_edited.jpg) Food truck tacos near our Brooklyn apartment
 
 It’s been a good two days of acclimatisation. In the plane I had a blocked nostril and couldn’t taste my food, and for the first time I told myself to just accept it and eat the food anyway. I did, and it felt great even though it didn’t taste that much. An adventure is the perfect playground for experimenting, and this one worked out fine. The next time a blocked nose comes I’ll just go along with it. (Hmm, this way accepting things as they are seems applicable to many more things in life…).
 

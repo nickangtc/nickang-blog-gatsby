@@ -3,7 +3,7 @@ title: "Laptops are not the best for writing"
 date: "2019-05-11"
 ---
 
-\[caption id="attachment\_3385" align="aligncenter" width="640"\]![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) Photo by NordWood Themes\[/caption\]
+![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) Photo by NordWood Themes
 
 I have a love-hate relationship with technology, specifically with computers being the de facto tool for writing.
 

@@ -3,7 +3,7 @@ title: "A power couple"
 date: "2018-11-11"
 ---
 
-\[caption id="attachment\_3033" align="aligncenter" width="4608"\]![power couple nick ang blog](images/milan-popovic-596860-unsplash.jpg) Not us. But I'm digging the vibes!\[/caption\]
+![power couple nick ang blog](images/milan-popovic-596860-unsplash.jpg) Not us. But I'm digging the vibes!
 
 I received an interesting message from a friend who recently saw my [update](https://www.instagram.com/p/Bp_X2WgBPpE/) on social media about my new business with my wife. I believe he said we were such a “power couple”.
 

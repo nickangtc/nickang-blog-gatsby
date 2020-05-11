@@ -3,7 +3,7 @@ title: "Anthony Bourdain killed a red stag"
 date: "2016-08-03"
 ---
 
-\[caption id="attachment\_435" align="aligncenter" width="840"\]![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) A scene from Parts Unknown, Scotland episode\[/caption\]
+![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) A scene from Parts Unknown, Scotland episode
 
 I was on the plane yesterday to Hong Kong when I watched Anthony Bourdain’s Parts Less Known documentary. Episode one covered Scotland, Glasgow mostly, where Bourdain spoke to many different kinds of Glaswegians (people of Glasgow).
 

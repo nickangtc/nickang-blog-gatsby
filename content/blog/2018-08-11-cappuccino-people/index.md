@@ -3,7 +3,7 @@ title: "Cappuccino people"
 date: "2018-08-11"
 ---
 
-\[caption id="attachment\_2769" align="aligncenter" width="840"\]![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) Parts Unknown: Cologne, Germany\[/caption\]
+![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) Parts Unknown: Cologne, Germany
 
 One of my favourite documentaries is Parts Unknown hosted by Anthony Bourdain. It is gritty, personal, and so very real, owing largely to Anthony Bourdain's no-bullshit and warm personality. My heart still aches thinking about how he [left](https://www.vanityfair.com/hollywood/2018/08/remembering-anthony-bourdain-as-only-his-fixers-could) us.
 

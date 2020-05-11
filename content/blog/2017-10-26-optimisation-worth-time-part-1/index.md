@@ -3,7 +3,7 @@ title: "Optimisation: Is it worth the time? (part 1)"
 date: "2017-10-26"
 ---
 
-\[caption id="attachment\_1531" align="aligncenter" width="600"\]![lone tree optimisation worth it](images/BSP-optimisation-worth-it-part-1.png) Photo by Todd Quackenbush on Unsplash\[/caption\]
+![lone tree optimisation worth it](images/BSP-optimisation-worth-it-part-1.png) Photo by Todd Quackenbush on Unsplash
 
 Let's say you have a routine task (it doesn't have to be a programming task, but that's what your mind is almost always on, right?). We can call it Task A.
 

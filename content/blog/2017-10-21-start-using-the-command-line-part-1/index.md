@@ -3,7 +3,7 @@ title: "Bite Size Programming - How to start using the command line (part 1)"
 date: "2017-10-21"
 ---
 
-\[caption id="attachment\_1477" align="aligncenter" width="600"\]![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) Photo by Thanh Tran on Unsplash\[/caption\]
+![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) Photo by Thanh Tran on Unsplash
 
 Just getting started with becoming a programmer and want to start using the command line? This post is just for you.
 
@@ -21,7 +21,7 @@ Here's the first thing you need to know about the CLI: you are always working fr
 
 (A "directory" is just a more technical way to say "folder".)
 
-\[caption id="attachment\_1473" align="aligncenter" width="882"\]![folder command line nickang blog](images/folder-command-line-nickang-blog.png) What we normally call a "folder" is also known as a "directory"\[/caption\]
+![folder command line nickang blog](images/folder-command-line-nickang-blog.png) What we normally call a "folder" is also known as a "directory"
 
 That means that whenever you write a command in Terminal, you are giving a command with respect to the current location (ie. directory) you're currently in.
 
@@ -29,7 +29,7 @@ Therefore, you need a way to find out your working directory at any time. To do 
 
 ### pwd - print working directory
 
-```sh
+```shell
 # running this
 pwd
 
@@ -47,7 +47,7 @@ While seeing your working directory is useful, it's meaningless if you cannot se
 
 It'd be like being in a hotel room but not knowing how you got in there. There are no windows and you can't tell which country or city this room is located. No matter how amazing the room is, you can't know what's happening outside relative to you. Kind of a bummer, eh?
 
-```sh
+```shell
 # running this
 ls
 
@@ -67,7 +67,7 @@ Here's how it looks on my Macbook (it probably looks different from yours becaus
 
 Next, let's learn about changing to another directory. This is arguably one of the most frequently used commands.
 
-```sh
+```shell
 # running this
 ls
 
@@ -88,7 +88,7 @@ Some commands expect an argument (like `cd` and we'll soon see, `rm`), while oth
 
 To delete an item, we use the [`rm`](https://www.mankier.com/1/rm) command, which stands for _remove_.
 
-```sh
+```shell
 rm cute_cat_photo.jpg
 ```
 
