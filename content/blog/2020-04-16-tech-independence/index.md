@@ -15,7 +15,7 @@ Everything below is quoted verbatim from the original interview transcript. Read
 > 
 > He has no pictures of his son from birth to age nine because he was depending on Google. You don’t do that. If something matters to you, you don’t give it to Facebook. They don’t care as much as you do.
 > 
-> Derek Sivers (2020)
+> <cite>Derek Sivers (2020)</cite>
 
 Derek recommends instead to host your own server to store your images, videos, music, writing, and any data important to you.
 

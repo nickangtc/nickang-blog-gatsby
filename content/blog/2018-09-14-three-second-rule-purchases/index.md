@@ -19,6 +19,7 @@ Little moments of happiness can't be bought. Except on the few occasions like th
 
 **EDIT**: I was just continuing to watch the incredible Joe Rogan interview with Elon Musk and heard him bring up the same idea I was trying to encapsulate in this post.
 
-> How many things can you buy that you really love, that really gives you joy? So rare, so rare. I wish there were more things. (Elon Musk, 2018)
+> How many things can you buy that you really love, that really gives you joy? So rare, so rare. I wish there were more things.
+> <cite>Elon Musk, 2018</cite>
 
 https://youtu.be/ycPr5-27vSI?t=2h25m4s

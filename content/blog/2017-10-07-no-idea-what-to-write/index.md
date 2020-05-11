@@ -15,6 +15,7 @@ This makes me wonder how daily bloggers like [Seth Godin](http://sethgodin.typep
 
 Actually, don't answer that. I don't think I'm ready for it. Benjamin Franklin may have already laid some hints for me when he said,
 
-> "Either write something worth reading or do something worth writing." (Benjamin Franklin, US President)
+> "Either write something worth reading or do something worth writing."
+> <cite>Benjamin Franklin, US President</cite>
 
 I dislike lack of focus like this post clearly is, but I reject my lazy mind's plea to make today a holiday. I'm trying to learn to show up to the blank page every day like it is a duty - I'd like if no exceptions were thrown!

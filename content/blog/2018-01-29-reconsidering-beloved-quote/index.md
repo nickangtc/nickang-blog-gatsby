@@ -3,7 +3,8 @@ title: "Reconsidering a beloved quote"
 date: "2018-01-29"
 ---
 
-> Be steady and well-ordered in your life, so that you can be fierce and original in your work. -- Gustave Flaubert
+> Be steady and well-ordered in your life, so that you can be fierce and original in your work.
+> <cite>Gustave Flaubert</cite>
 
 What a beautiful quote, right? It espouses the virtues of being balanced in your life, taking care to regularly oil all the parts that make the machinery of you, so that you might nurture the chance of doing good work.
 

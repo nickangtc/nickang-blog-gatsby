@@ -140,7 +140,8 @@ Of course, the instructional team also consists of teaching assistants whom I’
 
 Most importantly, you reap what you sow (the following quote is shared with us by our instructor, Jeremiah):
 
-> “A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself.” - Bruce Lee
+> A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself.
+> <cite>Bruce Lee</cite>
 
 ### 3\. Support outside of class hours
 

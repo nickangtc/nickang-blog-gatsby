@@ -15,7 +15,8 @@ If you've wondered how this internet sorcery works, this short post is for you t
 
 First, a quick look at Wikipedia's definition of the internet:
 
-> The internet is a "global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide." ([Wikipedia](https://en.wikipedia.org/wiki/Internet))
+> The internet is a "global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide."
+> <cite>[Wikipedia](https://en.wikipedia.org/wiki/Internet)</cite>
 
 Ok, now we're ready to ask the real defining question.
 

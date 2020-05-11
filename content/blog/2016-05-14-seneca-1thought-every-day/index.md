@@ -21,7 +21,7 @@ But I think the lesson is applicable to many things. Kurt Vonnegut, an accomplis
 
 > "Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia."
 > 
-> (Kurt Vonnegut, _Bagombo Snuff Box_)
+> <cite>Kurt Vonnegut, Bagombo Snuff Box</cite>
 
 So the lesson I draw here is to **default to the few when faced with the option of many**. This applies to the books you read as much as the things you write. Personally, I think this means it should apply to thoughts as well.
 

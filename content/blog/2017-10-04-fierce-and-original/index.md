@@ -7,7 +7,8 @@ date: "2017-10-04"
 
 A couple of weeks ago, I shared a wonderful quote with my friend Kai over a bathroom conversation:
 
-> "Be steady and well-ordered in your life so that you can be fierce and original in your work." _(Gustave Flaubert, French author in the late 1800s)_
+> "Be steady and well-ordered in your life so that you can be fierce and original in your work."
+> <cite>Gustave Flaubert</cite>
 
 Kai is working on his first startup. By now he's probably slightly more than half a year into building Bakti (what it was called then) and now Project We Forgot.
 

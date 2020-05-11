@@ -5,7 +5,8 @@ date: "2018-04-20"
 
 ![](images/chalis007-189517-unsplash-1024x683.jpg) Photo by 胡 卓亨 on Unsplash
 
-> When the student is ready, the teacher will appear. - Tao Te Ching
+> When the student is ready, the teacher will appear.
+> <cite>Tao Te Ching</cite>
 
 This is a deeply important saying that I believe will either set a student for stellar success or utter failure in learning what he or she set out to learn.
 

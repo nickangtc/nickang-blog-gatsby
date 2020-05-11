@@ -29,7 +29,8 @@ And while you're busy showing up, your skills are busy levelling up.
 
 If you don't know me and don't trust me, or if you do and still don't, take it from Ira Glass. He's some famous radio guy who sounds convincing talking about creative work.
 
-> "Do a lot work. Do a huge amount of work. Put yourself on a deadline. Every week or every month. It's only by going through a volume of work that you're actually going to catch up and close that gap, and the work you're making is going to be as good as your ambitions. It takes a while. You just have to fight your way through that, ok?" (Ira Glass)
+> "Do a lot work. Do a huge amount of work. Put yourself on a deadline. Every week or every month. It's only by going through a volume of work that you're actually going to catch up and close that gap, and the work you're making is going to be as good as your ambitions. It takes a while. You just have to fight your way through that, ok?"
+> <cite>Ira Glass</cite>
 
 Here's a nice [video](https://vimeo.com/85040589) made by someone who showed up with Ira Glass narrating those elegant words.
 

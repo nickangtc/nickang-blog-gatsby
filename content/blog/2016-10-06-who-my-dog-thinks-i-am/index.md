@@ -3,7 +3,8 @@ title: "Who my dog thinks I am"
 date: "2016-10-06"
 ---
 
-> “God, please make me who my dog thinks I am!” Eckhart Tolle, The Art of Presence (audio)
+> God, please make me who my dog thinks I am!
+> <cite>Eckhart Tolle, The Art of Presence (audio)</cite>
 
 ![walking the dog](images/20160928-IMG_20160928_190109-1024x768.jpg)
 
