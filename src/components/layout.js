@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 import '../styles/index.scss'
+import twitterLogo from "../../content/assets/twitter.svg"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -60,7 +61,10 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        Created by Gatsby.js, tweaked by Nick Ang © {new Date().getFullYear()}
+        <p>Nick Ang © {new Date().getFullYear()}</p>
+        <a href="https://twitter.com/nickang" target="_blank" rel="noopener noreferrer">
+          <img alt="twitter icon" src={twitterLogo} />
+        </a>
       </footer>
     </div>
   )

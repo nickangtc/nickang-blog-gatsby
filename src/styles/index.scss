@@ -19,3 +19,14 @@ a {
     text-decoration-color: $red !important;
     color: $red;
 }
+
+footer {
+    a {
+        text-decoration: none;
+        box-shadow: none;
+    }
+    
+    img {
+        margin-bottom: 0;
+    }
+}
