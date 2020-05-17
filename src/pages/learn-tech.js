@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 
 import img1 from "../../content/assets/desktop-setup-nick-ang.png"
 import img2 from "../../content/assets/bits-please-nick-ang-blog-instagram.png"
@@ -39,14 +38,14 @@ const LearnTechPage = ({ data, location }) => {
 
       <h2>Bits Please! on Instagram</h2>
 
-      <figure><img src={img2} /></figure>
+      <img src={img2} alt="@nickang_blog instagram account" />
 
       <p>If you like my written posts, you may also like what I'm experimenting with on Instagram: <em>Bits Please!</em> It is an experimental way of conveying technical ideas through sketches.</p>
 
       <p><a href="https://www.instagram.com/nickang_blog/https://www.instagram.com/nickang_blog/">View Bits Please! on Instagram &gt;</a></p>
 
       <h2>YouTube channel</h2>
-      <figure><img src={img3} alt="nick ang youtube channel front page" /></figure>
+      <img src={img3} alt="nick ang youtube channel front page" />
       <p>Like video tutorials so you can learn by watching developers code? Check out my YouTube channel where I upload <a href="https://www.nickang.com/experienced-developer-does-freecodecamps-web-development-course-and-explain-everything/">videos of me doing the freeCodeCamp course as an experienced developer</a>.</p>
 
       <p><a href="https://www.youtube.com/channel/UCfGK7NLYK22y1ahCh6w9baw">View my channel &gt;</a></p>

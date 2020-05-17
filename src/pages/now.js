@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 
 import img1 from "../../content/assets/nick-ang-talk-at-greenridge-secondary-school.jpg"
 import img2 from "../../content/assets/nick-ang-smartlyio-hackathon-the-last-supper.jpg"
