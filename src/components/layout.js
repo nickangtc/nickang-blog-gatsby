@@ -33,7 +33,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontFamily: `"Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif`,
           marginTop: 0,
         }}
       >
