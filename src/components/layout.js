@@ -1,9 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import { rhythm, scale } from "../utils/typography"
-import '../styles/index.scss'
-import twitterLogo from "../../content/assets/twitter.svg"
+
+import Footer from '../components/footer'
+import '../styles/global.scss'
+import layoutStyles from './layout.module.scss'
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -57,15 +58,13 @@ const Layout = ({ location, title, children }) => {
         maxWidth: rhythm(24),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
+      className={layoutStyles.container}
     >
-      <header>{header}</header>
-      <main>{children}</main>
-      <footer>
-        <p>Nick Ang © {new Date().getFullYear()}</p>
-        <a href="https://twitter.com/nickang" target="_blank" rel="noopener noreferrer">
-          <img alt="twitter icon" src={twitterLogo} />
-        </a>
-      </footer>
+      <div className={layoutStyles.content}>
+        <header>{header}</header>
+        <main>{children}</main>
+      </div>
+      <Footer></Footer>
     </div>
   )
 }
