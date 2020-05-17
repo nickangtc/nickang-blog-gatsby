@@ -11,7 +11,7 @@ const NewsletterPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Nick Ang | Newsletter" />
       <h1>Newsletter</h1>
-      <p>Find previous newsletters here.</p>
+      <p>Find previous newsletters here. <a target="_blank" rel="noreferrer" href="http://eepurl.com/dj-HR5">Click here</a> to subscribe.</p>
 
       <h3>April 2020</h3>
 

@@ -5,9 +5,11 @@ body {
     background-color: $beige;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, nav {
     font-family: "Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+}
 
+h1, h2, h3, h4, h5, h6 {
     a {
         color: black;
     }
@@ -18,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    text-decoration-color: $red !important;
+    text-decoration-color: $red;
     color: $red;
 }
 

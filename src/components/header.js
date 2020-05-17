@@ -25,20 +25,17 @@ const Header = ({ title }) => {
       </h1>
       
       <nav>
-          <ul className={ headerStyles.navList }>
-            <li className={ headerStyles.navItem }>
-              <Link to="/blog">Blog</Link>
-            </li>
-            <li className={ headerStyles.navItem }>
-              <Link to="/newsletter">Newsletter</Link>
-            </li>
-            <li className={ headerStyles.navItem }>
-              <Link to="/recommendations">Recommendations</Link>
-            </li>
-            <li className={ headerStyles.navItem }>
-              <Link to="/now">Now</Link>
-            </li>
-          </ul>
+        <ul className={ headerStyles.navList }>
+          <li className={ headerStyles.navItem }>
+            <Link to="/newsletter">Newsletter</Link>
+          </li>
+          <li className={ headerStyles.navItem }>
+            <Link to="/recommendations">Recommendations</Link>
+          </li>
+          <li className={ headerStyles.navItem }>
+            <Link to="/now">Now</Link>
+          </li>
+        </ul>
       </nav>
     </header>
   )
