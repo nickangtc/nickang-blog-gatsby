@@ -25,7 +25,7 @@ Before long, my parents came to pick us up for dinner. We ate some delicious Chi
 
 That about sums up my day today.
 
-##### May-June 2016: Post-US trip
+## May-June 2016: Post-US trip
 
 Since we got back from our month-long trip around the US (from New York to Los Angeles), I've been busy coding. It's the first time I'm learning to code this furiously. My hunger to know how to code is growing by the day, and it feels great.
 

@@ -19,7 +19,7 @@ Interesting things that happened today:
 
 ![DSCF7285](images/DSCF7285-1024x683.jpg)
 
-##### Over dinner at the Atrium restaurant
+## Over dinner at the Atrium restaurant
 
 _Can I sit on your lap while you’re pooping?_ I think that was the title of the book I was reading when someone tapped me on the shoulder and said “You should definitely read that, it’s a great book!”
 

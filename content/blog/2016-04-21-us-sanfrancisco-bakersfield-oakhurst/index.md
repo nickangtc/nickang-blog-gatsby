@@ -100,7 +100,7 @@ It’s very light compared to an entry-level DSLR. It’s also much smaller, abo
 
 Without sounding like a reviewer I’m just going to say one last thing about the camera. It’s impeccably designed to encourage use. So light, small and fun to use. Neither of us regret investing in this camera.
 
-##### Some Photos From the Journey
+## Some Photos From the Journey
 
 ![Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train](images/DSCF7877_edited-1024x683.jpg) Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train
 

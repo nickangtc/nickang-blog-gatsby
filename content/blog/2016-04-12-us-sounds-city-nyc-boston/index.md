@@ -15,7 +15,7 @@ He’s in Boston University doing his masters in education and offered to put us
 
 ![Harvard Yard](images/DSCF7338-1024x683.jpg) Harvard Yard
 
-##### A Walk Through Harvard University
+## A Walk Through Harvard University
 
 We got up at 9am yesterday morning to prepare for our Free Tour By Foot in the famous intellectual powerhouse that is Harvard University. Next door MIT comes close but Harvard’s name has a real shine to it in our eyes, probably from fantastic marketing, so we signed up for that.
 
@@ -34,7 +34,7 @@ But I’ll state two facts I learned on the tour:
 
 ![Dim sum in Boston](images/DSCF7374_edited-1024x683.jpg) Dim sum in Boston Chinatown
 
-##### Tipping: The Most Unbearable Thing In American Culture
+## Tipping: The Most Unbearable Thing In American Culture
 
 Well I think it’s best to state here upfront: perhaps it’s just me. But I have a feeling it’s not, and the tipping culture here is something I believe many non-Americans berate. A quick lowdown on what’s to hate about the ‘tipping’ culture:
 
@@ -49,19 +49,25 @@ These are my top reasons for hating the American tipping culture. And no, I fran
 
 ![On a laundry run with our Airbnb host, Ariell, in Brooklyn](images/DSCF7297_edited-1024x683.jpg) On a laundry run with our Airbnb host, Ariell, in Brooklyn
 
-##### Sounds of New York City
+## Sounds of New York City
 
 On our final subway ride in NYC on this trip, I decided on a whim to record the sounds. Initially it was for posterity, but very quickly I’d realised that this might make for good travelogue-ing material, so I’m posting it here.
 
 What riding a New York subway train sounds like:
 
-\[audio mp3="https://www.nickang.com/wp-content/uploads/2016/04/Voice0035-New-York-City-subway-sound.mp3"\]\[/audio\]
+<audio controls="controls">
+  <source type="audio/mp3" src="Voice0035-New-York-City-subway-sound.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 Boston 'T' train (their subway):
 
-\[audio mp3="https://www.nickang.com/wp-content/uploads/2016/04/Voice0036-Boston-train.mp3"\]\[/audio\]
+<audio controls="controls">
+  <source type="audio/mp3" src="Voice0036-Boston-train.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
-##### Interesting Sights in Boston:
+## Interesting Sights in Boston:
 
 ![boston police harleys](images/DSCF7563_edited-1024x683.jpg) Boston Policemen have badass rides
 

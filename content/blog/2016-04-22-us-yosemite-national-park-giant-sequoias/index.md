@@ -31,7 +31,7 @@ Leaving that behind took a while but I eventually came around and shook off the 
 
 ![Checking into Travel Inn at South Lake Tahoe](images/DSCF8524_edited-1024x683.jpg) Checking into Travel Inn at South Lake Tahoe, California
 
-##### How to Get Cheap Accommodations Without Prior Booking
+## How to Get Cheap Accommodations Without Prior Booking
 
 We didn’t have any reservations for lodging, so I pulled over at one of the large open-air carparks that are so commonplace throughout the states and took to Google.
 
@@ -43,7 +43,7 @@ It was dark by the time we got here, but I’m looking forward to seeing the lak
 
 ![DSCF8496_edited](images/DSCF8496_edited-1024x683.jpg) Taking a moment to stretch our legs and absorb the sublime sunset
 
-##### People Moving Around
+## People Moving Around
 
 We’ve so far eaten at about six Chinese restaurants and Mei and I take turns to ask each other “Why?” Why did these people migrate to X part of the US, especially if they are far flung places like the passing towns hundreds of miles away from major cities?
 

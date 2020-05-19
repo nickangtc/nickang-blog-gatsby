@@ -13,7 +13,7 @@ Case in point: I’m someone who gets easily nauseated on moving vehicles and I 
 
 ![Times Square and a little weirdness from that naked Cowboy Oysters guy](images/DSCF7125_edited-1.jpg) Times Square and a little weirdness from that naked Cowboy Oysters guy
 
-##### Broadway
+## Broadway
 
 Every trip to New York has to be accompanied with patronage of a Broadway play or musical, right? I thought so, but neither of us felt an urge to catch one so we waited for chance to creep up on us like it did in Times Square.
 

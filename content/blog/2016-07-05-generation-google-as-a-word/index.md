@@ -41,7 +41,7 @@ Google is there, you just need to use it. That’s basically saying that the man
 
 Taking inspiration from these young guys, I’m going to build some stuff I’ve been wanting to build for a while but have been putting off mainly because “I’m not technically sophisticated enough yet”. That’s actually my excuse to myself and to people who ask, verbatim. It’s flimsy considering the power of google is just a few centimeters above on my screen in that search bar.
 
-##### **The list of projects I want to do over the rest of the year:**
+## **The list of projects I want to do over the rest of the year:**
 
 1. A drone that can fly, and can be controlled by a person.
 2. Some security camera that records footage whenever movement is detected.
@@ -55,4 +55,4 @@ I don’t really know just how achievable this is, but I know only one way to fi
 
 And if my progress learning web development full-time using Free Code Camp since almost two months ago is any indication, then I think it’s doable, though probably by a stretch when it comes to time.
 
-My priority now is to learn web development (HTML, CSS, JavaScript and soon, Ruby on Rails), while occasionally dedicating a full day to working on a hardware project. I’ll keep a log on my [website](http://nickang.com/), and maybe update here on Medium too.
+My priority now is to learn web development (HTML, CSS, JavaScript and soon, Ruby on Rails), while occasionally dedicating a full day to working on a hardware project. I’ll keep a log on my [website](https://nickang.com/), and maybe update here on Medium too.

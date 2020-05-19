@@ -19,7 +19,7 @@ A couple of interesting things I've learned about America these few days:
 
 ![Enroute to Chicago via NY, there's Wi-fi on Bolt buses!](images/DSCF7710_edited-1024x683.jpg) Enroute to Chicago via NY, there's Wi-fi on Bolt buses!
 
-##### Shuffling From State to State (of Being)
+## Shuffling From State to State (of Being)
 
 It must have been close to 8pm when our food finally arrived. Today’s our last night in Boston and our host, who’s also our good friend from secondary school, thought it’d be a great idea to eat at the famous Barking Crabs restaurant as sort of a welcome-and-farewell dinner. I thought it a swell idea too but didn’t want him to pay, so we tussled back and forth for a while before finally deciding on who’s paying.
 
@@ -41,7 +41,7 @@ Believe it or not, what I’m saying is that not being able to tell the waiter �
 
 What’s really important here for me is to remember that with time, we all cross these lines naturally. The way then to savour it is not with nonchalance but with awareness. So even if it might be inevitable (at the rate I’m going) to be able to occasionally walk into a seafood restaurant and order something expensive without worrying the bank will claim my collateral, it’s best to learn to feel the youthfulness while it lasts - even if it means having one less market-priced just-caught fresh lobster at dinners. I’ll just have the fish and chips, please.
 
-##### New York to California in 4 Days
+## New York to California in 4 Days
 
 ![We're ready for our hands-free part of the trip from NY to Emeryville, California! ](images/DSCF7699_edited-1024x683.jpg) We're ready for our hands-free part of the trip from NY to Emeryville, California!
 

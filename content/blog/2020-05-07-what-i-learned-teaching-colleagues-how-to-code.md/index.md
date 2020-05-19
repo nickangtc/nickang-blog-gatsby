@@ -48,3 +48,5 @@ Some insights for conducting high-quality live online classes:
 When it comes to teaching, 70 percent of the battle is already won if you have students who are self-motivated to learn what you are going to teach, so it pays to focus on recruiting only those who appear ready to learn. The other 10 percent and 20 percent are won by consistent encouragement and instructional quality.
 
 My ability to teach the same topic has improved significantly since the last time I taught it. I explain concepts more clearly because I remember (to my surprise) the foibles from the last time I taught it. By now I've taught the basics of JavaScript programming more than 5 times to strangers and to colleagues and I can recall all the times when some way of explaining a concept just didn't work. It's probably a mix of wanting to avoid embarrassment and a genuine desire to want to get the message across clearly.
+
+[one month at smartly](/2018-06-30-one-month-at-smartly)

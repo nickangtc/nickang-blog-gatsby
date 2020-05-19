@@ -112,7 +112,7 @@ There are many more useful and fascinating things you can do with the CLI, which
 
 Have fun with your new toy, I'll see you in the next post!
 
-**Edit (28/10/17):** Part 2 is published! Read it [here](http://nickang.com/start-using-the-command-line-part-2).
+**Edit (28/10/17):** Part 2 is published! Read it [here](https://nickang.com/start-using-the-command-line-part-2).
 
 * * *
 
