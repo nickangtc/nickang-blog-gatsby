@@ -10,7 +10,7 @@ Less than a year ago, I was a non-technical founder of a technology startup. Tha
 
 When the time was right to hire interns from the School of Computing at my alma mater (NUS!), I hit an impasse and stopped working on the product altogether. That was when I started to learn programming, first on my own using free online resources like [FreeCodeCamp](https://www.freecodecamp.com/) before eventually enrolling in General Assembly’s [Web Development Immersive](https://generalassemb.ly/education/web-development-immersive) in Singapore.
 
-I don’t want to dive into the specifics of the General Assembly course (I’ve written a [review](https://www.nickang.com/general-assembly-singapore-review/) for that) but instead, I’d like to reflect on programming bootcamps more generally. What are they and why are there so many of them now? Do they deliver results? Should I join one to make an entry into tech? I’ll indirectly take a stab at these questions with the bullets below.
+I don’t want to dive into the specifics of the General Assembly course (I’ve written a [review](/2017-03-12-general-assembly-singapore-review/) for that) but instead, I’d like to reflect on programming bootcamps more generally. What are they and why are there so many of them now? Do they deliver results? Should I join one to make an entry into tech? I’ll indirectly take a stab at these questions with the bullets below.
 
 ## 1\. Programming bootcamps are sprouting in response to demand
 
@@ -112,7 +112,7 @@ The programming bootcamp that I attended ([Web Development Immersive](https://ge
 
 One of our teaching assistants, [David](https://www.linkedin.com/in/davified/), was a former graduate of the bootcamp, which I think added a nice touch of reality to us as programming wannabes. I used David as a benchmark of what I _could_ be upon completion of the bootcamp. Our second teaching assistant, [Rama](https://www.linkedin.com/in/undramatized/), was a fresh graduate from the Singapore University of Technology and Design’s (SUTD) Bachelor of Information Systems Technology and Design. He brought more theoretical knowledge into the class along with an appreciation of computer systems and advanced technologies like artificial intelligence and machine learning. Both of them taught me many things, among them how to debug in every situation.
 
-That said, it’s not always possible to find blogs that cover a bootcamp in enough detail to help you make a judgement, so this may be, out of necessity, a leap of faith. The best alternative to suss out any bootcamp is by asking your friends who have been through it. LinkedIn makes this a trivial task. (If you have questions specifically about General Assembly in Singapore, check out my [detailed review](https://www.nickang.com/general-assembly-singapore-review/).)
+That said, it’s not always possible to find blogs that cover a bootcamp in enough detail to help you make a judgement, so this may be, out of necessity, a leap of faith. The best alternative to suss out any bootcamp is by asking your friends who have been through it. LinkedIn makes this a trivial task. (If you have questions specifically about General Assembly in Singapore, check out my [detailed review](/2017-03-12-general-assembly-singapore-review/).)
 
 ### Quality of your attitude
 

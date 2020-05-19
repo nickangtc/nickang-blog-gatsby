@@ -7,7 +7,7 @@ date: "2016-04-08"
 
 A train in New York City’s subway first sputters before growing into a series of clanging as the old train grates the tracks that are more than a century old.
 
-[Yesterday](https://www.nickang.com/us-manhattan-nyu/) I wrote that I found some New Yorkers to be a loud and uninhibited when talking in public, and that I quite like it. Now I’m certain that the subway and its thunderous metal gnashing has something to do with it. Perhaps the same way the modern—and come on, let’s admit it, virtually silent—trains have imprinted on Singaporeans to be more reserved in our mannerism.
+[Yesterday](/2016-04-07-us-manhattan-nyu/) I wrote that I found some New Yorkers to be a loud and uninhibited when talking in public, and that I quite like it. Now I’m certain that the subway and its thunderous metal gnashing has something to do with it. Perhaps the same way the modern—and come on, let’s admit it, virtually silent—trains have imprinted on Singaporeans to be more reserved in our mannerism.
 
 Case in point: I’m someone who gets easily nauseated on moving vehicles and I don’t get light-headed while reading on a train in Singapore; there’s no doubt that I do in New York. Ask the person who sat next to me today.
 

@@ -53,7 +53,7 @@ Another thing I’ve noticed is that compassion spreads. Whenever we catch ourse
 
 These are just three broad things that I thought of as representative of what’s keeping my marriage strong. They are by no means exhaustive, though they’re certainly not misrepresented (my wife came up with the same list of points).
 
-We are not love experts, and you shouldn't trust [online advice](https://www.nickang.com/online-advice-dangerous/). We’ve just been together for a while and have been quite happy so far (half our lives), and I thought it’d be valuable to write this down for my own reference in the future. It could be a useful reminder when we find our marriage having any ruptures in the future.
+We are not love experts, and you shouldn't trust [online advice](/2017-11-11-online-advice-dangerous/). We’ve just been together for a while and have been quite happy so far (half our lives), and I thought it’d be valuable to write this down for my own reference in the future. It could be a useful reminder when we find our marriage having any ruptures in the future.
 
 Disagree with anything? Let me know in the comments.
 

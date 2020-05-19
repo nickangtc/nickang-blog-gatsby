@@ -24,7 +24,7 @@ Ok, enough with the new job and all. What are some marketing topics we might be 
 Here's a preliminary list of blog post ideas I have currently, which is expected to grow in the next 2-3 months (though I probably won't update it here):
 
 - The only guide you'll need to know 80 percent of Facebook advertising basics
-- The single most important but non-obvious thing about advertising on Facebook ([published!](https://www.nickang.com/the-single-most-important-and-non-obvious-thing-about-advertising-on-facebook/))
+- The single most important but non-obvious thing about advertising on Facebook ([published!](/2018-06-19-the-single-most-important-and-non-obvious-thing-about-advertising-on-facebook/))
 - 3 biggest areas of advertising that can be easily automated
 - How does Facebook Pixel work?
 - 3 most important implications of GDPR law for online advertisers

@@ -5,7 +5,7 @@ date: "2019-12-15"
 
 ![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg) My Astroahaus Freewrite fresh out of the box
 
-Hello, you. I want to tell you about the Freewrite, a device that I hold very close to my heart because I've _always_ wanted something like it. In fact, I started working on this as a one-man startup in 2014, at about the same time as the guys at Astrohaus did. They were just a lot more technically capable than I was. Instead of building my tech product, I shelved the idea after 9 months of working on it and went back to school to [learn programming](https://www.nickang.com/general-assembly-singapore-web-development/).
+Hello, you. I want to tell you about the Freewrite, a device that I hold very close to my heart because I've _always_ wanted something like it. In fact, I started working on this as a one-man startup in 2014, at about the same time as the guys at Astrohaus did. They were just a lot more technically capable than I was. Instead of building my tech product, I shelved the idea after 9 months of working on it and went back to school to [learn programming](/2016-08-16-general-assembly-singapore-web-development/).
 
 And now, things have come full circle. Although I'm not writing this on a Flowriter (what I would have called my product if it existed beyond prototypes), I _am_ writing this on a distraction-free specialist writer's tool. I'm writing this on my very own Freewrite, which came through DHL this evening to my apartment in Berlin.
 
@@ -82,7 +82,7 @@ Then, one day, I decided to talk about it differently. I said, "It's like a Kind
 
 A Kindle for writers. An e-ink display. Yes!
 
-Staring at a laptop at work and then coming home to try and write on another laptop - that can be quite [taxing on the eyes](https://www.nickang.com/eye-strain/). I know it and have [complained](https://www.nickang.com/sick-of-looking-at-a-screen/) more than once about this.
+Staring at a laptop at work and then coming home to try and write on another laptop - that can be quite [taxing on the eyes](/2019-02-18-eye-strain/). I know it and have [complained](/2019-10-16-sick-of-looking-at-a-screen/) more than once about this.
 
 E-ink is much, much better because it is optionally back-lit. If you had enough light around you, you'd never use the built-in backlight, and that really saves your eyes.
 

@@ -8,7 +8,7 @@ date: "2018-01-29"
 
 What a beautiful quote, right? It espouses the virtues of being balanced in your life, taking care to regularly oil all the parts that make the machinery of you, so that you might nurture the chance of doing good work.
 
-A quote ceases to be merely a quote when it resonates with you. It becomes a belief, and to imbue it with usefulness so that we're compelled to act upon that belief, we might shape it into a [manifesto](https://www.nickang.com/fierce-and-original/).
+A quote ceases to be merely a quote when it resonates with you. It becomes a belief, and to imbue it with usefulness so that we're compelled to act upon that belief, we might shape it into a [manifesto](/2017-10-04-fierce-and-original/).
 
 The quote has been my manifesto, guiding me for more than two years since I graduated from university. But even a diamond that is supposedly perfectly cut might appear to have asymmetry and flaws under intense examination.
 

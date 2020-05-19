@@ -9,7 +9,7 @@ A very cool tool that I discovered today from google searching is [JSON Diff](ht
 
 At Smartly.io where I work, we sometimes have to help our customers debug a problem with our tool. Because the Smartly.io tool is a platform for automating advertising across Facebook and Pinterest (with more channels to come), we do _a lot_ of API requests to other servers from our backend.
 
-With [API](https://www.nickang.com/what-is-an-api/) requests naturally comes a lot of JSON objects, since basically every data transfer protocol now happens with JSON over the internet.
+With [API](/2018-02-03-what-is-an-api/) requests naturally comes a lot of JSON objects, since basically every data transfer protocol now happens with JSON over the internet.
 
 Before today, I admit, I haven’t thought to diff two JSON files using an external tool. I mostly just eyeballed the two files in Visual Studios Code and looked for differences. Thinking in retrospect now, I feel so silly. As a developer, looking for such a tool should have come more naturally!
 

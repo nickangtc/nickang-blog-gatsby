@@ -7,7 +7,7 @@ date: "2018-08-26"
 
 One thing I remember Jamie Oliver once said was that you can tell what kind of people are behind the food once you eat it. No well-ordered family will be able to serve you bad food.
 
-Something similar came up as I watched Anthony Bourdain's [Parts Unknown](https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown) (S8, E8) about Rome. As you might be familiar, I love the guy. Through his shows, I've learned about the [humanity of eating animals](https://www.nickang.com/killing-meat/) and the idea of [cappuccino people](https://www.nickang.com/cappuccino-people/), among many other philosophical things that should only be allowed to come up over a meal.
+Something similar came up as I watched Anthony Bourdain's [Parts Unknown](https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown) (S8, E8) about Rome. As you might be familiar, I love the guy. Through his shows, I've learned about the [humanity of eating animals](/2016-08-03-killing-meat/) and the idea of [cappuccino people](/2018-08-11-cappuccino-people/), among many other philosophical things that should only be allowed to come up over a meal.
 
 "These people can't make bad food. Because they care about you enjoying your meal!"
 

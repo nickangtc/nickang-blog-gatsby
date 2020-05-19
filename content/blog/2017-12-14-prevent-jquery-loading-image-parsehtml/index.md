@@ -5,7 +5,7 @@ date: "2017-12-14"
 
 This post is inspired by a recent bug fix at work related to jQuery's `parseHTML()` method.
 
-I noticed multiple redundant calls to our server endpoint each time a user saves an email template using the [drag-and-drop email builder](https://www.nickang.com/building-app-features-2017/) of [Metisa](https://askmetisa.com).
+I noticed multiple redundant calls to our server endpoint each time a user saves an email template using the [drag-and-drop email builder](/2017-05-21-building-app-features-2017/) of [Metisa](https://askmetisa.com).
 
 The bug, when traced to its end, was nothing like what I'd originally suspected. Because we use [Backbone.js](http://backbonejs.org/) for the front-end model layer (to make API calls) with [React.js](https://reactjs.org/) as the front-end view layer, I had initially thought it was Backbone making redundant API calls.
 
@@ -30,7 +30,7 @@ jQuery.parseHTML( data \[, context \] \[, keepScripts \] )
 
 I stumbled upon this obscure problem when I was developing a drag and drop email builder at work.
 
-Each time a user in the email builder interface hits "Save," we use jQuery to generate a string that is representative of the HTML needed for rendering in an actual email (email HTML looks horrendous, by the way, with tables nested inside tables... full rant [here](https://www.nickang.com/email-html/)).
+Each time a user in the email builder interface hits "Save," we use jQuery to generate a string that is representative of the HTML needed for rendering in an actual email (email HTML looks horrendous, by the way, with tables nested inside tables... full rant [here](/2017-11-10-email-html/)).
 
 We use jQuery's `parseHTML` method as a nice way to validate that a string is valid HTML (and strip off the potential security vulnerabilities) before saving it to the backend.
 

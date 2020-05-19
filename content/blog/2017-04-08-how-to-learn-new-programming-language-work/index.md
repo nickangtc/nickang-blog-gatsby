@@ -71,13 +71,13 @@ _Boy_ was it a cathartic moment.
 
 Django (the Python web framework we used) has great documentation. It’s full of examples and it reads like a personal tutor’s notes. When I finally referred to it I found myself saying to myself, “what have I been doing this whole time?”
 
-Here’s the embarrassing thing: I was taught to read documentation while learning to be a developer at [General Assembly](https://www.nickang.com/general-assembly-singapore-review/). We were told that the source of truth is the documentation of whatever library/framework you are using, so refer to it accordingly.
+Here’s the embarrassing thing: I was taught to read documentation while learning to be a developer at [General Assembly](/2017-03-12-general-assembly-singapore-review/). We were told that the source of truth is the documentation of whatever library/framework you are using, so refer to it accordingly.
 
 But I think I must have reasoned in my head that reading documentation is quite time consuming, and I couldn’t afford the time.Compared to mimicking code, it felt slower. (Also, if you code like the engineers around you, they are more likely to appreciate and like your work when you submit your pull request...)
 
 But the truth that I now see is that learning how things work, especially things like the frameworks and tools you use on a daily basis as a software engineer, is going to **save you time in the long run**. Now that I understand that Django queries start with `Tablename.objects` and have a list of methods that are chainable like `.filter(action=‘click’)` and you can sum certain values up with annotations, and so on, I know exactly what to do next time I need to query the database.
 
-The point is this: the more you try to understand the code, the greater the number of cases/problems you are ready to code for. I think this observation has something in common with the other one I made about [always starting with the basics](https://www.nickang.com/always-get-the-basics-first/).
+The point is this: the more you try to understand the code, the greater the number of cases/problems you are ready to code for. I think this observation has something in common with the other one I made about [always starting with the basics](/2016-08-21-always-get-the-basics-first/).
 
 ### TL;DR
 

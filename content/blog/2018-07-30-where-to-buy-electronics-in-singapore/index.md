@@ -35,7 +35,7 @@ Go to Sim Lim **Tower** if you're not looking for ready-to-use consumer electron
 - power adapters like AC-DC bricks and cables
 - electronics hobbyist starter kits like Arduino and Raspberry Pi
 - electronics parts like cables, solder and irons, crocodile clips
-- parts for [DIY home automation](https://www.nickang.com/home-automation/)
+- parts for [DIY home automation](/2016-03-04-home-automation/)
 
 Sim Lim Tower caters to amateurs and professional makers and tinkerers. That means it's the kind of place where you'd want to go only when you know beforehand exactly what you're looking for.
 

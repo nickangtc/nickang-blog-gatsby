@@ -15,7 +15,7 @@ I have to admit, of course, that part of the motivation to do this is self-indul
 
 So, whether you have always been wanting to learn to code and don't know where to start, or you are just cooped up and bored at home because of COVID-19, I think you may find this **tutorial video series** useful.
 
-I chose FreeCodeCamp because it is what I used initially to self-learn programming before I enrolled in a [full-time bootcamp](https://www.nickang.com/general-assembly-singapore-review/).
+I chose FreeCodeCamp because it is what I used initially to self-learn programming before I enrolled in a [full-time bootcamp](/2017-03-12-general-assembly-singapore-review/).
 
 Here's the introductory video:
 

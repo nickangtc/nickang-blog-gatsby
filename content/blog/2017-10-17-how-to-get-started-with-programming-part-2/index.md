@@ -7,7 +7,7 @@ date: "2017-10-17"
 
 Hello internet!
 
-This is the second part of _How to get started with programming_. If you haven't read [part 1](https://www.nickang.com/get-started-programming-part-1/), I highly recommend you start there as we covered some stuff that I consider pretty important to getting started.
+This is the second part of _How to get started with programming_. If you haven't read [part 1](/2017-10-16-get-started-programming-part-1/), I highly recommend you start there as we covered some stuff that I consider pretty important to getting started.
 
 Now that you've found your purpose, what's the best way to actually start wetting your feet in programming?
 
@@ -15,7 +15,7 @@ Now that you've found your purpose, what's the best way to actually start wettin
 
 In yesterday's post I shared that many of my friends and even strangers like to ask me how they can get started with programming.
 
-And if I have time, I'll always first reply with the whole "find your reason for learning first, or it won't be sustainable" thing (as shared in [part 1](https://www.nickang.com/get-started-programming-part-1/) of this post).
+And if I have time, I'll always first reply with the whole "find your reason for learning first, or it won't be sustainable" thing (as shared in [part 1](/2017-10-16-get-started-programming-part-1/) of this post).
 
 Right after that when we get into the practicalities, my answer is always, "**I highly recommend starting with learning JavaScript**."
 

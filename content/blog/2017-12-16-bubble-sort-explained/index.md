@@ -86,7 +86,7 @@ console.log(bubbleSort([3, 8, 1, 33, 0, null, 2, 7, 3, null, 4, 6]))
 
 Time complexity: `O(n^2)` or quadratic (oh no) time Space complexity: `O(1)` or perfect space complexity
 
-If you're unfamiliar with the idea of time and space complexity, you can read my [post](https://www.nickang.com/algorithm-time-complexity-big-o-notation/) on that.
+If you're unfamiliar with the idea of time and space complexity, you can read my [post](/2017-11-15-algorithm-time-complexity-big-o-notation/) on that.
 
 Now, why is the time complexity of bubble sort so bad (like `n * n` bad)? It's because there's a loop within a loop. To be specific, in our implementation above, there's a `for` loop within a `while` loop.
 

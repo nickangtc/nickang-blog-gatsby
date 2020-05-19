@@ -27,7 +27,7 @@ One reasonable way you might think of implementing this is by adding classes to 
 Sign Up Now!
 Sign Up Now!
 
-Assuming you're not using a [CSS pre-processor](https://www.nickang.com/sass-mixins/) like Sass, you'd have to write plain CSS. Your code might end up looking something like this:
+Assuming you're not using a [CSS pre-processor](/2017-11-07-sass-mixins/) like Sass, you'd have to write plain CSS. Your code might end up looking something like this:
 
 .btn-yellow {
   display: block;

@@ -32,7 +32,7 @@ I believe in lists and know a few good people who do too. Lists make concrete th
 With this list what I'm going to do is to break it down further into sub-lists. For example, I'll make a list of things that answers this question: what's stopping me from embracing Python and Django?
 
 - The syntax looks different from JavaScript
-- Resentment towards the fact that if we used NodeJS instead of Django on the project, I'd be able to code entirely in JavaScript (this is funny because I once [lamented](https://www.nickang.com/nodejs-server-nightmare/) how difficult it is to set up a NodeJS server)
+- Resentment towards the fact that if we used NodeJS instead of Django on the project, I'd be able to code entirely in JavaScript (this is funny because I once [lamented](/2016-09-19-nodejs-server-nightmare/) how difficult it is to set up a NodeJS server)
 - Not knowing enough to write code without having to cross- and double-check everything in the documentation and existing code
 
 And then from there I'm going to come up with questions, this time as specific as possible, that would help me overcome this sub-list:

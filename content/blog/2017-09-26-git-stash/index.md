@@ -61,7 +61,7 @@ git commit -m "RC: in middle of adding product API"
 git checkout feature-branch-2
 ```
 
-When done working on this branch, I'd usually clean up the commits by squashing them using `git rebase -i HEAD~<num_of_commits>` (see [squash git commits](https://www.nickang.com/squash-git-commits/) guide), so the reluctant commit is squashed into the final, single commit.
+When done working on this branch, I'd usually clean up the commits by squashing them using `git rebase -i HEAD~<num_of_commits>` (see [squash git commits](/2017-09-23-squash-git-commits/) guide), so the reluctant commit is squashed into the final, single commit.
 
 That's it about reluctant commits.
 
@@ -71,5 +71,5 @@ Read more directly from the makers via the [docs](https://git-scm.com/docs/git-s
 
 Other git-related short tutorials:
 
-- [How to squash git commits](https://www.nickang.com/squash-git-commits/)
-- [How to completely replace git branch code with another branch’s code](https://www.nickang.com/replace-git-branch-code/)
+- [How to squash git commits](/2017-09-23-squash-git-commits/)
+- [How to completely replace git branch code with another branch’s code](/2017-09-30-replace-git-branch-code/)

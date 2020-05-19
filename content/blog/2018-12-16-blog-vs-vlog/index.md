@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=PF7XUzCu7gg
 
 What better way to explore the differences between a blog vs vlog than on a blog about a vlog?
 
-This was my first attempt to put together a "talking head" video. Call it what you want, I think it's basically a vlog, and I consider it my first foray into vlogging. Having blogged for several years more or less consistently now, I think I've matured enough to want to try a different medium, as was shared in my [New Year's resolution for 2018](https://www.nickang.com/new-years-resolution-2018/).
+This was my first attempt to put together a "talking head" video. Call it what you want, I think it's basically a vlog, and I consider it my first foray into vlogging. Having blogged for several years more or less consistently now, I think I've matured enough to want to try a different medium, as was shared in my [New Year's resolution for 2018](/2017-12-31-new-years-resolution-2018/).
 
 Things I learned from making this video:
 

@@ -39,7 +39,7 @@ But it is October 2019 now, and I'm back on Instagram.
 
 ## Moving to Berlin
 
-In a [blog post](https://www.nickang.com/new-years-resolution-2018/) I published about my new year's resolutions for 2018, I talked about how I wanted to leave my country to live abroad for a few years. That didn't happen last year, but with some hard work, we've managed to move to Berlin this year, in October.
+In a [blog post](/2017-12-31-new-years-resolution-2018/) I published about my new year's resolutions for 2018, I talked about how I wanted to leave my country to live abroad for a few years. That didn't happen last year, but with some hard work, we've managed to move to Berlin this year, in October.
 
 Relocating to a new city is probably the most exciting thing I've ever done in my life so far, and I really wanted to document my experience in packing up, moving, and settling into a new continent, country, and city. I was sure that I would experience many new things that if left undocumented, would be forgotten memories.
 
@@ -49,7 +49,7 @@ My hypothesis was that I would be experiencing so many new things that I could h
 
 So I started preparations early.
 
-As we confirmed our relocation day to be in the first week of October, I started a [side project in September](https://www.nickang.com/my-first-monthly-side-project-was-a-failure/) to film and publish a vlog everyday. I managed to publish 18 videos that month, and it gave me a real taste of the work involved with filming and editing videos. It was tedious and took me roughly two to three hours each day to film, edit, and upload these vlogs.
+As we confirmed our relocation day to be in the first week of October, I started a [side project in September](/2019-08-31-my-first-monthly-side-project-was-a-failure/) to film and publish a vlog everyday. I managed to publish 18 videos that month, and it gave me a real taste of the work involved with filming and editing videos. It was tedious and took me roughly two to three hours each day to film, edit, and upload these vlogs.
 
 Now, two weeks into our stay in Berlin, I haven't made a single vlog. It's just not possible! German bureaucracy keeps you on your toes all the time. Plus, it would take time away from us absorbing our new surroundings.
 

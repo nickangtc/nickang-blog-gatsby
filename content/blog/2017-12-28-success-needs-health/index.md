@@ -13,7 +13,7 @@ One moment we were going to enjoy a simple dinner together in between her makeup
 
 I think we all like the notion of working hard. [Casey Neistat](https://www.youtube.com/watch?v=ZexvTZ1sV8U), one of my favourite filmmakers and YouTubers, even has the words "work harder" tattooed on one of his arms.
 
-But in my [opinion](https://www.nickang.com/unhealthy-work/), it is _never_ (read: never ever) worth it to work hard to chase success, wealth, fame, overdue recognition, or anything in between at the expense of one's health.
+But in my [opinion](/2016-08-13-unhealthy-work/), it is _never_ (read: never ever) worth it to work hard to chase success, wealth, fame, overdue recognition, or anything in between at the expense of one's health.
 
 The only exception I can think of is if you're working to bring the people you love out of poverty or something along those lines. Actually, even then, I think it might be wiser to do it within reasonable bounds, since your health would be the only thing you're able to trade for some wealth.
 

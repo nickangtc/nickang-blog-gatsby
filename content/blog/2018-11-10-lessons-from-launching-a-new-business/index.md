@@ -57,7 +57,7 @@ Similar to setting up Instagram early, I found it valuable to set up tracking on
 
 ## More business posts are coming
 
-Earlier this year, shortly after I joined [Smartly.io](https://smartly.io) as a Service Operations Engineer, I said I was going to write [more marketing-related posts](https://www.nickang.com/much-marketing-topics-blog/). Back then, I had no idea how difficult it was to talk about marketing without practising it. Not many posts came out of that declaration.
+Earlier this year, shortly after I joined [Smartly.io](https://smartly.io) as a Service Operations Engineer, I said I was going to write [more marketing-related posts](/2018-06-16-much-marketing-topics-blog/). Back then, I had no idea how difficult it was to talk about marketing without practising it. Not many posts came out of that declaration.
 
 This time, things are a little different. One of the reasons I’ve joined my wife on what is mostly her business (since _she_ is the one who understands our product and potential customers’ needs) is to be able to learn about marketing by being fully in charge of it for a business. In my opinion, firsthand experience is crucial if one is to be good at something.
 

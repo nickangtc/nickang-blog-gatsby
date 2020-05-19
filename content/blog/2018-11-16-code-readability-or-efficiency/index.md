@@ -7,7 +7,7 @@ date: "2018-11-16"
 
 At some point in your programming career, you will come to a fork in the road to choose between code readability or efficiency. Which do you choose?
 
-Take the example of an array of `Person` objects. Let’s say this was the data you expect to be returned from an internal [API](https://www.nickang.com/what-is-an-api/).
+Take the example of an array of `Person` objects. Let’s say this was the data you expect to be returned from an internal [API](/2018-02-03-what-is-an-api/).
 
 Because it’s an internal API, you know that there is a chance that some of the `Person` objects may have a `null` value in certain keys. For example:
 
@@ -31,7 +31,7 @@ Which path do you walk down? Readability or efficiency?
 
 For me, in this situation, I would assess the most important factor: how big will this array ever be?
 
-With any modern computer, iterating through an array with less than 100,000 entries would easily complete in under a second (unless there is another loop happening within each iteration, leading to an n^2 (or n-squared) [time complexity](https://www.nickang.com/algorithm-time-complexity-big-o-notation/)).
+With any modern computer, iterating through an array with less than 100,000 entries would easily complete in under a second (unless there is another loop happening within each iteration, leading to an n^2 (or n-squared) [time complexity](/2017-11-15-algorithm-time-complexity-big-o-notation/)).
 
 ![code readability or efficiency 3 - nick ang blog](images/code-readability-or-efficiency-3-nick-ang-blog-1024x576.png)
 

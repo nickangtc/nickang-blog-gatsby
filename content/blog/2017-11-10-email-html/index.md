@@ -7,7 +7,7 @@ date: "2017-11-10"
 
 I dislike email HTML. There, I openly said it! I really had to get that out of my system before I go crazy.
 
-One of the crowning achievements in my short software development career so far is [having built](https://www.nickang.com/building-app-features-2017/) a drag and drop email editor for [Metisa](https://askmetisa.com) in [React](https://reactjs.org/).
+One of the crowning achievements in my short software development career so far is [having built](/2017-05-21-building-app-features-2017/) a drag and drop email editor for [Metisa](https://askmetisa.com) in [React](https://reactjs.org/).
 
 It's not perfect but it means something to me because I consider it to be the first real feature I'd developed and deployed to a live product with actual users.
 

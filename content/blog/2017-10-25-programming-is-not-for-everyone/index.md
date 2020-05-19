@@ -43,7 +43,7 @@ Here's me hacking like a Mark Zuckerberg. Hope you'll watch till the end for the
 
 https://youtu.be/Z6ebsjZLTmw
 
-Don't listen to people who scare you out of trying to become a programmer. Try it out for a while and see for yourself. I believe that the most important quality in determining whether you'll be a good programmer is [having a reason](https://www.nickang.com/get-started-programming-part-1/). Things like [typing speed](https://www.nickang.com/type-fast-programmer/) are superfluous and don't actually matter.
+Don't listen to people who scare you out of trying to become a programmer. Try it out for a while and see for yourself. I believe that the most important quality in determining whether you'll be a good programmer is [having a reason](/2017-10-16-get-started-programming-part-1/). Things like [typing speed](/2017-10-28-type-fast-programmer/) are superfluous and don't actually matter.
 
 If you really want to feel like a hacker before diving in, go to [this website](http://hackertyper.net/). Knock yourself out, get carried away, and hopefully realise how literally no programmer works like that. Then, start the real hacking.
 

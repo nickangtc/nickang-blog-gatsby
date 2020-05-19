@@ -9,7 +9,7 @@ date: "2018-11-19"
 
 As a marketer of a new company, understanding this may mean the difference between gaining traction from effective messaging and closing shop because of a depleted bank account.
 
-In the wedding industry in which we [recently](https://www.nickang.com/singapores-first-bridal-veil-boutique/) opened [online wedding veil shop](https://angveilyu.com), I’ve certainly noticed a few patterns. And I did this entirely subconsciously!
+In the wedding industry in which we [recently](/2018-11-09-singapores-first-bridal-veil-boutique/) opened [online wedding veil shop](https://angveilyu.com), I’ve certainly noticed a few patterns. And I did this entirely subconsciously!
 
 One of the patterns in the caption of Instagram posts is this: fluffy, over-the-top mini-stories about love, wind in the hair, and stars being aligned, followed by many, many hashtags. Deconstructed, the pattern goes something like this:
 

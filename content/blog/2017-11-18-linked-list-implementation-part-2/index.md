@@ -5,7 +5,7 @@ date: "2017-11-18"
 
 ![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash
 
-In this post, you'll learn how to implement a linked list in JavaScript. This is the second part of a 2-parter post on linked lists (read [part 1](https://www.nickang.com/linked-list-explained-part-1/)).
+In this post, you'll learn how to implement a linked list in JavaScript. This is the second part of a 2-parter post on linked lists (read [part 1](/2017-11-17-linked-list-explained-part-1/)).
 
 Let's jump right in!
 
@@ -71,7 +71,7 @@ One more point to take note of is what happens if there is only one node in the 
 
 Next, let's add our first instance method to the `LinkedList` constructor and call the method on our `ll` instance.
 
-(Note that we'll be adding methods to the `prototype` chain. You can also declare it directly within the `LinkedList` constructor function if you want. There's just a slight difference in terms of performance (the former uses less memory - read more about the differences [here](https://www.nickang.com/javascript-prototypes/).)
+(Note that we'll be adding methods to the `prototype` chain. You can also declare it directly within the `LinkedList` constructor function if you want. There's just a slight difference in terms of performance (the former uses less memory - read more about the differences [here](/2016-09-05-javascript-prototypes/).)
 
 LinkedList.prototype.addToTail = function(value) {
   var newNode = new Node(value, null, this.tail);
@@ -102,7 +102,7 @@ Take a moment here to pause and understand how the `addToTail()` method works. A
 
 It took me a few tries to get this first method right, but when I did, I knew I understood exactly how a linked list is supposed to work.
 
-I'd recommend you try to implement the method on your own as well. You can do that on a [REPL](https://www.nickang.com/silly-useful-things-repl/) tool like [repl.it](https://repl.it/languages/javascript).
+I'd recommend you try to implement the method on your own as well. You can do that on a [REPL](/2017-09-12-silly-useful-things-repl/) tool like [repl.it](https://repl.it/languages/javascript).
 
 Done? Great!
 
@@ -207,7 +207,7 @@ Here's my gist of it:
 
 **References and additional resources:**
 
-- My [post](https://www.nickang.com/algorithm-time-complexity-big-o-notation/) on Big O notation and time complexity
+- My [post](/2017-11-15-algorithm-time-complexity-big-o-notation/) on Big O notation and time complexity
 - [Wikipedia](https://en.wikipedia.org/wiki/Linked_list) article on linked lists
 - Udemy [course](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/) by Eric Traub: Learning Data Structures in JavaScript from Scratch. I highly recommend this course - the instructor is concise and covers many data structures, including linked lists
 

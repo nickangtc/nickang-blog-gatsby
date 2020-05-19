@@ -13,7 +13,7 @@ This short post is my post-trip reflection. They appear in no conceivable order.
 
 ### Professional bubbles
 
-Bubbles. Working adults all live in their own professional bubbles - environmental studies is one, tech is another. I expanded this thought into its [own post](https://www.nickang.com/professional-echo-chamber/).
+Bubbles. Working adults all live in their own professional bubbles - environmental studies is one, tech is another. I expanded this thought into its [own post](/2018-05-21-professional-echo-chamber/).
 
 ### My disconnect from nature and wildlife
 

@@ -51,7 +51,7 @@ Plotted on a graph with number of operations on the y-axis and input size (total
 
 ![binary search graph nickang blog](images/binary-search-graph.png) The amazing time complexity of binary search (O(log n))
 
-In other words, the binary search algorithm takes **logarithmically less time to execute as the input size grows**. So, in terms of [Big O notation](https://www.nickang.com/algorithm-time-complexity-big-o-notation/), binary search is said to be a **O(log n) time** algorithm.
+In other words, the binary search algorithm takes **logarithmically less time to execute as the input size grows**. So, in terms of [Big O notation](/2017-11-15-algorithm-time-complexity-big-o-notation/), binary search is said to be a **O(log n) time** algorithm.
 
 ### The problem with binary search
 

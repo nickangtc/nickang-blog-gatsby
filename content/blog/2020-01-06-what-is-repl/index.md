@@ -101,7 +101,7 @@ Sanity-checking code that I've written in a project:
 ```js
 // Checking whether a HTTP request using
 // fetch will work as expected
-fetch('<https://nickang.com>')
+fetch('<https://www.nickang.com>')
 	.then(a => a.json())
 	.then(response => console.log(response))
 	.catch(error => console.log(error))

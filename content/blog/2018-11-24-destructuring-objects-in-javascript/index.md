@@ -43,7 +43,7 @@ const getBasicProfile = function(user) {
     return \`${name}, age ${age}, is a ${occupation}.\`
 }
 
-Lengthier, but much more readable. In terms of performance, introducing 3 temporary variables will **not** slow down your runtime in any significant way. Read more about [code readability versus efficiency](https://www.nickang.com/code-readability-or-efficiency/).
+Lengthier, but much more readable. In terms of performance, introducing 3 temporary variables will **not** slow down your runtime in any significant way. Read more about [code readability versus efficiency](/2018-11-16-code-readability-or-efficiency/).
 
 Anyway, this pattern of picking apart a passed-in object repeats very often. One consistent use case is when using external libraries like React and its plethora of related libraries like React Router, Prop-types, etc.
 

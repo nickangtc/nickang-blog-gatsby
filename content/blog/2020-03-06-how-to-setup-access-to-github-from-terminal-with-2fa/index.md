@@ -66,5 +66,5 @@ See the start of this post for instructions on how to generate this token! :)
 
 **You might also be interested to read:**
 
-- [All you need to know about Git and GitHub](https://www.nickang.com/git-and-github/)
-- [How programmers work together from every part of the world](https://www.nickang.com/programmers-remote-work/)
+- [All you need to know about Git and GitHub](/2018-02-28-git-and-github/)
+- [How programmers work together from every part of the world](/2016-08-23-programmers-remote-work/)

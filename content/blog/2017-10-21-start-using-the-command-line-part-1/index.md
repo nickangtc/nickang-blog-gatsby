@@ -9,7 +9,7 @@ Just getting started with becoming a programmer and want to start using the comm
 
 Do note that I'll be going through command line commands for computers running macOS. If you're using a Linux computer, the commands are very similar and you should be able to learn something too.
 
-As a primer, if you don't already know what the command line interface (CLI) is, you can read my post on _Why Programmers use the Command Line_ [here](https://www.nickang.com/why-programmers-use-command-line-interface/).
+As a primer, if you don't already know what the command line interface (CLI) is, you can read my post on _Why Programmers use the Command Line_ [here](/2017-10-18-why-programmers-use-command-line-interface/).
 
 So, you already know why programmers prefer to use the CLI instead of doing things like everyone else and you're ready to pick it up. Where should you begin?
 
@@ -112,7 +112,7 @@ There are many more useful and fascinating things you can do with the CLI, which
 
 Have fun with your new toy, I'll see you in the next post!
 
-**Edit (28/10/17):** Part 2 is published! Read it [here](https://nickang.com/start-using-the-command-line-part-2).
+**Edit (28/10/17):** Part 2 is published! Read it [here](/2017-10-27-start-using-the-command-line-part-2).
 
 * * *
 

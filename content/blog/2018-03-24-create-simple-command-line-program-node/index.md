@@ -5,9 +5,9 @@ date: "2018-03-24"
 
 ![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) Photo by Blake Connally on Unsplash
 
-I have something to admit. The first time we were introduced to Node.js at programming bootcamp, I only had a [vague idea](https://www.nickang.com/nodejs-server-nightmare/) of what it did.
+I have something to admit. The first time we were introduced to Node.js at programming bootcamp, I only had a [vague idea](/2016-09-19-nodejs-server-nightmare/) of what it did.
 
-Now that I've attended WDI at GA once [as a student](https://www.nickang.com/general-assembly-singapore-review/) and twice [as a teaching assistant](https://www.nickang.com/7-things-i-learned-about-programming-bootcamps/), I understand Node.js [slightly](https://www.nickang.com/dont-know-everything/) better.
+Now that I've attended WDI at GA once [as a student](/2017-03-12-general-assembly-singapore-review/) and twice [as a teaching assistant](/2017-03-19-7-things-i-learned-about-programming-bootcamps/), I understand Node.js [slightly](/2017-05-27-dont-know-everything/) better.
 
 One interesting use case of Node.js that is not often talked about, but can be an incredibly useful part of your tool belt as a developer, is creating a command line program with `process.argv`.
 

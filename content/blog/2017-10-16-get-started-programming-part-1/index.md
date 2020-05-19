@@ -42,7 +42,7 @@ I never went to university to study Computer Science. Without the benefit of a d
 
 Each time a tough problem or difficult to grasp concept comes along, I toil (often times alone in my study) and give up learning programming altogether.
 
-I've gone through this 1) start, 2) get stuck, 3) quit cycle about three times in my life before I finally took [the leap](https://www.nickang.com/general-assembly-singapore-web-development/) in 2016 to try to become a professional software engineer.
+I've gone through this 1) start, 2) get stuck, 3) quit cycle about three times in my life before I finally took [the leap](/2016-08-16-general-assembly-singapore-web-development/) in 2016 to try to become a professional software engineer.
 
 Each time I gave up, I felt more helpless than the last. Not to mention guiltier. _I've already tried this before and it didn't work out. Maybe programming is just not for me... I suck!_
 
@@ -58,4 +58,4 @@ With this reflection in the rearview mirror (what a queer analogy), you are prim
 
 Stay tuned tomorrow for part 2 of this post on _How to get started with programming_. March on!
 
-EDIT: Part 2 is out! Read it [here](https://www.nickang.com/how-to-get-started-with-programming-part-2/).
+EDIT: Part 2 is out! Read it [here](/2017-10-17-how-to-get-started-with-programming-part-2/).

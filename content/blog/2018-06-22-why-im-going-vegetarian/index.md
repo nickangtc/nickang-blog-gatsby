@@ -29,7 +29,7 @@ The only effect that Mei's abstinence has had on me until now was that it made m
 
 ### Anthony Bourdain killed a red stag
 
-Several years later in 2016, while I was on a flight to Hong Kong for a short holiday, I saw a beautifully filmed episode of [_Parts Unknown_](https://explorepartsunknown.com/) hosted by the late Anthony Bourdain. That episode [made me realise](https://www.nickang.com/killing-meat/) how big a coward I was for eating meat that I didn't hunt and kill with my own hands. All I can say is that I now understand how thinking lowly of yourself can prime you for change.
+Several years later in 2016, while I was on a flight to Hong Kong for a short holiday, I saw a beautifully filmed episode of [_Parts Unknown_](https://explorepartsunknown.com/) hosted by the late Anthony Bourdain. That episode [made me realise](/2016-08-03-killing-meat/) how big a coward I was for eating meat that I didn't hunt and kill with my own hands. All I can say is that I now understand how thinking lowly of yourself can prime you for change.
 
 (By the way, I still can't believe Anthony Bourdain took his own life. I loved the man for his messy mix of candour, conviction, and brashness.)
 
@@ -37,7 +37,7 @@ Then, in May 2018, I went to Bohol, Philippines with 53 students from my alma ma
 
 ### The Filipino truck
 
-Many things happened in Bohol. I'd been to Bohol twice, and this was [my third time there](https://www.nickang.com/philippines-field-trip/). When you go there with people from the Bachelor of Environmental Studies program, Bohol becomes a big petri dish for learning about nature and society.
+Many things happened in Bohol. I'd been to Bohol twice, and this was [my third time there](/2018-06-02-philippines-field-trip/). When you go there with people from the Bachelor of Environmental Studies program, Bohol becomes a big petri dish for learning about nature and society.
 
 Aside from farm visits, early morning bird watching and late night "spotlighting" activities, and the fascinating marine and forest surveys that we conducted, it was the conversations I had with people during the trip that made me think about my relationship with meat.
 

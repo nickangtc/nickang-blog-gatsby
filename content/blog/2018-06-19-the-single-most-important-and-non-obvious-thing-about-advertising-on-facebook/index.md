@@ -33,4 +33,4 @@ Knowing this, we can at least trust that when we set a "bid cap" (max dollar amo
 
 * * *
 
-_This is probably the first of many marketing-related posts that are in the [pipeline](https://www.nickang.com/much-marketing-topics-blog/) (as I'm learning every day at my job at Smartly.io). If you're interested in reading more, consider bookmarking the blog and signing up for the newsletter!_
+_This is probably the first of many marketing-related posts that are in the [pipeline](/2018-06-16-much-marketing-topics-blog/) (as I'm learning every day at my job at Smartly.io). If you're interested in reading more, consider bookmarking the blog and signing up for the newsletter!_

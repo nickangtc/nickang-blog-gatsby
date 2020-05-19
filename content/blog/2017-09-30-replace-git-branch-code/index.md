@@ -5,7 +5,7 @@ date: "2017-09-30"
 
 ![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) Photo by Leo Rivas-Micoud on Unsplash
 
-At [work](http://altitudelabs.com) recently, our CTO noticed that our main repository's `staging` branch had over 80 less commits than `master`. That shouldn't be the case, because our deployment pipeline has always been to go from `feature` -> `staging` -> `master`. Code that exist on `master` must therefore already exist in `staging`, right?
+At work recently, our CTO noticed that our main repository's `staging` branch had over 80 less commits than `master`. That shouldn't be the case, because our deployment pipeline has always been to go from `feature` -> `staging` -> `master`. Code that exist on `master` must therefore already exist in `staging`, right?
 
 No, turns out nothing was really wrong. It's just that whenever we close a pull request (PR) on GitHub, our team protocol is to hit the "Merge" button, which merges all the commits from the PR into `master`, but not without adding one extra commit at the top called the "merge commit". Each PR created one extra commit on `master`. That was the reason for the commit count mismatch.
 
@@ -71,5 +71,5 @@ That's it. Hope this helps!
 
 Other git-related short tutorials:
 
-- [How to squash git commits](https://www.nickang.com/squash-git-commits/)
-- [How to use git stash (and when not to use it)](https://www.nickang.com/git-stash/)
+- [How to squash git commits](/2017-09-23-squash-git-commits/)
+- [How to use git stash (and when not to use it)](/2017-09-26-git-stash/)

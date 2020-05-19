@@ -5,7 +5,7 @@ date: "2017-12-10"
 
 ![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png) Photo by Nathan Fertig on Unsplash
 
-If you already know what a binary search tree is for and how it works, read on to learn about their main strengths and weaknesses in this post! Otherwise, feel free to take a moment to read [part 1](https://www.nickang.com/binary-search-tree-explained/) for an introduction.
+If you already know what a binary search tree is for and how it works, read on to learn about their main strengths and weaknesses in this post! Otherwise, feel free to take a moment to read [part 1](/2017-12-03-binary-search-tree-explained/) for an introduction.
 
 Why is a binary search tree useful? What are some of its main weaknesses?
 
@@ -17,7 +17,7 @@ bi
 
 The main reason to use a binary search tree is the fact that it extends the capability of a normal array.
 
-An array is a data type that stores data points contiguously in sequence. Each element in the array has an index, and in that way, they can be accessed very quickly with `A[0]` to get the first element or `A[103]` for the 104th element, for example. Arrays have constant time or O(1) access. (Read more about the Big O notation [here](https://www.nickang.com/algorithm-time-complexity-big-o-notation/).)
+An array is a data type that stores data points contiguously in sequence. Each element in the array has an index, and in that way, they can be accessed very quickly with `A[0]` to get the first element or `A[103]` for the 104th element, for example. Arrays have constant time or O(1) access. (Read more about the Big O notation [here](/2017-11-15-algorithm-time-complexity-big-o-notation/).)
 
 But while indexing lends array strength, it is also its weakness.
 
@@ -37,7 +37,7 @@ Here's how an eloquent answer on [Quora](https://www.quora.com/What-are-some-pra
 
 > A binary search tree "can efficiently maintain a dynamically changing dataset in sorted order, for some 'sortable' type."
 
-I describe this in my head as the ”always insert in the right place" approach. This approach ensures that we can conduct [binary search](https://www.nickang.com/binary-search-explained/) on the entire binary search tree at any time without having to re-order anything.
+I describe this in my head as the ”always insert in the right place" approach. This approach ensures that we can conduct [binary search](/2017-11-22-binary-search-explained/) on the entire binary search tree at any time without having to re-order anything.
 
 Because of this structure, insertion and deletion of nodes can be achieved very quickly. Instead of traversing every element sequentially until the right one is found, which is how we work with arrays, we only need to traverse half the tree, then half of half the tree, then half of half of half the tree... I think you get the picture - the result is much faster insertion/deletion than array, with _almost_ none of the draw backs. We’ll touch on a BST’s main weakness very soon.
 

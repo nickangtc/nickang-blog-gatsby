@@ -11,7 +11,7 @@ Digressions aside, [repl.it](https://repl.it) has really been quite helpful in m
 
 For the uninitiated, Repl (the service) is a simple web-based compiler, named after the concept of REPL (read - evaluate - print loop). It's basically a place to write code on the left pane, which gets evaluated on command and the results (or errors) are output on the right pane. A simple but powerful tool.
 
-(If you're really new to the concept of REPL, check out this post: [What is REPL?](https://www.nickang.com/what-is-repl/))
+(If you're really new to the concept of REPL, check out this post: [What is REPL?](/2020-01-06-what-is-repl/))
 
 Here's an example of how I used it today to understand what happens when someone writes 2 chained assignment operators in a single line in JavaScript.
 

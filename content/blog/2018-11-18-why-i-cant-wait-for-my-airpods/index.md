@@ -23,7 +23,7 @@ Here’s the thing: in no small way, I believe my imagination of Life With AirPo
 
 ### The forces that shape my imaginations
 
-As I’m [trying](https://www.nickang.com/first-marketing-plan/) to crack marketing for [ang veil yú](https://www.nickang.com/singapores-first-bridal-veil-boutique/), I sat down to list a few specific things that might have influenced the way I thought about these wireless earbuds that cost SGD $200. I came up with this:
+As I’m [trying](/2018-11-17-first-marketing-plan/) to crack marketing for [ang veil yú](/2018-11-09-singapores-first-bridal-veil-boutique/), I sat down to list a few specific things that might have influenced the way I thought about these wireless earbuds that cost SGD $200. I came up with this:
 
 - Apple products, in general, have been top-notch in terms of usability design, and I care about user design, so their products are always intriguing to me.
 - Apple’ ecosystem of products has proven to be industry-leading in terms of working seamlessly together. Makes me excited to add another one to my existing (growing) repertoire of products made by them.

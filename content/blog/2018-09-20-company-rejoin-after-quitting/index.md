@@ -24,7 +24,7 @@ And when the occasional person puts in their resignation, it's quite common that
 
 To me, this whole experience is new and refreshing and the way I wish things would be at every company. But it is not. This is a gem in the rough.
 
-The people in the leadership team here have a very good understanding of what it means to be human. They know that a price tag cannot be put on good company culture (examples: [one](https://www.nickang.com/you-are-new-speak-up/) and [two](https://www.nickang.com/work-life-balance/)) and all-around great vibes in the organisation, so they put a lot of effort into maintaining that as we step firmly into the growth stage.
+The people in the leadership team here have a very good understanding of what it means to be human. They know that a price tag cannot be put on good company culture (examples: [one](/2018-07-15-you-are-new-speak-up/) and [two](/2018-07-14-work-life-balance/)) and all-around great vibes in the organisation, so they put a lot of effort into maintaining that as we step firmly into the growth stage.
 
 From the returning employee's point of view, it is obviously working.
 

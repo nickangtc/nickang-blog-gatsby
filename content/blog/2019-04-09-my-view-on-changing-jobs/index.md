@@ -47,4 +47,4 @@ Expecting to keep employees on any other premise is wishful thinking.
 
 * * *
 
-[Smartly.io](https://smartly.io) is where I work at the time of writing, and I think we are doing a great job keeping the best employees around. We even have several cases where [people rejoined the company after leaving](https://www.nickang.com/company-rejoin-after-quitting/). It's quite remarkable. And in case you're wondering, we're currently hiring Service Operations Engineers (my role now) and Full-stack Developers. Find a way to get in touch if you're interested and think you fit the bill!
+[Smartly.io](https://smartly.io) is where I work at the time of writing, and I think we are doing a great job keeping the best employees around. We even have several cases where [people rejoined the company after leaving](/2018-09-20-company-rejoin-after-quitting/). It's quite remarkable. And in case you're wondering, we're currently hiring Service Operations Engineers (my role now) and Full-stack Developers. Find a way to get in touch if you're interested and think you fit the bill!

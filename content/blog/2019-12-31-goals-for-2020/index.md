@@ -3,7 +3,7 @@ title: "Goals for 2020"
 date: "2019-12-31"
 ---
 
-Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](https://www.nickang.com/what-ive-learned-in-2019/https://www.nickang.com/what-ive-learned-in-2019/) already so in this post, I look into the new year.
+Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019//2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.
 
 I was born in 1990 and will be turning 30 this new year. So while I could be making a grand list of things I want to make happen for the decade, I chose to make this list about 2020 as a year and not the turn of a new decade. Guess I heard something in my mind to keep things simple, stupid.
 
@@ -48,7 +48,7 @@ In 2019 I learned the value of journaling, reading, meditating through random sp
 
 In 2020, I want to firmly establish these as part of my daily routine.
 
-I am soon to be 30 and I am finally beginning to understand that we are our routines. Great things are accomplished with consistency. One of my [favourite quotes](https://www.nickang.com/fierce-and-original/) is by Gustave Flaubert:
+I am soon to be 30 and I am finally beginning to understand that we are our routines. Great things are accomplished with consistency. One of my [favourite quotes](/2017-10-04-fierce-and-original/) is by Gustave Flaubert:
 
 > "Be steady and well-ordered in your life so that you can be fierce and original in your work."
 > 
@@ -74,7 +74,7 @@ Just thinking about being someone who practices these 3 things daily makes me mo
 
 Photo taken from our 4-day campervan road trip to the north of Germany
 
-I will remember 2019 as the year we _finally_ moved to live abroad. That was my [New Year's resolution for 2018](https://www.nickang.com/new-years-resolution-2018/). Good things take time to happen.
+I will remember 2019 as the year we _finally_ moved to live abroad. That was my [New Year's resolution for 2018](/2017-12-31-new-years-resolution-2018/). Good things take time to happen.
 
 We moved from Singapore to Berlin in October 2019 and we intend to be here until we feel compelled to go home (if we do). I'm extremely grateful that my employer sees that I bring enough value to the company to grant me the request of an office transfer.
 

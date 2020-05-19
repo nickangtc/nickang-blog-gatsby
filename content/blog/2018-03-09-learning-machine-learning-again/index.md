@@ -19,7 +19,7 @@ I browsed for about 15 minutes and picked up 2 books - _Introduction to Machine 
 
 Seeing that I'm job searching now, I prioritised reading the machine learning book over the JavaScript one.
 
-I'm already familiar with JavaScript and Python, but machine learning is something I've tried to learn before but failed because I found it [too dry](https://www.nickang.com/machine-learning-dry/) during my first attempt to learn it.
+I'm already familiar with JavaScript and Python, but machine learning is something I've tried to learn before but failed because I found it [too dry](/2017-08-19-machine-learning-dry/) during my first attempt to learn it.
 
 At the back of my mind, I also knew that machine learning engineers are currently in high demand while mostly remaining in short supply.
 

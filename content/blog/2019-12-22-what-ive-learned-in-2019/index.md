@@ -13,7 +13,7 @@ This is the first year in my life where I've consistently kept a journal almost 
 
 While I'm certainly proud of creating this new habit, I'm more interested in the results of writing daily.
 
-I wrote every day on my laptop (and nowadays [on my Freewrite](https://www.nickang.com/first-impressions-of-the-astrohaus-freewrite/)) in the morning before heading to work because I needed some mental purging. [Tim Ferriss](https://tim.blog/2015/01/15/morning-pages/) in one of his podcasts articulated the negative effects of letting your thoughts run freely in your mind the best: every thought un-purged is like a bullet ricocheting in your brain. By the end of the day, your brain is absolute mush.
+I wrote every day on my laptop (and nowadays [on my Freewrite](/2019-12-15-first-impressions-of-the-astrohaus-freewrite/)) in the morning before heading to work because I needed some mental purging. [Tim Ferriss](https://tim.blog/2015/01/15/morning-pages/) in one of his podcasts articulated the negative effects of letting your thoughts run freely in your mind the best: every thought un-purged is like a bullet ricocheting in your brain. By the end of the day, your brain is absolute mush.
 
 People conduct mind-purging differently. Some meditate, others play sports. I mostly write, although sports has become quite a big part of my routine this year and it certainly has an effect in purging my mind as well.
 
@@ -27,7 +27,7 @@ So my biggest lesson this year is learning how useful and feasible it is to writ
 
 This is really obvious when put into a sentence, but it took me close to 30 years to figure this out. Sports is basically fun exercise!
 
-One of my [2018 New Year's Resolutions](https://www.nickang.com/new-years-resolution-2018/) was to find a way to sustain an exercise regime. I recognise the benefits of a healthy body, of feeling strong, and how it correlates to a strong mind, but I've never experienced success in setting up a long-term exercise regime like some of my friends have since their teens.
+One of my [2018 New Year's Resolutions](/2017-12-31-new-years-resolution-2018/) was to find a way to sustain an exercise regime. I recognise the benefits of a healthy body, of feeling strong, and how it correlates to a strong mind, but I've never experienced success in setting up a long-term exercise regime like some of my friends have since their teens.
 
 Going to the gym works for some people but not me. I dislike "hitting the gym". Though if the gym was an object I think I might actually enjoy _hitting_ it. For me, running on a treadmill and doing repeated body movements is as interesting as watching paint dry. I never enjoyed it, and I attributed my countless failed attempts to start an exercise regime in the gym to this lack of joy.
 
@@ -51,7 +51,7 @@ This year my wife and I and our dog Brownie moved from Singapore to Berlin while
 
 What I've learned from my relocation is that if you focus on providing value, you will inadvertently gain some bargaining power.
 
-I [joined Smartly.io](https://www.nickang.com/one-month-at-smartly/) in June 2018, about 1.5 years ago. At the time of my final interview, I mentioned to my recruiter, who is now one of my closest colleagues in the company, that realistically speaking, I was only likely to accept the offer (if I got one) if there was an opportunity for relocation to another office outside of Singapore. I wasn't trying to be a hard-ass. I mentioned it up front because I wanted to be fair to her and the company as well - if they weren't willing to or able to consider my needs, then the interview need not go on any further.
+I [joined Smartly.io](/2018-06-30-one-month-at-smartly/) in June 2018, about 1.5 years ago. At the time of my final interview, I mentioned to my recruiter, who is now one of my closest colleagues in the company, that realistically speaking, I was only likely to accept the offer (if I got one) if there was an opportunity for relocation to another office outside of Singapore. I wasn't trying to be a hard-ass. I mentioned it up front because I wanted to be fair to her and the company as well - if they weren't willing to or able to consider my needs, then the interview need not go on any further.
 
 Also, and this is important, I was absolutely willing to prove the value I will bring to the company with time before the relocation happens. A transaction usually involves an exchange. From June 2018 to July 2019, I focused on providing value to the company. I did that by providing technical support to our teams in the Asia-Pacific region. Eventually, my bargaining power grew, and they made the relocation happen.
 

@@ -55,8 +55,8 @@ Similary for Moment.js, you can rapidly test methods from the global \`moment\` 
 
 I sometimes also use the browser console for testing built-in functions like `reduce` and [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) like `fetch` , especially when I'm in a quick and hacky mindset, trying to figure out if something is possible.
 
-I used to do this a lot on something like [repl.it](https://www.nickang.com/silly-useful-things-repl/), which is also a REPL console like the browser developer tools' console but with more features like autocompletion and saving. At some point though, it occurred to me that it might be easier for some smaller testing to just do it in the browser console.
+I used to do this a lot on something like [repl.it](/2017-09-12-silly-useful-things-repl/), which is also a REPL console like the browser developer tools' console but with more features like autocompletion and saving. At some point though, it occurred to me that it might be easier for some smaller testing to just do it in the browser console.
 
-(In case you're wondering what REPL is, you can learn more in this post: [What is REPL?](https://www.nickang.com/what-is-repl/))
+(In case you're wondering what REPL is, you can learn more in this post: [What is REPL?](/2020-01-06-what-is-repl/))
 
 Just to be clear, unlike with third-party libraries where you have to test while you're on a page of its documentation website, you can test JavaScript built-in functions from the console of any webpage because they're built into the language itself.

@@ -11,7 +11,7 @@ You can view it [here](https://www.smartly.io/blog/trust-alignment-and-action-ni
 
 I’d actually secretly been wanting to publish on the company blog, but this article was born not just of my desire. It was happenstance.
 
-In one of my earlier posts in February, I [reflected](https://www.nickang.com/reflecting-3-week-work-rotation-helsinki/) on how I’d been experimenting with publishing reflections on Instagram instead of here on my own blog. It was one of those posts that got the attention of Siiri, my colleague at Smartly.io who is part of the team that looks after the creation of meaningful content on our industry-leading blog.
+In one of my earlier posts in February, I [reflected](/2019-02-09-reflecting-3-week-work-rotation-helsinki/) on how I’d been experimenting with publishing reflections on Instagram instead of here on my own blog. It was one of those posts that got the attention of Siiri, my colleague at Smartly.io who is part of the team that looks after the creation of meaningful content on our industry-leading blog.
 
 From this, I’ve once again seen how experimentation and consistency pays off. I’ve been blogging my reflections of work for a while, which made it easy for me to experiment with doing the same on a different platform (Instagram).
 

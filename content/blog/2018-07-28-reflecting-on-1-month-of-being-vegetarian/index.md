@@ -5,7 +5,7 @@ date: "2018-07-28"
 
 ![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now
 
-It's been an interesting month of being vegetarian for the first time. I was compelled by ethics but ultimately made the leap to experimenting with vegetarianism because of its purported health benefits and the influence of a few newfound friends (colleagues) who are vegetarian (more details in [this post](https://www.nickang.com/why-im-going-vegetarian/)).
+It's been an interesting month of being vegetarian for the first time. I was compelled by ethics but ultimately made the leap to experimenting with vegetarianism because of its purported health benefits and the influence of a few newfound friends (colleagues) who are vegetarian (more details in [this post](/2018-06-22-why-im-going-vegetarian/)).
 
 And now, at the end of over a month of experimental vegetarianism, I'm at a crossroad. Make this my new normal, or go back to the old?
 
@@ -75,7 +75,7 @@ But:
 
 - I would feel great every day knowing I'm no longer participating in the killing of factory-farmed animals
 - I would remove willpower from the equation at every meal (should I eat meat this time?)
-- I may still sometimes have to eat some meat at important social occasions like business meals or [on a flight](https://www.nickang.com/vegetarian-obstacles-flight-food/)
+- I may still sometimes have to eat some meat at important social occasions like business meals or [on a flight](/2018-06-23-vegetarian-obstacles-flight-food/)
 
 If I choose the middle ground and eat meat, just much less of it:
 

@@ -49,7 +49,7 @@ This applies mostly to people who work in a business-to-business (B2B) company. 
 
 It is obvious to me now but it still may not be for you, so let's use a scenario that often comes up in the line of work of a CSM to illustrate the power of being technical.
 
-At the core of their work, a CSM consults their client on how to use their company's product. [Smartly.io](https://smartly.io)'s product is a complicated one because it is built on top of a lot of parts that move extremely rapidly. The [Facebook advertising platform](https://developers.facebook.com/docs/marketing-apis/) updates their [API](https://www.nickang.com/what-is-an-api/) every 6 months or less with new features, so when a [Smartly.io](http://Smartly.io) CSM meets one of our clients, it is common for him to have to dive in, explaining how some parts of the tool works and how, ultimately, the client could benefit from using parts of the tool.
+At the core of their work, a CSM consults their client on how to use their company's product. [Smartly.io](https://smartly.io)'s product is a complicated one because it is built on top of a lot of parts that move extremely rapidly. The [Facebook advertising platform](https://developers.facebook.com/docs/marketing-apis/) updates their [API](/2018-02-03-what-is-an-api/) every 6 months or less with new features, so when a [Smartly.io](http://Smartly.io) CSM meets one of our clients, it is common for him to have to dive in, explaining how some parts of the tool works and how, ultimately, the client could benefit from using parts of the tool.
 
 Let's take a recent example from my work. My colleague Anthony had to meet one of his large e-commerce clients to discuss how they could use a spreadsheet to manage all their advertising campaigns on Facebook for the upcoming Black Friday and Cyber Monday sale.
 
@@ -71,7 +71,7 @@ Ultimately for CSMs like Anthony, this means better job security, job prospects,
 
 Next, let's talk about Product Managers (PMs). I have several friends who are PMs at tech companies and because I'm personally interested in doing this kind of work some time in the future, I like asking them what their day to day work is like.
 
-Selina is one the people I met from the [programming bootcamp](https://www.nickang.com/general-assembly-singapore-review/) that we both attended several years ago. She has technical skills as a result of attending and graduating from that bootcamp, but she tells me that not all of her fellow product managers do.
+Selina is one the people I met from the [programming bootcamp](/2017-03-12-general-assembly-singapore-review/) that we both attended several years ago. She has technical skills as a result of attending and graduating from that bootcamp, but she tells me that not all of her fellow product managers do.
 
 I remember vividly when we were at a Starbucks in Suntec City in Singapore. We met so she could interview me as user research since I used their tech news app. At some point after she finished interviewing me, I asked her about her job as a product manager at this company. This was when she told me about how thankful she is to have gone through the programming bootcamp.
 

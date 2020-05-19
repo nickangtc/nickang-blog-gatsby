@@ -5,7 +5,7 @@ date: "2018-01-12"
 
 ![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash
 
-Before [Becoming Technical](https://www.nickang.com/entering-digital-jungle/)™, I had about a hundred ideas of what I would build. Something to automate this and that, something else to make this or that less painful. But as I became more and more technical, something insidious started to take root inside me. I became less, not more, confident in building stuff. It's so bad that since [graduating](https://www.nickang.com/general-assembly-singapore-review/) from General Assembly, I'd stopped working on personal side projects altogether.
+Before [Becoming Technical](/2016-08-15-entering-digital-jungle/)™, I had about a hundred ideas of what I would build. Something to automate this and that, something else to make this or that less painful. But as I became more and more technical, something insidious started to take root inside me. I became less, not more, confident in building stuff. It's so bad that since [graduating](/2017-03-12-general-assembly-singapore-review/) from General Assembly, I'd stopped working on personal side projects altogether.
 
 What happened?
 
@@ -15,7 +15,7 @@ I became daunted by the time I would need to set aside to see through a project.
 
 I think a part of me was also afraid to potentially discover that I'm not technically proficient enough to execute on the idea.
 
-But today, after meeting a fascinating engineer and entrepreneur, Steven, I'm determined to get out of my own way and build tools and apps again next time (if the problem is something I care enough to try to solve and it [hasn't already been solved](https://www.nickang.com/temptation-to-just-build-stuff/)).
+But today, after meeting a fascinating engineer and entrepreneur, Steven, I'm determined to get out of my own way and build tools and apps again next time (if the problem is something I care enough to try to solve and it [hasn't already been solved](/2018-01-03-temptation-to-just-build-stuff/)).
 
 Chatting with Steven over coffee provided me with a key insight that, in effect, disarms all of my above-mentioned worries. The insight? **Developing anything invariably gets easier over time.**
 

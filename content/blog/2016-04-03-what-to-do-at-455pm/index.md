@@ -13,7 +13,7 @@ I think about what to do now, the time I actually have to myself till dinner at 
 - Read one of the books I’ve started on (Adam Grant’s [Originals](http://www.amazon.com/Originals-How-Non-Conformists-Move-World/product-reviews/0525429565/ref=cm_cr_dp_qt_see_all_top?ie=UTF8&showViewpoints=1&sortBy=helpful) looks good)
 - Stock my Kindle with 2–3 books for our month-long trip to the US ([Mike Tyson’s autobiography](http://www.amazon.com/Undisputed-Truth-Autobiography-Mike-Tyson/product-reviews/0007502532/ref=cm_cr_dp_qt_see_all_top?ie=UTF8&showViewpoints=1&sortBy=helpful) _has_ to be in there)
 - Read up the histories of the cities we’ll be visiting in the US so that we know what we’re looking at while travelling (sitting on our coffee table are 4 guides about cities, national parks and road trips)
-- Read more about Muhammad Ali and the [fascinating world of boxing](https://www.nickang.com/boxing-interesting-to-me/) that I’d just learned about
+- Read more about Muhammad Ali and the [fascinating world of boxing](/2016-03-26-boxing-interesting-to-me/) that I’d just learned about
 - Make a list of other things that I ought to be doing to prepare for the trip, like “buy microfibre travel towel” and “change money”
 
 If I were to be honest, some of those sneaked in there as I was thinking of what to write, but that fact too lends weight to what I’m trying to articulate. **I have so many options, choices and responsibilities as an adult that deciding what to do when is actually a struggle.** What a darned problem to have!

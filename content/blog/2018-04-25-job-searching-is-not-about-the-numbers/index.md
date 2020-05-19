@@ -5,7 +5,7 @@ date: "2018-04-25"
 
 ![illustration of a carnival bottle with a ring around its neck](images/Screen-Shot-2018-04-25-at-8.48.50-PM.png)
 
-In an [earlier post](https://www.nickang.com/a-very-involved-job-application/), I lamented the fact that some companies have an interview process that requires very specific preparation. My main gripe was how it took time away from my preparation for other interviews disproportionately.
+In an [earlier post](/2018-04-03-a-very-involved-job-application/), I lamented the fact that some companies have an interview process that requires very specific preparation. My main gripe was how it took time away from my preparation for other interviews disproportionately.
 
 I'd like to now correct myself. I don't think that way of thinking is a good one.
 

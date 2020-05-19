@@ -27,7 +27,7 @@ I'm going to highlight the most important points raised in the article and those
 
 The first point is this: **you should tend towards doing a job that you're good at.**
 
-This is a point that Cal Newport also made in his book. Here's an excerpt from [my notes](https://www.nickang.com/book-cal-newport-so-good-they-cant-ignore-you/) of the book:
+This is a point that Cal Newport also made in his book. Here's an excerpt from [my notes](/2016-03-06-book-cal-newport-so-good-they-cant-ignore-you/) of the book:
 
 > If you are good at what you do, you’re more likely to love your job. Research by Amy Wrzesniewski revealed that the type of work one does doesn’t necessarily predict whether she would enjoy it. She did this by pointing out that college administrative assistants are equally split when asked whether they see their jobs as a job, career, or a calling, and the biggest predictor for viewing such a job as a "calling" was the number of years on the job.
 
@@ -115,7 +115,7 @@ Now here's the interesting part - his app, WriteMapper, is the tool that I used 
 
 Is he _good at what he does_? I can testify that he is. WriteMapper is a very well designed mind mapping tool. It's smooth, the user interface gets out of the way to let you visualise ideas, and it works as advertised.
 
-Is he finding the work _challenging_? Yes, having to wear many hats can be tough. I've been there before and I [gave up](https://www.nickang.com/hardware-startup-why-shelf/), because at the time, the job demanded more than I could give. I believe he's in a better position than I am, and hope he keeps going at it.
+Is he finding the work _challenging_? Yes, having to wear many hats can be tough. I've been there before and I [gave up](/2016-03-12-hardware-startup-why-shelf/), because at the time, the job demanded more than I could give. I believe he's in a better position than I am, and hope he keeps going at it.
 
 Does his work _help others_? Well, the answer to this is obvious. It's helped me with this post (and possibly future ones as well)! And he's made several sales since his launch on Product Hunt (for [Mac](https://www.producthunt.com/posts/writemapper) and [Windows](https://www.producthunt.com/posts/writemapper-for-windows)), out of which some customers must have been touched by his work.
 

@@ -5,7 +5,7 @@ date: "2017-10-27"
 
 ![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog-part-2.png) Photo by Dan Edwards on Unsplash
 
-Welcome to the second part of _How to start using the command line_. You can read part 1 [here](https://www.nickang.com/start-using-the-command-line-part-1/) if you haven't already - I cover the most basic commands there to get you started.
+Welcome to the second part of _How to start using the command line_. You can read part 1 [here](/2017-10-21-start-using-the-command-line-part-1/) if you haven't already - I cover the most basic commands there to get you started.
 
 In this second part, I'll go through a few more basic commands and introduce the concept of a **flag** that you can use to modify certain commands. A flag can, for example, be used to modify the command `rm` to act on a directory instead of a file.
 
@@ -127,11 +127,11 @@ So if you've read part 1 and this post, and tried some of the commands yourself 
 
 ### What's next?
 
-I hope that this post and [part 1](https://www.nickang.com/start-using-the-command-line-part-1/) has been helpful in equipping you with some of the basic concepts and commands to get you started with using the command line! If there's anything you think I missed out or you think you'd like to learn about, please leave a comment and I'll _refactor_ them in when I can.
+I hope that this post and [part 1](/2017-10-21-start-using-the-command-line-part-1/) has been helpful in equipping you with some of the basic concepts and commands to get you started with using the command line! If there's anything you think I missed out or you think you'd like to learn about, please leave a comment and I'll _refactor_ them in when I can.
 
 Anyway, did you notice the weird `../` characters roaming this post? I wanted to keep these two posts on the command line purely about the commands, that's why I didn't mention these characters. But they are nevertheless important to working with the command line.
 
-For that, look out for an upcoming post on **paths**. For some ideas of what other things programmers use the command line for, check out some of [my](https://www.nickang.com/why-programmers-use-command-line-interface/) [other](https://www.nickang.com/tunnel-http-requests-into-localhost/) [posts](https://www.nickang.com/programmers-remote-work/). Till then, have a bug-free day!
+For that, look out for an upcoming post on **paths**. For some ideas of what other things programmers use the command line for, check out some of [my](/2017-10-18-why-programmers-use-command-line-interface/) [other](/2017-10-12-tunnel-http-requests-into-localhost/) [posts](/2016-08-23-programmers-remote-work/). Till then, have a bug-free day!
 
 * * *
 

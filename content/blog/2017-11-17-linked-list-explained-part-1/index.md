@@ -35,7 +35,7 @@ Almost. A linked list _encapsulates_ many separate nodes but does so indirectly.
 
 Now take a moment to let that sink in. A linked list object only needs to keep a reference to the head and tail. The links between nodes are maintained by the node objects themselves.
 
-We'll go through how to implement a linked list in JavaScript in [part 2](https://www.nickang.com/linked-list-implementation-part-2/) of this post. For now, let's continue exploring the concept of the linked list data structure.
+We'll go through how to implement a linked list in JavaScript in [part 2](/2017-11-18-linked-list-implementation-part-2/) of this post. For now, let's continue exploring the concept of the linked list data structure.
 
 ## Why use a linked list?
 
@@ -101,11 +101,11 @@ This is the case because linked lists work via links between each node and neith
 
 So that's it! That was a quick lowdown on what linked lists are, why it exists, and some of its strengths and weaknesses.
 
-To learn how to implement a linked list in JavaScript, head over to [part 2 of this post](https://www.nickang.com/linked-list-implementation-part-2/).
+To learn how to implement a linked list in JavaScript, head over to [part 2 of this post](/2017-11-18-linked-list-implementation-part-2/).
 
 **References and additional resources:**
 
-- My [post](https://www.nickang.com/algorithm-time-complexity-big-o-notation/) on Big O notation and time complexity
+- My [post](/2017-11-15-algorithm-time-complexity-big-o-notation/) on Big O notation and time complexity
 - [Wikipedia](https://en.wikipedia.org/wiki/Linked_list) article on linked lists
 - Udemy [course](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/) by Eric Traub: Learning Data Structures in JavaScript from Scratch. I highly recommend this course - the instructor is concise and covers many data structures, including linked lists
 

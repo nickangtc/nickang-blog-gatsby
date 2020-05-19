@@ -13,7 +13,7 @@ There are only a few reasons people keep blogs:
 
 - As an indie publishing house, smaller in scale than the New York Times and news networks (eg. Vice, Vox)
 - As part of a business strategy to carry out what is now widely known as content marketing, to drive inbound leads to buy stuff on your site
-- As space to publicly share one's ideas, thoughts, opinions, and [subjective experiences](https://www.nickang.com/subjective-experience/) which can be shared with people when desired and, potentially, serve as a logbook of one's life
+- As space to publicly share one's ideas, thoughts, opinions, and [subjective experiences](/2018-04-02-subjective-experience/) which can be shared with people when desired and, potentially, serve as a logbook of one's life
 - As a way to gain hollow follower-ship by pandering to people's attraction to drama and sensational information
 
 Google's new blog compass app may be helpful for people in groups one, two, and especially four. I think I belong to the third group, so it isn't useful to me.

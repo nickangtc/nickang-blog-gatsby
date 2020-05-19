@@ -25,7 +25,7 @@ Ok, let’s take a step back and consider the pluses of strict adherence to the 
 
 The first and most noticeable benefit for me would be the **time saved from not having to understand the nitty gritty**, not having to go line-by-line to grasp every little quirk that is Ruby on Rails and just trust the system. That is liberating.
 
-In fact, ever since we were introduced to Rails last week, I’ve said a few times that **Rails is what I had always expected server setup and configuration to be like before I became a developer**. It’s supposed to be the answer to the minimalistic [piece-me-lego-by-lego approach of Node.js](https://www.nickang.com/nodejs-server-nightmare/), which is very difficult to grasp but in comparison (and in hindsight), relatively straightforward.
+In fact, ever since we were introduced to Rails last week, I’ve said a few times that **Rails is what I had always expected server setup and configuration to be like before I became a developer**. It’s supposed to be the answer to the minimalistic [piece-me-lego-by-lego approach of Node.js](/2016-09-19-nodejs-server-nightmare/), which is very difficult to grasp but in comparison (and in hindsight), relatively straightforward.
 
 Sticking to the rules is probably also going to be **less stressful most of the time** (again, except when troubleshooting). All I need to do is google for the right template or Gem that generates that template for me and the server should be up and doing its thing in a short time.
 

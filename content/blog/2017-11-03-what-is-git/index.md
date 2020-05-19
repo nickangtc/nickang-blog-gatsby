@@ -56,7 +56,7 @@ Git is used by:
 - A team of programmers
 - Tech companies with many teams
 
-I think it's not exaggerating to say that virtually every tech company in the world uses git. And because git is open source software, it can be installed on any computer anywhere around the world without cost. Git enables [programmers to work together remotely](https://www.nickang.com/programmers-remote-work/) without too much pain in large part due to git (the largest part being the internet, of course).
+I think it's not exaggerating to say that virtually every tech company in the world uses git. And because git is open source software, it can be installed on any computer anywhere around the world without cost. Git enables [programmers to work together remotely](/2016-08-23-programmers-remote-work/) without too much pain in large part due to git (the largest part being the internet, of course).
 
 Since version management _is_ something that every organisation with a code base needs to grapple with, and git is free, unobtrusive, and for the most part simple, it has become the de facto solution in the industry.
 
@@ -64,7 +64,7 @@ Since version management _is_ something that every organisation with a code base
 
 Absolutely without a shred of doubt, yes. Git is tremendously useful!
 
-I've used git on projects that I worked on personally at [General Assembly](https://www.nickang.com/general-assembly-singapore-review/). Even at the scale of a project written and maintained by a single person, git has helped me by giving me a clear picture of how my code has evolved.
+I've used git on projects that I worked on personally at [General Assembly](/2017-03-12-general-assembly-singapore-review/). Even at the scale of a project written and maintained by a single person, git has helped me by giving me a clear picture of how my code has evolved.
 
 Also, whenever I made any changes that broke my app (ie. crashed it and rendered it unusable), I'd refer to old commits and sometimes even revert to that old code. There's a command to do that, among many, many other commands to do almost every thing you imagine there might be a use for.
 
@@ -80,7 +80,7 @@ I hope that gives you a good idea of what git is and how useful it is to a progr
 **Useful references:**
 
 - Article on [Wikipedia](https://en.wikipedia.org/wiki/Git)
-- My other posts on specific git commands and use cases ([squashing commits](https://www.nickang.com/squash-git-commits/), [stash](https://www.nickang.com/git-stash/), [replacing an entire branch](https://www.nickang.com/replace-git-branch-code/))
+- My other posts on specific git commands and use cases ([squashing commits](/2017-09-23-squash-git-commits/), [stash](/2017-09-26-git-stash/), [replacing an entire branch](/2017-09-30-replace-git-branch-code/))
 
 * * *
 

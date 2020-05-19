@@ -7,7 +7,7 @@ date: "2017-10-29"
 
 I turn to coffee when I'm tired and still have some time left in the day to work. But when I brew or order that cup of coffee in a situation like that, I know I'm drinking for utility, not enjoyment.
 
-"But you can enjoy a cup of coffee _and_ get the caffeine kick from it", I hear you say. And I fully agree with that. But I'm always able to recognise the trigger for wanting coffee, and the trigger for me to drink coffee these days is almost always sleepiness or fatigue. On days like these, coffee is just a tasty drug for boosting my energy levels (to be [paid](https://www.nickang.com/unhealthy-work/) [back](https://www.nickang.com/comparing-mindfulness-caffeine/) later).
+"But you can enjoy a cup of coffee _and_ get the caffeine kick from it", I hear you say. And I fully agree with that. But I'm always able to recognise the trigger for wanting coffee, and the trigger for me to drink coffee these days is almost always sleepiness or fatigue. On days like these, coffee is just a tasty drug for boosting my energy levels (to be [paid](/2016-08-13-unhealthy-work/) [back](/2017-10-02-comparing-mindfulness-caffeine/) later).
 
 So when I'm feeling sluggish, I _turn to_ coffee.
 

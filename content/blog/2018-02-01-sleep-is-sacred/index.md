@@ -11,7 +11,7 @@ I had to wrestle with myself to decide to stay awake and write this post instead
 
 Here's my realisation about sleep: it is sacred.
 
-When I disrespect sleep, I invariably find myself regretting it at some point very soon, usually within the proceeding 24 hours. When it happens to me, I subconsciously [reach for the cup](https://www.nickang.com/litmus-test-enough-rest/) like an addict. Sleep deprivation happens to everybody and [it needs to be addressed](https://www.nickang.com/always-tired-folly/).
+When I disrespect sleep, I invariably find myself regretting it at some point very soon, usually within the proceeding 24 hours. When it happens to me, I subconsciously [reach for the cup](/2017-10-29-litmus-test-enough-rest/) like an addict. Sleep deprivation happens to everybody and [it needs to be addressed](/2017-01-08-always-tired-folly/).
 
 ### Sleep, even if you're on a roll
 

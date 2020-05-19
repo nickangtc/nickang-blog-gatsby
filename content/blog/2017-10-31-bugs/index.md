@@ -17,7 +17,7 @@ The origin of the word is not something most software engineers know because, we
 
 What matters is that we like to use the term "bug" to refer to the thing we need to _squash_ and kill (or, if you prefer less masculine terms as I do, to fix or resolve).
 
-Bugs are our enemy. They are one of the things that most consistently stand between us and software that works perfectly in every situation every time. [User nirvana](https://www.nickang.com/bug-free-software/). But why do bugs exist, you ask?
+Bugs are our enemy. They are one of the things that most consistently stand between us and software that works perfectly in every situation every time. [User nirvana](/2017-10-19-bug-free-software/). But why do bugs exist, you ask?
 
 ## Why do bugs exist?
 

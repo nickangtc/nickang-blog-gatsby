@@ -73,9 +73,9 @@ Just for fun, here's the typing test I took. Feel free to have a go at it, but p
 
 <iframe src="http://typing-speed-test.aoeu.eu/?iframe=1;lang=en" width="700" height="300" style="border: 0;"></iframe>
 
-If you're interested, I wrote about some of the other things that people commonly (but inaccurately) believe to be important qualities of a programmer - you can read that [here](https://www.nickang.com/programming-is-not-for-everyone/).
+If you're interested, I wrote about some of the other things that people commonly (but inaccurately) believe to be important qualities of a programmer - you can read that [here](/2017-10-25-programming-is-not-for-everyone/).
 
-**EDIT (30/10/17):** My WPM is 105 and just for fun and because I was bored, I captured my [1-minute test on video](https://www.nickang.com/typing-speed-test-video/) and uploaded it to YouTube.
+**EDIT (30/10/17):** My WPM is 105 and just for fun and because I was bored, I captured my [1-minute test on video](/2017-10-30-typing-speed-test-video/) and uploaded it to YouTube.
 
 * * *
 

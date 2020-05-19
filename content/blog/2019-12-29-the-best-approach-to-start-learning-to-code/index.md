@@ -19,7 +19,7 @@ It's like trying tea for the first time - if you've never had tea, any cup of te
 
 Is it possible that uncle Sammy's tea from Japan happens to be the kind of tea, perhaps it was a fruit tea, and it turned you off? Yes. But there is a much stronger set of commonalities across modern programming languages (JavaScript, C++, Python, Ruby) than there is among teas (fruit, black, green, herbal). So the chances of you getting off on the wrong footage are very slim.
 
-However, if you are already past the dabbling phase and are wondering which programming language is the best for you to leap with, I recommend JavaScript. I share my reasoning in [this other post](https://www.nickang.com/how-to-get-started-with-programming-part-2/).
+However, if you are already past the dabbling phase and are wondering which programming language is the best for you to leap with, I recommend JavaScript. I share my reasoning in [this other post](/2017-10-17-how-to-get-started-with-programming-part-2/).
 
 ## How much should I dabble before leaping?
 
@@ -39,7 +39,7 @@ So I ended up learning HTML, CSS, and for the bulk of my time, JavaScript on Fre
 
 In total, I spent 3 months coding for about 1 to 2 hours each day. The devil is in the details, so I will write _how_ I structured my time during those 3 months in another post. I did benefit from being a fresh university graduate with no education debt, fresh out of failure from trying to build my own tech startup without technical skills.
 
-After those 3 months, I realised that I found coding interesting enough that I should enrol myself in a [full-time programming bootcamp](https://www.nickang.com/general-assembly-singapore-review/). This was me _leaping_. A few more months later, I started work as a junior software engineer at an unheard-of startup based in Hong Kong.
+After those 3 months, I realised that I found coding interesting enough that I should enrol myself in a [full-time programming bootcamp](/2017-03-12-general-assembly-singapore-review/). This was me _leaping_. A few more months later, I started work as a junior software engineer at an unheard-of startup based in Hong Kong.
 
 So how much should _you_ dabble in coding before leaping? I recommend giving it at least 1 to 2 weeks.
 

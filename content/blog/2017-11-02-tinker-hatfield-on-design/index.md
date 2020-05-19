@@ -33,4 +33,4 @@ My favourite idea from this episode has to be this:
 > "If people haven't either loved or hated your work, you just haven't done all that much."
 > <cite>Tinker Hatfield</cite>
 
-This reminds me of one of my all-time favourite quotes about the [prerequisite of doing good work](https://www.nickang.com/fierce-and-original/). I think they go in a pair.
+This reminds me of one of my all-time favourite quotes about the [prerequisite of doing good work](/2017-10-04-fierce-and-original/). I think they go in a pair.

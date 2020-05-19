@@ -34,7 +34,7 @@ When your latest changes are finally ready (eg. new feature done!) and you want 
 
 And if there's a conflict detected, git will helpfully point them out in the file (by inserting text into the files with conflicts at the exact lines where they clash) for you to choose what changes you want to keep and delete.
 
-So that's (g)it! For more details, you can read my [post on git](https://www.nickang.com/what-is-git/). Cool, so what about GitHub?
+So that's (g)it! For more details, you can read my [post on git](/2017-11-03-what-is-git/). Cool, so what about GitHub?
 
 ## GitHub is a company with commercial products
 

@@ -63,7 +63,7 @@ If you've read this far, you now know how a binary search tree is structured! Bu
 
 The quick answer is this: a binary search tree implements a data structure that is based on the binary search algorithm. That's why it takes its name.
 
-Firstly, in case you don't already know what binary search is, you can read about it in my [post](https://www.nickang.com/binary-search-explained/) on that.
+Firstly, in case you don't already know what binary search is, you can read about it in my [post](/2017-11-22-binary-search-explained/) on that.
 
 As a short refresher, binary search is a remarkably efficient search algorithm that halves an input array with each iteration, keeping only the half that it knows contains the item we're searching for. It continues until it finds the item we're looking for and returns it.
 
@@ -107,7 +107,7 @@ For a bit more detail, I recommend reading this very [short article](http://orcu
 
 And there you have it - the binary search tree explained! Hope you learned something from this post.
 
-In the [next post](https://www.nickang.com/why-use-binary-search-tree/) I discuss some of the strengths and weaknesses of a binary search tree.
+In the [next post](/2017-12-10-why-use-binary-search-tree/) I discuss some of the strengths and weaknesses of a binary search tree.
 
 * * *
 

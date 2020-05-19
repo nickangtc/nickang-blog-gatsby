@@ -23,6 +23,7 @@ You might find it surprising that there's actually no command called `git squash
 
 Let's say you have 3 commits in your `responsive-ui` branch and you want to squash them into a single commit. Here's the sequence of Terminal commands to run, with explanations in between.
 
+```sh
 git rebase -i HEAD~3
 
 This will bring up an interactive console in Terminal (that's what the `-i` flag stands for):
@@ -49,18 +50,22 @@ pick ead1764 clean up for deployment
 # However, if you remove everything, the rebase will be aborted.
 #
 # Note that empty commits are commented out
+```
 
 In the interactive console, which is going to be your default command line editor (mine is [Nano](https://www.nano-editor.org/)), you will need to change all except one of the commits to "squash" instead of "pick":
 
+```sh
 pick 3e7bcf6 add bootstrap and grid-ify all html
 squash 2e5f39d fix bugs
 squash ead1764 clean up for deployment
+```
 
-> Tip: You can save time by replacing the word "squash" with the letter "s", as in `s 2e5f39d fix bugs`. The result is the same.
+Tip: You can save time by replacing the word "squash" with the letter "s", as in `s 2e5f39d fix bugs`. The result is the same.
 
 When done, exit the interface (for Nano editor it is Ctrl + X, then Y, then Enter). This will save the methods you've decided to rebase each commit on. That is stage 1 of 2 of the interactive rebase. Stage 2 will involve a second interactive console:
 
-\# This is a combination of 3 commits.
+```sh
+# This is a combination of 3 commits.
 # The first commit's message is:
 add bootstrap and grid-ify all html
 
@@ -74,22 +79,27 @@ clean up for deployment
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
+```
 
 In stage 2, you're given the opportunity to edit the commit message for the single remaining commit. I usually prefer to keep my commit message succinct in a single line, so I delete all the other by-now extraneous commit messages:
 
-\# This is a combination of 3 commits.
+```sh
+# This is a combination of 3 commits.
 # The first commit's message is:
 add bootstrap and grid-ify all html
+```
 
 But before saving, I amend the commit message to reflect the feature that this branch will implement once merged, using the protocol that we use internally in the team:
 
-\# This is a combination of 3 commits.
+```sh
+# This is a combination of 3 commits.
 # The first commit's message is:
 feat(UI): add bootstrap v4.0 for responsive grids
+```
 
 Exit to save as before. Now when you run `git log`, you should see that the 3 commits in your local feature branch has become one!
 
 Other git-related short tutorials:
 
-- [How to use git stash (and when not to use it)](https://www.nickang.com/git-stash/)
-- [How to completely replace git branch code with another branch’s code](https://www.nickang.com/replace-git-branch-code/)
+- [How to use git stash (and when not to use it)](/2017-09-26-git-stash/)
+- [How to completely replace git branch code with another branch’s code](/2017-09-30-replace-git-branch-code/)

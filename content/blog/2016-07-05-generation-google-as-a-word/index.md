@@ -55,4 +55,4 @@ I don’t really know just how achievable this is, but I know only one way to fi
 
 And if my progress learning web development full-time using Free Code Camp since almost two months ago is any indication, then I think it’s doable, though probably by a stretch when it comes to time.
 
-My priority now is to learn web development (HTML, CSS, JavaScript and soon, Ruby on Rails), while occasionally dedicating a full day to working on a hardware project. I’ll keep a log on my [website](https://nickang.com/), and maybe update here on Medium too.
+My priority now is to learn web development (HTML, CSS, JavaScript and soon, Ruby on Rails), while occasionally dedicating a full day to working on a hardware project. I’ll keep a log on my [website](https://www.nickang.com/), and maybe update here on Medium too.

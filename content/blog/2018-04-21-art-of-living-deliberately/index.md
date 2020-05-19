@@ -5,7 +5,7 @@ date: "2018-04-21"
 
 https://www.instagram.com/p/Bh0ieM_nTpU
 
-I'm currently in the midst of searching for a new job, and one of the biggest [goals](https://www.nickang.com/new-years-resolution-2018/) I wished to achieve with this new job was to relocate to San Francisco. Now, about 4 months into the toughest job search in my life so far, I may finally be coming to a conclusion.
+I'm currently in the midst of searching for a new job, and one of the biggest [goals](/2017-12-31-new-years-resolution-2018/) I wished to achieve with this new job was to relocate to San Francisco. Now, about 4 months into the toughest job search in my life so far, I may finally be coming to a conclusion.
 
 I've learned a lot from this process about my goals, why they are what they are, and what are some things I will not compromise on. While I'd love to reflect on that at some point when this is officially over, what I want to reflect on right now is something that this job searching process made me realise about being human:
 

@@ -45,7 +45,7 @@ That means the calculations are done based on a timeline of doing the task for a
 
 My personal answer is... _quite many_, actually.
 
-Stay peeled to the next post where I'll break down some of the most common tasks we do at work as programmers and classify them as worth the time or not! In the meantime, here are some of my [other](https://www.nickang.com/fastest-delete-django/) [posts](https://www.nickang.com/shorter-code-not-necessarily-better/) about optimisation.
+Stay peeled to the next post where I'll break down some of the most common tasks we do at work as programmers and classify them as worth the time or not! In the meantime, here are some of my [other](/2017-08-22-fastest-delete-django/) [posts](/2016-09-06-shorter-code-not-necessarily-better/) about optimisation.
 
 * * *
 
