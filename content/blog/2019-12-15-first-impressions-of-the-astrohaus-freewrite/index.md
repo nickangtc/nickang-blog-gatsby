@@ -121,5 +121,3 @@ To the team at Astrohaus, well done.
 * * *
 
 If you are considering getting a Freewrite yourself, here is a handy **[referral link you can use to get a 5% discount](https://getfreewrite.com/discount/XTR6424BZFVZ?rfsn=3471572.a797a1&utm_source=refersion&utm_medium=affiliate&utm_campaign=3471572.a797a1).** _Full disclosure, if you buy through that link I will also get some credits from Astrohaus._
-
-* * *

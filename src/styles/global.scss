@@ -1,14 +1,11 @@
-$red: #cc2936;
-$beige: #F5EFDF;
+@import './variables';
 
+/**
+* COLORS
+*/
 body {
     background-color: $beige;
 }
-
-h1, h2, h3, h4, h5, h6, nav {
-    font-family: "Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
-}
-
 h1, h2, h3, h4, h5, h6 {
     a {
         color: black;
@@ -18,19 +15,56 @@ h1, h2, h3, h4, h5, h6 {
         color: $red;
     }
 }
-
+h4, h5, h6 {
+    font-size: $base-size;
+}
+h3 {
+    font-size: $base-size * 1.25;
+}
+h2 {
+    font-size: $base-size * 1.5;
+}
+h1 {
+    font-size: $base-size * 2;
+}
 a {
     text-decoration-color: $red;
     color: $red;
 }
 
-footer {
-    a {
-        text-decoration: none;
-        box-shadow: none;
+/**
+* TYPOGRAPHY AND SIZING
+*/
+h1, h2, h3, h4, h5, h6, nav {
+    font-family: $sans-serif;
+}
+
+// Portrait and Landscape
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    h4, h5, h6 {
+        font-size: $base-size;
     }
-    
-    img {
-        margin-bottom: 0;
+    h3 {
+        font-size: $base-size * 1.25;
+    }
+    h2 {
+        font-size: $base-size * 1.5;
+    }
+    h1 {
+        font-size: $base-size * 1.75;
     }
 }
+
+/**
+* SPACING
+*/
+hr {
+    margin-bottom: $rhythm;
+}
+
+/**
+* EVERYTHING ELSE
+*/

@@ -1,6 +1,7 @@
 import React from 'react'
 
-import twitterLogo from "../../content/assets/twitter.svg"
+import './footer.module.scss'
+import twitterLogo from '../../content/assets/twitter.svg'
 
 const Footer = () => {
   return (
