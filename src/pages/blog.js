@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import blogStyles from "./blog.module.scss"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -18,16 +19,12 @@ const BlogIndex = ({ data, location }) => {
         return (
           <article key={node.fields.slug}>
             <header>
-              <h2
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
+              <h2>
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h2>
-              <small>{node.frontmatter.date}</small>
+              <small className={ blogStyles.date }>{node.frontmatter.date}</small>
             </header>
             <section>
               <p
