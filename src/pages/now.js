@@ -12,7 +12,7 @@ const NowPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-    <SEO title="Nick Ang | Now" />
+    <SEO title="Now" />
     <h1>Now</h1>
   
     <p><em>This section is inspired by Derek Siver's <a href="https://sivers.org/nowff">now movement</a>, as a sort of "public declaration" of my priorities at the moment.</em></p>

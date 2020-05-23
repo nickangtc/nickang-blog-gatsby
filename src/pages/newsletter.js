@@ -9,7 +9,7 @@ const NewsletterPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Nick Ang | Newsletter" />
+      <SEO title="Newsletter" />
       <h1>Newsletter</h1>
       <p>Find previous newsletters here. <a target="_blank" rel="noreferrer" href="http://eepurl.com/dj-HR5">Click here</a> to subscribe.</p>
 

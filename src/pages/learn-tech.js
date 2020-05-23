@@ -13,7 +13,7 @@ const LearnTechPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Nick Ang | Learn Tech" />
+      <SEO title="Learn Tech" />
 
       <img src={img1} alt="my desktop setup at work nick ang" class="wp-image-3830"/>
       <p><em>One of my early desktop setups at work at Smartly.io (it keeps evolving).</em></p>
