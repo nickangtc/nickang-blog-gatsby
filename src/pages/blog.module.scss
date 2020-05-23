@@ -2,9 +2,11 @@
 
 .title {
   line-height: $base-size * 1.75;
-  margin-bottom: 0;
+  margin-bottom: $base-size;
 }
 
 .date {
   font-family: $sans-serif;
+  margin-bottom: $base-size / 4;
+  display: block;
 }
