@@ -2,6 +2,7 @@
 title: What I learned from teaching colleagues how to code
 date: "2020-05-07"
 description: An in-house technical bootcamp is highly valuable to the business, the employees who are participants, and the teacher (me).
+status: draft
 ---
 
 I joined Smartly.io as a Service Operations Engineer close to 2 years ago. One of the first impactful things I did was to establish an in-house web development bootcamp that I called the "Tech AM Bootcamp" (AM = Account Manager) and I've since conducted it with two groups, each spanning 13 weeks.
@@ -31,9 +32,7 @@ Sometimes they have also found ways to improve their own personal workflow, like
 
 The second bootcamp that started in February 2020, just before COVID-19 cases increased exponentially throughout Europe. It forced me to switch from teaching mostly in-person in Berlin with some remote participants from Amsterdam, Paris, Madrid, and Helsinki to teaching completely remotely from a corner of my apartment. It's funny to say this, but looking back, I appreciate being thrusted into learning how to conduct classes remotely.
 
-TK - link to DHH JF periscope https://www.pscp.tv/jasonfried/1MYGNkzzNpXJw
-
-Levelling the playing field - that was the single most important thing that helped make online teaching and learning possible for us. This is something that Jason Fried and DHH from Basecamp (a fully remote company in business for 20 years) emphasised time and again, most recently in a Periscope live Q&A that can be found [here](https://www.pscp.tv/jasonfried/1MYGNkzzNpXJw). It turns out, most remote-related challenges really do melt away when *everyone* is joining the class from different places.
+Levelling the playing field - that was the single most important thing that helped make online teaching and learning possible for us. This is something that Jason Fried and DHH from Basecamp (a fully remote company in business for 20 years) emphasised time and again, most recently in a [Periscope live Q&A](https://www.pscp.tv/jasonfried/1MYGNkzzNpXJw). It turns out, most remote-related challenges really do melt away when *everyone* is joining the class from different places.
 
 Some insights for conducting high-quality live online classes:
 
@@ -48,5 +47,3 @@ Some insights for conducting high-quality live online classes:
 When it comes to teaching, 70 percent of the battle is already won if you have students who are self-motivated to learn what you are going to teach, so it pays to focus on recruiting only those who appear ready to learn. The other 10 percent and 20 percent are won by consistent encouragement and instructional quality.
 
 My ability to teach the same topic has improved significantly since the last time I taught it. I explain concepts more clearly because I remember (to my surprise) the foibles from the last time I taught it. By now I've taught the basics of JavaScript programming more than 5 times to strangers and to colleagues and I can recall all the times when some way of explaining a concept just didn't work. It's probably a mix of wanting to avoid embarrassment and a genuine desire to want to get the message across clearly.
-
-[one month at smartly](/2018-06-30-one-month-at-smartly)
