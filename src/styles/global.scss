@@ -68,6 +68,9 @@ pre {
 hr {
     margin-bottom: $rhythm;
 }
+ol, ul {
+    margin-left: $rhythm;
+}
 
 /**
 * EVERYTHING ELSE
