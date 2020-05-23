@@ -4,6 +4,7 @@ import { rhythm } from "../utils/typography"
 import Header from '../components/header'
 import Footer from '../components/footer'
 import '../styles/global.scss'
+import '../styles/prism-custom.scss'
 import layoutStyles from './layout.module.scss'
 
 const Layout = ({ location, title, children }) => {

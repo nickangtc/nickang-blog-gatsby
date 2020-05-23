@@ -1,3 +1,11 @@
+@import '../styles/variables';
+
+.site-title {
+  font-size: $base-size * 2.3;
+  margin-bottom: $base-size * 1.5;
+  margin-top: 0;
+}
+
 .nav-list {
   display: flex;
   list-style-type: none;

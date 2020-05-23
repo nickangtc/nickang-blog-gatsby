@@ -61,6 +61,10 @@ h1, h2, h3, h4, h5, h6, nav {
 /**
 * SPACING
 */
+pre {
+    margin-top: 0 !important;
+    margin-bottom: $rhythm !important;
+}
 hr {
     margin-bottom: $rhythm;
 }

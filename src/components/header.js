@@ -1,18 +1,12 @@
 import React from 'react'
 import { Link } from "gatsby"
 
-import { rhythm } from "../utils/typography"
 import headerStyles from "./header.module.scss"
 
 const Header = ({ title }) => {
   return (
     <header>
-      <h1
-        style={{
-          marginBottom: rhythm(1.5),
-          marginTop: 0
-        }}
-      >
+      <h1 className={ headerStyles.siteTitle }>
         <Link
           style={{
             boxShadow: `none`,
