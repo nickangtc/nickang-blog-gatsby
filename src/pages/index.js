@@ -1,8 +1,9 @@
-import React from "react"
-import { graphql, Link } from "gatsby"
+import React from 'react'
+import ReactMarkdown from 'react-markdown'
+import { graphql, Link } from 'gatsby'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 const HomePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
