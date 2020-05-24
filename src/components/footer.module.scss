@@ -1,10 +1,13 @@
 @import '../styles/variables';
 
-a {
-  text-decoration: none;
-  box-shadow: none;
-}
+.site-footer {
+  margin-top: $rhythm;
+  a {
+    text-decoration: none;
+    box-shadow: none;
+  }
 
-img {
-  margin-bottom: 0;
+  img {
+    margin-bottom: 0;
+  }
 }

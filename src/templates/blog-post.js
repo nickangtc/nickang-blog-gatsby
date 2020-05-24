@@ -20,7 +20,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
-          <h1>
+          <h1 className={ blogPostStyles.title }>
             {post.frontmatter.title}
           </h1>
           <p className={ blogPostStyles.date }>

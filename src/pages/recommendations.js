@@ -14,11 +14,8 @@ const RecommendationsPage = ({ data, location }) => {
       <SEO title="Recommendations" />
       <h1>Recommendations</h1>
       <img src={img1} alt="nick ang's excited face" style={{ maxWidth: '30%' }} />
-      <p>The signals above the noise.</p>
-
-      <p>This list is my evergreen effort to curate the (master)pieces that I come across in my life. I'm depositing them into this public page so that I can refer to it myself and share it with people I meet any time.</p>
-
-      <p><em>Note: I just created this list in January 2020, which is why it's quite short at the moment. I didn't want to sit down and curate my entire life into links so this will be an incremental effort.</em></p>
+      <p><em>The signals above the noise. The things that put this look on my face.</em></p>
+      <p>This list is always a work-in-progress to curate the (master)pieces that I come across in my life. I'm depositing them into this public page so that I can refer to it myself and share it with people I meet any time.</p>
       <h2>Personal growth</h2>
       <p><a href="https://tim.blog/podcast/" target="_blank" rel="noreferrer noopener"><strong>The Tim Ferriss Show podcast</strong></a>. A treasure trove of interviews with top-performers in almost every field, from tech entrepreneurship and investing to psychedelics research and blogging. The quality ranges from good to brilliant.</p>
       <p><a href="https://john.do/about/" target="_blank" rel="noreferrer noopener"><strong>John Saddington's blog</strong></a>. I keep going back to reading John's blog because it is inspirational light reading to me. The guy is a software engineer, entrepreneur, and writer all in one. That's the kind of person I think (or hope) I am. Plus, he's a documentarian, having blogged almost every single day <a href="https://john.do/why/" target="_blank" rel="noreferrer noopener">since 2001</a>. How's <em>that</em> for consistency?</p>
@@ -33,7 +30,7 @@ const RecommendationsPage = ({ data, location }) => {
 
       <p><strong><a rel="noreferrer noopener" href="https://stratechery.com/" target="_blank">Stratechery</a> by Ben Thompson</strong>. I'm late to the party in discovering this amazing one-person publication. Thompson writes in-depth analyses of technology and business in a way that is concise, timely, and easy to absorb. I stumbled on this gem of an online publication with his article <a href="https://stratechery.com/2018/the-bill-gates-line/" target="_blank" rel="noreferrer noopener">The Bill Gates Line</a>.</p>
       <hr />
-      <p>You might have a better idea of what kind of person I am based on this list. If you have a recommendation for me, please send it my way on <a href="https://twitter.com/nickang">Twitter @nickang</a> - thank you!</p>
+      <p>If you have a recommendation for me, please let me know on <a href="https://twitter.com/nickang">twitter</a>!</p>
     </Layout>
   )
 }

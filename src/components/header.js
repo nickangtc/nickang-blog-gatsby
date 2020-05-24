@@ -24,9 +24,6 @@ const Header = ({ title }) => {
             <Link to="/newsletter">Newsletter</Link>
           </li>
           <li className={ headerStyles.navItem }>
-            <Link to="/recommendations">Recommendations</Link>
-          </li>
-          <li className={ headerStyles.navItem }>
             <Link to="/now">Now</Link>
           </li>
         </ul>
