@@ -9,7 +9,7 @@ I was on the plane yesterday to Hong Kong when I watched Anthony Bourdain’s Pa
 
 # Anthony Bourdain
 
-I’ve always found Bourdain to have a quirky but captivating air around the way he hosts. He often looks simultaneously unhappy and pleased at the same time and occasionally switching it up. Perhaps that’s a prerequisite to keep an audience engaged? To keep them guessing just what was going through his mind as he chews on Scottish haggis (a blend of different, mostly unspeakable parts of a sheep) or locks his rifle on wild game, one trigger squeeze away from irrevocably take its life for his and his company’s dinner that night…
+I’ve always found Bourdain to have a quirky but captivating air around the way he hosts. He often looks simultaneously unhappy and pleased at the same time and occasionally switching it up. Perhaps that’s a prerequisite to keep an audience engaged? To keep them guessing just what was going through his mind as he chews on Scottish haggis (a blend of different, mostly unspeakable parts of a sheep) or locks his rifle on wild game, one trigger squeeze away from irrevocably taking its life for him and his company’s dinner that night…
 
 Anthony Bourdain. American documentary host who travels around the world savouring cuisines from every corner, sharing his thoughts about cultures and places as we go on rides with him. First of all, what a job! Second, the way his killing of a red stag was filmed was tremendous. The camera crew and post-production team did a very good job capturing the emotions and intensity of the moment. I felt as though I was there, belly perched on the ground behind tall grass, holding the rifle myself.
 
