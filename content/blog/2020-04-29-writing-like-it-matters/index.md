@@ -1,6 +1,6 @@
 ---
 title: Words matter
-date: "2020-04-29T22:00:00.000Z"
+date: "2020-04-29"
 description: Inspired by a book and an article, I decided to write!
 ---
 
@@ -12,7 +12,7 @@ Lee Kuan Yew was Singapore's first Prime Minister and founding father, and was i
 
 Why am I bringing this up? Well, a Singaporean living overseas does tend to feel nostalgic about home, so that's reason number one. The bigger point, though, is about writing. Specifically, Lee Kuan Yew's writing style. It is sharp, to-the-point, and for a memoir, vivid enough. He sounds on paper just like he sounds in real-life (I watched him speak on TV broadcasts growing up, as he continued to advise the government after stepping down as Prime Minister). And that is high praise, because Lee Kuan Yew speaks deliberately and powerfully, and he manages to achieve that effect in writing. I cannot help but feel a deep sense of satisfaction knowing that *everyone* has access to the same 26 letters in the English alphabet to tell their own Story.
 
-So, today was interesting in this regard. I continued reading an important book. I also enjoyed reading and editing a well-researched blog post that my wife had just finished writing about the convoluted world of "clean makeup". She is a makeup artist, and through this post, dug into the details of what constituted "clean" in personal care and cosmetic products. It is a win-win for her and her audience.
+So, today was interesting in this regard. I continued reading an important book. I also enjoyed reading and editing a well-researched [blog post](https://www.charlaneyu.com/2020/04/22/discovering-clean-makeup/) that my wife had just finished writing about the convoluted world of "clean makeup". She is a makeup artist, and through this post, dug into the details of what constituted "clean" in personal care and cosmetic products. It is a win-win for her and her audience.
 
 Anyway, aside from the content, I enjoyed reading her writing. She also writes just like she talks, which is clear and condensed. Every sentence in her post as far as I could tell is important. There is no fluff, just facts, opinions, and connective tissue. We have been together for about half our lives and I have seen her improve her grasp of English in strides over the years. She is better at writing than she has ever been and it makes my heart full to witness her growth. Language is an important tool!
 
