@@ -1,6 +1,6 @@
 ---
 title: My digital garden
-date: "2020-05-27"
+date: "2020-05-24"
 description: By changing the label I use to refer to this website from "blog" to "digital garden", I am hoping to change the things I produce and publish here.
 ---
 
