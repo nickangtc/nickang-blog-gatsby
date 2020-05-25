@@ -35,3 +35,9 @@ As it happens, my wife and I are very into growing plants right now in our apart
 ![picture of our home garden in Berlin](images/home-garden-berlin.JPG)
 
 I hope that by changing labels from "blog" to "digital garden", this place will bring about more joy to me and the few of you who may decide to come visit once in a while.
+
+---
+
+EDIT (25.05.2020): I thought this quote and illustration that I found on [twitter](https://twitter.com/hollow_peach/status/1264643836191535105) is relevant to the idea about consistency, so I'm inserting it here.
+
+![illustration by hollow peach on James Clear's quote - Intensity makes a good story. Consistency makes progress](hollow-peach-james-clear.jpeg)
