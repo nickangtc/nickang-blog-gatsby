@@ -47,13 +47,10 @@ const generatePostFolder = async function ({
   postTitle,
   shouldGenerateImagesFolder
 }) {
-  console.log('postTitle:', postTitle)
-  console.log('shouldGenerateImagesFolder:', shouldGenerateImagesFolder)
   const blogDir = __dirname + '/content/blog'
   const date = getCurrentDate()
   const newPostDir = `${blogDir}/${date}-${postTitle.split(' ').join('-')}`
   console.log('newPostDir:', newPostDir)
-  console.log('blogDir:', blogDir)
 
   try {
     const createdDir = fs.mkdirSync(newPostDir, { recursive: true })
