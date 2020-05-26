@@ -65,8 +65,9 @@ const generatePostFolder = async function ({
     const frontmatter = `---
 title: "${postTitle}"
 date: "${date}"
+---
 
----`
+`
 
     fs.writeFileSync(newPostDir + '/index.md', frontmatter)
   } catch (err) {
