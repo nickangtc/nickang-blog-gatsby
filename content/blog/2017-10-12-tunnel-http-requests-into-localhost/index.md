@@ -38,7 +38,7 @@ Using ngrok, I can write code in the development environment on my local machine
 
 As a freemium product, there are limits imposed, like max number of connections at any time and a randomly generated URL every time you stop and start the ngrok process. But they are very reasonable limitations in my opinion. Nothing that really hinders my work at least.
 
-If you have the need for such a tool but haven't heard of it, I hope this post has given you a rock to look under. And if you actually used it before, I'd love to hear how you have used it for your projects and learn from your experience. Just leave a comment!
+If you have the need for such a tool but haven't heard of it, I hope this post has given you a rock to look under. And if you actually used it before, I'd love to hear how you have used it for your projects and learn from your experience.
 
 * * *
 

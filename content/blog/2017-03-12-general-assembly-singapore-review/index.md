@@ -9,7 +9,7 @@ Hey there.
 
 If you’re searching for an honest review of some of the programming courses currently available in Singapore, you’ve come to the right place. I will lay out in this post what I think about [General Assembly Singapore](https://generalassemb.ly/browse?&where=singapore), and specifically, its [Web Development Immersive](https://generalassemb.ly/education/web-development-immersive) (WDI) full-time course. You can say that this is my attempt to contribute to the community after what I’ve gained from it. Specifically, I want to thank Jared Tong for writing [his review](https://jaredtong.com/2015/11/15/general-assembly-singapore-front-end-web-development-immersive-review-week-1/) that helped me and several other people make a decision to enrol.
 
-Before we go on, I want to make it clear that this is not a sponsored post. I don't even think anyone at General Assembly knows I’m writing this. Everything I've written here are my honest thoughts, designed to give you information to help you judge for yourself. You may disagree and frown, or you may nod in excitement; whichever it is, if something is burning inside, feel free to leave a comment. My goal is to help you know more about WDI, what it is like picking up programming and other little things that you might consider important to know about a career in tech.
+Before we go on, I want to make it clear that this is not a sponsored post. I don't even think anyone at General Assembly knows I’m writing this. Everything I've written here are my honest thoughts, designed to give you information to help you judge for yourself. You may disagree and frown, or you may nod in excitement; whichever it is, if something is burning inside, feel free to [tweet](https://twitter.com/nickang) at me. My goal is to help you know more about WDI, what it is like picking up programming and other little things that you might consider important to know about a career in tech.
 
 Here’s the breakdown of this post:
 
@@ -221,11 +221,11 @@ Finally, and I know this sounds obvious, remember that ultimately _you_ determin
 
 ### Ping me if you need help/answers
 
-I hope this was helpful for you. If you have any questions that was not covered here, or thoughts you’d like to express, feel free to leave a comment or message me on [LinkedIn](https://www.linkedin.com/in/nickangtc/) or [tweet](https://twitter.com/nickang) me.
+I hope this was helpful for you. If you have any questions that was not covered here, or thoughts you’d like to express, feel free to [tweet](https://twitter.com/nickang) at me or message me on [LinkedIn](https://www.linkedin.com/in/nickangtc/).
 
 Bon voyage!
 
-* * *
+---
 
 [![nick ang youtube channel front page](images/nick-youtube.png)](https://www.youtube.com/channel/UCfGK7NLYK22y1ahCh6w9baw )
 

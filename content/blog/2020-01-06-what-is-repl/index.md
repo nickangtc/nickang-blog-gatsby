@@ -11,7 +11,7 @@ I know from experience trying to explain this concept that it can be confusing a
 
 REPL is used regularly by people who are understand a programming language to quickly run a snippet of code and see its outcome. This is usually done before incorporating a code snippet into a project, or as a quick way to do some hacky computations on the fly.
 
-There are more advanced use cases for REPL, like to access a database through application code. But that's beyond the basics, so I will deliberately leave that out for now. If you're curious to know more, leave a comment or [tweet me](https://twitter.com/nickang).
+There are more advanced use cases for REPL, like to access a database through application code. But that's beyond the basics, so I will deliberately leave that out for now. If you're curious to know more, [tweet me](https://twitter.com/nickang).
 
 All this is to say that it pays to know what what is REPL for. Once understood, you can use it to do some very useful things very quickly.
 

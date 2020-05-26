@@ -107,12 +107,10 @@ I'm also going vegetarian because I want to stop supporting animal farming opera
 
 It's time for me to take a firm stand on this issue. I've been cowardly all this while not daring to face up to this important issue. Now that I'm in great company, I'm going to commit to being a vegetarian!
 
-* * *
+---
 
 _Friday, 22 June 2018 in Cafe Tori at the Helsinki Airport._
 
-* * *
-
-_Liked this post? Hated it? Agree with some points but vehemently disagree about something? Let me know why by leaving a comment. Let's talk. (Also, if you loved it, consider subscribing to my monthly newsletter so you don't miss all the good stuff that's coming this way.)_
+---
 
 _PS. Actually, I'm also still contemplating between being full vegetarian or pescatarian (a vegetarian who also eats fish). We may need to discuss the morality of fishes vis a vis that of mammals at some point..._

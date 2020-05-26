@@ -39,7 +39,3 @@ Anyway, I feel good about how the project turned out, but if I were to be honest
 I like where I am right now. I feel like some of the worst days are behind me, at least when it comes to creating a server for a web application. I _know_ conceptually and practically how to set one up and how it works, even though it might take a while. It wasn’t easy getting here, but interest and grit got me through, and I look back smiling.
 
 More adventures ahead!
-
-—
-
-PS. If you have seen my research dashboard project [Spidey](http://spidey-dash.herokuapp.com/) and have feedback, feel free to leave a comment.

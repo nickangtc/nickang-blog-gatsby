@@ -127,7 +127,7 @@ So if you've read part 1 and this post, and tried some of the commands yourself 
 
 ### What's next?
 
-I hope that this post and [part 1](/2017-10-21-start-using-the-command-line-part-1/) has been helpful in equipping you with some of the basic concepts and commands to get you started with using the command line! If there's anything you think I missed out or you think you'd like to learn about, please leave a comment and I'll _refactor_ them in when I can.
+I hope that this post and [part 1](/2017-10-21-start-using-the-command-line-part-1/) has been helpful in equipping you with some of the basic concepts and commands to get you started with using the command line!
 
 Anyway, did you notice the weird `../` characters roaming this post? I wanted to keep these two posts on the command line purely about the commands, that's why I didn't mention these characters. But they are nevertheless important to working with the command line.
 
