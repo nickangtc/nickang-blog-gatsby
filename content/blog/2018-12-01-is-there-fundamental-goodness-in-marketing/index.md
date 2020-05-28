@@ -32,12 +32,16 @@ These are some of the fundamental goodness of marketing that I can think of. Of 
 - Planting fear and desire in people’s minds to sell crappy consumer goods that people don’t actually need (_you need a new bag, because yours is out of style, and out of style people are less successful and happy_)
 - Recruiting people into terrorist organisations (_join us in destabilising societies because it is basically what god wants_)
 
+It also makes use of imagery to as a cheapshot to grab our attention that makes [marketing feel dirty](/2020-05-28-marketing-feels-dirty).
+
 I’m not looking for the answer to whether marketing is more good than bad. I don’t think anyone can answer that question objectively.
 
 What I care about is whether there are any good reasons for marketing to exist, because I need to be able to live with my conscience of actively marketing products for my [own company](https://angveilyu.com) as well as working in an [advertising technology startup](https://smartly.io).
 
 This short thought exercise helped clarify that it does. And for now, my conscience can make do with that.
 
-* * *
+---
 
 _Photo by Dan Gold on Unsplash._
+
+_ADDITION 28.05.2020: I added a link to a new post about how marketing feels dirty._
