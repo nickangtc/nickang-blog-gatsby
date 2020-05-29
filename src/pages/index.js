@@ -17,7 +17,7 @@ const HomePage = ({ data, location }) => {
       <h2>Personal favourites</h2>
       <ul>
         <li>
-          <Link to="/2020-05-27-my-digital-garden/">My digital garden</Link>
+          <Link to="/2020-05-24-my-digital-garden/">My digital garden</Link>
         </li>
         <li>
           <Link to="/2017-03-12-general-assembly-singapore-review/">General Assembly Singapore review</Link>
@@ -27,6 +27,9 @@ const HomePage = ({ data, location }) => {
         </li>
         <li>
           <Link to="/2016-08-03-killing-meat/">Anthony Bourdain killed a red stag</Link>
+        </li>
+        <li>
+          <Link to="/2018-07-21-do-individual-efforts-matter/">Do individual efforts matter?</Link>
         </li>
         <li>
           <Link to="/2017-05-31-branding/">Same product, different brands</Link>
