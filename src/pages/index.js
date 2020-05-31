@@ -6,6 +6,14 @@ import SEO from '../components/seo'
 
 const HomePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  const latestPostsData = data.allMarkdownRemark.edges
+  const latestPosts = latestPostsData.map(post => {
+    return (
+      <li>
+        <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
+      </li>
+    )
+  })
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -14,6 +22,7 @@ const HomePage = ({ data, location }) => {
       <p>I'm a software developer and instructor from Singapore <span role="img" aria-label="Singapore flag">🇸🇬</span></p>
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable.</p>
       <p>Like a real-life garden, you shoud expect some organised chaos when you <Link to="/blog">browse the posts</Link>.</p>
+
       <h2>Personal favourites</h2>
       <ul>
         <li>
@@ -35,6 +44,12 @@ const HomePage = ({ data, location }) => {
           <Link to="/2017-05-31-branding/">Same product, different brands</Link>
         </li>
       </ul>
+
+      <h2>Latest posts</h2>
+      <ul>
+        { latestPosts }
+      </ul>
+
       <p>Welcome to my digital garden!</p>
 
       <h2>A bit more about me</h2>
@@ -60,6 +75,21 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 3
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+          }
+        }
       }
     }
   }
