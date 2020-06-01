@@ -49,7 +49,7 @@ const generatePostFolder = async function ({
 }) {
   const blogDir = __dirname + '/content/blog'
   const date = getCurrentDate()
-  const newPostDir = `${blogDir}/${date}-${postTitle.split(' ').join('-')}`
+  const newPostDir = `${blogDir}/${date}-${postTitle.toLowerCase().split(' ').join('-')}`
   console.log('newPostDir:', newPostDir)
 
   try {
