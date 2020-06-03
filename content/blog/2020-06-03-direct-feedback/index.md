@@ -28,3 +28,9 @@ Other options:
 Quickly enough, I realised that none of the options were great. The only option I truly had, the one that would not erode trust and might actually build more of it, is to give feedback directly to him. I wish there was another way where I could get the feedback across to him without sounding like a know-it-all or an asshole, but couldn't find one. Then I remembered what I'd read in [Radical Candour](/2018-11-01-i-dont-care-enough-to-fight-you) by Kim Scott: radical candour > obnoxious aggression (asshole) > ruinous empathy > manipulative insincerity. The line between radical candour and obnoxious aggression is not always so clear, but either is [still better](/2019-02-22-feeling-tired) than the other two or inaction.
 
 I ended up giving him feedback directly in a direct message and I'm relieved that he took it well. Good for us at Smartly.io that we know the importance of hiring people who share the same values as the existing employees.
+
+---
+
+_Wednesday, 11:22pm. Enjoying the fact that the sky only went dark at 10:15pm today in Berlin._
+
+![Berlin summer](images/berlin-summer-nick.JPG)
