@@ -5,8 +5,8 @@ module.exports = {
       name: `Nick`,
       summary: `I don't know but I'll learn`,
     },
-    description: `Based on a starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Notes from lifelong learning`,
+    siteUrl: `https://nickang.com`,
     social: {
       twitter: `nickang`,
     },
