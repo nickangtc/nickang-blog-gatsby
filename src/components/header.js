@@ -21,7 +21,10 @@ const Header = ({ title }) => {
       <nav>
         <ul className={ headerStyles.navList }>
           <li className={ headerStyles.navItem }>
-            <Link to="/newsletter">Newsletter</Link>
+            <Link to="/blog">Blog</Link>
+          </li>
+          <li className={ headerStyles.navItem }>
+            <Link to="/learn-tech">Tech</Link>
           </li>
           <li className={ headerStyles.navItem }>
             <Link to="/now">Now</Link>

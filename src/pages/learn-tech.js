@@ -48,7 +48,7 @@ const LearnTechPage = ({ data, location }) => {
       <img src={img3} alt="nick ang youtube channel front page" />
       <p>Like video tutorials so you can learn by watching developers code? Check out my YouTube channel where I upload <a href="https://www.nickang.com/experienced-developer-does-freecodecamps-web-development-course-and-explain-everything/">videos of me doing the freeCodeCamp course as an experienced developer</a>.</p>
 
-      <p><a href="https://www.youtube.com/channel/UCfGK7NLYK22y1ahCh6w9baw">View my channel &gt;</a></p>
+      <p><a href="https://www.youtube.com/channel/UCfGK7NLYK22y1ahCh6w9baw">View YouTube channel &gt;</a></p>
     </Layout>
   )
 }

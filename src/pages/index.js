@@ -21,7 +21,7 @@ const HomePage = ({ data, location }) => {
       <h1 id="my-digital-garden">Hey, I'm Nick Ang.</h1>
       <p>I'm a software developer and instructor from Singapore <span role="img" aria-label="Singapore flag">🇸🇬</span></p>
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable.</p>
-      <p>Like a real-life garden, you shoud expect some organised chaos when you <Link to="/blog">browse the posts</Link>.</p>
+      <p>Like a real-life garden, you shoud expect some organised chaos when you <Link to="/blog">browse the blog</Link>.</p>
 
       <h2>Personal favourites</h2>
       <ul>
