@@ -34,15 +34,13 @@ const LearnTechPage = ({ data, location }) => {
       <p><strong>Development Workflow and Tools</strong></p>
       <ul><li><a href="https://www.nickang.com/why-programmers-use-command-line-interface/">Why do programmers use the command line?</a></li><li><a href="https://www.nickang.com/code-readability-or-efficiency/">Code readability or efficiency?</a></li><li><a href="https://www.nickang.com/git-and-github/">All you need to know about Git and GitHub</a></li><li><a href="https://www.nickang.com/setup-eslint-next-project/">How to set up ESLint for your next project</a></li><li><a href="https://www.nickang.com/conceptual-overview-of-jest-enzyme-testing/">Conceptual overview of Jest and Enzyme testing for React</a></li><li><a href="https://www.nickang.com/create-simple-command-line-program-node/">How to create a simple command line program with Node.js</a></li><li><a href="https://www.nickang.com/what-is-repl/">What is REPL?</a></li><li><a href="https://www.nickang.com/the-quickest-way-to-try-new-javascript-libraries/">The quickest way to try new JavaScript libraries</a></li></ul>
 
-      <p>Want to read more? <a href="https://www.nickang.com/category/bite-size-programming/">Show me every tech article on this blog &gt;</a></p>
-
       <h2>Bits Please! on Instagram</h2>
 
       <img src={img2} alt="@nickang_blog instagram account" />
 
       <p>If you like my written posts, you may also like what I'm experimenting with on Instagram: <em>Bits Please!</em> It is an experimental way of conveying technical ideas through sketches.</p>
 
-      <p><a href="https://www.instagram.com/nickang_blog/https://www.instagram.com/nickang_blog/">View Bits Please! on Instagram &gt;</a></p>
+      <p><a href="https://www.instagram.com/nickang_blog/">View Bits Please! on Instagram &gt;</a></p>
 
       <h2>YouTube channel</h2>
       <img src={img3} alt="nick ang youtube channel front page" />
