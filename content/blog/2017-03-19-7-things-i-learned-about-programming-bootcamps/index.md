@@ -4,7 +4,7 @@ date: "2017-03-19"
 coverImage: "programming-bootcamps.png"
 ---
 
-Between 2016 and 2017, I went from knowing nothing about code to becoming a software engineer at [Metisa](www.askmetisa.com), a startup that is building an end-to-end data science solution for e-commerce businesses. It went smoother than I could ask for, but that is not to say that I didn’t second guess my decisions at every turn. In this article, I’d like to share what I’ve learned from attending programming bootcamps - I attended the same one once as a student and once as a teaching assistant. My hope is that this would help you make an informed decision about entering tech via programming bootcamps, if you are interested.
+Between 2016 and 2017, I went from knowing nothing about code to becoming a software engineer at [Metisa](http://askmetisa.com), a startup that is building an end-to-end data science solution for e-commerce businesses. It went smoother than I could ask for, but that is not to say that I didn’t second guess my decisions at every turn. In this article, I’d like to share what I’ve learned from attending programming bootcamps - I attended the same one once as a student and once as a teaching assistant. My hope is that this would help you make an informed decision about entering tech via programming bootcamps, if you are interested.
 
 Less than a year ago, I was a non-technical founder of a technology startup. That did not go well, and I was losing confidence in myself everyday for not understanding, at a fundamental level, what it takes to build a great tech product.
 
