@@ -6,13 +6,14 @@
 body {
     background-color: $beige;
 }
-h1, h2, h3, h4, h5, h6 {
-    a {
-        color: black;
-    }
+a {
+    box-shadow: 0 2px 0 0 $blue;
+    transition: box-shadow 0.25s ease-in-out;
+    text-decoration-color: black;
+    color: black;
 
-    a:hover {
-        color: $red;
+    &:hover {
+        box-shadow: 0 4px 0 0 $blue;
     }
 }
 h4, h5, h6 {
@@ -26,10 +27,6 @@ h2 {
 }
 h1 {
     font-size: $base-size * 2;
-}
-a {
-    text-decoration-color: $red;
-    color: $red;
 }
 
 /**
