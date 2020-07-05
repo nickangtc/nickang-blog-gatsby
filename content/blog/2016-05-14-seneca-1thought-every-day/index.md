@@ -7,11 +7,12 @@ Few things are consistent about me. I like change much more than most people are
 
 But one thing that happens day after day with me is thinking. I think a lot. Maybe too much - that's why I started meditation about 2 years ago. Too much thinking and no internalising is a fruitless pursuit, one we should learn to frown upon. Seneca (an extremely wealthy Roman who's known not for his money but his stoicism, a practical philosophy of life) puts it more eloquently than I think I'll ever be able to:
 
-"To be everywhere is to be nowhere... Food that is vomited up as soon as it is eaten is not assimilated into the body and does not do one any good; nothing hinders a cure so much as frequent changes of treatment; a wound will not heal over if it is being made the subject of experiments with different ointments; a plant which is frequently moved never grows strong."
+> "To be everywhere is to be nowhere... Food that is vomited up as soon as it is eaten is not assimilated into the body and does not do one any good; nothing hinders a cure so much as frequent changes of treatment; a wound will not heal over if it is being made the subject of experiments with different ointments; a plant which is frequently moved never grows strong."
 
-And, he concludes, "Nothing is so useful that it can be of any service in the mere passing."
+And, he concludes,
 
-(Seneca, in _Letters from a Stoic_)
+> "Nothing is so useful that it can be of any service in the mere passing."
+> <cite>(Seneca, in _Letters from a Stoic_)</cite>
 
 Having been guilty all my life of letting thoughts come and go without wrestling to retain it in my mind (like vomitting food as soon as they're consumed), these words struck me where it matters.
 
