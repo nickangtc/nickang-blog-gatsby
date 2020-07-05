@@ -72,3 +72,10 @@ ol, ul {
 /**
 * EVERYTHING ELSE
 */
+
+span.gatsby-resp-image-wrapper + em {
+    display: block;
+    padding-top: $rhythm / 2;
+    border-top: 3px solid $blue;
+    font-size: $base-size * 0.9;
+}

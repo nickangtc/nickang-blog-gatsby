@@ -24,8 +24,7 @@ Let's talk about what a day in the job is like, because if the day-to-day work o
 ## Software developers code daily
 
 ![a software developer typically uses many screens to maximise screen real estate!](images/a-day-in-the-life-of-a-software-developer-nick-ang-blog.jpg)
-
-Photo by Max Duzij
+_Photo by Max Duzij_
 
 Surprise! Not.
 
