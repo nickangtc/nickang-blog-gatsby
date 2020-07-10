@@ -43,7 +43,7 @@ There is truly nothing to be embarrassed about when you don’t know something. 
 
 ## It’s healthy to seek achievements outside of work
 
-Having an intense hobby outside of work is good for your physical health but also your mental health, because it reduces the chance of you connecting too much of your self worth to your work. I've noticed a few of my colleagues here are into skiing, rock climbing and bouldering, soccer, swimming, triathlons. I wrote a whole [post](tk) on this.
+Having an intense hobby outside of work is good for your physical health but also your mental health, because it reduces the chance of you connecting too much of your self worth to your work. I've noticed a few of my colleagues here are into skiing, rock climbing and bouldering, soccer, swimming, triathlons. I wrote a whole [post](/2019-01-31-how-to-be-calm/) on this.
 
 ## Induction technology is a life hack
 
