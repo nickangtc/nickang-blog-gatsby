@@ -7,10 +7,12 @@ import SEO from '../components/seo'
 const HomePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const latestPostsData = data.allMarkdownRemark.edges
-  const latestPosts = latestPostsData.map(post => {
+  const latestPosts = latestPostsData.map((post, index) => {
+    const dateParts = post.node.frontmatter.date.split('-')
+    const dateFormatted = `${dateParts[1]}.${dateParts[2]}`
     return (
-      <li>
-        <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
+      <li key={index}>
+        { dateFormatted } <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
       </li>
     )
   })
@@ -88,6 +90,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            date
           }
         }
       }

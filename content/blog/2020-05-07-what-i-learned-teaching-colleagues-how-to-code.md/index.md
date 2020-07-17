@@ -26,7 +26,7 @@ This is high-value work, because the colleagues I taught were mostly customer-fa
 
 And this is where my knowledge of our product comes in handy. As I conducted each class, teaching JavaScript loops and conditionals, functions and HTTP requests, I would relate these to the scripts and customised tools that we have built for our existing client base. I regularly hear colleagues thinking out loud, saying something along the lines of "oooh, so I can use this to solve that bulk-duplication problem that my client has been facing for months and the product team hasn't prioritised on the feature roadmap", to which I usually reply, with lit-up eyes, "Yes!"
 
-Sometimes they have also found ways to improve their own personal workflow, like when one of my colleagues, after learning how to use Terminal, found a one-liner command that could bulk-resize images in a folder so that they can fit in a single email to our accountant. (TK link)
+Sometimes they have also found ways to improve their own personal workflow, like when one of my colleagues, after learning how to use Terminal, found a [one-liner command](/2020-03-08-why-useful-to-learn-terminal-with-example-application) that could bulk-resize images in a folder so that they can fit in a single email to our accountant.
 
 ## Effective live online learning is possible when the playing field is levelled
 

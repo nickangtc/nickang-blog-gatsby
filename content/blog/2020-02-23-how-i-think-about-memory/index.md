@@ -47,7 +47,7 @@ I believe that a lot of things should be written down (in an app on a phone or l
 - passport numbers, credit card numbers, friend's addresses and birthdates, the PIN to one's bicycle lock
 - results of analysis, thinking, and synthesis in writing
 
-Perhaps the last point is contentious because it depends on whether you employ a robust system for note-taking that enables re-discovery like the zettelkasten method (TK future post), but the rest should be understandably suited for outsourcing to computer memory.
+Perhaps the last point is contentious because it depends on whether you employ a robust system for note-taking that enables re-discovery like a [personal knowledge management (PKM) system](/2020-07-05-personal-knowledge-management-system/), but the rest should be understandably suited for outsourcing to computer memory.
 
 So the workflow is to always _write it down_. Need to buy mushrooms because we’ve run out? Write that down in your go-to To Do list app, and forget about it completely. The goal is to clear your brain's cache because the fact that you need to buy mushrooms during your next grocery run has already been recorded and doesn’t need to be remembered by you. Let the computer remember it for you.
 

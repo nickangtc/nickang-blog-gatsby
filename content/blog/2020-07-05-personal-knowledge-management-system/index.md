@@ -65,7 +65,7 @@ For example, at the moment my PKM setup looks like this:
 
 With this setup, which probably looks surprisingly like any other person’s digital notebook app on the surface, I have my own operational PKM that feels right for me. 
 
-I deliberately kept my description of the “how” short in this article to provide a _sense_ of what an operational PKM looks like. In an upcoming article (TK), I’ll dive into the detailed state of my PKM in 2020. Stay tuned!
+I deliberately kept my description of the “how” short in this article to provide a _sense_ of what an operational PKM looks like. In a future article (TK), I’ll dive into the detailed state of my PKM in 2020. Stay tuned!
 
 ---
 
