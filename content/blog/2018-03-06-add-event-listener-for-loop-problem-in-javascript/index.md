@@ -21,7 +21,7 @@ for (var i = 0; i < allButtonsOnPage.length; i++) {
 
 But when you run it, this code doesn't actually do what we want!
 
-![add event listener for loop problem in JavaScript in browser](http://gph.to/2FVGYp3)
+![add event listener for loop problem in JavaScript in browser](images/add-event-listener-loop-buttons-problem.gif)
 
 Instead of logging the value `0` when I click on the first button, it logs `9`. In fact, all the buttons log the value `9`! What's happening here?
 

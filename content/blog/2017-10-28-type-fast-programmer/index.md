@@ -71,7 +71,7 @@ That said if it's your thing to push yourself in this area, improving your typin
 
 Just for fun, here's the typing test I took. Feel free to have a go at it, but please don't take it as validation or disqualification of you becoming a programmer!
 
-<iframe src="http://typing-speed-test.aoeu.eu/?iframe=1;lang=en" width="700" height="300" style="border: 0;"></iframe>
+http://typing-speed-test.aoeu.eu
 
 If you're interested, I wrote about some of the other things that people commonly (but inaccurately) believe to be important qualities of a programmer - you can read that [here](/2017-10-25-programming-is-not-for-everyone/).
 
