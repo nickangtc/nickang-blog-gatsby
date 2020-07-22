@@ -8,16 +8,9 @@ import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 const SEO = ({ description, lang, meta, title }) => {
-  const { site, avatar } = useStaticQuery(
+  const { site } = useStaticQuery(
     graphql`
       query {
-        avatar: file(absolutePath: { regex: "/nickang-profile-pic.jpg/" }) {
-          childImageSharp {
-            fixed {
-              base64
-            }
-          }
-        }
         site {
           siteMetadata {
             title
@@ -83,7 +76,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: avatar.childImageSharp.fixed.base64,
+          content: `/nickang-profile-pic.jpg`,
         },
         {
           name: `twitter:card`,
@@ -100,10 +93,6 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
-        },
-        {
-          name: `twitter:image`,
-          content: avatar.childImageSharp.fixed.base64,
         },
         {
           name: `msapplication-TileColor`,
