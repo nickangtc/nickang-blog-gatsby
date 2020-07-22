@@ -8,9 +8,16 @@ import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 const SEO = ({ description, lang, meta, title }) => {
-  const { site } = useStaticQuery(
+  const { site, avatar } = useStaticQuery(
     graphql`
       query {
+        avatar: file(absolutePath: { regex: "/nickang-profile-pic.jpg/" }) {
+          childImageSharp {
+            fixed {
+              base64
+            }
+          }
+        }
         site {
           siteMetadata {
             title
@@ -33,6 +40,30 @@ const SEO = ({ description, lang, meta, title }) => {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      link={[
+        {
+          rel: `apple-touch-icon`,
+          sizes: `180x180`,
+          href: `/apple-touch-icon.png`
+        },
+        {
+          rel: `icon`,
+          type: `image/png`,
+          sizes: `32x32`,
+          href: `/favicon-32x32.png`
+        },
+        {
+          rel: `icon`,
+          type: `image/png`,
+          sizes: `16x16`,
+          href: `/favicon-16x16.png`
+        },
+        {
+          rel: `mask-icon`,
+          href: `/safari-pinned-tab.svg`,
+          color: `#5bbad5`
+        },
+      ]}
       meta={[
         {
           name: `description`,
@@ -51,6 +82,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: avatar.childImageSharp.fixed.base64,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
@@ -66,6 +101,14 @@ const SEO = ({ description, lang, meta, title }) => {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          name: `twitter:image`,
+          content: avatar.childImageSharp.fixed.base64,
+        },
+        {
+          name: `msapplication-TileColor`,
+          content: `#da532c`
+        }
       ].concat(meta)}
     />
   )
