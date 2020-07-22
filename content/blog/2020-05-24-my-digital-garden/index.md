@@ -40,4 +40,4 @@ I hope that by changing labels from "blog" to "digital garden", this place will 
 
 EDIT (25.05.2020): I thought this quote and illustration that I found on [twitter](https://twitter.com/hollow_peach/status/1264643836191535105) is relevant to the idea about consistency, so I'm inserting it here.
 
-![illustration by hollow peach on James Clear's quote - Intensity makes a good story. Consistency makes progress](hollow-peach-james-clear.jpeg)
+![illustration by hollow peach on James Clear's quote - Intensity makes a good story. Consistency makes progress](images/hollow-peach-james-clear.jpeg)
