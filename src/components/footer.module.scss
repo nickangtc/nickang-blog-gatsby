@@ -2,7 +2,8 @@
 
 .site-footer {
   margin-top: $rhythm;
-  a {
+  a,
+  a:hover {
     text-decoration: none;
     box-shadow: none;
   }
