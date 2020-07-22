@@ -61,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Nick Ang`,
+        short_name: `Nick Ang`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
