@@ -25,6 +25,11 @@ const HomePage = ({ data, location }) => {
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable.</p>
       <p>Like a real-life garden, you shoud expect some organised chaos when you <Link to="/blog">browse the blog</Link>.</p>
 
+      <h2>Latest posts</h2>
+      <ul>
+        { latestPosts }
+      </ul>
+
       <h2>Personal favourites</h2>
       <ul>
         <li>
@@ -45,11 +50,6 @@ const HomePage = ({ data, location }) => {
         <li>
           <Link to="/2017-05-31-branding/">Same product, different brands</Link>
         </li>
-      </ul>
-
-      <h2>Latest posts</h2>
-      <ul>
-        { latestPosts }
       </ul>
 
       <p>Welcome to my digital garden!</p>
