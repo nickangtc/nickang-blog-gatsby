@@ -16,7 +16,7 @@ Anyhow, here are my thoughts on mindfulness after 100 days of daily meditation.
 
 Meditation as a way to take control of one’s own mind? This is one area of my life that I don’t feel I need science to prove anything. It just makes sense to me that meditation would help me become calmer about life itself. I want to be calm in my life, so I meditate.
 
-## What happens when during a meditation session?
+## What happens when you're meditatating?
 
 Physically, I just sit still on my couch, feet on the ground, hands on my thighs, back propped upright against a cushion against the sofa’s back. I keep my eyes closed and always begin with 3 deep breaths.
 
