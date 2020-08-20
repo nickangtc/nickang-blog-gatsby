@@ -7,7 +7,7 @@ It's 9:50pm on an otherwise wonderful Sunday night, and two officers from Certis
 
 We had a good thing going, my wife and I, renting out our spare bedroom to guests from all over the world. Airbnb represented an opportunity for us to have the world come to us (since we can't go to the world right now) while we worked at our otherwise normal jobs.
 
-Guests gave us 5 star reviews almost all the time and said many good things when they didn't have to. Here's a secret - it wasn't that difficult becoming Superheats. All you need to do is say hi and mean it, show your guests their room for the next couple of days and the facilities at home they can and shouldn't use, point out that you've prepared a purple folder that tells them all the things they need to know to understand what Singapore stands for and how to navigate the landscape. Most tourists haven't experienced such personalised hospitality before, especially not in Singapore, and I'd chalk our good reviews to that.
+Guests gave us 5 star reviews almost all the time and said many good things when they didn't have to. Here's a secret - it wasn't that difficult becoming Superhosts. All you need to do is say hi and mean it, show your guests their room for the next couple of days and the facilities at home they can and shouldn't use, point out that you've prepared a purple folder that tells them all the things they need to know to understand what Singapore stands for and how to navigate the landscape. Most tourists haven't experienced such personalised hospitality before, especially not in Singapore, and I'd chalk our good reviews to that.
 
 ![nick airbnb singapore listing](images/airbnb-singapore-listing-1024x725.png) Our listing on Airbnb - I think we were decent hosts 
 
