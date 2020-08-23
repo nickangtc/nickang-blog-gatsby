@@ -90,7 +90,15 @@ const SEO = ({ description, lang, meta, title, location }) => {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.social.twitter,
+          content: `@${site.siteMetadata.social.twitter}`,
+        },
+        {
+          name: `twitter:site`,
+          content: `@${site.siteMetadata.social.twitter}`,
+        },
+        {
+          name: `twitter:image`,
+          content: profilePic,
         },
         {
           name: `twitter:title`,
