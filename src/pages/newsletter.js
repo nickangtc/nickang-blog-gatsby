@@ -9,7 +9,7 @@ const NewsletterPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Newsletter" />
+      <SEO title="Newsletter" location={location} />
       <h1>Newsletter</h1>
       <p>I occasionally send an email that contains interesting reads I've found around the internet, links to latest posts from here, and an eclectic mix of other things.</p>
       <p>Find previous newsletters below. <a target="_blank" rel="noreferrer" href="http://eepurl.com/dj-HR5">Click here</a> to subscribe.</p>

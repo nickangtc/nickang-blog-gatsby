@@ -9,7 +9,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import profilePic from '../../content/assets/nickang-profile-pic.jpg'
 
-const SEO = ({ description, lang, meta, title }) => {
+const SEO = ({ description, lang, meta, title, location }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -79,6 +79,10 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:image`,
           content: profilePic,
+        },
+        {
+          property: `og:url`,
+          content: location.href,
         },
         {
           name: `twitter:card`,

@@ -11,7 +11,7 @@ const RecommendationsPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Recommendations" />
+      <SEO title="Recommendations" location={location} />
       <h1>Recommendations</h1>
       <img src={img1} alt="nick ang's excited face" style={{ maxWidth: '30%' }} />
       <p><em>The signals above the noise. The things that put this look on my face.</em></p>

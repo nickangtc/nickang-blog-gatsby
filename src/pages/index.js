@@ -19,7 +19,7 @@ const HomePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Home" />
+      <SEO title="Home" location={location} />
       <h1 id="my-digital-garden">Hey, I'm Nick Ang.</h1>
       <p>I'm a guy from Singapore, currently living in Berlin. <span role="img" aria-label="hand wave emoji">👋</span> </p>
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable. It's open for visitation.</p>
