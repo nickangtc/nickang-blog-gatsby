@@ -81,6 +81,10 @@ const SEO = ({ description, lang, meta, title, location }) => {
           content: profilePic,
         },
         {
+          property: `og:site_name`,
+          content: `Nick Ang`,
+        },
+        {
           property: `og:url`,
           content: location.href,
         },
