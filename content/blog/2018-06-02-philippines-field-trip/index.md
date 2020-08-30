@@ -27,7 +27,7 @@ Speaking of being disconnected with things that humans used to be touch with, I 
 
 ### Stressed by stuff
 
-I actually came home and felt stressed walking down the hallway. My mind felt jammed, constantly interrupted by things that are on the dining table, on the floor, and on the bookshelf, out of place. The 2 weeks away from home has given me a fresh view on the things that we own and put around the house - most of which I now realise are either unuseful of meaningless and probably cost some hard-earned money to be obtained.
+I actually came home and felt stressed walking down the hallway. My mind felt jammed, constantly interrupted by things that are on the dining table, on the floor, and on the bookshelf, out of place. The 2 weeks away from home has given me a fresh view on the things that we own and put around the house - most of which I now realise are either unuseful or meaningless and probably cost some hard-earned money to be obtained.
 
 I lived well in the Philippines without most of this stuff, so why should I still keep them around?
 
