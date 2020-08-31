@@ -11,7 +11,7 @@ Now, you might wonder why I'm making a deal out of this. It is, after all, not a
 
 Actually, no. I really don't think you deserve to be treated this way. You deserve better than to unquestioningly spend your money like that. Like you said so yourself, you've worked hard the whole month.
 
-Assuming you're like mopst people, you probably really own two of seven days in a week. That adds up to **only eight to ten days a month that you actually have for yourself**. My life is definitely structured this way at the moment. That's why I've learned to be prudent with the way I spend money.
+Assuming you're like most people, you probably really own two of seven days in a week. That adds up to **only eight to ten days a month that you actually have for yourself**. My life is definitely structured this way at the moment. That's why I've learned to be prudent with the way I spend money.
 
 Why is that exactly, you ask?
 
