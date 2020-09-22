@@ -41,4 +41,3 @@ directions.forEach(function (direction) {
 })
 ```
 
-Code used in an [in-class lab](https://nickangtc.github.io/moving-ball/) to move a ball around the page.

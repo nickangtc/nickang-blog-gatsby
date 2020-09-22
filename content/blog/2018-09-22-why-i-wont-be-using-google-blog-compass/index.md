@@ -5,7 +5,7 @@ date: "2018-09-22"
 
 ![dancing on my own nick ang blog](images/ahmad-odeh-705334-unsplash.jpg)
 
-Google released a product called [Google Blog Compass](https://blogcompass.withgoogle.com/) that is supposed to help bloggers know what to write. Sounds like a great idea, right? Now you'll know what to write that people will want to read.
+Google released a product called Google Blog Compass (link broken as Google decommissioned the service; removed) that is supposed to help bloggers know what to write. Sounds like a great idea, right? Now you'll know what to write that people will want to read.
 
 But I think there's something off-putting about this notion that we should write to gain readership, especially if you are a personal blogger writing for fun and not for fame or business.
 

@@ -3,7 +3,8 @@ title: "What is an API?"
 date: "2018-02-03"
 ---
 
-![what is an api blog post banner nickang](images/igor-ovsyannykov-165874-1024x683.jpg) [unsplash-logoIgor Ovsyannykov](https://unsplash.com/@igorovsyannykov?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge "Download free do whatever you want high-resolution photos from Igor Ovsyannykov")
+![what is an api blog post banner nickang](images/igor-ovsyannykov-165874-1024x683.jpg)
+_Image by Igor Ovsyannykov_
 
 I first came across the term "API" before I knew how to code. It was thrown around by the developers during a hackathon I attended in 2016, and I sort of understood what they were talking about by inference. Back then, my understanding of an API was that it's a conduit that lets programmers gain access to some data.
 

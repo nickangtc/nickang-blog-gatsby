@@ -37,4 +37,4 @@ But having just witnessed the importance of thinking clearly in helping me make 
 
 Soon, as I exit a period of uncertainty in my life and re-enter stability, I will dedicate a significant portion of my time outside of work to explore the various components of the art of thinking deliberately.
 
-I'm not expecting this puzzle to be solved quickly though, so it will take consistent work over a couple of months, maybe years, to determine what is, what is not, and what works. To make time for this, I may work less on writing technical articles for [Bite Size Programming](https://www.nickang.com/bite-size-programming/). But for now, the way I see it, this undertaking will prove to be even more important and helpful.
+I'm not expecting this puzzle to be solved quickly though, so it will take consistent work over a couple of months, maybe years, to determine what is, what is not, and what works. To make time for this, I may work less on writing technical articles for Bite Size Programming (link broken, removed). But for now, the way I see it, this undertaking will prove to be even more important and helpful.

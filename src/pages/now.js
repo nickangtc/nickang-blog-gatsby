@@ -53,7 +53,6 @@ const NowPage = ({ data, location }) => {
 
     <p>I'm very thankful to have a job, and especially happy that I work at a company that values me. <a href="http://smartly.io">Smartly.io</a> is a very humane company. My job ensures I have food on the table, and to be honest, it helps me learn a lot about software engineering, working with people, managing projects, and about marketing in general.</p>
     <p><a href="http://smartly.io/">Smartly.io</a> is a gem of a company to work in. I cannot recommend it enough to people whom I think are the right fit. Not everyone is a good fit because we are quite exacting on certain qualities in the people we let in the gate so we maintain the culture we love. But if you think we have something in common, and you're open to a new opportunity to work for a <a href="https://techcrunch.com/2019/12/18/smartly-io-sells-to-providence-equity-partners/">well-funded</a> and profitable startup headquartered in Finland, please feel free to get in touch with me!</p>
-    <p>See my past work <a href="https://www.nickang.com/past-work/">here</a>.</p>
 
     <hr />
     <p><em>Page last updated: 11.01.2020</em></p>

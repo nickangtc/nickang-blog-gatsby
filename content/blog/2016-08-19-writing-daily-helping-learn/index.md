@@ -3,7 +3,7 @@ title: "How writing daily is helping me learn"
 date: "2016-08-19"
 ---
 
-![patterns](images/unsplashpic-min-1024x576.jpeg) Image: [Mike Wilson](https://unsplash.com/@mkwlsn)
+![patterns](images/unsplashpic-min-1024x576.jpeg) Image: Mike Wilson
 
 A cool advantage of being in the habit of writing everyday is that you will become inclined to ask, every single day, “What did I learn today?”
 

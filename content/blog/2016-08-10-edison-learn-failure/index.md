@@ -15,7 +15,7 @@ Something like that. Wrote a few of those.
 
 Moving along, I searched for the medium I was to use. Would it be a Raspberry Pi single-board computer? Would an Arduino microcontroller do? Can I use a webcam or do I need to buy a special camera to work with it?
 
-I decided on the Raspberry Pi in the end, and successfully programmed it to work as a surveillance camera. That journey is chronicled in detail [here](‘https://medium.com/getting-technical’).
+I decided on the Raspberry Pi in the end, and successfully programmed it to work as a surveillance camera. That journey is chronicled in detail [here](https://medium.com/getting-technical).
 
 While the Pi has been a great surveillance camera, operating as it was intended as a surveillance camera, a small problem has surfaced and in fact, has been recurring. It keeps falling from the ceiling!
 

@@ -17,7 +17,7 @@ Over the course of building this feature I've learned a few things about softwar
 - Using an open source library also means trusting the creators/maintainers enough to make our project dependent (reliant?) on theirs
 - Software developers have to be like surgeons when building features on top of an existing code base
 
-More on the point about free, open source software available out there in 2017. In the process of building the email editor feature, I used three open source libraries that I think are really well made, and for which I'm incredibly appreciative of. [QuillJS](https://quilljs.com/), [react-quill](https://zenoamaro.github.io/react-quill/) and [react-dnd](http://react-dnd.github.io/react-dnd/docs-overview.html) helped me ship the feature in two and a half weeks.
+More on the point about free, open source software available out there in 2017. In the process of building the email editor feature, I used three open source libraries that I think are really well made, and for which I'm incredibly appreciative of. [QuillJS](https://quilljs.com/), [react-quill](https://zenoamaro.github.io/react-quill/) and [react-dnd](http://react-dnd.github.io/react-dnd) helped me ship the feature in two and a half weeks.
 
 Now I know that I mentioned that I shipped this feature about half a week late, but just pause for a moment and appreciate how short that timeframe is. In less than a month, _one person_ was able to write the code that powers a [Wix](https://www.wix.com/)\-like drag and drop editor for composing emails that all users of our product can make use of. While it's probably still buggy to some degree, it's definitely ready for use.
 

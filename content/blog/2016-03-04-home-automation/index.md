@@ -18,11 +18,11 @@ At the current point in its nascent history, IoT devices are mostly connected to
 
 But IoT is at a really early stage in my opinion. As a result, a whole bunch of things that do not require connectivity are now connected. Worse still, their creators hardly ever admit that they’re making these things _just because they can_. Many of time, I observe, see connected things as a logical step forward. You be the judge:
 
-[Eggminder](https://www.quirky.com/invent/243958). Egg tray + reminder. Sent to your smartphone.
+Eggminder (link broken, removed). Egg tray + reminder. Sent to your smartphone.
 
 ![eggminder](images/eggminderstupidiot.jpg) "Eggminder" smart eggtray that reminds you when you're low on... eggs
 
-Then, the [HAPIfork](https://www.hapi.com/product/hapifork). Don’t eat too fast or you’ll… get fat. But please don’t worry, we’ll take care of that for you with a smart fork and an app to track your every mouth.
+Then, the HAPIfork (link broken, removed). Don’t eat too fast or you’ll… get fat. But please don’t worry, we’ll take care of that for you with a smart fork and an app to track your every mouth.
 
 ![HAPIfork](images/1_hapiforkstupidiot-1024x400.png) "HAPIfork", a smart fork that teaches you the pace to eat
 

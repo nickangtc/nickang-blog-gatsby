@@ -85,6 +85,7 @@ Let's look at a quick example that demonstrates these two problems with overdoin
 
 Imagine that you have an array of URL strings and you want to append a single parameter and value to each one of them. Because your app is built in React, you believe this would be a common use case down the line, so you decide to write a function that takes care of it once and for all. You wrote something like this:
 
+```js
 function appendParamValueToStrings (array, param, paramValue) {
   return array.map(function (string) {
     return \`string?${param}=${value}\`;
@@ -94,6 +95,7 @@ function appendParamValueToStrings (array, param, paramValue) {
 // now you can use it like this
 const strings = \['https://www.nickang.com/about/', 'https://www.nickang.com/now/'\];
 appendParamValueToStrings(strings, 'referer', 'google');
+```
 
 Great! You take a step back and admire the beauty of an abstraction you've just created, and give yourself a pat on the back.
 

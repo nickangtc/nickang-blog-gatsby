@@ -7,7 +7,7 @@ date: "2016-08-21"
 
 Whenever learning something new, start with the basics. Web programming has become a mature enough industry to have its own set of community-made tools that purport to help make coding easier, but it’s a mistake to learn those before nailing down the basics, as I did.
 
-I started learning to code on my own, in the comfort of my pyjamas at home, using [Free Code Camp](http://www.freecodecamp.com) (my learning profile [here](http://www.freecodecamp.com/nickangtc)). (Well, that was my first real push to learn anyway.) To be clear, Free Code Camp does not encourage students to pick up jQuery before understanding doing a lot of JavaScript exercises.
+I started learning to code on my own, in the comfort of my pyjamas at home, using [Free Code Camp](http://www.freecodecamp.com). (Well, that was my first real push to learn anyway.) To be clear, Free Code Camp does not encourage students to pick up jQuery before understanding doing a lot of JavaScript exercises.
 
 No, I decided to extend my projects by using libraries like [jQuery](https://jquery.com/) (to supercharge JavaScript) and [Bootstrap](http://getbootstrap.com/) (to enhance CSS) on my own. It felt nice to have to write less and still have things somehow work. I didn’t think much into it then, but now that I’m enrolled in a proper web development course, I’m beginning to see how problematic this approach can be.
 

@@ -14,7 +14,7 @@ I googled that, and was presented with 2.44 million results. I picked the first 
     - Get outside of the “engineering cave” and learn how business works. (checked)
     - 80–20 everything! (I consider myself lazy, so checked)
     - Leverage your technical skills to solve problems that provide huge value. (not yet)
-    - You need to put in at least few years into core programming, and work on at least 4-5 good product based projects. (started seriously [learning](https://www.freecodecamp.com/nickangtc) to code in June, so that's 3 months. Far from checking this one)
+    - You need to put in at least few years into core programming, and work on at least 4-5 good product based projects. (started seriously learning to code in June, so that's 3 months. Far from checking this one)
 - From [gamedev.net](http://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/):
     
     - Get into the mentality that a day/week/month in which you have not learned something interesting is a failure. There's enough stuff out there that you surely can learn something cool every day. (checked)

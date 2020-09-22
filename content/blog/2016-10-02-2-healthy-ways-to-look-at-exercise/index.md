@@ -9,7 +9,7 @@ Recently I’ve been finding myself lethargic quite a lot and I think it’s eve
 
 As if by design, my web development instructor is a pretty fit guy. He works out often and is in good shape. _Great_ if you remember that he’s actually a programmer. How many fit programmers do you know? Almost all my friends who work mainly off their computers have a bulging belly, not washboard abs. (Fact check: I don’t know if Jeremiah has above-described abs, but let’s assume he does.)
 
-At a party two days ago while we celebrated the end of our second project week (when I made [Spidey](www.spidey-dash.herokuapp.com)), I fatefully sat beside Jeremiah. At about midway through the night—I don’t know why, but I’d chalk it up to the dizzying mix of a rapidly growing beer belly and beer—I asked him about his motivations for sticking to an exercise regime. His answer, after contemplating for a while, was both concise and compelling.
+At a party two days ago while we celebrated the end of our second project week (when I made [Spidey](https://spidey-dash.herokuapp.com)), I fatefully sat beside Jeremiah. At about midway through the night—I don’t know why, but I’d chalk it up to the dizzying mix of a rapidly growing beer belly and beer—I asked him about his motivations for sticking to an exercise regime. His answer, after contemplating for a while, was both concise and compelling.
 
 ## Exercising is defying convention
 

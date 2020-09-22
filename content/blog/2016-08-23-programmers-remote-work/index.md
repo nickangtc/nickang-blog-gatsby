@@ -9,7 +9,7 @@ With Dropbox as ubiquitous as it is nowadays, it might be easy to overlook just 
 
 Conflict, right? Dropbox’s programme will detect the conflicts and automatically save one copy—your friend’s or your copy, depending on circumstances—as a “conflicted copy”, for you to sort out later and merge them manually.
 
-Programmers, being programmers, use a much more sophisticated versioning protocol and software. It’s called [Git](“https://en.wikipedia.org/wiki/Git_(software)”) (pronounced as 'geet')- and it is the utility that empowers programmers to work remotely with one another. It is also the single biggest enabler of the open source movement. Here, I’m going to go into the technicalities for a bit so if you’re not interested in that kind of thing, feel free to drop out now!
+Programmers, being programmers, use a much more sophisticated versioning protocol and software. It’s called [Git](https://en.wikipedia.org/wiki/Git_(software)) (pronounced as 'geet')- and it is the utility that empowers programmers to work remotely with one another. It is also the single biggest enabler of the open source movement. Here, I’m going to go into the technicalities for a bit so if you’re not interested in that kind of thing, feel free to drop out now!
 
 Git is a version management software that handles the complex distributed workflow of distributed teams. While it’s powerful, it is also quite difficult to grasp at the beginning. But as with any tool, once you understand how to use it, life becomes much less burdensome.
 
@@ -65,4 +65,4 @@ Finally, I also learned about a Github feature called ‘Pages’ today. I’ve 
 
 Pages seems to offer more convenience, since deployment is executed directly from the command line rather than a web interface, but I’ll have to play around with it before giving my verdict. For now though, I like how cleanly it deploys my project online without the bells and whistles that Codepen presents by default (like the Editor view, which allows any visitor to see the source code that may taint the user experience).
 
-[Github Pages](“https://pages.github.com/“) is only suitable for projects that don’t need custom server-side code!
+[Github Pages](https://pages.github.com/) is only suitable for projects that don’t need custom server-side code!

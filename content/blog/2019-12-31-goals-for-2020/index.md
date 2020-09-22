@@ -3,7 +3,7 @@ title: "Goals for 2020"
 date: "2019-12-31"
 ---
 
-Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019//2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.
+Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.
 
 I was born in 1990 and will be turning 30 this new year. So while I could be making a grand list of things I want to make happen for the decade, I chose to make this list about 2020 as a year and not the turn of a new decade. Guess I heard something in my mind to keep things simple, stupid.
 

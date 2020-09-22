@@ -9,7 +9,7 @@ Let's talk about a complete misconception today. I'll put it out there... **you 
 
 Why?
 
-Well, mainly because 99 percent of the time, your brain is playing catch up with your fingers. (Unless you're high on [psychedelics](http://howtousepsychedelics.org/problem-solving/)?)
+Well, mainly because 99 percent of the time, your brain is playing catch up with your fingers.
 
 This disparity between brain processing speed and typing is confounded by a few important factors that I've come to realise as I continue coding every day as a professional programmer.
 

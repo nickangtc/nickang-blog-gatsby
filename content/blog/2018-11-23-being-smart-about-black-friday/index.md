@@ -35,6 +35,4 @@ Use Black Friday and these other major sales events as a way to buy what you act
 
 And definitely, don’t see it as a holiday.
 
-Filmmaker Matt D’Avela captures the ideas here very clearly in this video:
-
-https://youtu.be/\_GvvJ5qmumI
+Filmmaker Matt D’Avela captures the ideas here very clearly in this video: [Youtube video link](https://www.youtube.com/watch?v=_GvvJ5qmumI)

@@ -3,7 +3,7 @@ title: "The importance of habits"
 date: "2018-11-25"
 ---
 
-https://youtu.be/\_HEnohs6yYw
+[YouTube video link](https://www.youtube.com/watch?v=_HEnohs6yYw)
 
 Here's a fantastic animated film about habits that was recently recommended in my YouTube feed.
 

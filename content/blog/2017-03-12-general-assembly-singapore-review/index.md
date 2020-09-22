@@ -19,7 +19,7 @@ Here’s the breakdown of this post:
 - Day-to-day life as a WDI student
 - Concluding thoughts - Is it worth the money? How to decide?
 
-One last bit of preamble about course providers before I tell you my story. There are several companies now providing programming bootcamps (as they’re now being called), like [Alphacamp](https://www.alphacamp.co/sg/full-time-full-stack-web), and you might want to shop around before making your final decision to join one. This post is mainly about [General Assembly](https://generalassemb.ly/)’s Web Development Immersive.
+One last bit of preamble about course providers before I tell you my story. There are several companies now providing programming bootcamps (as they’re now being called), like [Alphacamp](https://www.alphacamp.co/sg), and you might want to shop around before making your final decision to join one. This post is mainly about [General Assembly](https://generalassemb.ly/)’s Web Development Immersive.
 
 Okay, time for a short story to give some context.
 
@@ -173,7 +173,7 @@ Bryant’s connections (together with GA’s) to the local tech industry is also
 
 Here’s something that might not occur to you until you’re graduating - when you finish the course, you will have known 15-20 like-minded technical friends. I only really noticed it when I would bump into several classmates at the few tech events that I go to. Why is this great? I don’t know, but it sure is nice to see familiar faces everywhere you go.
 
-Now that I’m done with the course and am reflecting, I realised that I now have many friends who are software engineers at tech companies, in both startups and well-funded companies. There are people working at software consultancies like [Tinkerbox](https://www.tinkerbox.com.sg/), [Palo IT](http://sg.palo-it.com/) and [ThoughtWorks](https://www.thoughtworks.com/), product companies like [TradeGecko](https://www.tradegecko.com/), [Metisa](http://www.askmetisa.com), [2359 Media](http://2359media.com/), [Paula’s Choice](https://paulaschoice.sg/) and [Tech in Asia](https://www.techinasia.com/), and others who are working on their own companies. (Not an exhaustive list.) Some are working as product managers. Some have since been [featured](http://www.straitstimes.com/opinion/dad-feared-she-would-be-steve-job-less) on the news.
+Now that I’m done with the course and am reflecting, I realised that I now have many friends who are software engineers at tech companies, in both startups and well-funded companies. There are people working at software consultancies like Tinkerbox (link broken, removed), [Palo IT](http://sg.palo-it.com/) and [ThoughtWorks](https://www.thoughtworks.com/), product companies like [TradeGecko](https://www.tradegecko.com/), [Metisa](http://www.askmetisa.com), [2359 Media](http://2359media.com/), [Paula’s Choice](https://paulaschoice.sg/) and [Tech in Asia](https://www.techinasia.com/), and others who are working on their own companies. (Not an exhaustive list.) Some are working as product managers. Some have since been [featured](http://www.straitstimes.com/opinion/dad-feared-she-would-be-steve-job-less) on the news.
 
 I’m tremendously excited to see where everybody goes on to work on. As I grow as a software engineer, I have no doubt that they will too. If nothing more comes out of it, it is at least just fun to watch people grow!
 

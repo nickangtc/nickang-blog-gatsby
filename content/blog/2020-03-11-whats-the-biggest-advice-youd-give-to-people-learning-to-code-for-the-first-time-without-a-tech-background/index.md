@@ -22,7 +22,3 @@ At the end of the day, having been a developer before, I can tell you that devel
 One last point on your competitiveness as a bootcamp graduate or self-taught programmer - **we tend to heavily discount kindness and other social traits when we evaluate ourselves**. If people consistently answer "yes" to questions about you like "is this person nice?" and "is this person receptive to feedback?", that's a strong start. If you can combine your good nature with an a _decent_ ability to code, then I can confidently say that you will probably get the job.
 
 Seasoned interviewers know that the social traits are actually more important than credentials or even skills. That's because attitude enables smooth team work and growth on the job, which makes everyone happier and more productive because it means shipping code faster to achieve the business's goals. Everything else can be learned.
-
-* * *
-
-If you're interested to read more of the answers I've given at past Q&As, browse the [question and answer](https://www.nickang.com/tag/question-and-answer/) tag.

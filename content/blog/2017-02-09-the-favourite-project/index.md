@@ -3,7 +3,7 @@ title: "The favourite project"
 date: "2017-02-09"
 ---
 
-Yesterday I got my friend, Yihui, to come in to give a talk to the current WDI batch at General Assembly. He was gracious with his time and came in to share with us his joining-GA story and the (huge) product that came out of it - his e-commerce website, [Hush](hush.sg). It was a great talk. I kept hearing the word "inspiring" from the audience. Great!
+Yesterday I got my friend, Yihui, to come in to give a talk to the current WDI batch at General Assembly. He was gracious with his time and came in to share with us his joining-GA story and the (huge) product that came out of it - his e-commerce website, [Hush](http://hush.sg). It was a great talk. I kept hearing the word "inspiring" from the audience. Great!
 
 Throughout his talk he went back and forth fielding technical and business questions. The class comprised of one-third fresh graduates, so I'm not surprised that people asked so many business questions in a technical course. A startup unfortunately remains the first thing that pops to young people's minds when they think "get crazy rich and have a glamorous lifestyle being your own boss".
 

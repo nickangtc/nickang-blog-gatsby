@@ -3,7 +3,8 @@ title: "How to tunnel HTTP requests into localhost"
 date: "2017-10-12"
 ---
 
-![ngrok explanation illustration](images/ngrok-1024x683.png) Source: https://ngrok.com/product
+![ngrok explanation illustration](images/ngrok-1024x683.png)
+_Source: https://ngrok.com/product_
 
 Suppose you're part of the engineering team of a tech company whose product is involves giving users product recommendation widgets for online stores. Since the product is already in the wild, so to speak, how do you test developmental features on live stores?
 
@@ -17,9 +18,12 @@ What we want here is a tool that allows live websites to make actual HTTP reques
 
 The tool I've been using at [Metisa](https://askmetisa.com) is ngrok. Using it is easier than writing callbacks.
 
-\# the single command to get a URL
-$ ngrok http 8000
+```shell
+# the single command to get a URL
+ngrok http 8000
+```
 
+```
 ngrok by @inconshreveable                                                              (Ctrl+C to quit)
                                                                                                        
 Session Status                online                                                                   
@@ -29,6 +33,7 @@ Region                        United States (us)
 Web Interface                 http://127.0.0.1:4040                                                    
 Forwarding                    http://508f6a1b.ngrok.io -> localhost:8000                               
 Forwarding                    https://508f6a1b.ngrok.io -> localhost:8000                              
+```
 
 [Ngrok](https://ngrok.com/product) is essentially a web service that tunnels HTTP requests via their server through your locally installed and launched ngrok process, into your locally hosted app.
 

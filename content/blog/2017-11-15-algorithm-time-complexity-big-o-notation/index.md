@@ -184,9 +184,3 @@ I believe if we really understand time complexity, we'd gain an intuition for th
 - [Hacker Rank](https://www.youtube.com/watch?v=v4cd1O4zkGw) - Big O notation (video)
 - [Interview Cake](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) - Big O notation
 - [Stackoverflow](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) answer by cletus - Big O notation in plain English
-
-* * *
-
-_In the next post, I'll list and discuss some well-known examples of algorithms with the various time complexities. Subscribe to the [mailing list](http://eepurl.com/c7xfID) if you want to get future posts delivered straight to your inbox the moment they are published. See you with the next dispatch!_
-
-_For more discussions like this one, check out the rest of [Bite Size Programming](https://www.nickang.com/category/bite-size-programming/)._

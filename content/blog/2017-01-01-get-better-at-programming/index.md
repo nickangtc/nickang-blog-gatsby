@@ -21,4 +21,4 @@ A project is different. It forces us to carefully consider every HTML element, e
 
 **There's getting good at solving specific programming problems, and there's getting good at building software.** The knowledge and skills involved are not mutually exclusive, but I think it's easier to solve coding challenges than to design good structures.
 
-I've been allocating too much time to coding challenges and it's come to nib me in the butt recently when I worked with a team on an actual product. That taught me a lesson. Regardless of the truth, if we are to get better at programming, we must be deliberate in how much time we spend on [Codewars](codewars.com) versus Terminal and our code editor. Ignore this and risk getting fired at your first dev job.
+I've been allocating too much time to coding challenges and it's come to nib me in the butt recently when I worked with a team on an actual product. That taught me a lesson. Regardless of the truth, if we are to get better at programming, we must be deliberate in how much time we spend on [Codewars](https://codewars.com) versus Terminal and our code editor. Ignore this and risk getting fired at your first dev job.
