@@ -59,6 +59,9 @@ But once I knew, I quickly got used to it and the improvements to my wellbeing h
 The result? I am finally feeling like my weekends are long enough. Being able to say that with confidence is liberating.
 
 ## 5. A city’s dog-friendliness bestows a sense of belonging
+
+![Our dog Brownie inspecting the area for dogs](/images/brownie-in-berlin.jpg)
+
 Berlin is a very dog-friendly city and it has made life a lot more pleasant for us. This is one of the biggest lessons for my partner. When she realised we could walk Brownie directly onto buses, trams, trains (even long-distance ones), malls and shops, and around 50 percent of restaurants and cafes, she could only describe our life with Brownie in Singapore as “rather stifled.” 
 
 On the evening of when we first arrived in Berlin, we dropped our four suitcases and Brownie’s carrier in our rented apartment and were peckish and eager to get our first taste of food in Berlin. At that point, it was not clear to us that Berlin was particularly dog-friendly as it never showed up in our research, but we had to bring Brownie as we were not ready to leave him in a new apartment in a new country alone while we went to grab dinner. So he came with us on a leash.
@@ -87,6 +90,9 @@ Law or not, this is the prevailing mentality of a lot of Germans. Some speculate
 In Singapore, the opposite problem exists - we tend to blatantly disregard people's privacy, outrightly taking photos of situations that should remain private. I dislike the “Stomp” culture we have in Singapore, perhaps a little more than the “all data is sacred” culture in Germany. But I think neither of these extremes is good and I would personally love to live in a place where there is a middle ground.
 
 ## 7. A society’s history determines what its people view as problems
+
+![Picture of my reflection in a mirror on Berliner Allee](/images/mirror-berliner-allee.JPG)
+
 I’ve learned that we turn many innocuous things into problems because of the history of the societies we are part of and that leaving is the only way of noticing the many ways this phenomenon manifests in our lives.
 
 My last two points in this article are examples of this. Singaporean society sees it as a hygiene problem if pets are allowed into the same spaces as humans. German society deems it a privacy violation if photos are taken without consent. And the reverse is not true in either society.
