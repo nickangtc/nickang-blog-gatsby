@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Nick Ang`,
     author: {
-      name: `Nick`,
-      summary: `I don't know but I'll learn`,
+      name: `Nick Ang`,
+      summary: `I don't know, but I'll learn.`,
     },
     description: `Notes from lifelong learning`,
     siteUrl: `https://nickang.com`,

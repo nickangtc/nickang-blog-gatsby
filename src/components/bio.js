@@ -56,13 +56,18 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Written by <strong>{author.name}</strong> - {author.summary}
-        {` `}
-        (<a href={`https://twitter.com/${social.twitter}`}>
-          twitter
-        </a>)
-      </p>
+      <div>
+        <div>
+          Written by <strong>{author.name}</strong>. <em>{author.summary}</em>
+        </div>
+        <small>
+          <a target="_blank" rel="noreferrer" href={`https://twitter.com/${social.twitter}`}>twitter</a>
+        </small>
+        <span>&nbsp;&nbsp;</span>
+        <small>
+          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>buy me a coffee</a>
+        </small>
+      </div>
     </div>
   )
 }
