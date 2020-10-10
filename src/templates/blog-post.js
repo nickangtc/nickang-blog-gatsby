@@ -31,7 +31,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
         <footer>
-          <Bio />
+          <Bio location={location} />
         </footer>
       </article>
 

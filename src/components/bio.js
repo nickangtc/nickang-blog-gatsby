@@ -6,12 +6,14 @@
  */
 
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
-const Bio = () => {
+const Bio = ({ location }) => {
+  console.log('in <Bio>')
+  console.log('location.href:', location.href)
   const data = useStaticQuery(graphql`
     query BioQuery {
       avatar: file(absolutePath: { regex: "/nickang-profile-pic.jpg/" }) {
@@ -27,15 +29,12 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author } = data.site.siteMetadata
   return (
     <div
       style={{
@@ -61,11 +60,15 @@ const Bio = () => {
           Written by <strong>{author.name}</strong>. <em>{author.summary}</em>
         </div>
         <small>
-          <a target="_blank" rel="noreferrer" href={`https://twitter.com/${social.twitter}`}>twitter</a>
+          send me a message:
+          <span>&nbsp;</span>
+          <a target="_blank" rel="noreferrer" href={`https://twitter.com/messages/compose?recipient_id=17964382&text=Hey%20Nick!%20I%20was%20reading%20${location.href}`}>twitter</a>
+          <span> / </span>
+          <Link to="/email">email</Link>
         </small>
-        <span>&nbsp;&nbsp;</span>
+        <span>&nbsp; | &nbsp;</span>
         <small>
-          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>buy me a coffee</a>
+          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>buy me coffee</a>
         </small>
       </div>
     </div>
