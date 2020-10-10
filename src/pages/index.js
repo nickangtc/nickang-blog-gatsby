@@ -60,7 +60,7 @@ const HomePage = ({ data, location }) => {
         <li>My major is in Environmental Studies from NUS. I don't remember 95 percent of what I learned but rely on the other 5 percent every moment to help me think about the world</li>
       </ul>
       <p>I collated some things that I would recommend, like podcasts and blogs, in the <Link to="/recommendations">Recommendations</Link> corner.</p>
-      <p>So, that's my <a href="https://sive.rs/publicu">public persona</a> in brief. Send me a <a href="https://twitter.com/nickang">tweet</a> if you have something you want to talk about anytime!</p>
+      <p>So, that's my <a href="https://sive.rs/publicu">public persona</a> in brief. Send me a <a target="_blank" rel="noreferrer" href="https://twitter.com/messages/compose?recipient_id=17964382&text=Hey%20Nick!">direct message on twitter</a> or <Link to="/email">email</Link> to talk!</p>
     </Layout>
   )
 }
