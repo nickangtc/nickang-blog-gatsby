@@ -41,3 +41,7 @@ Interesting, related reads:
 
 - “But chances are that *by far* the biggest beneficiary of you trying to help past you is *future you*. If others benefit, that’s icing.” [Learn In Public | swyx.io](https://www.swyx.io/learn-in-public/)
 - “Then I remind myself, what is obvious to you is magic to others.” [Learn in Public, It’s Great | Revue](https://aliabdaal.com/learn-in-public-it-s-great-268305/)
+
+---
+
+*Edit: Thank you [Shime](https://shime.sh/) for giving feedback on this article.*
