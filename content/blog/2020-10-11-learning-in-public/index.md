@@ -3,9 +3,9 @@ title: "Learning in public"
 date: "2020-10-11"
 ---
 
-When you browse websites on the impersonal internet, it’s just you and your brain playing ping-pong, taking turns to out-rage each other. Often, I let myself believe that many people just “get it,” that they know what they want to do in life and they just dove into it and became excellent.
+Often, I let myself believe that many people just “get it,” that they know what they want to do in life and they just dove into it and became excellent.
 
-For example, there’s this person whose tweets and website I tend to lurk around. His name is Shawn ([@swyx](https://twitter.com/swyx)) and when you visit [his website](https://www.swyx.io), you’ll see that he has structured and decorated it around the thing he has figured out about himself - he is a programmer. Clear and simple. Aesthetically, the blog looks like it was made by a developer. Content-wise, it’s impossible to miss how most articles are for the technical crowd.
+For example, there’s this person whose tweets and website I lurk around. His name is Shawn ([@swyx](https://twitter.com/swyx)) and when you visit [his website](https://www.swyx.io), you’ll see that he has structured and decorated it around the thing he has figured out about himself - he is a programmer. Clear and simple. Aesthetically, the blog looks like it was made by a developer. Content-wise, it’s impossible to miss how most articles are for the technical crowd.
 
 And you know what? I bet some people reading my blog will think the same of me, especially if they know me only through my online persona. *This Nick dude seems to know what he’s doing. Look at how many articles he’s written and published on his blog!*
 
