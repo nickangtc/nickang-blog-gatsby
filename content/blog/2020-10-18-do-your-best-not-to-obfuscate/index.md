@@ -14,7 +14,7 @@ Obfuscate means to *make obscure*. Insurance is a prime example of a system that
 
 The modern system of food production is extremely obscure. Do you know which country your chicken comes from? Which city? Was it grown in a farm or a factory? Where were they eventually killed and sliced up and processed into the neat styrofoam and cellophane package that you picked up from the supermarket?
 
-I don’t know where *any* the things I eat come from. That’s why I [became vegetarian](https://www.nickang.com/2018-06-22-why-im-going-vegetarian/).  Once I saw how the industry obfuscated the food production system, making it hard for my brain as a buyer to connect the piece of steak I find lined on a supermarket shelf with an actual, living animal, I had to stop and rethink eating meat. I was not eating meat, I was eating an animal! Eating an animal without [killing it](https://www.nickang.com/2016-08-03-killing-meat/) myself is lazy and cowardly and I don’t especially dislike being the latter.
+I don’t know where *any* the things I eat come from. That’s why I [became vegetarian](/2018-06-22-why-im-going-vegetarian/).  Once I saw how the industry obfuscated the food production system, making it hard for my brain as a buyer to connect the piece of steak I find lined on a supermarket shelf with an actual, living animal, I had to stop and rethink eating meat. I was not eating meat, I was eating an animal! Eating an animal without [killing it](/2016-08-03-killing-meat/) myself is lazy and cowardly and I don’t especially dislike being the latter.
 
 That’s an example of how obfuscation can disarm our ethics.
 
