@@ -20,6 +20,12 @@ const HomePage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" location={location} />
+      <div style={{
+        backgroundColor: 'lightgray',
+        paddingLeft: '1rem'
+      }}>
+        <em><strong>November 2020 update</strong>: <Link to="/2020-11-01-writing-a-book-during-nanowrimo-2020/">I'm writing a novel</Link>! Follow my progress <a href="https://nickangtc.github.io/nanowrimo-2020">here</a>.</em>
+      </div>
       <h1 id="my-digital-garden">Hey, I'm Nick Ang.</h1>
       <p>I'm a guy from Singapore, currently living in Berlin. <span role="img" aria-label="hand wave emoji">👋</span> </p>
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable. It's open for visitation.</p>

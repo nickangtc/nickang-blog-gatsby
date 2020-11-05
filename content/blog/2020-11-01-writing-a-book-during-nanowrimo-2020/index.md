@@ -28,3 +28,7 @@ So, anyway, that’s it! Today is the 1st of November 2020 and I’m participati
 In case you're interested to see how this unfolds, feel free to look at this [Twitter thread](https://twitter.com/nickang/status/1322675263465992192). I will post updates there every time I work on the book this month.
 
 Wish me luck! And in case you are also in your sweatpants at home accompanied by a cup of coffee or tea, trying to write your novel, I wish *us* luck. 
+
+---
+
+Click [here](https://nickangtc.github.io/nanowrimo-2020) to see my progress.
