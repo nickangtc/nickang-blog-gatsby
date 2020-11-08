@@ -124,3 +124,5 @@ To the team at Astrohaus, well done.
 * * *
 
 If you are considering getting a Freewrite yourself, here is a handy **[referral link you can use to get a 5% discount](https://getfreewrite.com/discount/XTR6424BZFVZ?rfsn=3471572.a797a1&utm_source=refersion&utm_medium=affiliate&utm_campaign=3471572.a797a1).** _Full disclosure, if you buy through that link I will also get some credits from Astrohaus._
+
+*EDIT (November 2020)*: I used my Freewrite daily for the *National Novel Writing Month* in 2020. See [this article](/2020-11-08-are-we-not-all-scientists/) for a pretty picture of it as my writing setup.
