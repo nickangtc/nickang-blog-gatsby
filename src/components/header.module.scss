@@ -21,3 +21,7 @@
   text-decoration: none;
   box-shadow: none;
 }
+
+.active {
+  border-bottom: ($base-size / 8) solid black;
+}

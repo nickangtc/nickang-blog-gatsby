@@ -21,13 +21,13 @@ const Header = ({ title }) => {
       <nav>
         <ul className={ headerStyles.navList }>
           <li className={ headerStyles.navItem }>
-            <Link to="/blog">Blog</Link>
+            <Link to="/blog" activeClassName={ headerStyles.active }>Blog</Link>
           </li>
           <li className={ headerStyles.navItem }>
-            <Link to="/learn-tech">Tech</Link>
+            <Link to="/learn-tech" activeClassName={ headerStyles.active }>Tech</Link>
           </li>
           <li className={ headerStyles.navItem }>
-            <Link to="/now">Now</Link>
+            <Link to="/now" activeClassName={ headerStyles.active }>Now</Link>
           </li>
         </ul>
       </nav>

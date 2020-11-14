@@ -12,7 +12,6 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Blog | All posts" location={location} />
-      <h1>All posts</h1>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -25,13 +24,14 @@ const BlogIndex = ({ data, location }) => {
               </h2>
               <small className={ blogStyles.date }>{node.frontmatter.date}</small>
             </header>
-            <section>
+            { /** <section>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}
               />
             </section>
+              */ }
           </article>
         )
       })}
