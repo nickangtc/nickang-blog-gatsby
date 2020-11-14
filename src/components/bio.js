@@ -55,7 +55,7 @@ const Bio = ({ location }) => {
       />
       <div>
         <div>
-          Written by <strong>{author.name}</strong>. <em>{author.summary}</em>
+          If something resonated with you, I would love to know.
         </div>
         <small>
           send me a message:

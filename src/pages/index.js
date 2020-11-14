@@ -31,7 +31,7 @@ const HomePage = ({ data, location }) => {
       <p>This is my digital garden, where I sow new ideas, tend to the growing and matured ones, and occasionally prune the undesirable. It's open for visitation.</p>
       <p>But like a real-life garden, expect organised chaos when you <Link to="/blog">browse the blog</Link>.</p>
 
-      <h2>Newest articles</h2>
+      <h2>Latest articles</h2>
       <ul>
         { newestPosts }
       </ul>
@@ -56,10 +56,10 @@ const HomePage = ({ data, location }) => {
       </ul>
 
       <h2>Blurb</h2>
-      <p>I was born in Singapore, lived there my whole life, and am currently living in Berlin, Germany. At almost 30 years old, <a href="/2020-06-01-why-i-moved-to-berlin/">making this move</a> remains one of my proudest accomplishments because I have dreamed since I was in primary school to experience life abroad. So I guess that means I am living my dream.</p>
+      <p>I was born in Singapore, lived there my whole life, and am currently living in Berlin, Germany. At 30, <a href="/2020-06-01-why-i-moved-to-berlin/">making this move</a> remains one of my proudest accomplishments because I have dreamed since I was in primary school to experience life abroad. So I guess that means I am living my dream.</p>
       <p>Professionally, and I should say <em>at the moment</em>, I am a software engineer. My strengths are my ability to learn and teach. I currently work full-time as a service operations engineer at <a href="https://smartly.io">Smartly.io</a>, a Finnish ad-tech company.</p>
-      <p>I’ve taught close to 100 strangers and colleagues from scratch how to code. That was my first taste of being consequential in people’s lives. I hope to continue to be useful to people beyond the confines of my full-time employment and this site exists to help me fulfil that hope.</p>
-      <p>Rapid-fire facts:</p>
+      <p>I'm proud of the fact that I’ve taught close to 100 people (strangers and colleagues) how to code from scratch.</p>
+      <p>Other facts:</p>
       <ul>
         <li>I'm married and have a toy poodle Brownie who has his own <a href="https://www.instagram.com/brownie_ang/">Instagram account</a></li>
         <li>Once I tried to create a "laptop for writers" as a <a href="/2016-03-12-hardware-startup-why-shelf/">startup that failed</a>. Now I unironically write on a product created (later) by another company Astrohaus. They call it the Freewrite and I love <a href="/2019-12-15-first-impressions-of-the-astrohaus-freewrite">my Freewrite</a></li>

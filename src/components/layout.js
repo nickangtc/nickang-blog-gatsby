@@ -19,7 +19,7 @@ const Layout = ({ location, title, children }) => {
     >
       <div className={layoutStyles.content}>
         <Header title={title}></Header>
-        <main>{children}</main>
+        <main className={layoutStyles.body}>{children}</main>
       </div>
       <Footer></Footer>
     </div>

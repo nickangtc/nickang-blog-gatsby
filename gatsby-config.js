@@ -3,7 +3,7 @@ module.exports = {
     title: `Nick Ang`,
     author: {
       name: `Nick Ang`,
-      summary: `I don't know, but I'll learn.`,
+      summary: ``,
     },
     description: `Notes from lifelong learning`,
     siteUrl: `https://nickang.com`,

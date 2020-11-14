@@ -13,7 +13,6 @@ const NowPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
     <SEO title="Now" location={location} />
-    <h1>Now</h1>
   
     <p><em>This section is inspired by Derek Siver's <a href="https://sivers.org/nowff">now movement</a>, as a sort of "public declaration" of my priorities at the moment.</em></p>
     <p>2020 has come around and I will turn 30. That tends to get a person to sit up and think about his life, you know?</p>
