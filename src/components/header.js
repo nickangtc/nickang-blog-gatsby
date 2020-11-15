@@ -9,7 +9,7 @@ const Header = ({ title }) => {
     query HeaderQuery {
       avatar: file(absolutePath: { regex: "/nick-ang-profile-portrait-11-2020.jpg/" }) {
         childImageSharp {
-          fixed(width: 75, height: 75) {
+          fixed(width: 300, height: 300) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -33,7 +33,8 @@ const Header = ({ title }) => {
         style={{
           marginBottom: 0,
           marginRight: '1rem',
-          minWidth: 75,
+          maxWidth: 75,
+          maxHeight: 75,
           borderRadius: `100%`,
         }}
         imgStyle={{
