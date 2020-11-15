@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/nickang-profile-pic.jpg`,
+        icon: `content/assets/nickang-profile-pic-early-2020.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,

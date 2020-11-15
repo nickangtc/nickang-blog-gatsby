@@ -2,7 +2,7 @@ import React from 'react'
 
 import footerStyles from './footer.module.scss'
 import twitterLogo from '../../content/assets/twitter.svg'
-import instagramLogo from '../../content/assets/instagram.svg'
+// import instagramLogo from '../../content/assets/instagram.svg'
 
 const Footer = () => {
   return (
