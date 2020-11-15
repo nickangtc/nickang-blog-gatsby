@@ -7,7 +7,7 @@ import headerStyles from "./header.module.scss"
 const Header = ({ title }) => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
-      avatar: file(absolutePath: { regex: "/nickang-profile-pic-early-2020.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/nick-ang-profile-portrait-11-2020.jpg/" }) {
         childImageSharp {
           fixed(width: 75, height: 75) {
             ...GatsbyImageSharpFixed
