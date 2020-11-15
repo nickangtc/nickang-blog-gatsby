@@ -42,5 +42,3 @@ File 1 gets opened in a text editor, like NotePad on Windows or TextEdit on Mac.
 The outcome is significantly different! Even though the contents are identical, the file extension (.txt vs .html) determines what will be done with that file.
 
 In the case of file 2, the browser will display a webpage that has a big bold heading saying "Meow, world!" and a paragraph underneath that in normal font, saying "Purrr.".
-
-* * *
