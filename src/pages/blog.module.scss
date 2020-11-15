@@ -1,5 +1,20 @@
 @import '../styles/variables';
 
+button {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: black;
+  text-decoration-color: black;
+  transition: box-shadow 0.25s ease-in-out;
+  box-shadow: 0 2px 0 0 $blue;
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 4px 0 0 $blue;
+  }
+}
+
 .title {
   line-height: $base-size * 1.75;
   margin-bottom: 0;
@@ -13,4 +28,8 @@
   margin-bottom: $base-size / 4;
   display: block;
   color: gray;
+}
+
+.hidden {
+  display: none;
 }

@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
@@ -6,16 +6,22 @@ import SEO from "../components/seo"
 import blogStyles from "./blog.module.scss"
 
 const BlogIndex = ({ data, location }) => {
+  const [isExpanded, setExpand] = useState(false)
+
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
+  const articleCount = posts.length
+  const articleLimitOnPage = 50
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Blog | All posts" location={location} />
-      {posts.map(({ node }) => {
+      {posts.map(({ node }, index) => {
         const title = node.frontmatter.title || node.fields.slug
+        const isToBeHiddenArticle = (index > articleLimitOnPage) && !isExpanded
+
         return (
-          <article key={node.fields.slug}>
+          <article key={node.fields.slug} className={ isToBeHiddenArticle ? blogStyles.hidden : '' }>
             <header>
               <h2 className={ blogStyles.title }>
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
@@ -35,6 +41,10 @@ const BlogIndex = ({ data, location }) => {
           </article>
         )
       })}
+      <div id="expand-control" className={ isExpanded ? blogStyles.hidden : '' }>
+        <p> </p>
+        <small>Displaying { articleLimitOnPage } of { articleCount } articles. <button onClick={() => setExpand(true)}>Show all</button>.</small>
+      </div>
     </Layout>
   )
 }
