@@ -25,18 +25,3 @@ Is the tone of our communications acceptable or the best it can be for our audie
 
 What keywords should we pay for and which negative keywords should we throw into the mix? Should we even advertise at all or rely on organic search traffic to grow? What is an acceptable cost per acquisition (CPA) for our product?
 
-## Learn with me
-
-As my wife and I endeavour to grow our side business, I will do the wrong things, and occasionally (hopefully) do something right around marketing.
-
-One thing I’m quite certain about is that amidst the chaos, I will continue to write and publish my learnings on this blog. It is a constant that I’ve relied on before to keep me well-ordered and clear-headed, and in the face of the monster that is Marketing, I’m going to need it.
-
-I’d like to invite you to join me on this journey of learning and applying marketing strategies and tactics to grow our little e-commerce business together. We’ll share the good stories but we’ll also share the bad and ugly stories. And through them, we shall grow more knowledgeable and able.
-
-If that sounds good, I highly suggest you subscribe to this blog through the form below. A confirmation email will be sent to you and after confirmation, you’ll receive an email every time a new post is published. Alternatively, you can add this blog to your favourite RSS reader and receive new posts there.
-
-Let’s do this!
-
-* * *
-
-\[blog\_subscription\_form title=""\]
