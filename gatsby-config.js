@@ -68,7 +68,7 @@ module.exports = {
                 title: edge.node.frontmatter.title,
                 url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                custom_elements: [{ "content:encoded": edge.node.html.replace(/[^\x09\x0A\x0D\x20-\xFF\x85\xA0-\uD7FF\uE000-\uFDCF\uFDE0-\uFFFD]/gm, '') }],
+                custom_elements: [{ "content:encoded": edge.node.html.replace(/([^\x09\x0A\x0D\x20-\uD7FF\uE000-\uFFFC\u{10000}-\u{10FFFF}])/ug, '') }],
               })
             })
           },
@@ -92,7 +92,7 @@ module.exports = {
             }
           `,
           output: "/rss.xml",
-          title: "RSS of Nick Ang's blog",
+          title: "Nick Ang Blog RSS Feed",
         },
       ]
     },
