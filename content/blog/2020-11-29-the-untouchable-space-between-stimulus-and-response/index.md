@@ -74,7 +74,7 @@ Now you feel stupid because someone saw your point and rebuked it. *Why didn’t
 
 You feel hurt because now your social standing among your friends has deteriorated and you start to feel inferior. *Everyone seeing this post must think that I’m lame.*
 
-These are feelings I had recently when I shared my opinion that it is okay to disengage from politics [[202011151819 Why You Might Want to Disengage from Politics]]. When I read people’s replies on Facebook, I felt like I was being attacked. I felt a little stupid. And I certainly felt like I’ve lost the respect of some people.
+These are feelings I had recently when I shared my opinion that [it is okay to disengage from politics](/2020-11-22-why-you-might-want-to-disengage-from-politics/). When I read people’s replies on Facebook, I felt like I was being attacked. I felt a little stupid. And I certainly felt like I’ve lost the respect of some people.
 
 But over the next few days, I remembered about the space that exists between stimulus and response.
 
