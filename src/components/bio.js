@@ -55,7 +55,7 @@ const Bio = ({ location }) => {
       />
       <div>
         <div>
-          If something resonated with you, I would love to know.
+          If something made you think, I would love to know.
         </div>
         <small>
           send me a message:
