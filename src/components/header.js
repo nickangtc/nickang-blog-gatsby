@@ -70,6 +70,9 @@ const Header = ({ title }) => {
             <li className={ headerStyles.navItem }>
               <Link to="/now" activeClassName={ headerStyles.active }>Now</Link>
             </li>
+            <li className={ headerStyles.navItem }>
+              <Link to="/subscribe" activeClassName={ headerStyles.active }>Subscribe</Link>
+            </li>
           </ul>
         </nav>
       </section>

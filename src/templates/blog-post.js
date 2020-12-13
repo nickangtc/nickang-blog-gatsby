@@ -64,6 +64,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         >
           <input type="email" name="email" id="bd-email" placeholder="enter email"></input>
           <input type="hidden" value="1" name="embed"></input>
+          <input type="hidden" value="blog view article footer form" name="metadata__origin"></input>
           <span>&nbsp;</span>
           <input type="submit" value="Subscribe by email"></input>
         </form>
