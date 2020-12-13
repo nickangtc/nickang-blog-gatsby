@@ -16,6 +16,10 @@ a {
         box-shadow: 0 4px 0 0 $blue;
     }
 }
+
+/**
+* TYPOGRAPHY AND SIZING
+*/
 h4, h5, h6 {
     font-size: $base-size;
 }
@@ -28,11 +32,7 @@ h2 {
 h1 {
     font-size: $base-size * 2;
 }
-
-/**
-* TYPOGRAPHY AND SIZING
-*/
-h1, h2, h3, h4, h5, h6, nav {
+h1, h2, h3, h4, h5, h6, nav, footer, form {
     font-family: $sans-serif;
 }
 
@@ -72,7 +72,6 @@ ol, ul {
 /**
 * EVERYTHING ELSE
 */
-
 span.gatsby-resp-image-wrapper + em {
     display: block;
     padding-top: $rhythm / 2;

@@ -11,8 +11,7 @@ const EmailPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Now" location={location} />
       <h1>Email</h1>
-      <p>heynickang at gmail dot com</p>
-      <p>If you read my blog, you are likely my kind of person. So email me and let's talk!</p>
+      <p>Drop me an email at: heynickang at gmail dot com</p>
     </Layout>
   )
 }

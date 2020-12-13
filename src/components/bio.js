@@ -37,7 +37,7 @@ const Bio = ({ location }) => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(1),
       }}
     >
       <Image
@@ -58,15 +58,9 @@ const Bio = ({ location }) => {
           If something made you think, I would love to know.
         </div>
         <small>
-          send me a message:
-          <span>&nbsp;</span>
-          <a target="_blank" rel="noreferrer" href={`https://twitter.com/messages/compose?recipient_id=17964382&text=Hey%20Nick!%20I%20was%20reading%20${location.href}`}>twitter</a>
-          <span> / </span>
-          <Link to="/email">email</Link>
-        </small>
-        <span>&nbsp; | &nbsp;</span>
-        <small>
-          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>buy me coffee</a>
+          <Link to="/email">email me</Link>
+          <span>&nbsp; | &nbsp;</span>
+          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>give coffee</a>
         </small>
       </div>
     </div>
