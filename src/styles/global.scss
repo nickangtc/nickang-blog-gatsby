@@ -35,6 +35,20 @@ h1 {
 h1, h2, h3, h4, h5, h6, nav, footer, form {
     font-family: $sans-serif;
 }
+input {
+    border-radius: $base-size * 0.2;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+}
+input[type="submit"] {
+    background-color: $gray;
+
+    &:hover {
+        background-color: $blue;
+        color: white;
+        transition: background-color 0.5s ease;
+        cursor: pointer;
+    }
+}
 
 // Portrait and Landscape
 @media only screen 
