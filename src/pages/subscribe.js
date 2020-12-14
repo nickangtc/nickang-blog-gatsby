@@ -11,8 +11,8 @@ const SubscribePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Subscribe" location={location} />
       <h1>Subscribe</h1>
-      <p>If you enjoy reading the things I write, you might want to consider subscribing.</p>
       <p>To be honest, I don't know yet what I will be using this email list for. But I promise that I will only use it to dispatch emails that I believe are worth your time. Your email address will be kept private at all times.</p>
+      <p>If you enjoy reading the things I write, you might want to consider subscribing.</p>
       <section>
         <form
           action="https://buttondown.email/api/emails/embed-subscribe/nickang"
