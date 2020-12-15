@@ -26,7 +26,7 @@ const HomePage = ({ data, location }) => {
       <p>I work as a software engineer and live as a writer. I explore and write about living a meaningful life.</p>
       <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> to get occasional updates.</p>
 
-      <h2>Latest articles</h2>
+      <h2>Recent Articles</h2>
       <ul className={ indexPageStyles.articles }>
         { newestPosts }
       </ul>
