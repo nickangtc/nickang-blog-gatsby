@@ -24,11 +24,11 @@ const BlogIndex = ({ data, location }) => {
           <article key={node.fields.slug} className={ isToBeHiddenArticle ? blogStyles.hidden : '' }>
             <header>
               <h2 className={ blogStyles.title }>
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link to={node.fields.slug}>
                   {title}
                 </Link>
               </h2>
-              <small className={ blogStyles.date }>{node.frontmatter.date}</small>
+              <time dateTime={ node.frontmatter.date } className={ blogStyles.date }>{ node.frontmatter.date }</time>
             </header>
             { /** <section>
               <p
@@ -69,7 +69,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD.MM.YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
             description
           }

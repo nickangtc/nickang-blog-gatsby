@@ -1,0 +1,32 @@
+@import '../styles/variables';
+
+.articles {
+  list-style: none;
+  margin-left: 0;
+}
+
+.nav-item {
+  color: black;
+}
+
+.article-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+.date {
+  display: inline-block;
+  color: gray;
+  width: 23%;
+  padding-right: $base-size;
+  font-size: $base-size * 0.9;
+}
+
+.article-link {
+  display: inline-block;
+  font-family: $sans-serif;
+  max-width: 77%;
+}
