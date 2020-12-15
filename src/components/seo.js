@@ -61,6 +61,10 @@ const SEO = ({ description, lang, meta, title, location }) => {
       ]}
       meta={[
         {
+          name: `title`,
+          content: title,
+        },
+        {
           name: `description`,
           content: metaDescription,
         },
@@ -89,27 +93,31 @@ const SEO = ({ description, lang, meta, title, location }) => {
           content: location.href,
         },
         {
-          name: `twitter:card`,
+          property: `twitter:url`,
+          content: location.href,
+        },
+        {
+          property: `twitter:card`,
           content: `summary`,
         },
         {
-          name: `twitter:creator`,
+          property: `twitter:creator`,
           content: `@${site.siteMetadata.social.twitter}`,
         },
         {
-          name: `twitter:site`,
+          property: `twitter:site`,
           content: `@${site.siteMetadata.social.twitter}`,
         },
         {
-          name: `twitter:image`,
+          property: `twitter:image`,
           content: profilePic,
         },
         {
-          name: `twitter:title`,
+          property: `twitter:title`,
           content: title,
         },
         {
-          name: `twitter:description`,
+          property: `twitter:description`,
           content: metaDescription,
         },
         {
