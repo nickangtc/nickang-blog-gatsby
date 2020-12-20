@@ -1,7 +1,7 @@
 ---
 title: Words matter
 date: "2020-04-29"
-description: Inspired by a book and an article, I decided to write!
+excerpt: Inspired by a book and an article, I decided to write!
 ---
 
 Among the people I know personally, I am probably the most prone to romanticising writing. I don't like that about myself and hope that I would become much more practical with the words I write. Romanticising wordplay is like Owen Wilson in Midnight in Paris: an insufferable joy ride.

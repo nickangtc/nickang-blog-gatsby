@@ -1,7 +1,7 @@
 ---
 title: My digital garden
 date: "2020-05-24"
-description: By changing the label I use to refer to this website from "blog" to "digital garden", I am hoping to change the things I produce and publish here.
+excerpt: By changing the label I use to refer to this website from "blog" to "digital garden", I am hoping to change the things I produce and publish here.
 ---
 
 I think labelling things accurately is an underrated pursuit. If every label slapped onto every thing in this world was given careful thought, we would save a lot of time and energy on explaining ourselves. And for me, the label "blog", which I have used to refer to this website for the last 5 years, is starting to feel dated.
