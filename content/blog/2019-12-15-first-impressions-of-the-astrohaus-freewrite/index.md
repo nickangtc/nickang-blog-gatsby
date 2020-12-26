@@ -84,7 +84,7 @@ Then, one day, I decided to talk about it differently. I said, "It's like a Kind
 
 A Kindle for writers. An e-ink display. Yes!
 
-Staring at a laptop at work and then coming home to try and write on another laptop - that can be quite [taxing on the eyes](/2019-02-18-eye-strain/). I know it and have [complained](/2019-10-16-sick-of-looking-at-a-screen/) more than once about this.
+Staring at a laptop at work and then coming home to try and write on another laptop - that can be quite taxing on the eyes. I know it and have [complained](/2019-10-16-sick-of-looking-at-a-screen/) more than once about this.
 
 E-ink is much, much better because it is optionally back-lit. If you had enough light around you, you'd never use the built-in backlight, and that really saves your eyes.
 

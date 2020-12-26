@@ -1,6 +1,7 @@
 ---
 title: "Notes from When Breath Becomes Air by Paul Kalanithi"
 date: "2020-09-27"
+tags: [Books]
 ---
 
 *When Breath Becomes Air* is a precious book about life as it is experienced through the lens of impending cancer-induced death. It is poignantly written by the neurosurgeon Paul Kalanithi and it reads like a part memoir, part treatise on the meaning of life. Reading it, I felt inspired, sad, melancholic, but perhaps most importantly, alive knowing my death is not far away. Paul died in his 40’s.

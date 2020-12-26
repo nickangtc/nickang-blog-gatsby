@@ -3,7 +3,8 @@ title: "Thicker, please"
 date: "2016-03-02"
 ---
 
-![Microground...? ](images/essenso-1024x534.png) Microground...?
+![Microground...? ](images/essenso-1024x534.png)
+_Microground...?_
 
 I was sure I hated this brand of coffee.
 
@@ -33,7 +34,7 @@ As I was enjoying my new cuppa (and quickly finished it), I realised there mig
 
 - [Seth Godin](http://sethgodin.typepad.com/) on marketing, business and leadership
 - [Tim Ferriss](http://fourhourworkweek.com/blog/) (Four Hour Workweek) on life hacks, lifestyle design and learning
-- Andrew "[bunnie](http://www.bunniestudios.com/blog/)" Huang on electronics, hardware and tech business
+- Andrew [bunnie](http://www.bunniestudios.com/blog/) Huang on electronics, hardware and tech business
 - [Maria Popova](https://www.brainpickings.org/) (Brain Pickings) on books, writing and the arts
 
 Entering their online space is like entering a temple for business, sociology, travelling, or any other fields. Within those grounds only ideas that fall under to their chosen niche are entertained. Each subtopic in their niche is then attended to with thoughtfulness arising from an artist’s detail and a surgeon’s precision.

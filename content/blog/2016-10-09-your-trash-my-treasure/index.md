@@ -1,9 +1,11 @@
 ---
 title: "Treasure! That's just what you are"
 date: "2016-10-09"
+tags: [Society & Culture]
 ---
 
-![bruno mars treasure music video](images/bruno-mars-treasure.jpg) That's Bruno Mars
+![bruno mars treasure music video](images/bruno-mars-treasure.jpg)
+_That's Bruno Mars_
 
 Today, for the third time since we moved in to our new apartment a year ago, we snagged a great deal. We found three pots of fake plants sitting by the garbage and took two of them home for free. I know an amazing deal when I take one (or two).
 

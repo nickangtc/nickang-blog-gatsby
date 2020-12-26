@@ -28,7 +28,8 @@ The renovation process went on for 6 months, little by little, like building a c
 - "Importing" things like lighting fixtures from our trips to China at less than half the retail price in Singapore with similar quality (you don't necessarily have to go to China if that's out of the way, but go to a city with lower costs of living) - you'd be surprised at how much you can pack into a big roller luggage!
 - Learning to do things on our own, like working with plaster to put up roman pillars, drilling and installing curtain rails and storage racks, buying from IKEA and personally putting furniture together
 
-![We pasted our own wallpaper! (Yes, including that one on the ceiling)](images/DSCF5716-1024x683.jpg) We pasted our own wallpaper! (Yes, including that one on the ceiling)
+![We pasted our own wallpaper! (Yes, including that one on the ceiling)](images/DSCF5716-1024x683.jpg)
+_We pasted our own wallpaper! (Yes, including that one on the ceiling)_
 
 In hindsight we are immensely satisfied with what we've done with our home. Not only did we save a couple of thousands of dollars, we became more than home owners - we were home makers. This made the new home feel much more like _our_ home. In Singapore and, I imagine, many cities around the world, this is the closest thing to building your own home.
 
@@ -36,7 +37,8 @@ Oh, and because of our experiences, **we relish every opportunity--hopefully wit
 
 Of how we quarrelled while having both hands in the air attempting to paste wallpaper on the ceiling with perfect alignment while sweat rolled down our backsides, how we dreaded working with those hollow plaster roman pillars because we had no freakin' clue where to even begin and how they ended up sitting on the living room floor for months before we ever did anything, or how we spent New Year's Eve lying on a cheap mattress looking at each other saying how lucky we are to have our own home (and living in the master bedroom!) before eventually dozing off, until the entire neighbourhood went "3... 2..... 1.... !!!" and momentarily woke us up. We just laughed and went back to sleep.
 
-![Our living room dining / work desk ](images/DSCF5717.jpg) Our living room dining / work desk
+![Our living room dining / work desk ](images/DSCF5717.jpg)
+_Our living room dining / work desk_
 
 So, I've very haphazardly described the pros and cons of renovating bit by bit. While I don't have personal experience renovating a home without living in it, I can tell some of the most obvious pros and cons, especially when juxtaposed against the bit-by-bit approach.
 

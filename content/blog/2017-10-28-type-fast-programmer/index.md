@@ -75,8 +75,6 @@ http://typing-speed-test.aoeu.eu
 
 If you're interested, I wrote about some of the other things that people commonly (but inaccurately) believe to be important qualities of a programmer - you can read that [here](/2017-10-25-programming-is-not-for-everyone/).
 
-**EDIT (30/10/17):** My WPM is 105 and just for fun and because I was bored, I captured my [1-minute test on video](/2017-10-30-typing-speed-test-video/) and uploaded it to YouTube.
-
 * * *
 
 _Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

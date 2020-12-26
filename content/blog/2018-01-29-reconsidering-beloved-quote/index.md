@@ -41,7 +41,3 @@ Work is secondary to the purpose it serves. Engineers write software to help peo
 That pride should insidiously be sown and grown in one who lives by such an apparently beautiful manifesto is a dangerous but important realisation.
 
 I see this revelation as a testament to the power of being in the present ("the power of now"). By freeing my self from my relentless mind, I was able past the fog that shrouds even our deeply held beliefs.
-
-* * *
-
-_I'll be reviewing the book and sharing my notes on this blog when I'm done with it. [Subscribe](http://eepurl.com/c7xfID) to my monthly newsletter if you want to make sure you get it in your inbox - it's free. See you soon._

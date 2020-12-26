@@ -56,7 +56,6 @@
 /planes-of-existence                   /2016-08-29-planes-of-existence
 /better-console-log                   /2016-08-30-better-console-log
 /programmers-world                   /2016-08-31-programmers-world
-/rr1                   /2016-09-04-rr1
 /spot-the-difference                   /2016-09-04-spot-the-difference
 /javascript-prototypes                   /2016-09-05-javascript-prototypes
 /shorter-code-not-necessarily-better                   /2016-09-06-shorter-code-not-necessarily-better
@@ -138,7 +137,6 @@
 /catalyse-progress-trick                   /2017-10-05-catalyse-progress-trick
 /name-card-first-developer-job                   /2017-10-06-name-card-first-developer-job
 /no-idea-what-to-write                   /2017-10-07-no-idea-what-to-write
-/downtime                   /2017-10-08-downtime
 /encoding-programmer                   /2017-10-09-encoding-programmer
 /bruises-mean-progress                   /2017-10-10-bruises-mean-progress
 /go-meta                   /2017-10-11-go-meta
@@ -198,19 +196,16 @@
 /era-food-delivery-services                   /2018-01-11-era-food-delivery-services
 /courage-to-build                   /2018-01-12-courage-to-build
 /software-developers-craft                   /2018-01-14-software-developers-craft
-/a-kickass-blog                   /2018-01-15-a-kickass-blog
 /how-to-clone-class-instance-javascript                   /2018-01-17-how-to-clone-class-instance-javascript
 /beautiful-words-agnostic                   /2018-01-18-beautiful-words-agnostic
 /get-out-of-your-own-head                   /2018-01-19-get-out-of-your-own-head
 /cooking-vs-creating-software                   /2018-01-20-cooking-vs-creating-software
-/how-to-properly-suit-up                   /2018-01-22-how-to-properly-suit-up
 /rick-and-morty                   /2018-01-25-rick-and-morty
 /ive-learned-selling-used-stuff-carousell                   /2018-01-27-ive-learned-selling-used-stuff-carousell
 /uncommon-invaluable-ability-recognise-noisy-mind                   /2018-01-28-uncommon-invaluable-ability-recognise-noisy-mind
 /reconsidering-beloved-quote                   /2018-01-29-reconsidering-beloved-quote
 /wishing-diigo-product-by-evernote                   /2018-01-30-wishing-diigo-product-by-evernote
 /sleep-is-sacred                   /2018-02-01-sleep-is-sacred
-/add-default-value-dropdown-html                   /2018-02-02-add-default-value-dropdown-html
 /what-is-an-api                   /2018-02-03-what-is-an-api
 /developers-use-object-prototype-hasownproperty-call                   /2018-02-04-developers-use-object-prototype-hasownproperty-call
 /setup-eslint-next-project                   /2018-02-08-setup-eslint-next-project
@@ -222,10 +217,8 @@
 /5-reasons-i-love-new-amazon-echo                   /2018-02-24-5-reasons-i-love-new-amazon-echo
 /difference-socket-broadcast-io                   /2018-02-26-difference-socket-broadcast-io
 /git-and-github                   /2018-02-28-git-and-github
-/best-way-to-hold-a-smartphone                   /2018-03-02-best-way-to-hold-a-smartphone
 /markdown-bullet-points-hyphen-asterisk                   /2018-03-05-markdown-bullet-points-hyphen-asterisk
 /add-event-listener-for-loop-problem-in-javascript                   /2018-03-06-add-event-listener-for-loop-problem-in-javascript
-/learning-machine-learning-again                   /2018-03-09-learning-machine-learning-again
 /programming-like-exercise                   /2018-03-11-programming-like-exercise
 /how-to-think-about-data-structures-in-javascript-when-to-use-what                   /2018-03-12-how-to-think-about-data-structures-in-javascript-when-to-use-what
 /forgotten-resource-to-learn-cs                   /2018-03-13-forgotten-resource-to-learn-cs
@@ -286,7 +279,6 @@
 /why-do-we-keep-keeping-up                   /2018-10-27-why-do-we-keep-keeping-up
 /i-dont-care-enough-to-fight-you                   /2018-11-01-i-dont-care-enough-to-fight-you
 /bear-app-im-ready-for-you                   /2018-11-02-bear-app-im-ready-for-you
-/how-to-go-everywhere-with-your-dog-in-singapore                   /2018-11-03-how-to-go-everywhere-with-your-dog-in-singapore
 /workout-duration-does-not-matter                   /2018-11-04-workout-duration-does-not-matter
 /are-you-a-planner-or-executor                   /2018-11-05-are-you-a-planner-or-executor
 /im-not-sorry-for-being-confused                   /2018-11-06-im-not-sorry-for-being-confused
@@ -301,7 +293,6 @@
 /hidden-reasons                   /2018-11-15-hidden-reasons
 /code-readability-or-efficiency                   /2018-11-16-code-readability-or-efficiency
 /first-marketing-plan                   /2018-11-17-first-marketing-plan
-/why-i-cant-wait-for-my-airpods                   /2018-11-18-why-i-cant-wait-for-my-airpods
 /interrupt-the-pattern                   /2018-11-19-interrupt-the-pattern
 /our-first-sale-for-ang-veil-yu                   /2018-11-20-our-first-sale-for-ang-veil-yu
 /climbing                   /2018-11-21-climbing
@@ -315,15 +306,12 @@
 /floss-before-brushing                   /2018-12-04-floss-before-brushing
 /10-reasons-why-simple-is-better                   /2018-12-06-10-reasons-why-simple-is-better
 /how-to-keep-things-interesting-in-a-relationship                   /2018-12-08-how-to-keep-things-interesting-in-a-relationship
-/blog-vs-vlog                   /2018-12-16-blog-vs-vlog
-/sleep-during-a-massage-is-it-wasted                   /2018-12-24-sleep-during-a-massage-is-it-wasted
 /my-favourite-posts-from-2018                   /2018-12-29-my-favourite-posts-from-2018
 /how-to-be-calm                   /2019-01-31-how-to-be-calm
 /reflecting-3-week-work-rotation-helsinki                   /2019-02-09-reflecting-3-week-work-rotation-helsinki
 /publishing-an-article-on-the-company-blog                   /2019-02-11-publishing-an-article-on-the-company-blog
 /overcooked-2-and-the-power-of-seasonal-content                   /2019-02-12-overcooked-2-and-the-power-of-seasonal-content
 /one-small-change-a-very-different-outcome                   /2019-02-13-one-small-change-a-very-different-outcome
-/eye-strain                   /2019-02-18-eye-strain
 /feeling-tired                   /2019-02-22-feeling-tired
 /good-weather-and-access-to-nature                   /2019-02-23-good-weather-and-access-to-nature
 /the-flinch                   /2019-03-08-the-flinch
@@ -333,8 +321,6 @@
 /how-to-deal-with-daylight-savings-at-work                   /2019-04-11-how-to-deal-with-daylight-savings-at-work
 /what-are-you-trying-to-say                   /2019-05-01-what-are-you-trying-to-say
 /laptops-are-not-the-best-for-writing                   /2019-05-11-laptops-are-not-the-best-for-writing
-/one-project-every-month                   /2019-08-03-one-project-every-month
-/my-first-monthly-side-project-was-a-failure                   /2019-08-31-my-first-monthly-side-project-was-a-failure
 /sick-of-looking-at-a-screen                   /2019-10-16-sick-of-looking-at-a-screen
 /october-how-i-changed-my-relationship-with-instagram                   /2019-10-20-october-how-i-changed-my-relationship-with-instagram
 /always-make-time-for-books                   /2019-11-24-always-make-time-for-books

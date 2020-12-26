@@ -1,5 +1,5 @@
 ---
-title: "German word drawings 1"
+title: "German word drawings"
 date: "2020-08-16"
 ---
 

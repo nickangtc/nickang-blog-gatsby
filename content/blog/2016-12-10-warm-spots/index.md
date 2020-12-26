@@ -1,6 +1,7 @@
 ---
 title: "Warm spots"
 date: "2016-12-10"
+tags: [Love]
 ---
 
 Every time when Mei and I come home from a trip to the bank or a nice movie date, we'd come home searching for that warm spot on our marble floors.

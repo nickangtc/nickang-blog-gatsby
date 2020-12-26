@@ -3,7 +3,8 @@ title: "Pursuit of a Memorable Life"
 date: "2016-03-18"
 ---
 
-![You're not going to forget this](images/bee-guy.jpg) You're not going to forget this
+![You're not going to forget this](images/bee-guy.jpg)
+_You're not going to forget this_
 
 “Wow, the past 5 years went by too fast…”
 

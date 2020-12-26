@@ -3,7 +3,8 @@ title: "(US) 5 Days Before: Survival Mode On"
 date: "2016-03-31"
 ---
 
-![2 Travellers, 2 Backpacks, 1 Month in the US!](images/backpacks-edited-1024x782.jpg) 2 Travellers, 2 Backpacks, 1 Month in the US!
+![2 Travellers, 2 Backpacks, 1 Month in the US!](images/backpacks-edited-1024x782.jpg)
+_2 Travellers, 2 Backpacks, 1 Month in the US!_
 
 We finally began packing our backpacks for our coming month in the US. Six days before the trip - not bad. I’d usually wait until the day before to pack. I attribute this change to my wife.
 

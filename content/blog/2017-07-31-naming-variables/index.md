@@ -1,5 +1,5 @@
 ---
-title: "Code analytic: naming variables well"
+title: "Naming variables well"
 date: "2017-07-31"
 ---
 

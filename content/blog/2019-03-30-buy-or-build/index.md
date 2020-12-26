@@ -7,7 +7,7 @@ date: "2019-03-30"
 
 As someone who understands and can write computer programs, I frequently ask, should I buy or build this thing?
 
-Recently I wrote about experiencing [eye strain](/2019-02-18-eye-strain/) and a colleague at Smartly.io wrote a comment recommending me eye drops, a desktop humidifier, and a macOS app. While I can’t make the first two items, I can conjure up a macOS app in a few days.
+Recently I experienced some eye strain and a colleague at Smartly.io wrote a comment recommending me eye drops, a desktop humidifier, and a macOS app. While I can’t make the first two items, I can conjure up a macOS app in a few days.
 
 So I did what any logical person would do. I downloaded the recommended app to bring it for a test drive that lasted as long as the free trial did, which was three days.
 

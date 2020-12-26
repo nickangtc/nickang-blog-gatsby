@@ -3,7 +3,8 @@ title: "Travel: How to Decide What Cities to Visit"
 date: "2016-03-01"
 ---
 
-![The eagle is landing](images/american-eagle-1024x683.jpeg) The eagle is landing
+![The eagle is landing](images/american-eagle-1024x683.jpeg)
+_The eagle is landing_
 
 We’re going to the US for a month in April!
 
@@ -61,7 +62,8 @@ Your aims will likely differ from ours, but probably not drastically. Unless you
 
 I’d add one last point, which is to “see if we like a particular city”, because the truth is, it’s now easy (and exciting) to move abroad and start a new chapter of life. Well, _easier_ than ever before, that is. And it could be for just a couple of years.
 
-![Wanderlost](images/blind-1024x681.jpeg) Wanderlost
+![Wanderlost](images/blind-1024x681.jpeg)
+_Wanderlost_
 
 ### Cities to Visit (Not Go Blind)
 

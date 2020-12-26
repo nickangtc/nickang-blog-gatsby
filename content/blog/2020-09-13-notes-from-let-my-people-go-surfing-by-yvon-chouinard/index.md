@@ -1,6 +1,7 @@
 ---
 title: "Notes from Let My People Go Surfing by Yvon Chouinard"
 date: "2020-09-13"
+tags: [Books]
 ---
 
 This books is part memoir, part philosophical manifesto derived from Patagonia’s founder’s experience in applying them to business, environment, and life.

@@ -1,5 +1,5 @@
 ---
-title: "Beautiful words: Agnostic"
+title: "Agnostic"
 date: "2018-01-18"
 ---
 

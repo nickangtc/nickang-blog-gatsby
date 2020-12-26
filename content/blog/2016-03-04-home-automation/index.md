@@ -20,11 +20,13 @@ But IoT is at a really early stage in my opinion. As a result, a whole bunch of 
 
 Eggminder (link broken, removed). Egg tray + reminder. Sent to your smartphone.
 
-![eggminder](images/eggminderstupidiot.jpg) "Eggminder" smart eggtray that reminds you when you're low on... eggs
+![eggminder](images/eggminderstupidiot.jpg) 
+_"Eggminder" smart eggtray that reminds you when you're low on... eggs_
 
 Then, the HAPIfork (link broken, removed). Don’t eat too fast or you’ll… get fat. But please don’t worry, we’ll take care of that for you with a smart fork and an app to track your every mouth.
 
-![HAPIfork](images/1_hapiforkstupidiot-1024x400.png) "HAPIfork", a smart fork that teaches you the pace to eat
+![HAPIfork](images/1_hapiforkstupidiot-1024x400.png) 
+_"HAPIfork", a smart fork that teaches you the pace to eat_
 
 Of course, to be sure, I picked the most horrible of the lot. The senseless use of technology in making products that _nobody_ _ever_ said they wished existed.
 
@@ -75,7 +77,8 @@ I’m an environmental scientist by training. That’s as different from mechani
 
 A recent project was a small LED light that turns on automatically when I switch off my bedroom lights, which I wanted badly because it eliminates the chance of me stumbling over stuff on the floor (including my toy poodle, Brownie) when walking from the main light switch to my bed by illuminating the way.
 
-![nick arduino light project](images/arduinolowlightproject-1024x579.jpg) My auto-on LED light project activates for 2 mins when my bedroom is dark
+![nick arduino light project](images/arduinolowlightproject-1024x579.jpg) 
+_My auto-on LED light project activates for 2 mins when my bedroom is dark_
 
 I’ve got many more (logical) projects I’d like to work on to make life a little easier at home, and have already begun working on a few.
 

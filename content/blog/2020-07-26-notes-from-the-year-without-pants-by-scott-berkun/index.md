@@ -1,6 +1,7 @@
 ---
 title: "Notes from The Year Without Pants by Scott Berkun"
 date: "2020-07-26"
+tags: [Books]
 ---
 
 This was a book that I originally thought was written by the founder of WordPress, Matt Mullenweg. Turns out, it was written by someone who joined Automattic (the company behind WordPress.com) as the first experimental Team Lead in the company's history. He believes this book is “a contribution I believed would be more important than my involvement with any number of teams” and it's easy to agree. Maybe that's because I relate to him as someone who is in tech and enjoys writing.

@@ -3,7 +3,8 @@ title: "Why I’m Shelving My Hardware Startup After 6 Months"
 date: "2016-03-12"
 ---
 
-![With a solemn heart...](images/sian-dog-1024x683.jpeg) With a solemn heart...
+![With a solemn heart...](images/sian-dog-1024x683.jpeg)
+_With a solemn heart..._
 
 It was another day with an important meeting that might help push my startup forward. At the lobby I took a deep breath and stepped into the lift. “Hey, I’m Nick…”, I said to myself in the lift as I extended my hand for a rehearsal handshake.
 
@@ -49,7 +50,8 @@ In light of this clarity, which I actually found refreshing, I went deeper into 
 
 ### Technically Not  Ready
 
-![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg) Talking to aspiring makers at a local Apprenticeship Programme
+![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)
+_Talking to aspiring makers at a local Apprenticeship Programme_
 
 One of the biggest problems I faced in the previous 6 months running my startup was a technical one. _The_ technical one.
 
@@ -102,7 +104,8 @@ I knew this before but I somehow let it slip;
 
 Well, most of them aren’t anyway. And hardware startups definitely aren’t. There’s just too many things to coordinate, people to liaise with, products to build and debug and test with customers, etc. You get the picture. I saw it again recently.
 
-![Me with the incredibly helpful CAD/CNC wizard, Wilfred](images/IMAG5293-170x300.jpg) Me with the incredibly helpful CAD/CNC wizard, Wilfred, and my first prototype
+![Me with the incredibly helpful CAD/CNC wizard, Wilfred](images/IMAG5293-170x300.jpg)
+_Me with the incredibly helpful CAD/CNC wizard, Wilfred, and my first prototype_
 
 A startup is a long game. For one to be successful, its founder(s) must be willing to commit years of not just time but mental and all the other energies to build a great team and deliver a mind-blowing product.
 

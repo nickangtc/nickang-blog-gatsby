@@ -1,5 +1,5 @@
 ---
-title: "October: How I changed my relationship with Instagram"
+title: "How I changed my relationship with Instagram"
 date: "2019-10-20"
 ---
 
@@ -49,7 +49,7 @@ My hypothesis was that I would be experiencing so many new things that I could h
 
 So I started preparations early.
 
-As we confirmed our relocation day to be in the first week of October, I started a [side project in September](/2019-08-31-my-first-monthly-side-project-was-a-failure/) to film and publish a vlog everyday. I managed to publish 18 videos that month, and it gave me a real taste of the work involved with filming and editing videos. It was tedious and took me roughly two to three hours each day to film, edit, and upload these vlogs.
+As we confirmed our relocation day to be in the first week of October, I started a side project in September to film and publish a vlog everyday. I managed to publish 18 videos that month, and it gave me a real taste of the work involved with filming and editing videos. It was tedious and took me roughly two to three hours each day to film, edit, and upload these vlogs.
 
 Now, two weeks into our stay in Berlin, I haven't made a single vlog. It's just not possible! German bureaucracy keeps you on your toes all the time. Plus, it would take time away from us absorbing our new surroundings.
 
