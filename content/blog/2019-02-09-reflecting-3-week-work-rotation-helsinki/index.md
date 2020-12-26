@@ -15,8 +15,6 @@ No need to rush, one thing at a time mentality of Finnish colleagues. I want to 
 
 ## Work hard, then go home on time and live
 
-Working on laptop picture
-
 When I'm overseas I tend to work more. There were a few evenings where I left the office at 9pm instead of the usual 6pm. The main reason is the fact that I'm alone in the city. There's only so many activities to do before you've done them all. The funny thing is, I realised that no matter how much work I do, there's always more work that can be done. Experiencing this voluntary "overworking" really drove home this point for me. Work on what you can to deliver the most impact, and then go home and have a nice evening to relax and live.
 
 ## Done is better than perfect
