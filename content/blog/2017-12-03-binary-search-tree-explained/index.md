@@ -108,7 +108,3 @@ For a bit more detail, I recommend reading this very [short article](http://orcu
 And there you have it - the binary search tree explained! Hope you learned something from this post.
 
 In the [next post](/2017-12-10-why-use-binary-search-tree/) I discuss some of the strengths and weaknesses of a binary search tree.
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

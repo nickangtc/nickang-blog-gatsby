@@ -30,7 +30,3 @@ We applied the method to more and more parts of our code, getting closer each ti
 Once we found the specific problem, we got to work refactoring the code so that it would de-allocate memory with each loop.
 
 And that's the story of how we, with a team of two "doctors" in the operating theatre, resuscitated our software from its recent crash!
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

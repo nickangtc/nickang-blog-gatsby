@@ -114,7 +114,3 @@ Hopefully, this real-life inspired story (yes, my life) managed to give you a fl
 ## A simple rule
 
 When it comes to DRY, I have a simple rule: only abstract a code block into a reusable function if the function will be used in at least 2 different parts of your app right away. If it's "for the future," just leave abstraction (ie. DRY-keeping) exactly that - for the future!
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

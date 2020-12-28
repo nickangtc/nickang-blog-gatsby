@@ -113,7 +113,3 @@ There are many more useful and fascinating things you can do with the CLI, which
 Have fun with your new toy, I'll see you in the next post!
 
 **Edit (28/10/17):** Part 2 is published! Read it [here](/2017-10-27-start-using-the-command-line-part-2).
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

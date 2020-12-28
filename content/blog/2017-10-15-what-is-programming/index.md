@@ -75,7 +75,3 @@ But these are topics we'll discuss in posts to come. So see you in the next one!
 - Most programming languages are in English, and code is made of the same alphabets that words are.
 - A special program called an interpreter unpacks the meaning of your code and executes them line by line.
 - Programming is the act of writing a computer program that a computer understands but is also comprehensible by yourself and fellow programmers.
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

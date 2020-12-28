@@ -22,7 +22,3 @@ While we can certainly learn and create our own definition of what it means to b
 Let me be upfront here: at the moment, I really don't know what it means to be a great software developer. So in the interim, I'm focusing on technical knowledge and skill. But a good craftsperson does not just know how to use her set of tools - she knows how to deeply affect those who experience the products or services made from those tools and how to reconcile her idiosyncrasies as a person with the work every day, amongst other things.
 
 When will there be a "Developer's Cursor" to provide us with nourishment? Perhaps you already know about something like this (hopefully with a better name), in which case, I'd really like to hear about it! Otherwise, I'll just have to cling on to Chef's Table and attempt to cook up a definition for what it means to be a great software developer and try and work my way there slowly.
-
-* * *
-
-_Enjoyed reading this? I've been writing posts like these revolving around technology, society, and life on and off for more than a year now. This year I'm aiming for 5 posts per week, and I'd love to have you join me on that personal journey. You can read more at my blog or [subscribe](http://eepurl.com/c7xfID) to get the most interesting posts delivered to your inbox - it's free._

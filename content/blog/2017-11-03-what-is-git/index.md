@@ -81,7 +81,3 @@ I hope that gives you a good idea of what git is and how useful it is to a progr
 
 - Article on [Wikipedia](https://en.wikipedia.org/wiki/Git)
 - My other posts on specific git commands and use cases ([squashing commits](/2017-09-23-squash-git-commits/), [stash](/2017-09-26-git-stash/), [replacing an entire branch](/2017-09-30-replace-git-branch-code/))
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

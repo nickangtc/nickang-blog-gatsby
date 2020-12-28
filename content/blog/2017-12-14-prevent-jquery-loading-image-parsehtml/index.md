@@ -37,7 +37,3 @@ We use jQuery's `parseHTML` method as a nice way to validate that a string is va
 So what other use cases might there be for calling `parseHTML` in a separate document context? I don't know exactly, but I imagine there are other situations where knowing this little trick might be helpful.
 
 Let me know in the comments section if you're using this technique to circumvent the default loading of image resources (or any resources for the matter)! I'd love to learn other situations where this might be helpful.
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

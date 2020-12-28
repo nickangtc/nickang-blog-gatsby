@@ -74,7 +74,3 @@ Just for fun, here's the typing test I took. Feel free to have a go at it, but p
 http://typing-speed-test.aoeu.eu
 
 If you're interested, I wrote about some of the other things that people commonly (but inaccurately) believe to be important qualities of a programmer - you can read that [here](/2017-10-25-programming-is-not-for-everyone/).
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

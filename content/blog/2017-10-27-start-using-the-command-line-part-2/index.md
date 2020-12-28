@@ -132,7 +132,3 @@ I hope that this post and [part 1](/2017-10-21-start-using-the-command-line-part
 Anyway, did you notice the weird `../` characters roaming this post? I wanted to keep these two posts on the command line purely about the commands, that's why I didn't mention these characters. But they are nevertheless important to working with the command line.
 
 For that, look out for an upcoming post on **paths**. For some ideas of what other things programmers use the command line for, check out some of [my](/2017-10-18-why-programmers-use-command-line-interface/) [other](/2017-10-12-tunnel-http-requests-into-localhost/) [posts](/2016-08-23-programmers-remote-work/). Till then, have a bug-free day!
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

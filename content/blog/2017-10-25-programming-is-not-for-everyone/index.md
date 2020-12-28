@@ -46,7 +46,3 @@ https://youtu.be/Z6ebsjZLTmw
 Don't listen to people who scare you out of trying to become a programmer. Try it out for a while and see for yourself. I believe that the most important quality in determining whether you'll be a good programmer is [having a reason](/2017-10-16-get-started-programming-part-1/). Things like [typing speed](/2017-10-28-type-fast-programmer/) are superfluous and don't actually matter.
 
 If you really want to feel like a hacker before diving in, go to [this website](http://hackertyper.net/). Knock yourself out, get carried away, and hopefully realise how literally no programmer works like that. Then, start the real hacking.
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

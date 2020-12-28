@@ -32,7 +32,3 @@ I think it's safe to say that after the first experience, you'd predict a simila
 I need not envy Steven for his ability to build complex applications in two days because the fact is, **I have not done once what he had already done many times**. Once I've built a scraper, future projects that require a scraper will be much easier.
 
 Finally, I want to point out something worth pointing out despite being obvious: on top of training your development skill, **developing software will also very often save you time in the long run**. Invest time to build it now to potentially save much more time in the future. I believe if I keep this in mind, I'll have the courage to build again.
-
-* * *
-
-_Enjoyed reading this? I've been writing articles like these revolving around technology, society, and life on and off for more than a year now. This year I'm aiming for 5 articles per week, and I'd love to have you join me on that personal journey. You can read more at my blog or [subscribe](http://eepurl.com/c7xfID) to get the most interesting ones delivered to your inbox - it's free._

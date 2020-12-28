@@ -250,7 +250,3 @@ Here's a summary to make it easier:
 - To clone an instance of a custom-implemented class, including its custom-implemented methods within the class, you need to copy over the prototype chain (because methods defined inside a class are added to the prototype chain) as well as the instance variables
 
 I'm mainly writing this to ensure I have a note on this esoteric but essential part of JavaScript, but I certainly hope it was helpful to you in some way too!
-
-* * *
-
-_Enjoyed reading this? I've been writing posts like these revolving around technology, society, and life on and off for more than a year now. This year I'm aiming for 5 posts per week, and I'd love to have you join me on that personal journey. You can read more at my blog or [subscribe](http://eepurl.com/c7xfID) to get the most interesting posts delivered to your inbox - it's free._

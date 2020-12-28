@@ -28,7 +28,3 @@ I recently identified them as my biggest weakness at this stage in my career (on
 To make up for "lost" time, I'll need to do my own deep study and practice so that I can be much more effective in contributing clean, scalable code to projects, and ultimately to delight users with a great product.
 
 Hoping I'm not misguided with this thought. Now if you'll excuse me, I'm going to go crack my skull a bit.
-
-* * *
-
-_Like reading personal stories like this? Follow me on my journey to becoming a better engineer and human - bookmark this blog and, if you feel inclined, subscribe to my newsletter. It's free, and you'll get only the best articles. See you around!_

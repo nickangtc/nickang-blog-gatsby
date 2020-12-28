@@ -78,7 +78,3 @@ In the next post (to come), we'll look at how to create a self-balancing tree.
 - BST is much faster than an array at search, insert, and delete (`O(log n)` vs `O(n)`)
 - BST is slightly slower than an array at access (`O(log n)` vs `O(1)`)
 - BST’s main weakness is its tendency to become imbalanced if left unregulated by some self-balancing mechanism
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

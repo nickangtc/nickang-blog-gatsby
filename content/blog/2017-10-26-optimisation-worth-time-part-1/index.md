@@ -46,7 +46,3 @@ That means the calculations are done based on a timeline of doing the task for a
 My personal answer is... _quite many_, actually.
 
 Stay peeled to the next post where I'll break down some of the most common tasks we do at work as programmers and classify them as worth the time or not! In the meantime, here are some of my [other](/2017-08-22-fastest-delete-django/) [posts](/2016-09-06-shorter-code-not-necessarily-better/) about optimisation.
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

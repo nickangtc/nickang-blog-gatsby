@@ -43,7 +43,3 @@ What happens when you leave out a possible object because you couldn't even imag
 By default, if the programmer didn't write code to **catch the error** and **handle** it, the worst case scenario is that the program will completely crash. Best case is that the program somehow continues to run, but the user finds it behaving in an unexpected way.
 
 You know, like this software is _kinda buggy_?
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

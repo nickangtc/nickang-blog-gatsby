@@ -203,7 +203,3 @@ In the above code snippet, you've basically laid out the top level specification
 - Jest [matcher methods](https://facebook.github.io/jest/docs/en/expect.html#content)
 - Enzyme [helper methods](http://airbnb.io/enzyme/docs/api/)
 - [Article](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f) on Hacker Noon on using Jest and Enzyme for testing React components
-
-* * *
-
-_Found this helpful? I share notes and thoughts about programming and more 5 times a week here on this blog. If you'd like to read more of these, come back often or even better, [subscribe](http://eepurl.com/c7xfID) to my monthly newsletter. It's free, and in it you'll receive links to the most interesting articles from the blog and beyond. See you soon!_

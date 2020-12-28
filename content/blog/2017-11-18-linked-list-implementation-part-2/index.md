@@ -210,7 +210,3 @@ Here's my gist of it:
 - My [post](/2017-11-15-algorithm-time-complexity-big-o-notation/) on Big O notation and time complexity
 - [Wikipedia](https://en.wikipedia.org/wiki/Linked_list) article on linked lists
 - Udemy [course](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/) by Eric Traub: Learning Data Structures in JavaScript from Scratch. I highly recommend this course - the instructor is concise and covers many data structures, including linked lists
-
-* * *
-
-_Learned something and hungry for more? Me too! That's why I created Bite Size Programming. It's an increasing part of my blog where I discuss programming one bite-sized topic at a time, in plain English. My motivation consists of two mutually reinforcing goals: to teach as I learn. If this sounds interesting, I'd like to invite you to join my exploits by [subscribing](http://eepurl.com/c7xfID) - you'll get the latest posts delivered to your inbox the moment they are published. Hope to see you soon!_

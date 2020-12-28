@@ -123,6 +123,3 @@ Summary in a hurry:
 - If your queue may potentially exceed 100,000 items, you should consider implementing your own Queue that uses an Object (which has constant time deletion during dequeue) as a store instead of an Array
 - The main reason for slower performance of array vs custom Queue implementation is the re-indexing operation that happens (behind the scenes) during every dequeue
 
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

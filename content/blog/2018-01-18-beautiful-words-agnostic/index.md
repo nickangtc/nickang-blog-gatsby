@@ -44,7 +44,3 @@ I wish I used the word agnostic. It would have conveyed more; like how I don't t
 The book was Eckhart Tolle's _The Power Of Now_, by the way.
 
 The funny thing I'm realising now is that the word _agnostic_ really entered my vocabulary through programming, not religious zealousness. A word that likely originates from a religious institution gets adopted in a beautiful way by the programming community and finally finds its way into my tongue. Nice.
-
-* * *
-
-_Enjoyed reading this? I've been writing posts like these revolving around technology, society, and life on and off for more than a year now. This year I'm aiming for 5 posts per week, and I'd love to have you join me on that personal journey. You can read more at my blog or [subscribe](http://eepurl.com/c7xfID) to get the most interesting posts delivered to your inbox - it's free._

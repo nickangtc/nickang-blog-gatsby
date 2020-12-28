@@ -99,9 +99,3 @@ So that's about it. Any more resolutions and I'm certain I will not be able to k
 Writing these down in this short article has been tremendously helpful in bringing clarity to my vision for 2018. I'm incredibly excited about executing these in the year ahead!
 
 I hope that you've done something similar to envision your new year - here's to us having the resolve to fulfil our visions! :D
-
-* * *
-
-_If you're curious about my journey as a software engineer in the early stages of my career, or just as a fellow human being, you can live vicariously through me on this blog._
-
-_You can also [subscribe](http://eepurl.com/c7xfID) for a weekly(-ish) curated set of posts delivered straight to your inbox. It's free. See you soon!_

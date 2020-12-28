@@ -43,7 +43,3 @@ Your browser is like a window through which to browse the internet (hence its na
 This is the story of the cryptic string that is actually the pin on the internet map, helping us obtain awesome web and mobile user experiences in our everyday lives with the help of the browser, a server and some content-forming code.
 
 **Disclaimer**: I've deliberately omitted a number of important intermediate processes that are actually crucial for the entire thing to work (eg. Domain Name Service (DNS)) in this post. They are either too technical or unnecessary for a conceptual understanding of how the internet works.
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

@@ -104,7 +104,3 @@ Hope you've learned something. See you in the next post!
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm) - binary search algorithm
 - [GeeksforGeeks](http://www.geeksforgeeks.org/binary-search/) - a bit more details and implementation in lower level langauges like C/C++ and Java
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly curated list straight to your inbox. It's free. See you soon!_

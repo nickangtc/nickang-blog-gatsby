@@ -152,7 +152,3 @@ PS. In case you didn't already know, Saas is actually an amazing acronym: _synta
 - Pre-processor in this context refers to something that pre-processes your CSS code (in fact, Saas files are in the format of `.scss`, which after processing, becomes the standard `.css` file. Since this processing takes place before the browser gets to see the end product (ie. your `.css` file), it's called a pre-processor.
 
 **Edit (091117):** I somehow managed to spell Sass as Saas for the entire post without realising it, even though I spelled out _syntactically awesome style sheets_! Weirdo. Corrected.
-
-* * *
-
-_Bite Size Programming is where I discuss programming one bite-sized topic at a time in plain English. My motivation consists of two mutually reinforcing goals: to teach and to learn. If this sounds interesting, I'd like to invite you to join my exploits by subscribing to the [mailing list](http://eepurl.com/c7xfID) - you'll get the latest posts delivered to your inbox the moment they are published. See you on the inside!_

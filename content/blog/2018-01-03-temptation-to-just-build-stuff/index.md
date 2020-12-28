@@ -56,7 +56,3 @@ Conclusion? Rather than build something, just use what's already available if it
 - It's good to be building something so you can learn the ins and outs of a library, framework, or other aspects of programming, but only if you can't think of a better investment of your time
 
 And here's one final point to remind me most of all: **don't be too much of an engineer**. It's ultimately about who and what the tool we build serves, and not about the tool itself!
-
-* * *
-
-_If you like reading posts like this, you might want to [subscribe](http://eepurl.com/c7xfID) to my newsletter. It's free, and in it, I'll share with you the most interesting articles of the month from this blog and elsewhere on the internet. See you soon!_

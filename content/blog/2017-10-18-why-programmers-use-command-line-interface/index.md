@@ -101,7 +101,3 @@ It's perfectly possible to do 90 percent of daily programming work without using
 So there you have it - five of the top reasons programmers like to use this odd contraption called the command line.
 
 Hope this helped lift the curtains on one of the more popular mysteries of being a programmer!
-
-* * *
-
-_Bite Size Programming is a segment where I discuss programming one bite-sized topic at a time in plain English. My goal is to share tips, lessons, and ideas from my work as a software engineer, and through that, make programming accessible and fun for anyone who is curious about programming. Join the [mailing list](http://eepurl.com/c7xfID) to get the latest post delivered to your inbox so you can read on the go._

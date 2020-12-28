@@ -105,7 +105,3 @@ Generally speaking, because we typically care more about time complexity than sp
 **Additional resource:**
 
 - An easy to understand visualisation of the various sorting algorithms by [Toptal](https://www.toptal.com/developers/sorting-algorithms/)
-
-* * *
-
-_For more posts like this, check out Bite Size Programming. If you want to get the most interesting posts from this blog, [subscribe](http://eepurl.com/c7xfID) and I'll send you a weekly(-ish) curated list straight to your inbox. It's free. See you soon!_
