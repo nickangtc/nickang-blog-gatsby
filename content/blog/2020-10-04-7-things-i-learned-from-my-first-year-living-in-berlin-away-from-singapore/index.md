@@ -58,6 +58,8 @@ But once I knew, I quickly got used to it and the improvements to my wellbeing h
 
 The result? I am finally feeling like my weekends are long enough. Being able to say that with confidence is liberating.
 
+I wrote more about this in a separate article: [From shock to love: How the closed-on-Sunday law in Germany improved my life](/2020-12-27-shops-closed-on-sunday-germany/)
+
 ## 5. A city’s dog-friendliness bestows a sense of belonging
 
 ![Our dog Brownie inspecting the area for dogs](/images/brownie-in-berlin.jpg)
