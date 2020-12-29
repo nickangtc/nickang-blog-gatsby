@@ -28,13 +28,13 @@ It makes a big difference psychologically to not step into a place *designed* to
 
 I counted - I have resided in Berlin for 56 weeks. In the past 56 Sundays, I have used my not-shopping time to: take long walks in public parks and [recalibrate](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/) in [nature](/2019-02-23-good-weather-and-access-to-nature/), write and publish a weekly article on this site, write my journal, care for my houseplants, repair my leaking washing machine twice, work on a couple of new side projects like my upcoming newsletter, clean up the house, read books, hang out with friends in Berlin, cook elaborate meals, bake new cakes, text and video call friends, and play frisbee in the park, to name some of the more common things.
 
-Also, I am writing this article on a Sunday morning. I wrote in the wee hours of the morning, went for a run (yes, in winter!) with a fellow Singaporean who recently moved to Berlin, took a hot shower, made lunch at home, and edited this by mid-noon.
+Also, I am writing this article on a Sunday morning. I wrote in the wee hours of the morning, went for a run (yes, in winter!) with a fellow Singaporean who recently moved to Berlin, took a hot shower, made lunch at home, and edited the article by mid-noon.
 
 In general, I have found much more time every week to do physical, psychological, and spiritual maintenance because I am free on Sundays.
 
 I am free. On. Sundays. Once a week, the perfect pace. Harmonised with the rhythm of modern society. Thank god it’s Sunday.
 
-And all this goodness? They come mostly at no additional cost to me. I am spending less money than I did because for 1/7 of every week I am not shopping. Spending less money means needing to stress less about earning more money. [We buy with time, not money](/2020-08-30-you-are-not-buying-that-with-money/).
+And all this goodness? They come mostly at no additional cost to me. I am spending less money than I did because for 1/7 of every week, I am not shopping. Spending less money means needing to stress less about earning more money. [We buy with time, not money](/2020-08-30-you-are-not-buying-that-with-money/).
 
 Okay, but you might be thinking, what is the economic impact of such a law? What would happen to the economy if the shops were to be closed on Sundays? Also, aren’t people going to have less work?
 
@@ -48,7 +48,7 @@ Capitalism.
 
 Piece of work.
 
-The earliest enactment of this idea as law, keeping Sunday as a lawful rest day, goes back to the Roman emperor Constantine the Great in 321 AD in  *[Codex Justinianus](https://en.wikipedia.org/wiki/Codex_Justinianus)*, the Roman law codex:
+The earliest enactment of this idea as law, keeping Sunday as a lawful rest day, goes way back to the Roman emperor Constantine the Great in 321 AD in  *[Codex Justinianus](https://en.wikipedia.org/wiki/Codex_Justinianus)*, the Roman law codex:
 
 > On the venerable Day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed.
 
@@ -56,13 +56,13 @@ And the idea has since taken root in Canada, the US, Norway, and other German-sp
 
 In Germany since the *Ladenschlussgesetz* 50 years ago, despite a 2006 *Föderalismusreform* (Federalism reform) that let states regulate their opening hours, *all* states have stuck to the “close shops on Sunday” rule, liberalising only the operating hours on the other 6 days of the week.
 
-Old habits die hard? Or is the wisdom to not fix what does not need fixing coming through here?
+Old habits die hard? Or is this the wisdom to not fix what does not need fixing in action?
 
 I was at ease in Singapore because I spoke the language and was part of the culture, but I was often quite wound-up because of the pace of life.
 
 Here, like the Berliners, I am less exhausted and more relaxed. These *true* restful Sundays have helped me to systematically pause every week to heal my mind, body, and soul.
 
-I think there are many intangible benefits for society its people have more free time:
+I think there are many intangible benefits for society when its people have more free time:
 
 - It democratises the “good life” to all, not just those who can afford to buy more things or to take leave from work
 - It creates more time for cultural activities because people have more time to patronise events and stay around to chit chat
@@ -76,7 +76,7 @@ I think it is wonderful that we have shopping malls at every corner in Singapore
 
 Shopping is theatrical. We dress up to go to the mall to buy new clothes to then dress up to go to the mall again. It is a hamster wheel and we are the tired hamsters running, only ever stopping to sip water and swallow food.
 
-And it’s particularly problematic that many of our supermarkets are in shopping malls. It is as though we have willingly handed our freewill over to Capitalism (*CapitaLand?*) to molest. 
+And it’s particularly problematic that many of our supermarkets are _inside_ shopping malls. It is as though we have willingly handed our freewill over to Capitalism (*CapitaLand?*) to molest. 
 
 We must be cautious of the [Diderot Effect](https://jamesclear.com/diderot-effect) at play. Denis Diderot was a French philosopher who was too poor to even provide a dowry for his daughter’s wedding. But in 1765, he sold his Encyclopédie to Catherine the Great, the Empress of Russia, for £1,000 and was suddenly rich. With his newfound wealth, he bought an expensive scarlet robe. From that day, he made more and more purchases because there was “no more coordination, no more unity, no more beauty” between his beautiful robe and the rest of his possessions.
 
