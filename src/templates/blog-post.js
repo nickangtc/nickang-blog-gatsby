@@ -59,8 +59,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           action="https://buttondown.email/api/emails/embed-subscribe/nickang"
           method="post"
           target="popupwindow"
-          onsubmit="window.open('https://buttondown.email/nickang', 'popupwindow')"
-          class="embeddable-buttondown-form"
+          onSubmit={() => window.open('https://buttondown.email/nickang', 'popupwindow')}
+          className="embeddable-buttondown-form"
         >
           <input type="email" name="email" id="bd-email" placeholder="enter email"></input>
           <input type="hidden" value="1" name="embed"></input>
