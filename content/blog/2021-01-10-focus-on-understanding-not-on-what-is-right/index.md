@@ -75,7 +75,7 @@ To round off this discussion, let's take a moment to consider this question: *wh
 
 Well, to begin, there is the fact that sometimes 'right' cannot be defined.
 
-I like using the example of the cup with a leaky bottom. I read it in a Quora answer (TK link) and poses a hypothetical question: suppose you have a cup with a leaky bottom. Water slowly leaks through the tiny hole at its base. Is this still a cup? Most people would say yes. Now imagine the hole is a little bigger. Still a cup? Okay. It’s a little bigger now. Still a cup? Okay... now, what if the cup had such a big hole at the bottom it might as well be a tube with a handle? Would you still consider this thing a cup?
+I like using the example of the cup with a leaky bottom. Suppose you have a cup with a leaky bottom. Water slowly leaks through the tiny hole at its base. Is this still a cup? Most people would say yes. Now imagine the hole is a little bigger. Still a cup? Okay. It’s a little bigger now. Still a cup? Okay... now, what if the cup had such a big hole at the bottom it might as well be a tube with a handle? Would you still consider this thing a cup?
 
 You believe that a cup with a hole wider than, say, 1cm, can no longer be considered a cup, but I, on the other hand, believe that unless it had no base, it is still a cup. Who is right?
 
