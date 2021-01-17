@@ -23,8 +23,8 @@ const HomePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" location={location} />
       <h1 id="my-digital-garden">Hey, I'm Nick Ang. <span role="img" aria-label="hand wave emoji">👋</span></h1>
-      <p>I work as a software engineer and live as a writer. I explore and write about living a meaningful life.</p>
-      <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> to get occasional updates.</p>
+      <p>I work as a software engineer and live as a writer. I explore and write about how to live a good, meaningful life.</p>
+      <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free to get weekly personal updates.</p>
 
       <h2>Recent Articles</h2>
       <ul className={ indexPageStyles.articles }>
