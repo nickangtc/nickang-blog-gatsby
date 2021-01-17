@@ -16,6 +16,10 @@ a {
         box-shadow: 0 2px 0 0 $blue;
     }
 }
+form {
+    background-color: $gray;
+    padding: $base-size;
+}
 
 /**
 * TYPOGRAPHY AND SIZING

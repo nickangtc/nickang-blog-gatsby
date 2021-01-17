@@ -16,6 +16,7 @@ const SubscribePage = ({ data, location }) => {
         <li>1 meaningful, unpolished idea (shortform) shared from my heart to yours</li>
         <li>2-3 things I have read/seen/heard about that I think are worth sharing</li>
       </ul>
+      <p>You can find previous issues <a href="https://buttondown.email/nickang/archive" target="_blank" rel="noreferrer">here</a>.</p>
       
       <section>
         <form
@@ -25,14 +26,14 @@ const SubscribePage = ({ data, location }) => {
           onsubmit="window.open('https://buttondown.email/nickang', 'popupwindow')"
           class="embeddable-buttondown-form"
         >
-          <input type="email" name="email" id="bd-email" placeholder="enter email"></input>
+          <input type="email" name="email" id="bd-email" placeholder="Your email address"></input>
           <input type="hidden" value="1" name="embed"></input>
           <input type="hidden" value="blog dedicated subscribe page" name="metadata__origin"></input>
           <span>&nbsp;</span>
-          <input type="submit" value="Subscribe by email"></input>
+          <input type="submit" value="Subscribe"></input>
         </form>
         <small>
-          <a href="https://buttondown.email" target="_blank" rel="noreferrer">Powered by Buttondown.</a>
+          <a href="https://buttondown.email" target="_blank" rel="noreferrer" style={{color:'black'}}>Powered by Buttondown.</a>
           <p>Your email address will always be kept private.</p>
         </small>
       </section>
