@@ -1,8 +1,8 @@
 ---
 title: "Stop saying 'I hope'"
 date: "2021-01-31"
-excerpt: 
-tags: Saying "I hope" does nothing but set yourself up for anticipation and disappointment. 
+excerpt: Saying "I hope" does nothing but set yourself up for anticipation and disappointment. 
+tags: 
 ---
 
 When a boy says “*I hope* that the weather will be nice tomorrow,” he has effectively cast a spell of expectation on himself. This spell only unravels when the outcome is observable; that is when the next day has come and the weather conditions are apparent.
