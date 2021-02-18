@@ -7,6 +7,7 @@ In web development class today, many of our students faced a problem adding even
 
 Imagine you have a grid of 9 buttons forming a tic tac toe board in your HTML page. You want to console log the button's index number when it is clicked, so you pass a function called `logButtonIndex` that will be invoked then.
 
+```js
 var allButtonsOnPage = document.querySelectorAll('button');
 
 var logButtonIndex = function(buttonIndex) {
@@ -18,6 +19,7 @@ for (var i = 0; i < allButtonsOnPage.length; i++) {
     logButtonIndex(i);
   });
 }
+```
 
 But when you run it, this code doesn't actually do what we want!
 
@@ -35,23 +37,26 @@ Scope just refers to the context in which your variable was declared. So the var
 
 There are many possible ways to resolve this problem, but the one I find most intuitive and involves the least fiddling is with the `forEach()` method that is built into arrays in JavaScript.
 
+```js
 allButtonsOnPage.forEach(function(button, index) {
   button.addEventListener('click', function() {
     logButtonIndex(index);
   });
 });
+```
 
 This works because within each iteration of `forEach()`, a new scope is created, and the value of `index` is fixed to the correct value in that scope. So subsequently when the click happens, the correct value of `index` is used and logged to the console.
 
 Another solution, which may not work for all browsers at the time of writing, is to use the block-scoped `let`. Here's the way to do it with ES6.
 
+```js
 for (let j = 0; j < allButtonsOnPage.length; j++) {
   let button = allButtonsOnPage\[j\];
   button.addEventListener('click', function() {
     logButtonIndex(j);
   });
 }
-
+```
 ### Thoughts
 
 This is one of those off-putting things about JavaScript in my opinion, especially for beginners picking up programming via web development (ie. HTML, CSS, JavaScript). To me, it's just a quirk that shouldn't exist. It adds unnecessary burden to learners, giving them yet one more thing to remember about the language.
