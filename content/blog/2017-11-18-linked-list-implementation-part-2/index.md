@@ -42,6 +42,7 @@ Here's a summary of the responsibilities and capabilities of each of the 2 types
 
 Now let's see how to implement the two constructor functions.
 
+```js
 function LinkedList() {
   this.head = null;
   this.tail = null;
@@ -56,6 +57,7 @@ function Node(value, next, prev) {
 // just for testing, create an instance of both each
 var ll = new LinkedList();
 var nodeA = new Node(10, 'NodeB', null);
+```
 
 What's happening here?
 
@@ -73,6 +75,7 @@ Next, let's add our first instance method to the `LinkedList` constructor and ca
 
 (Note that we'll be adding methods to the `prototype` chain. You can also declare it directly within the `LinkedList` constructor function if you want. There's just a slight difference in terms of performance (the former uses less memory - read more about the differences [here](/2016-09-05-javascript-prototypes/).)
 
+```js
 LinkedList.prototype.addToTail = function(value) {
   var newNode = new Node(value, null, this.tail);
   
@@ -90,6 +93,7 @@ console.log(ll);
 // =>
 { head: Node { value: 10, next: null, prev: null },
   tail: Node { value: 10, next: null, prev: null } }
+```
 
 What's happening here?
 
@@ -110,6 +114,7 @@ Done? Great!
 
 Next, we'll add a `removeFromTail()` method that we can call to delete the tail node and return its value.
 
+```js
 LinkedList.prototype.removeFromTail = function() {
   if (!this.tail) return null;
   
@@ -144,6 +149,7 @@ LinkedList {
      value: 40,
      next: null,
      prev: Node { value: 105, next: \[Object\], prev: \[Object\] } } }
+```
 
 At this point you're probably getting familiar with the behaviour of a linked list.
 
@@ -159,7 +165,9 @@ But if you look carefully, there's actually one other node that is obscured from
 
 Our linked list at this point should look like this:
 
+```
 10 (head) - - - 15 - - - 99 - - - 105 - - - 40 (tail)
+```
 
 While console logging `ll` gave us a glimpse into the nodes that contain the values 15 and 105 via the `next` and `prev` attributes of the nodes at the `head` and `tail`, we aren't able to see the node with the value of 99. That's because it's in the body of the linked list.
 
@@ -167,6 +175,7 @@ While console logging `ll` gave us a glimpse into the nodes that contain the val
 
 So now let's add one more useful method to our linked list that we can use to traverse the entire list from node to node to search for any node by their value.
 
+```js
 LinkedList.prototype.search = function(searchValue) {
   var currentNode = this.head;
   
@@ -192,6 +201,7 @@ Node {
      value: 15,
      next: \[Circular\],
      prev: Node { value: 10, next: \[Object\], prev: null } } }
+```
 
 Great! Now having declared the `search` method, we can call `ll.search(99)` to find and return the first node with that value. If no such node exists, we should get `null`.
 

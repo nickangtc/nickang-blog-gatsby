@@ -5,6 +5,7 @@ date: "2018-03-19"
 
 Here's a quick and dirty illustration that helps me visualise the difference between `let` (available only in ES6) and `var`.
 
+```js
 for (var i = 0; i < 5; i++) {
   console.log(i); // prints 0, 1, 2, 3, 4
 }
@@ -14,6 +15,7 @@ for (let j = 0; j < 5; j++) {
   console.log(j); // prints 0, 1, 2, 3, 4
 }
 console.log(j); // ReferenceError: j is not defined
+```
 
 The value of `i` (initialised as `var`) is now available globally while `j` (initialised as `let`) is only available inside its own block and not outside.
 

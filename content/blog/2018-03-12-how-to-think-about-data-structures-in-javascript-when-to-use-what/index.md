@@ -36,15 +36,16 @@ As we'll see with practice, whenever a thing has multiple components that need t
 
 In this case, let's try and fit our Question into both so we can see which is a more suitable data structure.
 
+```js
 // ARRAY
-var questionAsAnArray = \[
+var questionAsAnArray = [
   'the question text itself...',
   'the answer...',
   'the first option...',
   'the second option...',
   'the third option...',
   'the fourth option...'
-\]
+]
 
 // OBJECT
 var questionAsAnObject = {
@@ -55,9 +56,10 @@ var questionAsAnObject = {
   option3: '...',
   option4: '...',
 }
+```
 
 // hypothetically, try and get the answer to this question
-questionAsAnArray\[1\]       // with array
+questionAsAnArray[1]       // with array
 questionAsAnObject.answer  // with object
 
 As you can probably tell, an Object is more suitable as a data structure to hold a self-contained unit of information (ie. a Question) because to access a particular value, you can just write `question.answer`.
@@ -74,8 +76,9 @@ Conceptually, a level is, as mentioned, a series of questions. Since we've decid
 
 Again, since a Level must be a self-contained unit, we cannot use primitive values but instead, we need to use a data structure. Let's use both an Array and Object to try and create a self-contained Level.
 
+```js
 // ARRAY
-var levelAsAnArray = \[ {}, {}, {} \]
+var levelAsAnArray = [ {}, {}, {} ]
 
 // OBJECT
 var levelAsAnObject = {
@@ -85,8 +88,9 @@ var levelAsAnObject = {
 }
 
 // hypothetically, try and access the second question
-levelAsAnArray\[1\]
+levelAsAnArray[1]
 levelAsAnObject.question2
+```
 
 Here we don't have an obvious winner as before. Both an Array and an Object can be used to represent a Level seemingly equally well.
 
@@ -98,7 +102,8 @@ It's a choice, though. In this situation, neither data structure has an obvious 
 
 Let's recap. The data structures we've chosen to use will give us this to work with:
 
-var level1 = \[
+```js
+var level1 = [
   {
     question: '...',
     answer: '...',
@@ -113,31 +118,38 @@ var level1 = \[
   {
     // basically a repeated object format for 3rd question
   }
-\];
+]
+```
 
 Now let's try and systematically access options 1-4 in the first Question object inside the `level1` array - perhaps to try and create one button for each option to display on the DOM. It might look like this.
 
+```js
 for (var i = 0; i < level1.length; i++) {
-  var question = level1\[i\]
+  var question = level1[i]
 
   for (var j = 0; j < 4; j++) { // hardcoded nubmer 4!
-    var key = \`option${j}\` // constructing the correct key string
-    var option = question\[key\] // finally, we have the \`option\` itself
-    // do something with \`option\`
+    var key = `option${j}` // constructing the correct key string
+    var option = question[key] // finally, we have the `option` itself
+    // do something with `option`
   }
 }
+```
 
 This code is problematic and bug-prone in a few ways.
 
 Firstly, it will only work if questions will only ever have 4 options - no more, no less. This lack of dynamism makes the code less capable of being extended on.
 
-  for (var j = 0; j < 4; j++) { // hardcoded nubmer 4!
-    var key = \`opt${j}\` // constructing the correct key string
+```js
+for (var j = 0; j < 4; j++) { // hardcoded nubmer 4!
+var key = `opt${j}` // constructing the correct key string
+```
 
 Secondly, we still have to wrangle with constructing the correct key name to access the Question object in each iteration. While this isn't necessarily a big issue, it is potentially error-prone. (Just think what would happen if we decided to rename our Question's option keys from `option1` to `opt1` somewhere down the line, and forgot to update the for loop.)
 
-  for (var j = 0; j < 4; j++) { // hardcoded nubmer 4!
-    var key = \`opt${j}\` // constructing the correct key string
+```js
+for (var j = 0; j < 4; j++) { // hardcoded nubmer 4!
+var key = `opt${j}` // constructing the correct key string
+```
 
 And then there's the last bug-prone issue with this code - the `i` and `j` counters. Keeping track of what alphabet to use in a `for` loop can become a tiresome affair, and when our brain is not on completely on top of it, we may introduce bugs (eg. using `j` when you should use `i`.)
 
@@ -147,39 +159,45 @@ Having identified these problems with using different keys to store the various 
 
 If you guessed an array, you're spot on! Let's group options 1-4 into an array.
 
-var level1 = \[
+```js
+var level1 = [
   {
     question: '...',
     answer: '...',
-    options: \[
+    options: [
       'first option',
       'second option',
       'third option',
       'fourth option',
-    \]
+    ]
   },
   // ... 2 more Question objects
-\];
+];
+```
 
 This makes accessing each option much easier.
 
+```js
 for (var i = 0; i < level1; i++) {
-  var question = level1\[i\];
+  var question = level1[i]
 
   for (var j = 0; j < question.options.length; j++) {
-    var option = question.options\[j\]; // direct access to the option!
+    var option = question.options[j] // direct access to the option!
   }
 }
+```
 
 Sweet.
 
 Ok, finally, to prevent the mixing up of `i` and `j`, we can get rid of them entirely by using the `forEach` method that is built-in to Arrays.
 
+```js
 level1.forEach(function(question) {
   question.options.forEach(function(option) {
-    // direct access to the \`option\`!
+    // direct access to the option var!
   })
 })
+```
 
 And that's it! We have successfully designed our **information architecture** to represent 1 level of a generic quiz game.
 

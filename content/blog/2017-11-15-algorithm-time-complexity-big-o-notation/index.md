@@ -42,6 +42,7 @@ Here’s a useful graph from a very good [stackoverflow post](https://stackoverf
 
 Now let’s nourish our understanding so far with a simplistic example.
 
+```js
 var smallArray = \[1, 2, 3, 4, … , 96, 97, 98, 99, 100\];
 var largeArray = \[1, 2, 3, 4, … , 9996, 9997, 9998, 9999, 10000\];
 
@@ -57,6 +58,7 @@ function iterate(inputArray) {
 
 iterate(smallArray);
 iterate(largeArray); 
+```
 
 If `smallArray` has 100 items in it and `largeArray` has 10,000 items, and they are passed (in two separate calls) into an algorithm that iterates through every single item in the array, this algorithm can be said to have **time complexity of O(n)**, or **linear time complexity**.
 
@@ -82,6 +84,7 @@ A bit more on that last point. People don't really say O(n/2). Let’s see why n
 
 What if we modify the `iterate()` function to iterate through the input array twice instead of once? What would be its new time complexity?
 
+```js
 // modified to iterate the array twice instead of just once
 function iterate(inputArray) {
     var total = 0;
@@ -96,6 +99,7 @@ function iterate(inputArray) {
 
     return total;
 }
+```
 
 Ready?
 
@@ -113,6 +117,7 @@ So in considering Big O, we drop the constants.
 
 The same logic that applies to constants applies to less significant parts of an algorithm. If there’s a part of the algorithm that takes up the vast majority of the run-time as its input size becomes arbitrarily large, that part determines the overall algorithm’s time complexity.
 
+```js
 function weirdIterate(inputArray) {
     var total = 0;
 
@@ -128,6 +133,7 @@ function weirdIterate(inputArray) {
 
     return total;
 }
+```
 
 So what's the time complexity here?
 
@@ -141,6 +147,7 @@ What happens if our algorithm takes in two inputs instead one?
 
 Consider this algorithm that counts the number of overlapping items in two arrays.
 
+```js
 function overlapCount(arrayA, arrayB) {
     var count = 0;
     
@@ -154,6 +161,7 @@ function overlapCount(arrayA, arrayB) {
     
     return count;
 }
+```
 
 In this case, the time complexity is confounded by the size of two _different_ inputs instead of one.
 

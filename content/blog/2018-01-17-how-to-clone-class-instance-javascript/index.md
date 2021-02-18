@@ -9,6 +9,7 @@ One very common scenario for wanting to clone a class instance is inside a funct
 
 Because non-primitive data structures are passed by reference in JavaScript, we will inadvertently mutate the original object or array passed into a function as an argument. Here's a quick illustration of this behaviour:
 
+```js
 var userJohn = {
   firstName: 'john',
   lastName: 'campbell',
@@ -17,10 +18,10 @@ var userJohn = {
 };
 
 function maskSensitiveInfo (user) {
-  var sensitiveFields = \['dob', 'accountNumber'\];
+  var sensitiveFields = ['dob', 'accountNumber'];
 
   sensitiveFields.forEach(function (field) {
-    user\[field\] = 'hidden';
+    user[field] = 'hidden';
   });
 
   return user;
@@ -28,6 +29,7 @@ function maskSensitiveInfo (user) {
 
 var userJohnMasked = maskSensitiveInfo(userJohn);
 console.log(userJohnMasked === userJohn);  // we expect this to be false, but it is true!
+```
 
 In the above, `userJohn` was mutated inside the `maskSensitiveInfo()` function. Specifically, the line `user[field] = 'hidden';` mutates `userJohn` _directly_ instead of mutating a copy of it.
 
@@ -39,12 +41,13 @@ I think it's also the reason why many JavaScript code style guides I've come acr
 
 Instead, they recommend creating a copy of any object/array inside functions - basically as a preventive measure to eliminate the potential for unwanted (and hard to trace) side effects caused by mutating something outside of the function from within.
 
+```js
 function maskSensitiveInfo (user) {
   var userClone = Object.assign({}, user);
-  var sensitiveFields = \['dob', 'accountNumber'\];
+  var sensitiveFields = ['dob', 'accountNumber'];
 
   sensitiveFields.forEach(function (field) {
-    userClone\[field\] = 'hidden';
+    userClone[field] = 'hidden';
   });
 
   return userClone;
@@ -52,6 +55,7 @@ function maskSensitiveInfo (user) {
 
 var userJohnMasked = maskSensitiveInfo(userJohn);
 console.log(userJohnMasked === userJohn);  // correctly false!
+```
 
 In the above snippet, the `maskSensitiveInfo()` function now creates a copy of the `user` object being passed in and uses it for intermediate steps that mutate it, before returning it. That's why `userJohnMasked` is no longer the same object as `userJohn` (ie. `userJohnMasked === userJohn` evaluates to false).
 
@@ -61,6 +65,7 @@ What we've just seen is _shallow copying_. It's so-called "shallow" because `Obj
 
 This snippet illustrates the point:
 
+```js
 var userJohn = {
   firstName: 'john',
   lastName: 'campbell',
@@ -74,10 +79,10 @@ var userJohn = {
 
 function maskSensitiveInfo (user) {
   var userClone = Object.assign({}, user);
-  var sensitiveFields = \['dob', 'accountNumber'\];
+  var sensitiveFields = ['dob', 'accountNumber'];
 
   sensitiveFields.forEach(function (field) {
-    userClone\[field\] = 'hidden';
+    userClone[field] = 'hidden';
   });
 
   userClone.account.number = 'hidden';
@@ -89,16 +94,19 @@ function maskSensitiveInfo (user) {
 var userJohnMasked = maskSensitiveInfo(userJohn);
 console.log(userJohnMasked.account.number);  // 'hidden'
 console.log(userJohn.account.number);  // we expect to be '12345678' but it is 'hidden'
+```
 
 The original object, `userJohn`, is accidentally mutated by the line `userClone.account.number = 'hidden'`. This is one of those horrible bugs that can be really hard to pinpoint.
 
 To do a deep copy (vis-a-vis shallow copy), it's best to use an external library like jQuery or Lodash:
 
+```js
 // jQuery method
 var newObject = jQuery.extend(true, {}, oldObject);
 
 // lodash method 
-var deep = \_.cloneDeep(objects);
+var deep = _.cloneDeep(objects);
+```
 
 More details on deep cloning can be found in [this SO thread](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript).
 
@@ -114,6 +122,7 @@ So, to copy over the methods from one class instance to another, we will need to
 
 Here's the magical series of built-in methods that can be used to create a copy of an instance of a custom-implemented class:
 
+```js
 function copyInstance (original) {
   var copied = Object.assign(
     Object.create(
@@ -123,6 +132,7 @@ function copyInstance (original) {
   );
   return copied;
 }
+```
 
 That's quite horrid syntax on first and second glance, but on third glance...
 
@@ -135,13 +145,16 @@ This comes in really handy for custom-implemented classes like `Stack` or `Queue
 
 However, sometimes you will need to add a few extra lines to the `copyInstance()` method, depending on whether your class has any instance variables that need to be copied as well. In my case, I had to clone an array that is stored as an instance variable called `this.stack` within the Stack implementation:
 
-this.stack = \[3, 2, 5, 4, 1\];
+```js
+this.stack = [3, 2, 5, 4, 1];
 
 // clone stack using .slice()
 this.clonedStack = this.stack.slice(0);
+```
 
 Here's the use case I recently had with a Stack (it uses ES6, so in case you're unfamiliar, just treat all `const` and `let` as `var`s):
 
+```js
 // modified copyInstance method that works specifically for my Stack class
 function copyInstanceStack (original) {
   var copied = Object.assign(
@@ -161,7 +174,7 @@ function copyInstanceStack (original) {
 class Stack {
   constructor () {
     // THIS NEEDS TO COPIED
-    this.stack = \[\];
+    this.stack = [];
   }
 
   // ALL THESE METHODS NEED TO BE COPIED AS WELL
@@ -171,8 +184,8 @@ class Stack {
 
     if (this.stack.length === 0) newNode.minIndex = 0;
     else {
-      const prevMinIndex = this.stack\[index - 1\].minIndex;
-      const val = this.stack\[prevMinIndex\].data;
+      const prevMinIndex = this.stack[index - 1].minIndex;
+      const val = this.stack[prevMinIndex].data;
       newNode.minIndex = data < val ? index : prevMinIndex;
     }
     this.stack.push(newNode);
@@ -185,12 +198,12 @@ class Stack {
   min () {
     if (this.stack.length === 0) return null;
     const minIndex = this.peek().minIndex;
-    return this.stack\[minIndex\].data;
+    return this.stack[minIndex].data;
   }
 
   peek () {
     if (this.stack.length === 0) return null;
-    return this.stack\[this.stack.length - 1\];
+    return this.stack[this.stack.length - 1];
   }
 
   isEmpty () {
@@ -233,6 +246,7 @@ s1.push(1);
 let s2 = sortStack(s1);
 console.log(s2);  // sorted stack order
 console.log(s1);  // original stack order (ie. not mutated, yay!)
+```
 
 ### Summary
 

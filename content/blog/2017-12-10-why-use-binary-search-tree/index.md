@@ -3,16 +3,14 @@ title: "Why use Binary Search Tree?"
 date: "2017-12-10"
 ---
 
-![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png) Photo by Nathan Fertig on Unsplash
+![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png)
+_Photo by Nathan Fertig on Unsplash_
 
 If you already know what a binary search tree is for and how it works, read on to learn about their main strengths and weaknesses in this post! Otherwise, feel free to take a moment to read [part 1](/2017-12-03-binary-search-tree-explained/) for an introduction.
 
 Why is a binary search tree useful? What are some of its main weaknesses?
 
 Let's try and answer those questions in this post.
-
-bi
-
 ## Why use a binary search tree?
 
 The main reason to use a binary search tree is the fact that it extends the capability of a normal array.
@@ -23,11 +21,13 @@ But while indexing lends array strength, it is also its weakness.
 
 For example, if you wanted to add an item into an existing array of length 100 at the 50th position, you would have to update the index of the elements in the 50-100 positions (adding 1 to each of them). This happens behind the scenes. In the worst case scenario, as is the case when you add a new element to the front of an array, this would be a linear time operation (O(n) time complexity).
 
-var foodArray = \['hollandaise', 'fish', ..., 'cracker'\];
+```js
+var foodArray = ['hollandaise', 'fish', ..., 'cracker'];
 console.log(foodArray.length);  // 100
 
 foodArray.splice(50, 0, 'egg');
 console.log(foodArray.length);  // 101
+```
 
 When the above code snippet is executed, all elements after the newly inserted element will have to be re-indexed. This O(n) time operation is not extremely slow, but another data structure (guess which?) can do better.
 
@@ -53,7 +53,7 @@ A binary search tree can get out of balance. This is the first thing to realise 
 
 For example, if we attempted to insert the following sorted array into a binary search tree, we will end up with a massively imbalanced tree.
 
-\[1, 3, 4, 7, 10, 13\]
+[1, 3, 4, 7, 10, 13]
 
 … will result in a tree that looks like this…
 

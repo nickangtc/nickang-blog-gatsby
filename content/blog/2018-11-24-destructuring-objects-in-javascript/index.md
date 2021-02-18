@@ -17,6 +17,7 @@ When working with an object, there are usually many key-value pairs. And sometim
 
 For example:
 
+```js
 const person = {
     name: 'Joe',
     email: 'joe@doe.com',
@@ -27,7 +28,7 @@ const person = {
 }
 
 const getBasicProfile = function(user) {
-    return \`${user.name}, age ${user.age}, is a ${user.occupation}.\`
+    return `${user.name}, age ${user.age}, is a ${user.occupation}.`
 }
 
 // run
@@ -40,8 +41,9 @@ const getBasicProfile = function(user) {
     const age = user.age
     const occupation = user.occupation
 
-    return \`${name}, age ${age}, is a ${occupation}.\`
+    return `${name}, age ${age}, is a ${occupation}.`
 }
+```
 
 Lengthier, but much more readable. In terms of performance, introducing 3 temporary variables will **not** slow down your runtime in any significant way. Read more about [code readability versus efficiency](/2018-11-16-code-readability-or-efficiency/).
 
@@ -53,6 +55,7 @@ The solution? Destructuring!
 
 Here’s an example of destructuring at work using the above example:
 
+```js
 const getBasicProfile = function(user) {
     const {
         name,
@@ -60,8 +63,9 @@ const getBasicProfile = function(user) {
         occupation
     } = user
 
-    return \`${name}, age ${age}, is a ${occupation}.\`
+    return `${name}, age ${age}, is a ${occupation}.`
 }
+```
 
 What just happened?
 
@@ -79,6 +83,7 @@ Now, what if for some reason, you wanted to assign the value of `occupation` key
 
 That’s possible and quite easy to achieve:
 
+```js
 const getBasicProfile = function(user) {
     const {
         name,
@@ -86,8 +91,9 @@ const getBasicProfile = function(user) {
         occupation: title
     } = user
 
-    return \`${name}, age ${age}, is a ${occupation}.\`
+    return `${name}, age ${age}, is a ${occupation}.`
 }
+```
 
 Now, `title` will hold the value of `occupation`, and the latter value is `undefined`.
 
@@ -99,6 +105,7 @@ Yes they can!
 
 Let’s say our `person` object gets a bit more complex, and the ‘address’ key now contains an object instead of a string:
 
+```js
 const person = {
     name: 'Joe',
     email: 'joe@doe.com',
@@ -113,9 +120,11 @@ const person = {
     age: 29,
     occupation: 'software engineer'
 }
+```
 
 To do a nested destructuring to get to its city and country:
 
+```js
 const {
     address: {
         country,
@@ -125,6 +134,7 @@ const {
 
 console.log(city, country)
 // Singapore, Singapore
+```
 
 A word of caution here is that this can get a bit hard to read. The beauty of destructuring, at least to me, is that it actually _looks_ like it’s un-compacting an object and selectively taking certain values out and creating their own variables in a scope.
 
@@ -132,6 +142,7 @@ Nested destructuring, on the other hand, quickly starts to look like it is const
 
 My opinion? Try it for yourself and see if you’re comfortable seeing nested destructuring code. Otherwise, you can always do a second destructuring to keep your code look simple:
 
+```js
 const { address } = person
 const {
     country,
@@ -140,11 +151,13 @@ const {
 
 console.log(city, country)
 // Singapore, Singapore
+```
 
 I wouldn’t use nested destructuring on objects that are 3-levels deep (ie. an object in an object in another object). That would just be unreadable code.
 
 ### Destructuring with default values
 
+```js
 One last great thing about destructuring is that you can assign a default value if a particular key doesn’t exist in the object being destructured:
 
 const person = {
@@ -164,13 +177,9 @@ const {
 
 console.log(age, name, gender)
 // 29, 'Joe', 'unspecified'
+```
 
 This is particularly useful when working with databases that might have gaps in the entry in making sure that the front-end can work independently with the data by assigning sensible user-facing default values.
 
 That’s all there is to destructuring objects in JavaScript. Happy coding!
 
-* * *
-
-_Destructuring can also be used on arrays in JavaScript! I’ll publish another post on that soon. In the meantime, read about [destructuring arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Array_destructuring) at MDN._
-
-_Learning JavaScript? Check out some of the more popular technical posts on this blog in [Bite Size Programming](https://www.nickang.com/bite-size-programming/)._

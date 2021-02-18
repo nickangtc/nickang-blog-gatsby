@@ -17,14 +17,18 @@ Anyhow, I didn't need 3 calls for 3 placeholder images for a DOM node that would
 
 The solution I found to work was **creating a new document** and passing that as the **context** into `parseHTML()`. It works like this:
 
+```js
 // parseHTML using this external document context to prevent img src requests
 var virtualDOM = document.implementation.createHTMLDocument('virtual');
 
-var imageElement = $.parseHTML('![](images/image.png)', virtualDOM);
+var imageElement = $.parseHTML('<img src="image.png">', virtualDOM);
+```
 
 This solves the problem by telling jQuery explicitly that it should parse the string in a separate context from the current document context (ie. away from the window that the user is browsing). A quick look at the [jQuery documentation](https://api.jquery.com/jquery.parsehtml/) for the method shows that the second parameter is meant exactly for this:
 
-jQuery.parseHTML( data \[, context \] \[, keepScripts \] )
+```js
+jQuery.parseHTML( data [, context ] [, keepScripts ] )
+```
 
 ### Use case for parsing HTML outside of current document
 

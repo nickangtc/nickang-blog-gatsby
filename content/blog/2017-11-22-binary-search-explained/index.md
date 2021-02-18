@@ -71,6 +71,7 @@ Note that because the code for binary search is quite self-explanatory, I'll not
 
 If you find it hard to understand, I highly recommend you take a piece of paper and write out exactly what happens step-by-step when you invoke `BinarySearch(array, searchValue)`. I find that to be the best way to really understand any implementation!
 
+```js
 function binarySearch(array, key) {
     var lower = 0;
     var upper = array.length - 1;
@@ -97,6 +98,7 @@ var input = \[0, 2, 40, 44, 48, 55, 66, 99\];
 console.log(binarySearch(input, 66));  // should print 6
 
 You can also view this on GitHub [gist](https://gist.github.com/nickangtc/4374ea5660f6bbf2b97db5c6d719009f) and star it to keep a copy for future reference.
+```
 
 Hope you've learned something. See you in the next post!
 
