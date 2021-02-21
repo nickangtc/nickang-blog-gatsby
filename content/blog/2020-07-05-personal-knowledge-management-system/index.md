@@ -67,6 +67,8 @@ With this setup, which probably looks surprisingly like any other person’s dig
 
 I deliberately kept my description of the “how” short in this article to provide a _sense_ of what an operational PKM looks like. In a future article (TK), I’ll dive into the detailed state of my PKM in 2020. Stay tuned!
 
+**NEW (21.02.2021)**: I published a [new post](/2021-02-21-obsidian-roam-why-i-am-staying-with-bear-as-my-pkm/) on how I experimented for 3 weeks with Roam Research, Obsidian, and decided to stay with Bear as my PKM software.
+
 ---
 
 **Credits due**: Just to be clear, I did not come up with this idea of a PKM. I don’t know who did, but I stumbled on this whole thing from a tweet by [Tiago Forte](https://twitter.com/fortelabs) and I became acquainted with the idea through—surprise surprise—a set of [beautifully illustrated notes by Maggie Appleton](https://maggieappleton.com/basb) about his course called Building A Second Brain (BASB). Another source of information is Ahrens’ book [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes).
