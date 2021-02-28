@@ -1,7 +1,7 @@
 ---
 title: "Face a new direction"
 date: "2021-02-07"
-excerpt: If you are distracted at home, just sitting facing a different direction could fix it.
+excerpt: "If you are distracted at home, just sitting facing a different direction could fix it."
 tags: 
 ---
 

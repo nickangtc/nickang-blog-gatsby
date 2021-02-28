@@ -1,7 +1,7 @@
 ---
 title: "Software bugs and trash"
 date: "2021-02-14"
-excerpt: Software bugs are in many ways analogous to everyday trash.
+excerpt: "Software bugs are in many ways analogous to everyday trash."
 tags: ["Mental Models"]
 ---
 

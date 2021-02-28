@@ -1,7 +1,7 @@
 ---
 title: "Stop saying 'I hope'"
 date: "2021-01-31"
-excerpt: Saying "I hope" does nothing but set yourself up for anticipation and disappointment. 
+excerpt: "Saying 'I hope' does nothing but set yourself up for anticipation and disappointment."
 tags: 
 ---
 
