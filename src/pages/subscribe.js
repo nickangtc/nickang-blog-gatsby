@@ -11,7 +11,7 @@ const SubscribePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Subscribe" location={location} />
       <h1>Subscribe</h1>
-      <p>If you enjoy reading this blog, you might like the <strong>Heart to Heart newsletter</strong>. Dispatched weekly, you can expect:</p>
+      <p>If you enjoy reading this blog, you might like the <strong>Heart to Heart newsletter</strong>. When it lands in your inbox, you can expect:</p>
       <ul>
         <li>1 meaningful, unpolished idea (shortform) shared from my heart to yours</li>
         <li>2-3 things I have read/seen/heard about that I think are worth sharing</li>

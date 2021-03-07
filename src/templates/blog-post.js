@@ -63,7 +63,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           className="embeddable-buttondown-form"
         >
           <p className={blogPostStyles.newsletterDescription}>
-            If you enjoy reading this blog, you might like my <strong>Heart to Heart weekly newsletter</strong>.
+            If you enjoy reading this blog, you might like my <strong>Heart to Heart newsletter</strong>.
             You can find previous issues <a href="https://buttondown.email/nickang/archive" target="_blank" rel="noreferrer">here</a>. See you in the next email?
           </p>
           <input type="email" name="email" id="bd-email" placeholder="Your email address"></input>
