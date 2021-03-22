@@ -18,7 +18,3 @@ Anyway, I brought up my role because my answer to this person's question was com
 Since it's my full-time job to build internal tools and write ad-hoc scripts to get our prospects and clients unstuck so we can close new deals or unlock more spending through our platform, I think in terms of the hacky capabilities of coding.
 
 What's your answer?
-
-* * *
-
-If you're interested to read more of the answers I've given at past Q&As, browse the [question and answer](https://www.nickang.com/tag/question-and-answer/) tag.
