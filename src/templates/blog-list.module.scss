@@ -30,6 +30,26 @@
   color: $darkgray;
 }
 
+
+@import '../styles/variables';
+
+.title {
+  margin-bottom: $rhythm / 3;
+}
+
+ul.posts-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-left: 0;
+
+  a {
+    color: black;
+  }
+}
+
 // Portrait and Landscape
 @media only screen 
   and (min-device-width: 320px) 
@@ -38,8 +58,14 @@
     .title {
       font-size: $base-size;
       margin-top: $base-size * 1.25;
+      margin-bottom: 0;
+      line-height: $base-size * 1.3;
     }
     .date {
       font-size: $base-size * 0.7;
+    }
+    .excerpt {
+      line-height: $base-size * 1.3;
+      font-size: $base-size * 0.8;
     }
 }

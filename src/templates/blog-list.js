@@ -5,9 +5,16 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import blogListStyles from "./blog-list.module.scss"
 
-const BlogList = ({ data, location }) => {
+const BlogList = ({ data, location, pageContext }) => {
+  const pathname = 'blog'
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
+
+  const { currentPage, numPages } = pageContext
+  const isFirst = currentPage === 1
+  const isLast = currentPage === numPages
+  const prevPage = currentPage - 1 === 1 ? '/' : `/${pathname}/${(currentPage - 1).toString()}`
+  const nextPage = `/${pathname}/${(currentPage + 1).toString()}`
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -34,6 +41,30 @@ const BlogList = ({ data, location }) => {
           </article>
         )
       })}
+
+      <hr></hr>
+
+      <nav>
+        <ul className={ blogListStyles.postsNav }>
+          <li>
+            {!isFirst && (
+              <Link to={ prevPage } rel="prev">
+                ← Newer posts
+              </Link>
+            )}
+          </li>
+          <li>
+            Page { currentPage } / { numPages }
+          </li>
+          <li>
+            {!isLast && (
+              <Link to={ nextPage } rel="next">
+                Older posts →
+              </Link>
+            )}
+          </li>
+        </ul>
+      </nav>
     </Layout>
   )
 }
