@@ -1,26 +1,11 @@
 @import '../styles/variables';
 
-button {
-  background: none!important;
-  border: none;
-  padding: 0!important;
-  color: black;
-  text-decoration-color: black;
-  transition: box-shadow 0.25s ease-in-out;
-  box-shadow: 0 2px 0 0 $blue;
-  cursor: pointer;
-
-  &:hover {
-    box-shadow: 0 4px 0 0 $blue;
-  }
-}
-
 .title {
-  line-height: $base-size * 1.5;
+  line-height: $base-size * 2;
   margin-bottom: 0;
   margin-top: $base-size * 1.75;
   font-weight: 500;
-  font-size: $base-size * 1.1;
+  font-size: $base-size * 1.5;
   color: black;
 
   a {
@@ -37,8 +22,12 @@ button {
   color: gray;
 }
 
-.hidden {
-  display: none;
+.article {
+  margin-bottom: $base-size * 3;
+}
+
+.excerpt {
+  color: $darkgray;
 }
 
 // Portrait and Landscape
