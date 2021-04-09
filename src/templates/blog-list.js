@@ -6,15 +6,21 @@ import SEO from "../components/seo"
 import blogListStyles from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
-  const pathname = 'blog'
+  const pathname = '/blog'
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   const { currentPage, numPages } = pageContext
   const isFirst = currentPage === 1
+  const isSecond = currentPage === 2
   const isLast = currentPage === numPages
-  const prevPage = currentPage - 1 === 1 ? '/' : `/${pathname}/${(currentPage - 1).toString()}`
-  const nextPage = `/${pathname}/${(currentPage + 1).toString()}`
+
+  const nextPage = `${pathname}/${(currentPage + 1).toString()}`
+  let prevPage = isFirst ? '/' : `${pathname}/${(currentPage - 1).toString()}`
+  if (isSecond) {
+    // /blog/1 is invalid => /blog is the correct 1st page
+    prevPage = pathname
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -23,26 +29,27 @@ const BlogList = ({ data, location, pageContext }) => {
         const title = node.frontmatter.title || node.fields.slug
 
         return (
-          <article key={node.fields.slug} className={ blogListStyles.article }>
-            <header>
-              <h2 className={ blogListStyles.title }>
-                <Link to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h2>
-              <time dateTime={ node.frontmatter.date } className={ blogListStyles.date }>{ node.frontmatter.date }</time>
-            </header>
-            <p
-              dangerouslySetInnerHTML={{
-                __html: node.frontmatter.excerpt || node.excerpt,
-              }}
-              className={ blogListStyles.excerpt }
-            />
-          </article>
+          <span key={node.fields.slug}>
+            <article className={ blogListStyles.article }>
+              <header>
+                <h1 className={ blogListStyles.title }>
+                  <Link to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h1>
+                <time dateTime={ node.frontmatter.date } className={ blogListStyles.date }>{ node.frontmatter.date }</time>
+              </header>
+              <p
+                dangerouslySetInnerHTML={{
+                  __html: node.html
+                }}
+                className={ blogListStyles.excerpt }
+              />
+            </article>
+            <hr></hr>
+          </span>
         )
       })}
-
-      <hr></hr>
 
       <nav>
         <ul className={ blogListStyles.postsNav }>
@@ -86,6 +93,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
+          html
           excerpt
           fields {
             slug

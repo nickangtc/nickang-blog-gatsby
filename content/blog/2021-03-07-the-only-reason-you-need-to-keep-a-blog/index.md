@@ -9,8 +9,7 @@ My friends often ask me how I stay motivated to write and publish articles on my
 
  So I dug deep and eventually came to realise that for me, if nothing else, it’s about **helping someone feel less lonely** in this big, complicated world.
 
-> Brother Christian, who hadn’t said one word to me this entire time, looked me in the eyes and in almost a whisper, said to me, “Me, too.” Sometimes we don’t need advice. Sometimes we just need to hear we’re not the only one.
-> *Matthew McConaughey*
+> Brother Christian, who hadn’t said one word to me this entire time, looked me in the eyes and in almost a whisper, said to me, “Me, too.” Sometimes we don’t need advice. Sometimes we just need to hear we’re not the only one. <cite>Matthew McConaughey</cite>
 
 This is an excerpt from Matthew McConaughey’s new memoir, *Greenlights*. And I think that for this reason alone, **your blog should exist**.
 
