@@ -24,9 +24,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <h1 className={ blogPostStyles.title }>
             {post.frontmatter.title}
           </h1>
-          <p className={ blogPostStyles.date }>
-            {post.frontmatter.date}
-          </p>
+          <time className={ blogPostStyles.date }>{ post.frontmatter.date }</time>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />

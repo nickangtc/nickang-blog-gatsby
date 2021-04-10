@@ -1,0 +1,58 @@
+@import '../styles/variables';
+
+.title {
+  margin-bottom: 0;
+  margin-top: $base-size * 1.75;
+  color: black;
+
+  a {
+    color: black;
+  }
+}
+
+.date {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 1.75rem;
+  font-size: 0.85rem;
+  font-family: $sans-serif;
+  color: $darkgray;
+}
+
+.article {
+  margin-bottom: $base-size * 3;
+}
+
+.excerpt {
+  color: $darkgray;
+}
+
+
+@import '../styles/variables';
+
+.title {
+  margin-bottom: $rhythm / 3;
+}
+
+ul.posts-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-left: 0;
+
+  a {
+    color: black;
+  }
+}
+
+// Portrait and Landscape
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .title {
+      margin-top: $base-size * 1.25;
+    }
+}
