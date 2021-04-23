@@ -1,8 +1,8 @@
 ---
 title: "What I learned from Grizzly Man"
 date: "2021-04-23"
-excerpt: 
-tags: 
+excerpt: "He appears mad, but I love that he knew what he loved."
+tags: [Love, Documentary]
 ---
 
 ![Grizzly Man, Timothy Treadwell, in the documentary by Werner Herzog](/images/grizzly-man-werner-herzog-film.png)
