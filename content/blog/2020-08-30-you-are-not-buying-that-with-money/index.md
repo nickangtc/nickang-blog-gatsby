@@ -30,3 +30,6 @@ Don't be mistaken, my point here is not that we should learn to be contented wit
 No. What I am trying to say is, we should be clear about what we are buying stuff with because from what I can tell, **the biggest problem most of us have is not that we don't have enough money, but that we don't have enough time to enjoy things in life**. If I asked anyone on the street how they'd prefer to spend their days if they didn't have to worry about making money, I'm sure I will hear many responses to the tune of "I'd stay at home and be with my kids" or "I'd go to the park to read books" or "I'd go visit my friends for a barbeque and have long chats about life." All of those things take time, so it'd be wise for us to stop wasting our limited time buying yet more useless stuff.
 
 Remember, money is time.
+
+Related ideas:
+- Austin Kleon's [blog post](https://austinkleon.com/2017/12/04/a-room-of-ones-own-and-money/) about Virginia Woolf's [A Room of One's Own](https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own) talks about this idea in reverse, that money buys time and space.
