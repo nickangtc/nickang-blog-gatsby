@@ -9,4 +9,4 @@ $sans-serif: "Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helve
 
 // measurements
 $base-size: 1rem;
-$rhythm: 1.75rem;
+$rhythm: $base-size * 1.5;
