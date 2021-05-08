@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby'
 
 import Layout from '../components/layout'
 import { articles, navItem, articleItem, articleLink } from "./index.module.scss"
-import Seo from '../components/seo'
+import SearchEngineOptimisation from '../components/searchengineoptimisation'
 
 const HomePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -21,7 +21,7 @@ const HomePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Home" location={location} />
+      <SearchEngineOptimisation title="Home" location={location} />
       <h1 id="my-digital-garden">Hey, I'm Nick Ang. <span role="img" aria-label="hand wave emoji">👋</span></h1>
       <p>I work as a software engineer and live as a writer. I explore and write about how to live a good, meaningful life.</p>
       <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free to get weekly personal updates.</p>

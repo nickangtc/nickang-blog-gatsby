@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import { title, date, postsNav, newsletterDescription } from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
@@ -14,7 +14,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo
+      <SearchEngineOptimisation
         title={post.frontmatter.title}
         description={post.frontmatter.excerpt || post.excerpt}
         location={location}

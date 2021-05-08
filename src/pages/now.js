@@ -2,14 +2,14 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
 const NowPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Now" location={location} />
+      <SearchEngineOptimisation title="Now" location={location} />
       <h1>Now</h1>
       <p>This page was more useful in the past.</p>
       <hr />

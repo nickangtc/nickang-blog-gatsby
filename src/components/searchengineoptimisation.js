@@ -9,7 +9,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import profilePic from '../../content/assets/nick-ang-profile-portrait-11-2020.jpg'
 
-const Seo = ({ description, lang, meta, title, location }) => {
+const SearchEngineOptimisation = ({ description, lang, meta, title, location }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -129,17 +129,17 @@ const Seo = ({ description, lang, meta, title, location }) => {
   )
 }
 
-Seo.defaultProps = {
+SearchEngineOptimisation.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
 }
 
-Seo.propTypes = {
+SearchEngineOptimisation.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
 }
 
-export default Seo
+export default SearchEngineOptimisation

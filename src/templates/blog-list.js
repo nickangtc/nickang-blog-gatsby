@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import { date, article, excerpt, postsNav, titleStyle } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
@@ -24,7 +24,7 @@ const BlogList = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Blog posts" location={location} />
+      <SearchEngineOptimisation title="Blog posts" location={location} />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
 
