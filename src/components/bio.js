@@ -7,32 +7,22 @@
 
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import Image from "gatsby-image"
+import { StaticImage } from "gatsby-plugin-image";
 
 import { rhythm } from "../utils/typography"
 
-const Bio = ({ location }) => {
-  const data = useStaticQuery(graphql`
-    query BioQuery {
-      avatar: file(absolutePath: { regex: "/nick-ang-profile-portrait-11-2020.jpg/" }) {
-        childImageSharp {
-          fixed(width: 50, height: 50) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author {
-            name
-            summary
-          }
-        }
+const Bio = () => {
+  const data = useStaticQuery(graphql`query BioQuery {
+  site {
+    siteMetadata {
+      author {
+        name
+        summary
       }
     }
-  `)
-
-  const { author } = data.site.siteMetadata
+  }
+}
+`)
   return (
     <div
       style={{
@@ -40,19 +30,19 @@ const Bio = ({ location }) => {
         marginBottom: rhythm(1),
       }}
     >
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
+      <StaticImage
+        src="../../content/assets/nick-ang-profile-portrait-11-2020.jpg/"
         imgStyle={{
           borderRadius: `50%`,
-        }}
-      />
+        }} 
+        alt={ `${ data.site.siteMetadata.author.name } profile picture` }
+        style={{
+          marginBottom: 0,
+          marginRight: '1rem',
+          maxWidth: 75,
+          maxHeight: 75,
+          borderRadius: `100%`,
+        }} />
       <div>
         <div>
           If something made you think, I would love to know.

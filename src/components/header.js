@@ -1,47 +1,37 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from "gatsby"
-import Image from "gatsby-image"
+import { StaticImage } from "gatsby-plugin-image";
 
 import { siteTitle, navList, navItem, active } from "./header.module.scss"
 
 const Header = ({ title }) => {
-  const data = useStaticQuery(graphql`
-    query HeaderQuery {
-      avatar: file(absolutePath: { regex: "/nick-ang-profile-portrait-11-2020.jpg/" }) {
-        childImageSharp {
-          fixed(width: 300, height: 300) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author {
-            name
-            summary
-          }
-        }
+  const data = useStaticQuery(graphql`query HeaderQuery {
+  site {
+    siteMetadata {
+      author {
+        name
+        summary
       }
     }
-  `)
+  }
+}
+`)
 
   return (
     <header style={{ display: 'flex' }}>
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={data.site.siteMetadata.author.name}
+      <StaticImage
+        src="../../content/assets/nick-ang-profile-portrait-11-2020.jpg/"
+        imgStyle={{
+          borderRadius: `50%`,
+        }} 
+        alt={ `${data.site.siteMetadata.author.name} profile picture` }
         style={{
           marginBottom: 0,
           marginRight: '1rem',
           maxWidth: 75,
           maxHeight: 75,
           borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
-
+        }} />
       <section style={{
         display: 'flex',
         flexDirection: 'column',
