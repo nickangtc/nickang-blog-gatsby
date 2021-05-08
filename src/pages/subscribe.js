@@ -2,14 +2,14 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const SubscribePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Subscribe" location={location} />
+      <Seo title="Subscribe" location={location} />
       <h1>Subscribe</h1>
       <p>If you enjoy reading this blog, you might like the <strong>Heart to Heart newsletter</strong>. When it lands in your inbox, you can expect:</p>
       <ul>

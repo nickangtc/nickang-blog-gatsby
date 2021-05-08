@@ -2,7 +2,7 @@ import React from 'react'
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
-import headerStyles from "./header.module.scss"
+import { siteTitle, navList, navItem, active } from "./header.module.scss"
 
 const Header = ({ title }) => {
   const data = useStaticQuery(graphql`
@@ -47,7 +47,7 @@ const Header = ({ title }) => {
         flexDirection: 'column',
         justifyContent: 'space-between',
       }}>
-        <h1 className={ headerStyles.siteTitle }>
+        <h1 className={ siteTitle }>
           <Link
             style={{
               boxShadow: `none`,
@@ -60,12 +60,12 @@ const Header = ({ title }) => {
         </h1>
 
         <nav>
-          <ul className={ headerStyles.navList }>
-            <li className={ headerStyles.navItem }>
-              <Link to="/blog" activeClassName={ headerStyles.active }>Blog</Link>
+          <ul className={ navList }>
+            <li className={ navItem }>
+              <Link to="/blog" activeClassName={ active }>Blog</Link>
             </li>
-            <li className={ headerStyles.navItem }>
-              <Link to="/subscribe" activeClassName={ headerStyles.active }>Subscribe</Link>
+            <li className={ navItem }>
+              <Link to="/subscribe" activeClassName={ active }>Subscribe</Link>
             </li>
           </ul>
         </nav>

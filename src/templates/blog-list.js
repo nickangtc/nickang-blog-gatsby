@@ -2,8 +2,8 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
-import blogListStyles from "./blog-list.module.scss"
+import Seo from "../components/seo"
+import { date, article, excerpt, postsNav, titleStyle } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
   const pathname = '/blog'
@@ -24,26 +24,26 @@ const BlogList = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Blog posts" location={location} />
+      <Seo title="Blog posts" location={location} />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
 
         return (
           <span key={node.fields.slug}>
-            <article className={ blogListStyles.article }>
+            <article className={ article }>
               <header>
-                <h1 className={ blogListStyles.title }>
+                <h1 className={ titleStyle }>
                   <Link to={node.fields.slug}>
                     {title}
                   </Link>
                 </h1>
-                <time dateTime={ node.frontmatter.date } className={ blogListStyles.date }>{ node.frontmatter.date }</time>
+                <time dateTime={ node.frontmatter.date } className={ date }>{ node.frontmatter.date }</time>
               </header>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.html
                 }}
-                className={ blogListStyles.excerpt }
+                className={ excerpt }
               />
             </article>
             <hr></hr>
@@ -52,7 +52,7 @@ const BlogList = ({ data, location, pageContext }) => {
       })}
 
       <nav>
-        <ul className={ blogListStyles.postsNav }>
+        <ul className={ postsNav }>
           <li>
             {!isFirst && (
               <Link to={ prevPage } rel="prev">

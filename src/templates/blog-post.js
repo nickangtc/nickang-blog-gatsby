@@ -3,8 +3,8 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
-import blogPostStyles from "./blog-post.module.scss"
+import Seo from "../components/seo"
+import { title, date, postsNav, newsletterDescription } from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
 const BlogPostTemplate = ({ data, pageContext, location }) => {
@@ -14,17 +14,17 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.excerpt || post.excerpt}
         location={location}
       />
       <article>
         <header>
-          <h1 className={ blogPostStyles.title }>
+          <h1 className={ title }>
             {post.frontmatter.title}
           </h1>
-          <time className={ blogPostStyles.date }>{ post.frontmatter.date }</time>
+          <time className={ date }>{ post.frontmatter.date }</time>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
@@ -34,7 +34,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       </article>
 
       <nav>
-        <ul className={ blogPostStyles.postsNav }>
+        <ul className={ postsNav }>
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
@@ -60,7 +60,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           onSubmit={() => window.open('https://buttondown.email/nickang', 'popupwindow')}
           className="embeddable-buttondown-form"
         >
-          <p className={blogPostStyles.newsletterDescription}>
+          <p className={newsletterDescription}>
             If you enjoy reading this blog, you might like my <strong>Heart to Heart newsletter</strong>.
             You can find previous issues <a href="https://buttondown.email/nickang/archive" target="_blank" rel="noreferrer">here</a>. See you in the next email?
           </p>

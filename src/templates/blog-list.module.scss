@@ -1,7 +1,7 @@
 @import '../styles/variables';
 
-.title {
-  margin-bottom: 0;
+.titleStyle {
+  margin-bottom: $rhythm / 3;
   margin-top: $base-size * 1.75;
   color: black;
 
@@ -29,10 +29,6 @@
 
 
 @import '../styles/variables';
-
-.title {
-  margin-bottom: $rhythm / 3;
-}
 
 ul.posts-nav {
   display: flex;
