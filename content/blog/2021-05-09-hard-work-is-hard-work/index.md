@@ -1,18 +1,17 @@
 ---
 title: "Hard work is hard work"
-date: "2021-05-05"
-excerpt: 
-tags: 
-status: draft
+date: "2021-05-09"
+excerpt: "It's not the sweat and blood. Hard work is often hardest in terms of sacrifices."
+tags: ["Society & Culture"]
 ---
 
 Most people want to live in a nice house, eat good food, go to the theatre, drive a nice car (or a few). But most people also want to not work too hard at the same time. If I could, I certainly want both at the same time.
 
 But the truth that I often catch myself forgetting is that hard work pays well but is, well, hard work.
 
-Hard work doesn’t just mean that the work itself is challenging or tough (which, in my opinion, is a good thing in moderate doses), but hard work is often also hard in terms of *sacrifices*. 
+Hard work doesn’t just mean that the work itself is challenging or tough (which is a good thing in moderate doses), but hard work is often also hard in terms of *sacrifices*. 
 
-Since I learned to code from a programming bootcamp (TK link), I’ve dreamt of working as a software engineer earning big bucks at one of the big tech companies like Google, Apple, or Microsoft. And you know what? I’d be cocky for a second to say this: I know I have it in me to land those jobs if I tried hard.
+Since I learned to code from a [programming bootcamp](/2017-03-19-7-things-i-learned-about-programming-bootcamps/), I’ve dreamt of working as a software engineer earning big bucks at one of the big tech companies like Google, Apple, or Microsoft. And you know what? I’d be cocky for a second to say this: I know I have it in me to land those jobs if I tried hard.
 
 But I’ve never formally applied to those jobs because I know it will take sacrifices and I wasn’t willing to make them.
 
@@ -31,3 +30,7 @@ The point is this: hard work pays well, and less hard work pays less well. This 
 I think the reason I tend to forget this truth — and start envying some of my friends and strangers on internet articles for their jobs that pay five times more — is that I don’t know how to value the joy I get having time to spend with my family. But I do know that it is something high. It’s just difficult to compare “something high” against a salary.
 
 Cliché as it sounds, at the end of the day, we must find our balance between striving and living. To that end, I find that it helps to remember that hard work pays well, and less hard work pays less well. Or as they say, you reap what you sow.
+
+---
+
+*In Swissotel The Stamford, serving day 7 of my 21-day Stay Home Notice (SHN) as part of the pandemic control mechanism by the Singapore government.*

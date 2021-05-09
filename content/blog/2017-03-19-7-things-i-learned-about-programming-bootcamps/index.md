@@ -4,13 +4,19 @@ date: "2017-03-19"
 coverImage: "programming-bootcamps.png"
 ---
 
-Between 2016 and 2017, I went from knowing nothing about code to becoming a software engineer at [Metisa](http://askmetisa.com), a startup that is building an end-to-end data science solution for e-commerce businesses. It went smoother than I could ask for, but that is not to say that I didn’t second guess my decisions at every turn. In this article, I’d like to share what I’ve learned from attending programming bootcamps - I attended the same one once as a student and once as a teaching assistant. My hope is that this would help you make an informed decision about entering tech via programming bootcamps, if you are interested.
+![Programming bootcamps blog image](/images/programming-bootcamps.png)
+
+Between 2016 and 2017, I went from knowing nothing about code to becoming a software engineer at Altitude Labs, a startup that is building an end-to-end data science solution for e-commerce businesses. It went smoother than I could ask for, but that is not to say that I didn’t second guess my decisions at every turn.
+
+In this article, I’d like to share what I’ve learned from attending programming bootcamps - I attended the same one once as a student and once as a teaching assistant. My hope is that this would help you make an informed decision about entering tech via programming bootcamps, if you are interested.
+
+For my review of the specific programming bootcamp I attended, see [General Assembly Singapore Review - Web Development Immersive](/2017-03-12-general-assembly-singapore-review/).
 
 Less than a year ago, I was a non-technical founder of a technology startup. That did not go well, and I was losing confidence in myself everyday for not understanding, at a fundamental level, what it takes to build a great tech product.
 
 When the time was right to hire interns from the School of Computing at my alma mater (NUS!), I hit an impasse and stopped working on the product altogether. That was when I started to learn programming, first on my own using free online resources like [FreeCodeCamp](https://www.freecodecamp.com/) before eventually enrolling in General Assembly’s [Web Development Immersive](https://generalassemb.ly/education/web-development-immersive) in Singapore.
 
-I don’t want to dive into the specifics of the General Assembly course (I’ve written a [review](/2017-03-12-general-assembly-singapore-review/) for that) but instead, I’d like to reflect on programming bootcamps more generally. What are they and why are there so many of them now? Do they deliver results? Should I join one to make an entry into tech? I’ll indirectly take a stab at these questions with the bullets below.
+What are programming bootcamps and why are there so many of them now? Do they deliver results? Should I join one to make an entry into tech? I’ll indirectly take a stab at these questions with the bullets below.
 
 ## 1\. Programming bootcamps are sprouting in response to demand
 

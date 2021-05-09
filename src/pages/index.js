@@ -9,11 +9,8 @@ const HomePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const newestPostsData = data.allMarkdownRemark.edges
   const newestPosts = newestPostsData.map((post, index) => {
-    const { date } = post.node.frontmatter
-    const dateSansYear = date.split(', ')[0]
     return (
       <li key={index} className={ articleItem }>
-        <time dateTime={date} className={ date }>{ dateSansYear }</time>
         <Link to={ post.node.fields.slug } className={ articleLink }>{ post.node.frontmatter.title }</Link>
       </li>
     )
@@ -47,6 +44,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+      filter: { frontmatter: { status: { ne: "draft" } } }
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 8
     ) {

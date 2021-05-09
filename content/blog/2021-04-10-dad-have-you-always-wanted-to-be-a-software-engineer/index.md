@@ -2,7 +2,7 @@
 title: '"Dad, have you always wanted to be a software engineer?"'
 date: "2021-04-10"
 excerpt: "One of many hard questions I'm imagining my daughter asking me in the future..."
-tags: [Society & Culture]
+tags: ["Society & Culture"]
 ---
 
 ![A hand drawn illustration with the capture "how am i going to make money?"](/images/how-am-i-going-to-make-money-nickang.PNG)
