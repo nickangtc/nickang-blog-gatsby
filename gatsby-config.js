@@ -3,7 +3,7 @@ module.exports = {
     title: `Nick Ang`,
     author: {
       name: `Nick Ang`,
-      summary: ``,
+      summary: `I'm a writer who codes`,
     },
     description: `Notes from lifelong learning`,
     siteUrl: `https://nickang.com`,
@@ -49,9 +49,9 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
