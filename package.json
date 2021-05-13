@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "nickang-blog-gatsby",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "nickang.com blog powered by Gatsby and Markdown",
+  "version": "1.0.0",
+  "author": "Nick Ang",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -34,7 +34,6 @@
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.19",
     "typeface-inter": "^3.15.1",
-    "typeface-merriweather": "^1.1.13",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
@@ -44,7 +43,7 @@
     "postcss": "^8.0.0",
     "prettier": "^2.2.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/nickangtc/nickang-gatsby",
   "keywords": [
     "gatsby"
   ],
@@ -52,7 +51,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/nickangtc/nickang-gatsby.git"
   },
   "scripts": {
     "build": "gatsby build",
