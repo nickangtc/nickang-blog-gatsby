@@ -58,7 +58,7 @@ You see, I was stuck on a very specific problem. I could write out the sequence 
 
 For example, while asynchronous processes made sense to me (multiple things happening at the same time to reduce a user's waiting time on a webpage), actually trying to put them in a queue (so that code chunk B is able to execute using some data returned from code chunk A which operates asynchronously) wasn't at all straightforward when you have to code (not write) it out. It wasn't easy, until it become easy - when I finally figured it out.
 
-Now it's really quite straightforward to me. When an async operation has successfully completed, you can declare a callback function whose code will then be executed, and the way you do that is to...
+Now it's really quite straightforward to me. When an async operation has successfully completed, you can declare a [callback function](/2021-05-18-what-is-a-callback-an-analogy-with-tea/) whose code will then be executed, and the way you do that is to...
 
 Okay, I'm not quite ready for technical writing yet so I'll skip the details.
 

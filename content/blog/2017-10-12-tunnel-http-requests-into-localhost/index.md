@@ -16,7 +16,7 @@ In situations like these, we need a specialised tool.
 
 What we want here is a tool that allows live websites to make actual HTTP requests over the internet. Meaning, it needs to make requests to a live endpoint like "https://my-saasy-app.com/api/endpoint" instead of "localhost:8000/api/endpoint", without deploying developmental code into production.
 
-The tool I've been using at [Metisa](https://askmetisa.com) is ngrok. Using it is easier than writing callbacks.
+The tool I've been using at [Metisa](https://askmetisa.com) is ngrok. Using it is easier than writing [callbacks](/2021-05-18-what-is-a-callback-an-analogy-with-tea/).
 
 ```shell
 # the single command to get a URL

@@ -13,7 +13,7 @@ I was hysterical hearing this for the first time. The funniest jokes are the one
 
 I mean, come on, admit it. You learned a bunch of things about programming at your first technical interview when the hiring manager asked you, "why did you approach it this way instead of this other way?"
 
-No? Oh... anyway, I definitely learned more than 5 new things during my technical interview with [Altitude Labs](http://www.altitudelabs.com). About scoping and variable naming and callback functions, among other things.
+No? Oh... anyway, I definitely learned more than 5 new things during my technical interview with [Altitude Labs](http://www.altitudelabs.com). About scoping and variable naming and [callback functions](/2021-05-18-what-is-a-callback-an-analogy-with-tea/), among other things.
 
 But past the humour that lingered long after, what Terence said also got me thinking about **the _need_ to put in the hours, days, weeks, months, and really the years in order to grow as a developer.**
 
