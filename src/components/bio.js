@@ -31,7 +31,7 @@ const Bio = () => {
       }}
     >
       <StaticImage
-        src="../../content/assets/nick-ang-profile-portrait-11-2020.jpg/"
+        src="../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg/"
         imgStyle={{
           borderRadius: `50%`,
         }} 

@@ -7,7 +7,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-import profilePic from '../../content/assets/nick-ang-profile-portrait-11-2020.jpg'
+import profilePic from '../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg'
 
 const SearchEngineOptimisation = ({ description, lang, meta, title, location }) => {
   const { site } = useStaticQuery(
