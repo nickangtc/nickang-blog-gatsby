@@ -48,7 +48,7 @@ const Bio = () => {
           If something made you think, I would love to know.
         </div>
         <small>
-          <Link to="/email">email me</Link>
+          <Link to="/contact">contact</Link>
           <span>&nbsp; | &nbsp;</span>
           <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>give coffee</a>
         </small>
