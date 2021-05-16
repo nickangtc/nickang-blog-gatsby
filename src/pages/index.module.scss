@@ -8,17 +8,3 @@
 .nav-item {
   color: black;
 }
-
-.article-item {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-}
-
-.article-link {
-  display: inline-block;
-  font-family: $sans-serif;
-  max-width: 77%;
-}

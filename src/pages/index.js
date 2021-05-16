@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 
 import Layout from '../components/layout'
-import { articles, navItem, articleItem, articleLink } from "./index.module.scss"
+import { articles, navItem } from "./index.module.scss"
 import SearchEngineOptimisation from '../components/searchengineoptimisation'
 
 const HomePage = ({ data, location }) => {
@@ -10,8 +10,8 @@ const HomePage = ({ data, location }) => {
   const newestPostsData = data.allMarkdownRemark.edges
   const newestPosts = newestPostsData.map((post, index) => {
     return (
-      <li key={index} className={ articleItem }>
-        <Link to={ post.node.fields.slug } className={ articleLink }>{ post.node.frontmatter.title }</Link>
+      <li key={index}>
+        <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
       </li>
     )
   })
