@@ -21,7 +21,7 @@ I won't be sharing new posts on social media going forward because they will alw
 
 Email, on the other hand, is personal and completely within the reader’s control to subscribe or stop receiving.
 
-Third, always attribute credit clearly to create a kinder, more collective web. This is a habit I gleaned from [[Austin Kleon]] who explained it in a blog post, [Credit is always due](https://austinkleon.com/2014/01/27/credit-is-always-due/):
+Third, always attribute credit clearly to create a kinder, more collective web. This is a habit I gleaned from Austin Kleon who explained it in a blog post, [Credit is always due](https://austinkleon.com/2014/01/27/credit-is-always-due/):
 
 > [If] you fail to properly attribute work that you share, you not only rob the person who made it, you rob all the people you’ve shared it with. Without attribution, they have no way to dig deeper into the work or find more of it.
 
