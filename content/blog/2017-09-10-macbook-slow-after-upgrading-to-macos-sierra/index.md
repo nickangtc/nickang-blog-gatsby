@@ -1,6 +1,6 @@
 ---
-title: "Macbook slow after upgrading to macOS Sierra"
-date: "2017-09-10"
+title: "Macbook slow and laggy after upgrading to macOS Sierra / Big Sur"
+date: "2021-06-16"
 ---
 
 ![mac os sierra banner](images/macos-sierra.jpg)
@@ -36,3 +36,5 @@ Internet Accounts is the central place to link up Gmail and other sorts of servi
 5. Re-add your Google email account (I re-added and the problem didn't reappear)
 
 It may be a bug in the new macOS, I'm not sure. But I'm glad it solved the problem. Hope it does the same for you if you're in a similar situation!
+
+**Update 16.06.2021**: I encountered this problem again, this time after upgrading to macOS Big Sur 11.4. I suspected the root cause might have been the same and applied the solution described above, and it once again resolved the problem for me.
