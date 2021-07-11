@@ -223,11 +223,9 @@ Finally, and I know this sounds obvious, remember that ultimately _you_ determin
 
 I hope this was helpful for you. If you have any questions that was not covered here, or thoughts you’d like to express, feel free to [tweet](https://twitter.com/nickang) at me or message me on [LinkedIn](https://www.linkedin.com/in/nickangtc/). I get a lot of messages, so it will help if you are precise about what you want to know that was not answered here.
 
-Also, read my other post on programming bootcamps and outcomes: [What I Learned About 7 Things I’ve Learned About Programming Bootcamps (After Attending One Twice)](/2017-03-19-7-things-i-learned-about-programming-bootcamps/)
+Also, read my other post on programming bootcamps and outcomes:
 
+- [What I Learned About 7 Things I’ve Learned About Programming Bootcamps (After Attending One Twice)](/2017-03-19-7-things-i-learned-about-programming-bootcamps/)
+- [Reflecting on my career in tech: 5 years in](/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/)
 
 Bon voyage!
-
----
-
-For more resources, including my Instagram account where I doodle to teach technical ideas, check out the [Learn Tech](/learn-tech) page.
