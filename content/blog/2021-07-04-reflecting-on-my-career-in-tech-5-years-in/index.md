@@ -44,7 +44,7 @@ Alright, so far I've described how I started on the path of software engineering
 
 My title at Smartly.io when I started was something that took me over a year to understand -- I was to be a Service Operations Engineer. The industry did not have a title like that and I had a hard time explaining to my mum what I do. But the title wasn't the problem. The job scope was.
 
-I spent 20 percent of my time coding, while the remaining 80 percent of my time was always spent providing technical support to customers or training Customer Success Managers on how to do technical product troubleshooting. I believe this increasing distance from day-to-day programming work was what eventually helped me see that the intrigue of programming had evaporated from me. 
+I spent 20 percent of my time coding, while the remaining 80 percent of my time was always spent providing technical support to customers or training Customer Success Managers on how to do technical product troubleshooting. I learned a lot about the [hard things of providing high quality customer support](/2021-07-18-8-hard-things-about-providing-high-quality-customer-support/), but I believe this increasing distance from day-to-day programming work was what eventually helped me see that the intrigue of programming had evaporated from me. 
 
 Put another way: I found myself no longer that interested in software development. Building something new or fixing a bug is something I still find fun doing, but only occasionally.
 
