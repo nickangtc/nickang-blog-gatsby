@@ -73,3 +73,7 @@ Despite the anxiety-inducing cluttered mind that arose from my experimentation, 
 For a reminder of the simplicity of the tooling needed to create an effective PKM, one needs only to remember Luhmann's metal cabinets of paper cards.  The prolific social scientist whose Zettelkasten method is what this zeitgeist is based on, used only pen, paper, and filing cabinets to produce his work.
 
 Don't overcomplicate things. Your tool is probably good enough already. Focus on making thoughtful notes.
+
+---
+
+**UPDATE (25.07.2021)**: Facing some issues and seeing that Obsidian released a functional mobile app in July 2021, I'm looking once again into Obsidian. Read here: [7 Signs that my Knowledge Management process is broken](/2021-07-25-7-signs-that-my-knowledge-management-process-is-broken/).
