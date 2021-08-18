@@ -16,6 +16,7 @@ const SubscribePage = ({ data, location }) => {
         <li>1 meaningful, unpolished idea (shortform) shared from my heart to yours</li>
         <li>2-3 things I have read/seen/heard about that I think are worth sharing</li>
       </ul>
+      <p>Just one caveat: I haven't figured a format that clicks with email. So subscribe only if you really don't mind any email from me!</p>
       <p>You can find previous issues <a href="https://buttondown.email/nickang/archive" target="_blank" rel="noreferrer">here</a>.</p>
       
       <section>

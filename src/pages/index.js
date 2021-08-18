@@ -11,7 +11,7 @@ const HomePage = ({ data, location }) => {
   const newestPosts = newestPostsData.map((post, index) => {
     return (
       <li key={index}>
-        <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
+        { post.node.frontmatter.date } - <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
       </li>
     )
   })
@@ -19,11 +19,11 @@ const HomePage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Home" location={location} />
-      <h1 id="my-digital-garden">Hey, I'm Nick Ang. <span role="img" aria-label="hand wave emoji">👋</span></h1>
+      <h1 id="my-digital-garden">Hey, I'm Nick. <span role="img" aria-label="hand wave emoji">👋</span></h1>
       <p>I work as a software engineer and live as a writer. I explore and write about how to live a good, meaningful life.</p>
-      <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free to get weekly personal updates.</p>
+      <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free occasional updates.</p>
 
-      <h2>Recent Articles</h2>
+      <h3>Recent articles</h3>
       <ul className={ articles }>
         { newestPosts }
       </ul>
@@ -55,7 +55,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMM")
           }
         }
       }
