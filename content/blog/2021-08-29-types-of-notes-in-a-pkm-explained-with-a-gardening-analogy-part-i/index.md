@@ -5,6 +5,8 @@ excerpt: "Using a PKM requires reframing the goal from creating notes to creatin
 tags: 
 ---
 
+_If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/)._
+
 A skeptic would call a PKM a glorified set of notes the same way I used to call an SQL database a glorified Excel sheet. It wasn't until I realised just how much *more* an SQL database provides in terms of design and features that I stopped belittling it. By applying my knowledge and using it regularly, a database became more than just rows and columns to me.
 
 I think the same can be said about notes in a PKM. They're not just notes. For us to be successful in creating our own PKMs that will feed us for the rest of our lives, we need to reconfigure the way we view note-taking.
