@@ -77,3 +77,5 @@ Don't overcomplicate things. Your tool is probably good enough already. Focus on
 ---
 
 **UPDATE (25.07.2021)**: Facing some issues and seeing that Obsidian released a functional mobile app in July 2021, I'm looking once again into Obsidian. Read here: [7 Signs that my Knowledge Management process is broken](/2021-07-25-7-signs-that-my-knowledge-management-process-is-broken/).
+
+**NEW (29.08.2021)**: Want to dive deeper into personal knowledge management? I wrote more about this, read it here: [Types of Notes in a PKM explained with a Gardening Analogy](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).

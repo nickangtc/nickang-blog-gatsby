@@ -74,3 +74,5 @@ I deliberately kept my description of the “how” short in this article to pro
 **NEW (21.02.2021)**: I published a [new post](/2021-02-21-obsidian-roam-why-i-am-staying-with-bear-as-my-pkm/) on how I experimented for 3 weeks with Roam Research, Obsidian, and decided to stay with Bear as my PKM software.
 
 **NEW (25.07.2021)**: I changed my mind again because I saw [7 Signs that my Knowledge Management process is broken](/2021-07-25-7-signs-that-my-knowledge-management-process-is-broken/).
+
+**NEW (29.08.2021)**: Want to dive deeper into personal knowledge management? I wrote more, read it here: [Types of Notes in a PKM explained with a Gardening Analogy](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).

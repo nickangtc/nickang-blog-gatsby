@@ -28,3 +28,7 @@ I've proclaimed something contradictory earlier this year in a [blog post](/2021
 > Your tool is probably good enough already. Focus on making thoughtful notes.
 
 But I'm back on the fence thinking that my current tool probably isn't good enough to help me achieve all of the above, so it's time to explore again.
+
+---
+
+**NEW (29.08.2021)**: Curious about personal knowledge management? I wrote more about this, read it here: [Types of Notes in a PKM explained with a Gardening Analogy](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).
