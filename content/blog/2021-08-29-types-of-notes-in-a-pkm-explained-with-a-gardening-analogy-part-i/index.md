@@ -150,7 +150,7 @@ Here is how it looks in my PKM:
 
 Now, time for a short aside. While I've said that all other types of notes should exist only to grow atomic notes, this section of my top of mind note reveals that that is not entirely true. The ongoing items in my PKM have so far included writing original posts like this one.
 
-For now, I'd like to stay high-level and just say that as with a real garden, sometimes it bears fruits. Original essays and blog posts are like the fruits harvested from the garden. But not all gardeners care about the harvest; some tend to theirs just for nourishment.
+For now, I'd like to stay high-level and just say that as with a real garden, sometimes it bears fruits. Original essays and blog posts are like the fruits harvested from the garden. But not all gardeners care about the harvest; some tend to theirs just for self actualisation.
 
 To close off this aside, I will divulge that in my PKM I also use a strawberry hashtag:
 
