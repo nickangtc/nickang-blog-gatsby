@@ -2,7 +2,7 @@
 title: "Types of Notes in a PKM explained with a Gardening Analogy (Part I)"
 date: "2021-08-29"
 excerpt: "Using a PKM requires reframing the goal from creating notes to creating connections, and a good place to start is to look at the types of notes in a PKM."
-tags: 
+tags: ["Personal knowledge management (PKM)"]
 ---
 
 _If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/)._
