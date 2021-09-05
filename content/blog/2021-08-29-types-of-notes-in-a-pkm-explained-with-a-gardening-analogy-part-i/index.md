@@ -5,7 +5,7 @@ excerpt: "Using a PKM requires reframing the goal from creating notes to creatin
 tags: ["Personal knowledge management (PKM)"]
 ---
 
-_If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/)._
+*If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/).*
 
 A skeptic would call a PKM a glorified set of notes the same way I used to call an SQL database a glorified Excel sheet. It wasn't until I realised just how much *more* an SQL database provides in terms of design and features that I stopped belittling it. By applying my knowledge and using it regularly, a database became more than just rows and columns to me.
 
@@ -163,3 +163,5 @@ The benefit of a PKM is that you can trust that you will return to tweak it if s
 Note: there should only be a single top of mind note. The top is the top.
 
 In the next post, let's talk about the remaining types of notes, including a note that mimics the natural rhythm of a day, outlines, an index, and maps of content.
+
+*This is part I of a series. [Read part II](/2021-09-05-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-ii/).*
