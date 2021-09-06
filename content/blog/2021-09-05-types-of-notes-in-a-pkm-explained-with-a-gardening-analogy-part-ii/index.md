@@ -1,8 +1,8 @@
 ---
-title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II of II)"
+title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
 date: "2021-09-05"
-excerpt: 
-tags: 
+excerpt: "Using a PKM requires reframing the goal from creating notes to creating connections, and a good place to start is to look at the types of notes in a PKM. Part 2 of 2."
+tags: ["Personal knowledge management (PKM)"]
 ---
 
 *This is part II of [Types of Notes in a PKM explained with a Gardening Analogy (Part I of II)](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).*
@@ -11,8 +11,12 @@ tags:
 
 In part I, we talked about how everything in a personal knowledge management (PKM) system is focused on building atomic notes through various stages of maturity. We also talked about how other types of notes can help us in that life-long endeavour, discussing in detail the Top of Mind note -- the first type of "other" notes.
 
-In this second part, we will talk about the remaining types of notes that could be useful for your PKM.
+In this second part, we will talk about the remaining types of notes that could be useful as tools in your PKM garden, including:
 
+2. Daily note
+3. Index note
+4. Outline of external resources
+5. Map of content (MOC)
 ### 2. Daily note
 
 > Seasons change, weeks are completely human-made, but the day has a rhythm. The sun goes up; the sun goes down. I can handle that. <cite>[Austin Kleon](https://austinkleon.com/2013/12/29/something-small-every-day/)</cite>
@@ -142,7 +146,7 @@ Point 1 is probably self-explanatory. On point 2, the only time I copy-paste is 
 
 Point 3, however, could use some explanation as it's a new way of working with notes. It's a feature called [block references](https://help.obsidian.md/How+to/Link+to+blocks) and it's the hacker Ted Nelson's dream come true because it fulfils the fundamental tenet of non-duplication of [The Xanadu project](https://www.wired.com/1995/06/xanadu/), albeit on the smaller scale of one's PKM rather than the worldwide web.
 
-(Side note: block referencing is a feature that comes included in most of the popular PKM software. Obsidian, Roam Research, Logsec all have it.)
+(Side note: block referencing is a feature that comes included in most of the popular PKM software. [Obsidian](https://obsidian.md/), [Roam Research](https://roamresearch.com/), [Logsec](https://logseq.com/) all have it. Conventional note apps like [Bear](https://bear.app/) and [Evernote](https://evernote.com/) do not seem to support it yet.)
 
 Why are block references useful? I have to admit, originally I didn't get its significance either and thought of it as fancy nonsense.
 
@@ -162,8 +166,7 @@ Finally, we've arrived at one last type of note that I think is worth knowing ab
 
 This is a term coined by [Nick Milo](https://twitter.com/nickmilo), a person of multiple talents and interests (try boxing coach, gym owner, actor, TV editor, and YouTuber) who is a strong advocate and user of Obsidian, the PKM software that I'm using. This is the way he describes a [MOC (Map of Content)](https://publish.obsidian.md/lyt-kit/MOCs+Overview):
 
-> A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. MOCs help you gather, develop, and navigate your ideas.
-> https://publish.obsidian.md/lyt-kit/Umami/MOCs+(defn)
+> A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. MOCs help you gather, develop, and navigate your ideas. <cite>[Nick Milo](https://publish.obsidian.md/lyt-kit/Umami/MOCs+(defn)</cite>
 
 And here, in [another article](https://medium.com/@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6), he describes his mental model of MOCs:
 
