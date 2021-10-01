@@ -55,6 +55,9 @@ const Header = ({ title }) => {
               <Link to="/blog" activeClassName={ active }>Blog</Link>
             </li>
             <li className={ navItem }>
+              <Link to="/tech" activeClassName={ active }>re: Tech</Link>
+            </li>
+            <li className={ navItem }>
               <Link to="/subscribe" activeClassName={ active }>Subscribe</Link>
             </li>
           </ul>
