@@ -1,6 +1,8 @@
 ---
 title: "Linked List explained"
 date: "2017-11-17"
+tags: ["Tech"]
+fav: true
 ---
 
 ![linked list explained banner nickang](images/BSP-linked-list-explained.png) Photo by Simon Abrams on Unsplash

@@ -2,7 +2,6 @@
 title: "What is your suspicion?"
 date: "2021-08-15"
 excerpt: "Any good troubleshooter should always ask about suspected causes, because no list can realistically cover all possible scenarios"
-tags: 
 ---
 
 Imagine this situation: Your dog has been vomiting regularly for the last two days so you visit the animal clinic. There, the veterinarian asks you a series of questions:

@@ -1,6 +1,7 @@
 ---
 title: "Introducing Bite Size Programming"
 date: "2017-10-14"
+tags: ["Tech"]
 ---
 
 ![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) Photo by rawpixel.com on Unsplash

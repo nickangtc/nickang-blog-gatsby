@@ -1,6 +1,7 @@
 ---
 title: "How to setup ESLint for your next project"
 date: "2018-02-08"
+tags: ["Tech"]
 ---
 
 ![how to setup ESLint for your next project nickang blog banner](images/BSP-how-to-setup-ESLint-for-your-next-project.png) Photo by Norbert Levajsics on Unsplash

@@ -1,6 +1,7 @@
 ---
 title: "How to get started with programming (part 2)"
 date: "2017-10-17"
+tags: ["Tech"]
 ---
 
 ![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash

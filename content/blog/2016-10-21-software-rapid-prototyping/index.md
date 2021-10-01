@@ -1,6 +1,7 @@
 ---
 title: "Software developers, please learn rapid prototyping"
 date: "2016-10-21"
+tags: ["Tech"]
 ---
 
 ![a person using an iphone next to a laptop](images/c9e42240-1024x683.jpeg)

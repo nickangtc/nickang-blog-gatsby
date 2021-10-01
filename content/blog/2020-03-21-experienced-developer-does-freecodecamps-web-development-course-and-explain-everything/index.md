@@ -1,6 +1,7 @@
 ---
 title: "Experienced Developer does FreeCodeCamp's Web Development course (and explain everything)"
 date: "2020-03-21"
+tags: ["Tech"]
 ---
 
 Hey! I have something exciting to share with you. I recently started to record myself doing the (free) exercises on [freecodecamp.org](https://freecodecamp.org).

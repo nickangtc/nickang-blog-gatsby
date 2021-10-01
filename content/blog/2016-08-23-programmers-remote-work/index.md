@@ -1,6 +1,7 @@
 ---
 title: "How programmers work together from every part of the world"
 date: "2016-08-23"
+tags: ["Tech"]
 ---
 
 The label ‘digital nomad’ exists because people whose job was to write programmes have become so fluid in the workplace that they can work from virtually anywhere in the world on the single, simple condition that there is an internet connection.

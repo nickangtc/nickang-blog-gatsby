@@ -1,6 +1,8 @@
 ---
 title: "Algorithm time complexity and the Big O notation"
 date: "2017-11-15"
+tags: ["Tech"]
+fav: true
 ---
 
 ![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png) Photo by Lysander Yuen on Unsplash

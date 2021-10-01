@@ -1,6 +1,8 @@
 ---
 title: "How to use git stash (and when not to use it)"
 date: "2017-09-26"
+tags: ["Tech"]
+fav: true
 ---
 
 ![guy wearing shades working on laptop in a dark room](images/neonbrand-356967.jpg) Photo by [NeONBRAND](https://unsplash.com/photos/_Kmtj6UIlGo)

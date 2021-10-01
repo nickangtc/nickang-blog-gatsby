@@ -1,6 +1,7 @@
 ---
 title: "Bite Size Programming - How to start using the command line (part 1)"
 date: "2017-10-21"
+tags: ["Tech"]
 ---
 
 ![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) Photo by Thanh Tran on Unsplash

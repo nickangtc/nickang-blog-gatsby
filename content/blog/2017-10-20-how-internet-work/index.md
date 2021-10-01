@@ -1,6 +1,7 @@
 ---
 title: "Bite Size Programming - How does the internet work?"
 date: "2017-10-20"
+tags: ["Tech"]
 ---
 
 ![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) Photo by Antonio Grosz on Unsplash

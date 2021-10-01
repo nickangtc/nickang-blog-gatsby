@@ -1,6 +1,7 @@
 ---
 title: "The software developer's craft"
 date: "2018-01-14"
+tags: ["Tech"]
 ---
 
 ![software developers craft post banner](images/20171223-software-developers-craft-nickang-blog.jpg) What my desk looks like on a good day from working at home

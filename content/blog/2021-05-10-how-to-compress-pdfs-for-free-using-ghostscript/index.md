@@ -2,7 +2,7 @@
 title: "How to compress PDFs for free using Ghostscript"
 date: "2021-05-10"
 excerpt: "Faced with a limited file size upload? Compress your file for free using the copyleft licensed software Ghostscript."
-tags: ["Tutorial", "Software"]
+tags: ["Tutorial", "Software", "Tech"]
 ---
 
 I recently had to submit an online government form that limited file size uploads of supporting documents to 3 MB. By the time I was done compiling my documents, it was 12 MB, well over that limit.

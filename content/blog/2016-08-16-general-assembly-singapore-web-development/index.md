@@ -1,6 +1,7 @@
 ---
 title: "Day 1 at General Assembly Singapore Web Development course"
 date: "2016-08-16"
+tags: ["Tech"]
 ---
 
 ![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) What our classroom looks like from the inside.

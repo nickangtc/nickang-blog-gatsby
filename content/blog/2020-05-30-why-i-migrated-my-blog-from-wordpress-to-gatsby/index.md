@@ -1,6 +1,7 @@
 ---
 title: "Why I migrated my blog from WordPress to Gatsby"
 date: "2020-05-30"
+tags: ["Tech"]
 ---
 
 ![blog post banner for post Why I migrated my blog from WordPress to Gatsby](images/wp-to-gatsby-nickang.png)

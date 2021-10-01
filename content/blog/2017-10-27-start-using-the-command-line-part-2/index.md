@@ -1,6 +1,7 @@
 ---
 title: "How to start using the command line (part 2)"
 date: "2017-10-27"
+tags: ["Tech"]
 ---
 
 ![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog-part-2.png) Photo by Dan Edwards on Unsplash

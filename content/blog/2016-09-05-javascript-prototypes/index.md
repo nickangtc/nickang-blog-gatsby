@@ -1,6 +1,7 @@
 ---
 title: "Reducing redundancy through JavaScript prototypes"
 date: "2016-09-05"
+tags: ["Tech"]
 ---
 
 ![picture of a small tree blossoming with flowers](images/20160905-IMG_20160905_124834-1024x768.jpg) Chinatown 

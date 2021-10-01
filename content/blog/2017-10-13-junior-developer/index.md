@@ -1,6 +1,7 @@
 ---
 title: "How to know you are a junior developer"
 date: "2017-10-13"
+tags: ["Tech"]
 ---
 
 ![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) Photo by Gili Benita on Unsplash

@@ -1,6 +1,7 @@
 ---
 title: "How to clone class instance in JavaScript"
 date: "2018-01-17"
+tags: ["Tech"]
 ---
 
 One very common scenario for wanting to clone a class instance is inside a function.

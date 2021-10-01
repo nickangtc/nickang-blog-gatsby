@@ -1,6 +1,7 @@
 ---
 title: "Code readability or efficiency?"
 date: "2018-11-16"
+tags: ["Tech"]
 ---
 
 ![code readability or efficiency](images/faye-cornish-553425-unsplash-1024x683.jpg)

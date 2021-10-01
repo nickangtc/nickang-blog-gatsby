@@ -1,6 +1,7 @@
 ---
 title: "Users expect bug-free software"
 date: "2017-10-19"
+tags: ["Tech"]
 ---
 
 ![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) Photo by rawpixel.com on Unsplash

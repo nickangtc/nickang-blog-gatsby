@@ -1,6 +1,8 @@
 ---
 title: "How to implement a Linked List in JavaScript"
 date: "2017-11-18"
+tags: ["Tech"]
+fav: true
 ---
 
 ![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash

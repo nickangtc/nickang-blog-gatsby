@@ -1,6 +1,7 @@
 ---
 title: "How to add event listeners without repeating yourself"
 date: "2016-12-14"
+tags: ["Tech"]
 ---
 
 One of the key principles of good programming is DRY - Don't Repeat Yourself!

@@ -1,6 +1,7 @@
 ---
 title: "Job searching is not about the numbers"
 date: "2018-04-25"
+tags: ["Tech"]
 ---
 
 ![illustration of a carnival bottle with a ring around its neck](images/Screen-Shot-2018-04-25-at-8.48.50-PM.png)

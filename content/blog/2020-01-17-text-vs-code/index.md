@@ -1,6 +1,7 @@
 ---
 title: "Text vs Code"
 date: "2020-01-17"
+tags: ["Tech"]
 ---
 
 ![text and code look very different, but code is just a subset of text](images/text-vs-code-nickang-blog-1024x1024.jpg)

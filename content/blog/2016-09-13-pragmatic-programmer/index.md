@@ -1,6 +1,7 @@
 ---
 title: "Don't code for code's sake"
 date: "2016-09-13"
+tags: ["Tech"]
 ---
 
 ![person welding metal](images/welding-1024x683.jpeg)

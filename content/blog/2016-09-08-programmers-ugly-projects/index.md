@@ -1,6 +1,8 @@
 ---
 title: "Why programmers make visually ugly projects"
 date: "2016-09-08"
+tags: ["Tech"]
+fav: true
 ---
 
 ![people laughing and talking with one another general assembly wdi singapore](images/20160907-IMG_20160907_211409-1024x578.jpg)

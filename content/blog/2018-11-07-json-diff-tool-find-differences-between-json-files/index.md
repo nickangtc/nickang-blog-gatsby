@@ -1,6 +1,7 @@
 ---
 title: "A tool to find differences between JSON files"
 date: "2018-11-07"
+tags: ["Tech"]
 ---
 
 A very cool tool that I discovered today from google searching is [JSON Diff](http://www.jsondiff.com/). It does exactly what you expect it to. Paste two JSON files into the tool and it shows you the differences between them.

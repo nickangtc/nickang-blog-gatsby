@@ -1,6 +1,7 @@
 ---
 title: "Bite Size Programming - Programming is not for everyone"
 date: "2017-10-25"
+tags: ["Tech"]
 ---
 
 ![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) Jesse Eisenberg in The Social Network

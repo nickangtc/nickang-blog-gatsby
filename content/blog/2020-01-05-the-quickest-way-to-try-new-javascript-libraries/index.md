@@ -1,6 +1,7 @@
 ---
 title: "The quickest way to try new JavaScript libraries"
 date: "2020-01-05"
+tags: ["Tech"]
 ---
 
 **Real software engineers don't reinvent libraries that already exist, they build something better on top of them.**

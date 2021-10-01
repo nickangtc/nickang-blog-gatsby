@@ -1,6 +1,7 @@
 ---
 title: "The debugging advantage"
 date: "2016-08-18"
+tags: ["Tech"]
 ---
 
 ![keong saik road singapore](images/intown-1024x810.jpeg)

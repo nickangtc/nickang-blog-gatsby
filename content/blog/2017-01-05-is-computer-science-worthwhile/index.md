@@ -1,6 +1,7 @@
 ---
 title: "Is it worthwhile doing computer science?"
 date: "2017-01-05"
+tags: ["Tech"]
 ---
 
 Earlier today we had a guest speaker come in to speak to us (the Web Development Immersive class) broadly about computer science, algorithms and data structures and things like that. He also shared his experience at General Assembly Singapore, which was a bit over 4 months prior. That got me thinking about the time tradeoff.

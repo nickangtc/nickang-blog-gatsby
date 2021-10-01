@@ -1,6 +1,7 @@
 ---
 title: "Difference between socket.broadcast and io.to"
 date: "2018-02-26"
+tags: ["Tech"]
 ---
 
 ![socket io logo](images/socket-io-logo.png)

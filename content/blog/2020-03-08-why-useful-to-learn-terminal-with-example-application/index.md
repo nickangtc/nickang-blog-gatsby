@@ -1,6 +1,7 @@
 ---
 title: "Why it's useful to learn Terminal (with example application)"
 date: "2020-03-08"
+tags: ["Tech"]
 ---
 
 ![why it is useful to learn to use the terminal with example application nick ang](images/why-it-is-usefu-to-learn-to-use-the-terminal-with-example-application-nick-ang.png)

@@ -1,6 +1,7 @@
 ---
 title: "Always get the basics first"
 date: "2016-08-21"
+tags: ["Tech"]
 ---
 
 ![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript

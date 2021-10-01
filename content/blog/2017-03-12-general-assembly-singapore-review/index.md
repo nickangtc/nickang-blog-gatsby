@@ -1,6 +1,8 @@
 ---
 title: "General Assembly Singapore Review - Web Development Immersive"
 date: "2017-03-12"
+tags: ["Tech"]
+fav: true
 ---
 
 ![general assembly singapore review nick ang](images/general-assembly-singapore-review-nick-ang-1024x576.png)

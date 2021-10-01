@@ -64,6 +64,7 @@ title: "${postTitle}"
 date: "${date}"
 excerpt: 
 tags: 
+fav: false
 ---
 
 `

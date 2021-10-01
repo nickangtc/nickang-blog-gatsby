@@ -1,6 +1,8 @@
 ---
 title: "Binary Search Tree explained"
 date: "2017-12-03"
+tags: ["Tech"]
+fav: true
 ---
 
 ![binary search tree explained nickang blog banner](images/BSP-binary-search-tree-explained.png) Not my arm. Photo by Patrick Fore on Unsplash

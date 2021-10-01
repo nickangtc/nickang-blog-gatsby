@@ -1,6 +1,7 @@
 ---
 title: "The flash of unstyled text"
 date: "2016-12-15"
+tags: ["Tech"]
 ---
 
 When I entered the web development industry-complex (is it okay to refer to it as such?) in August this year, the first thing I noticed was how fast it moved. This year EJS and HAML is hot, next year it's testing frameworks Mocha and Chai, and then Angular2 and React. In our industry, there has been a hot new thing every year.

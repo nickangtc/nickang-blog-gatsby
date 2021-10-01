@@ -1,6 +1,7 @@
 ---
 title: "What are bugs in software?"
 date: "2017-10-31"
+tags: ["Tech"]
 ---
 
 ![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) Photo by Glen Carrie on Unsplash

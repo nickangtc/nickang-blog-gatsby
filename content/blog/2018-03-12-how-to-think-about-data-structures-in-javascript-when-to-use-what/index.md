@@ -1,6 +1,7 @@
 ---
 title: "How to think about data structures in JavaScript (and when to use what)"
 date: "2018-03-12"
+tags: ["Tech"]
 ---
 
 ![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) Photo by Beatriz Pérez Moya on Unsplash

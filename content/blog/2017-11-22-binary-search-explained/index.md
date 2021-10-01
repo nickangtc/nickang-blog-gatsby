@@ -1,6 +1,8 @@
 ---
 title: "Binary Search explained"
 date: "2017-11-22"
+tags: ["Tech"]
+fav: true
 ---
 
 ![binary search blog banner nickang](images/BSP-binary-search-2.png) Photo by Pablo Garcia Saldaña on Unsplash

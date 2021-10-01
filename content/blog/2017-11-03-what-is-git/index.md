@@ -1,6 +1,7 @@
 ---
 title: "What is Git?"
 date: "2017-11-03"
+tags: ["Tech"]
 ---
 
 ![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash

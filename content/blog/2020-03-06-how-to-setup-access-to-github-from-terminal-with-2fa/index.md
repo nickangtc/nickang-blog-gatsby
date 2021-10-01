@@ -1,6 +1,7 @@
 ---
 title: "How to setup access to GitHub from Terminal with 2FA"
 date: "2020-03-06"
+tags: ["Tech"]
 ---
 
 ![github terminal 2fa nick ang](images/github-terminal-2fa-nick-ang.png)

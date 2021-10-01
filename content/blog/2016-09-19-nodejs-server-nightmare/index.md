@@ -1,6 +1,7 @@
 ---
 title: "The nightmare of coding a node.js server"
 date: "2016-09-19"
+tags: ["Tech"]
 ---
 
 ![lion lying restlessly on the ground](images/lion-lying-down-1024x684.jpeg)

@@ -1,6 +1,7 @@
 ---
 title: "How writing daily is helping me learn"
 date: "2016-08-19"
+tags: ["Tech"]
 ---
 
 ![patterns](images/unsplashpic-min-1024x576.jpeg) Image: Mike Wilson

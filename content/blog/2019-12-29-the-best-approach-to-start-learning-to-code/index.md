@@ -1,6 +1,8 @@
 ---
 title: "The best approach to start learning to code"
 date: "2019-12-29"
+tags: ["Tech"]
+fav: true
 ---
 
 **If there is a skill in this world that is perfect for learning by iterating, it is programming.**

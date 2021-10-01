@@ -1,6 +1,7 @@
 ---
 title: "Programming is like exercise"
 date: "2018-03-11"
+tags: ["Tech"]
 ---
 
 ![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) Photo by Tikkho Maciel on Unsplash

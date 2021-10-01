@@ -2,13 +2,14 @@
 title: "Learn to solve"
 date: "2020-05-26"
 excerpt: "Technical understanding helps to solve problems, sometimes without involving any code at all."
+tags: ["Tech"]
+fav: true
 ---
 
 One of the biggest reasons I enjoy teaching is because I get to see others do things I would never have thought of doing. While I’m good at explaining things clearly for others to understand, I don’t think I am good at coming up with creative solutions to problems. It’s clear to me that there are many people who are much better at doing that than I am. Teaching is fun for me because I get to watch someone grasp a concept and then apply it to build something cool afterwards, again and again.
 
 ![screenshot of a coding bootcamp class we ran in Smartly.io](images/coding-bootcamp.png)
-
-_Greg is the one in the right-most. Look at that focus :D_
+_Greg is the right-most. Look at that focus :D_
 
 Greg is one of those people who regularly surprises people with his ability to turn ideas into solutions to people’s problems. He is one of my favourite people whom I’ve become friends with while working at Smartly.io, and he was also one of my students in an instalment of the in-house coding bootcamp I was running between February to May 2019.
 

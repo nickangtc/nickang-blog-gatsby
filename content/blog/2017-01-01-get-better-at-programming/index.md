@@ -1,6 +1,7 @@
 ---
 title: "Different ways to get better at programming"
 date: "2017-01-01"
+tags: ["Tech"]
 ---
 
 Painters in training spend most of their time understanding the theory of light, pigmentation, dilution and so on, and put these to practice through painting _exercises_ that allow them to explore the theory and witness it play out on canvas.

@@ -1,6 +1,7 @@
 ---
 title: "Intro to Web Development Workshop in San Francisco"
 date: "2018-02-17"
+tags: ["Tech"]
 ---
 
 Today was interesting. Despite being a tourist, I got in touch with the right people and put together an Intro to Coding workshop (it was probably more like intro to _web development_) for a small group of [NUS](http://www.nus.edu.sg/) Overseas Colleges (NOC) students. I learned a few things along the way.

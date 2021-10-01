@@ -1,6 +1,8 @@
 ---
 title: "How to squash git commits"
 date: "2017-09-23"
+tags: ["Tech"]
+fav: true
 ---
 
 In this short post, I'll demystify the process to squash git commits from the command line. This process is simple if you're using a remote like GitHub, which can be done with the click of a few buttons in the Pull Request UI. This post focuses on squashing commits on the command line.

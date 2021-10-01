@@ -1,6 +1,7 @@
 ---
 title: "Bite Size Programming - What is programming?"
 date: "2017-10-15"
+tags: ["Tech"]
 ---
 
 ![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) Photo by Gilles Lambert on Unsplash

@@ -1,6 +1,7 @@
 ---
 title: "The better way to approach a new programming language at work"
 date: "2017-04-08"
+tags: ["Tech"]
 ---
 
 ![](images/jay-wennington-2250-min-1024x683.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "Why use Binary Search Tree?"
 date: "2017-12-10"
+tags: ["Tech"]
 ---
 
 ![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png)

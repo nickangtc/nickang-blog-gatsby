@@ -1,6 +1,7 @@
 ---
 title: "My first game of Tic Tac Toe!"
 date: "2016-08-21"
+tags: ["Tech"]
 ---
 
 I think every aspiring programmer gets extremely excited when they create their first game. No, just me? Huh…

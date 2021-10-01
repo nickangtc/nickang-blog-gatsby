@@ -2,6 +2,8 @@
 title: "7 Things I’ve Learned About Programming Bootcamps (After Attending One Twice)"
 date: "2017-03-19"
 coverImage: "programming-bootcamps.png"
+tags: ["Tech"]
+fav: true
 ---
 
 ![Programming bootcamps blog image](/images/programming-bootcamps.png)

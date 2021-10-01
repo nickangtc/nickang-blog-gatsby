@@ -1,6 +1,7 @@
 ---
 title: "Difference between let and var in JavaScript"
 date: "2018-03-19"
+tags: ["Tech"]
 ---
 
 Here's a quick and dirty illustration that helps me visualise the difference between `let` (available only in ES6) and `var`.

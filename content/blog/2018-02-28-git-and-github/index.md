@@ -1,6 +1,7 @@
 ---
 title: "All you need to know about Git and GitHub"
 date: "2018-02-28"
+tags: ["Tech"]
 ---
 
 ![git and github nickang blog](images/git-and-github-nickang-blog.png) Photo by Paul Gilmore.

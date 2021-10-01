@@ -1,6 +1,7 @@
 ---
 title: "Remember why you are programming"
 date: "2017-12-26"
+tags: ["Tech"]
 ---
 
 ![spectacles sitting in front of a laptop focusing text on screen - remember why you are programming blog post banner](images/kevin-364843-1024x768.jpg) Photo by Kevin on Unsplash

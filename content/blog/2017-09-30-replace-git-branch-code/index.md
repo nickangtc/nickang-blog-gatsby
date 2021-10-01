@@ -1,6 +1,8 @@
 ---
 title: "How to completely replace git branch code with another branch's code"
 date: "2017-09-30"
+tags: ["Tech"]
+fav: true
 ---
 
 ![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) Photo by Leo Rivas-Micoud on Unsplash

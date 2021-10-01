@@ -1,6 +1,7 @@
 ---
 title: "Silly useful things on my Repl.it"
 date: "2017-09-12"
+tags: ["Tech"]
 ---
 
 ![screenshot of a repl.it document](images/Screen-Shot-2017-09-12-at-7.04.18-PM.png)

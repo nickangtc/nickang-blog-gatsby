@@ -1,6 +1,7 @@
 ---
 title: "Destructuring objects in JavaScript"
 date: "2018-11-24"
+tags: ["Tech"]
 ---
 
 ![Destructuring objects in JavaScript nick ang blog](images/Destructuring-objects-in-JavaScript-nick-ang-blog.png)

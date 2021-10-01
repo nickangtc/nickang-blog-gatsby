@@ -1,6 +1,7 @@
 ---
 title: "Bubble sort explained"
 date: "2017-12-16"
+tags: ["Tech"]
 ---
 
 ![bubble sort explained banner ](images/BSP-bubble-sort-explained.png) Photo by Sime Basioli on Unsplash

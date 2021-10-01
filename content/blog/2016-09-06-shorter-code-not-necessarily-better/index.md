@@ -1,6 +1,7 @@
 ---
 title: "Shorter code is not necessarily better code"
 date: "2016-09-06"
+tags: ["Tech"]
 ---
 
 ![people smiling in front of pinnacles at duxton](images/20160906-IMG_20160906_123527-1024x768.jpg) Going to lunch

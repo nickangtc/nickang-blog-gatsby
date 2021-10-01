@@ -1,6 +1,7 @@
 ---
 title: "What is an API?"
 date: "2018-02-03"
+tags: ["Tech"]
 ---
 
 ![what is an api blog post banner nickang](images/igor-ovsyannykov-165874-1024x683.jpg)
