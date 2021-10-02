@@ -50,7 +50,7 @@ const Bio = () => {
         <small>
           <Link to="/contact">contact</Link>
           <span>&nbsp; | &nbsp;</span>
-          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>give coffee</a>
+          <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>buy coffee</a>
         </small>
       </div>
     </div>

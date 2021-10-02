@@ -4,9 +4,9 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
-const TechPage = ({ data, location }) => {
+const PkmPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const techPosts = data.allMarkdownRemark.edges.map((post, index) => {
+  const pkmPosts = data.allMarkdownRemark.edges.map((post, index) => {
     return (
       <li key={index}>
         { post.node.frontmatter.date } - <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
@@ -17,17 +17,17 @@ const TechPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Tech Articles" location={location} />
-      <h1>Tech articles</h1>
-      <p>Articles about software engineering and web development.</p>
+      <SearchEngineOptimisation title="PKM Articles" location={location} />
+      <h1>PKM articles</h1>
+      <p>Articles about Personal Knowledge Management (PKM).</p>
       <ul>
-        { techPosts }
+        { pkmPosts }
       </ul>
     </Layout>
   )
 }
 
-export default TechPage
+export default PkmPage
 
 export const pageQuery = graphql`
   query {
@@ -37,7 +37,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: "Tech" } } }
+      filter: { frontmatter: { tags: { in: "PKM" } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

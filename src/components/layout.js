@@ -12,7 +12,6 @@ const Layout = ({ location, title, children }) => {
   return (
     <div
       style={{
-        maxWidth: rhythm(24),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
       className={ container }
