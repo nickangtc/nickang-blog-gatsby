@@ -22,6 +22,7 @@ const HomePage = ({ data, location }) => {
       <h1 id="my-digital-garden">Hey, I'm Nick. <span role="img" aria-label="hand wave emoji">👋</span></h1>
       <p>I work as a software engineer and live as a writer. I explore and write about how to live a good, meaningful life.</p>
       <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free occasional updates.</p>
+      <p>New here and not sure where to start? I recommend reading something recent below or <Link to="/topics">browsing by topic</Link>.</p>
 
       <h3>Recent articles</h3>
       <ul className={ articles }>
