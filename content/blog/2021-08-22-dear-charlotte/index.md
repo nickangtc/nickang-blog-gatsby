@@ -2,7 +2,7 @@
 title: "Dear Charlotte"
 date: "2021-08-22"
 excerpt: "A short letter to my soon to be born daughter."
-tags: ["Charlotte"]
+tags: ["Living"]
 ---
 
 Dear Charlotte,

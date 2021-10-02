@@ -2,7 +2,7 @@
 title: "Free time default activity"
 date: "2021-04-17"
 excerpt: "My default activity when I have free time is to write."
-tags: [Habits]
+tags: ["Living"]
 ---
 
 Towards the end of my 20s and the beginning of my 30s, I suddenly gained the remarkable ability to see my cognitive fuel being depleted as a day goes by. At a party I'd probably describe it as, "It’s like I can see the amount of brain juice I have left for the day. Each time my brain takes a sip, I can feel it."

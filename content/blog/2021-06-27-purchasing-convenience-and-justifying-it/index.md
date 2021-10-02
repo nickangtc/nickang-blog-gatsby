@@ -2,7 +2,7 @@
 title: "Purchasing convenience (and justifying it)"
 date: "2021-06-27"
 excerpt: 
-tags: ["Society & Culture"]
+tags: ["Living"]
 ---
 
 ![screenshot of my Amazon order list](/images/amazon-order-list.jpg)

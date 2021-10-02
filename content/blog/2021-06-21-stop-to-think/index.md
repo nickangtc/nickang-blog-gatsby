@@ -2,7 +2,7 @@
 title: "Stop to think"
 date: "2021-06-21"
 excerpt: "What the contrast between quarantine and daily socialisation helped me realise."
-tags: ["Mindfulness", "Blogging"]
+tags: ["Living", "Creativity"]
 ---
 
 I recently went back to Singapore for a 6-week visit. After being in COVID-19 quarantine upon arrival for 3 weeks with my wife at a hotel, I spent every day in the remaining 3 weeks meeting friends and family. 

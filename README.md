@@ -11,3 +11,20 @@ The following directories and their contents are Copyright Nick Ang. You may not
 - content/
 
 For everything else in this public repository you may use freely according to the MIT License. If you do use them, I would appreciate a link back to https://nickang.com and this repository, but it is not required.
+
+## Notes
+### Tags
+
+**Remember!** Wrap all tags in "" in frontmatter for easy search. e.g. searching for articles tagged "Tech" is much easier when searching `"Tech"` instead of `Tech`.
+
+List of unique topic tags:
+- **Tech** - Software Development - Design - Product
+- **Living** - Mindfulness - Parenting - Habits - Society & Culture
+- **Creativity** - Writing - Blogging - Problem Solving
+- **PKM** - Note Taking
+- **Leadership**
+- **Communication**
+
+List of unique type tags:
+- **Book**
+- **Tutorial**

@@ -2,7 +2,7 @@
 title: "Obsidian? Roam? Why I am staying with Bear as my PKM"
 date: "2021-02-21"
 excerpt: "The tool does not need to be sophisticated. Your note-taking workflow does."
-tags: ["Personal knowledge management (PKM)"]
+tags: ["PKM"]
 ---
 
 My mind is cluttered and my notes system should help reduce that clutter, not add to it. For the past 3 weeks, as I let a small unfulfilled need push me to explore new tools, my mind got more and more cluttered. Today, I realised that I'm just going to stick with the trusty old **Bear app** as my [PKM (personal knowledge management) system](/2020-07-05-personal-knowledge-management-system).

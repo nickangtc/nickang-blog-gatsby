@@ -2,7 +2,7 @@
 title: "What is a callback? An analogy with tea"
 date: "2021-05-18"
 excerpt: "A callback is programming concept that you are already using in your daily life."
-tags: ["Tutorial", "Software", "Tech"]
+tags: ["Tutorial", "Tech"]
 ---
 
 ![Me pulling out an overly steeped teabag with a phone timer showing 7 minutes and 17 seconds](/images/teabag-infusing-stopwatch.jpg)

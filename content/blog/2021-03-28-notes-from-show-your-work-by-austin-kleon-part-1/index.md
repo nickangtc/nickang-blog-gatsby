@@ -2,7 +2,7 @@
 title: "Notes from Show Your Work by Austin Kleon (Part 1)"
 date: "2021-03-28"
 excerpt: "As someone who feels like he does not qualify as an artist but wants to be one, I'm keeping this book close by."
-tags: [Books]
+tags: ["Book"]
 ---
 
 ![Show your work by Austin Kleon book cover](/images/show-your-work-by-austin-kleon.png)

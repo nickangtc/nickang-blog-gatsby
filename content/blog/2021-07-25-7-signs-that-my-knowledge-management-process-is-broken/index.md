@@ -2,7 +2,7 @@
 title: "7 Signs that my Knowledge Management process is broken"
 date: "2021-07-25"
 excerpt: "One word: discovery. Without a solid knowledge management process in place, I can still live. But with one, I think life could be more interesting because I would discover & understand much more."
-tags: ["Writing", "Blogging", "Personal Knowledge Management (PKM)"]
+tags: ["Creativity", "PKM"]
 ---
 
 **1. I am not writing notes when reading books anymore**. This is bad because knowing myself, I am not able to remember most of what I read! Most of what I read, therefore, fades into the ether in a short time.

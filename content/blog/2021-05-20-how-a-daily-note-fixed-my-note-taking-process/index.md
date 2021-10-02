@@ -2,7 +2,7 @@
 title: "How a Daily Note fixed my note taking process"
 date: "2021-05-20"
 excerpt: "The biggest trouble with a digital note taking system is when you have to fumble and think where to put your idea down."
-tags: ["Note Taking", "Software"]
+tags: ["PKM"]
 ---
 
 ![hand-drawn illustration of a Daily Note](/images/daily-note-nickang-blog-illustration.png)

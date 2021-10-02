@@ -2,7 +2,7 @@
 title: "Visiting and evaluating Singapore"
 date: "2021-04-27"
 excerpt: "I'm going home for a visit and I will be evaluating everything with a brand new, outsider's perspective."
-tags: ["Society & Culture", "Singapore", "Berlin"]
+tags: ["Living"]
 ---
 
 > God grant me the serenity to accept the things I cannot change; the courage to change the things I can; and wisdom to know the difference.

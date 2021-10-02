@@ -1,7 +1,7 @@
 ---
 title: "Is Google Sheets robust enough for downloading data?"
 date: "2020-03-04"
-tags: ["Tech", "Product"]
+tags: ["Tech"]
 ---
 
 ![one way to make the data in Google Sheets downloadable is to publish to the web](images/google-sheets-publish-to-the-web-nickang-1024x592.png)

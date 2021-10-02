@@ -1,7 +1,7 @@
 ---
 title: "What is a Personal Knowledge Management system (PKM)?"
 date: "2020-07-05"
-tags: ["Personal knowledge management (PKM)"]
+tags: ["PKM"]
 ---
 
 ![a visualisation of a neuron firing](images/brain-synapsis.jpg)

@@ -2,7 +2,7 @@
 title: "Focus on understanding, not on what is right"
 date: "2021-01-10"
 excerpt: When you focus exclusively on understanding instead of what is right, you grow your understanding of the world while keeping your relationships healthy.
-tags: ["Society & Culture"]
+tags: ["Living", "Communication", "Leadership"]
 ---
 
 Tell me if any of this sounds familiar to you: someone gives their opinion and you feel an urge to find and point out the flaws in what they are saying. You then also feel the urge to correct them and most of the time, you do. Eventually, when it is someone’s turn to contend with *your* opinion, they appear to have the same urge as you: find flaws, point them out, help you see it the 'right' way. All the time, the ‘right’ way is either your way or theirs.

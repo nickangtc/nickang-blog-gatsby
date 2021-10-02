@@ -2,7 +2,7 @@
 title: "My biggest fear"
 date: "2021-04-29"
 excerpt: "Am I going to have time to pursue creative work when I become a dad?"
-tags: [Writing, Parenthood]
+tags: ["Creativity", "Living"]
 ---
 
 [Jarvis Johnson](https://www.youtube.com/user/VSympathyV) is a YouTube content creator who was previously in tech as a software engineering manager at Patreon. In his [interview](https://www.youtube.com/watch?v=0YDAntA-d0k) with [Mayuko](https://www.youtube.com/user/hellomayuko), he revealed how difficult it was to leap to quit his job to become a full-time YouTuber.

@@ -1,7 +1,7 @@
 ---
 title: "Cal Newport's \"So Good They Can't Ignore You\""
 date: "2016-03-06"
-tags: [Books]
+tags: ["Book"]
 ---
 
 ### [![so good they cant ignore you book cover](images/so-good-they-cant-ignore-you-book-cover.jpg)](http://amzn.to/1TN6FJY)
