@@ -1,6 +1,7 @@
 ---
 title: "Work and money in harmony"
 date: "2016-08-09"
+tags: ["Living"]
 ---
 
 ![hong kong MTR crowd](images/DSCF8017_nickang_edited-1024x683.jpg)

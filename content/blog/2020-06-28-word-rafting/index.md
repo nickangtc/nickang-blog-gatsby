@@ -1,6 +1,7 @@
 ---
 title: "Word rafting"
 date: "2020-06-28"
+tags: ["Communication"]
 ---
 
 Once in a while an idea comes along that feels right. I've learned to be biased towards acting on such ideas when they appear, and today I'm taking action on an idea by someone I honestly barely know from twitter. The idea is to join a word raft.

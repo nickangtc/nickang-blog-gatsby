@@ -2,7 +2,7 @@
 title: "To make a message stick, repeat it"
 date: "2021-01-24"
 excerpt: We say most things just once. To make a message a signal above the noise, we need to repeat it a few more times.
-tags: 
+tags: ["Leadership", "Communication"]
 ---
 
 ![diagram illustrating how repeating the message helps retention](/images/repeat-the-message.png)

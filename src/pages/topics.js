@@ -24,30 +24,32 @@ const _groupByTag = (articles=[]) => {
 const TopicsPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const articlesByTag = _groupByTag(data.allMarkdownRemark.edges)
-  const topicSections = Object.keys(articlesByTag).map((tag) => {
-    const max = 5;
-    const articlesList = articlesByTag[tag].slice(0, max).map((article, index) => {
+  const topicSections = Object
+    .keys(articlesByTag)
+    .sort()
+    .map((tag) => {
+      const max = 5;
+      const articlesList = articlesByTag[tag].slice(0, max).map((article, index) => {
+        return (
+          <li key={tag + index} className={listItem}>
+            <Link to={ article.node.fields.slug } className={hyperlink}>{ article.node.frontmatter.title }</Link>
+          </li>
+        )
+      })
       return (
-        <li key={tag + index} className={listItem}>
-          <Link to={ article.node.fields.slug } className={hyperlink}>{ article.node.frontmatter.title }</Link>
-          { article.node.frontmatter.fav && (<span role="img" aria-label="fire emoji indicating this article is a favourite"> 🔥</span>) }
-        </li>
+        <section key={ tag } className={twoColumnFlexItem}>
+          <h3 className={sectionHeading}>
+            <Link to={ `/${tag.toLowerCase()}` } className={hyperlink}>{ tag }</Link>
+          </h3>
+          <ul className={list}>
+            { articlesList }
+          </ul>
+          <Link to={ `/${tag.toLowerCase()}` } className={hyperlink}>
+            <em>Read all {`${articlesByTag[tag].length}`} articles on {tag} →</em>
+          </Link>
+        </section>
       )
     })
-    return (
-      <section key={ tag } className={twoColumnFlexItem}>
-        <h3 className={sectionHeading}>
-          <Link to={ `/${tag.toLowerCase()}` } className={hyperlink}>{ tag }</Link>
-        </h3>
-        <ul className={list}>
-          { articlesList }
-        </ul>
-        <Link to={ `/${tag.toLowerCase()}` } className={hyperlink}>
-          <em>Read more articles on {tag} →</em>
-        </Link>
-      </section>
-    )
-  })
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -73,7 +75,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Tech", "Living", "Creativity", "PKM", "Leadership", "Communication"] } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___fav], order: ASC }
     ) {
       edges {
         node {

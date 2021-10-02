@@ -1,6 +1,7 @@
 ---
 title: "How to keep things interesting in a relationship"
 date: "2018-12-08"
+tags: ["Communication"]
 ---
 
 ![How to keep things interesting in a relationship](images/How-to-keep-things-interesting-in-a-relationship-1024x769.jpg)

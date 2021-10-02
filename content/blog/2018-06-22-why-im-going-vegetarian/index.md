@@ -1,6 +1,8 @@
 ---
 title: "Why I'm going vegetarian"
 date: "2018-06-22"
+tags: ["Living"]
+fav: true
 ---
 
 ![why i am going vegetarian nickang blog](images/alex-mercado-585615-unsplash-1024x683.jpg) Photo by Alex Mercado on Unsplash

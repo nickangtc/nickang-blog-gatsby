@@ -2,7 +2,8 @@
 title: "9 Questions for 1-1s"
 date: "2021-09-12"
 excerpt: "We all know 1-1s are useful, but not everyone sees it that way. Here is a list of 9 questions that may help guide and make your next 1-1 more useful."
-tags: 
+tags: ["Communication", "Leadership"]
+fav: true
 ---
 
 After nine months of being a team lead, I've learned that having 1-1s (one on ones; i.e. a private meeting between a direct report and their manager) is fantastic for many reasons:

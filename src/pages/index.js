@@ -20,9 +20,9 @@ const HomePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Home" location={location} />
       <h1 id="my-digital-garden">Hey, I'm Nick. <span role="img" aria-label="hand wave emoji">👋</span></h1>
-      <p>I work as a software engineer and live as a writer. I explore and write about how to live a good, meaningful life.</p>
-      <p>New articles every Sunday. <Link to="/subscribe">Subscribe</Link> for free occasional updates.</p>
-      <p>New here and not sure where to start? I recommend reading something recent below or <Link to="/topics">browsing by topic</Link>.</p>
+      <p>I'm an Engineering Team Lead at <a href="https://smartly.io">Smartly.io</a>. I write about a broad range of things that I learn and observe, although they seem to coalesce around topics like tech, living a meaningful life, and communicating well.</p>
+      <p>New articles published every Sunday. <Link to="/subscribe">Subscribe</Link> for free occasional updates.</p>
+      <p>If you're new here and not sure where to start, I recommend reading something recent below or <Link to="/topics">browsing by topic</Link>.</p>
 
       <h3>Recent articles</h3>
       <ul className={ articles }>

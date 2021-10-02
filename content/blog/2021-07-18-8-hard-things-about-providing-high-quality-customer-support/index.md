@@ -2,7 +2,7 @@
 title: "8 Hard Things about providing High Quality Customer Support"
 date: "2021-07-18"
 excerpt: "Lessons from 3 years of providing, organising, and building tools for Customer Support"
-tags: 
+tags: ["Communication"]
 ---
 
 Your product probably isn't perfect and that's why you need to provide customer support. This is the imperfect starting point of the whole enterprise of customer support that makes it a challenge from the get go.

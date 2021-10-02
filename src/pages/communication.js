@@ -10,7 +10,7 @@ const CommunicationPage = ({ data, location }) => {
     return (
       <li key={index}>
         { post.node.frontmatter.date } - <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
-        { post.node.frontmatter.fav && ' 🔥' }
+        { post.node.frontmatter.fav && (<span role="img" aria-label="fire emoji indicating this article is a favourite"> 🔥</span>) }
       </li>
     )
   })

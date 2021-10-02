@@ -1,6 +1,7 @@
 ---
 title: "How I think about Work-Life Balance"
 date: "2018-07-14"
+tags: ["Leadership"]
 ---
 
 ![working in smartly singapore office nickang blog](images/smartly-singapore-office-nickang-blog-e1531540364775-768x1024.jpg) A glimpse into our Singapore office!

@@ -1,6 +1,7 @@
 ---
 title: "Reflecting on my 3-week work rotation in Helsinki"
 date: "2019-02-09"
+tags: ["Leadership", "Living"]
 ---
 
 I recently spent three weeks in Helsinki as a sort of mini-rotation within [Smartly.io](https://smartly.io). While I was there, I worked a lot more closely with the team I belong to but have been working remotely with from Singapore, and I’ve learned a lot.

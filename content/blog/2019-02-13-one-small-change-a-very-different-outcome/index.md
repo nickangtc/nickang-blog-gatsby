@@ -1,6 +1,7 @@
 ---
 title: "One small change, a very different outcome"
 date: "2019-02-13"
+tags: ["Leadership"]
 ---
 
 ![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) Photo by SpaceX

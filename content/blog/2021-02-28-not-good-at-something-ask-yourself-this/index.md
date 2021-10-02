@@ -2,7 +2,7 @@
 title: "Whenever you think you are not good at something, ask yourself this"
 date: "2021-02-28"
 excerpt: "I have a tendency to evaluate myself too early. So I ask myself, have I put in time to get good at it?"
-tags: 
+tags: ["Leadership"]
 ---
 
 I’ve been talking to several colleagues at work to find out what I’m lacking as a new team leader in the organisation. I did that because I was beginning to feel all over the place, doing a little here and there. Something about spreading myself thin feels wrong. It feels like I’m not focusing, and if I’m not focusing, how can the team of people that I lead focus? And if they do focus, how would I know if they’re focusing on the right things?

@@ -1,6 +1,7 @@
 ---
 title: "Direct feedback"
 date: "2020-06-03"
+tags: ["Leadership", "Communication"]
 ---
 
 At work recently I noticed one of my colleagues exhibiting less than ideal behaviour during his support shift and I wanted to give him feedback. But I hesitated and almost didn't.

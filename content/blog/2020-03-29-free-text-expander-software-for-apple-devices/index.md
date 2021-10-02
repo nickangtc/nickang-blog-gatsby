@@ -1,6 +1,7 @@
 ---
 title: "Free text expander software for Apple devices"
 date: "2020-03-29"
+tags: ["Communication"]
 ---
 
 I recently went on a hunt for a suitable text expander software and in this post I share how I arrived at a perfect free tool.
