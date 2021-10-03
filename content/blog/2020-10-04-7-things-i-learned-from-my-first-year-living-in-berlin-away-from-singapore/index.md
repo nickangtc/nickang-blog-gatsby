@@ -7,6 +7,7 @@ tags: ["Living"]
 In two days, I will mark my first year living away from Singapore in Berlin. I moved here with my wife and dog last year when I managed to get transferred to the Berlin office of my current employer. As you can imagine, life has been different since. 
 
 ![Our first day in Berlin at a restaurant with, believe it or not, our dog](/images/first-day-in-berlin.jpg)
+_Our first day in Berlin at a restaurant with, believe it or not, our dog._
 
 In this article, I reflect on the lessons I have learned from my first year of living in Berlin.
 
