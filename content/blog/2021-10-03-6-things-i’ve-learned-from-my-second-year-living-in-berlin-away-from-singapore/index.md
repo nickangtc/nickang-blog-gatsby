@@ -114,4 +114,6 @@ I use all the apps so that I can maximise my chances of finding a vacant vehicle
 - [Share Now](https://www.share-now.com/DE/en/registration/personal-data/?pc=MGM-JUJA-QEPW-HKFK-3A4E)
 - Miles - code: 4Hyrwa7ejA
 
+---
+
 In case you missed it, you can read my first year reflections [here](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/).

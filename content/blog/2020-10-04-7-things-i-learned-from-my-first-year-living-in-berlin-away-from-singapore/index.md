@@ -1,5 +1,5 @@
 ---
-title: "7 things I’ve learned from my first year living in Berlin (away from Singapore)"
+title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
 date: "2020-10-04"
 tags: ["Living"]
 ---
@@ -110,3 +110,5 @@ A lot of learning happens just by being away from home.
 For example, being away has afforded me freedom from judgement of the people whose judgement I unwittingly give too much consideration and it has given me courage to do my own thing, like growing out my hair and publishing vlogs where I talk to myself in public. It has also stripped me of my material possessions and that has in turn helped me to rethink what I need (20 percent) compared to what I want (80 percent).
 
 But I think it will be prudent if I write more about the gains from being away from home for prolonged periods, independent on the destination, in another article.
+
+**UPDATE (3.10.2021): You can read my second year reflections [here](/2021-10-03-6-things-i’ve-learned-from-my-second-year-living-in-berlin-away-from-singapore/).**
