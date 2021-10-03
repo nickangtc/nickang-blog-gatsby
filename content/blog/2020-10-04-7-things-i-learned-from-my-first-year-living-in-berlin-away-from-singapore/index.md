@@ -1,6 +1,7 @@
 ---
 title: "7 things I’ve learned from my first year living in Berlin (away from Singapore)"
 date: "2020-10-04"
+tags: ["Living"]
 ---
 
 In two days, I will mark my first year living away from Singapore in Berlin. I moved here with my wife and dog last year when I managed to get transferred to the Berlin office of my current employer. As you can imagine, life has been different since. 
