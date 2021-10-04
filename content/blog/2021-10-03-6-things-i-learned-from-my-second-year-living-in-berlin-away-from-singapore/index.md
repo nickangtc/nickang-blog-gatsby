@@ -1,19 +1,18 @@
 ---
 title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
 date: "2021-10-03"
-excerpt: 
-tags: 
+excerpt: "Two years already! I still love living in Berlin, a city of history and openness."
+tags: ["Living"]
 fav: true
-todos: "add pictures; add links; add excerpt; add tags"
+todos: "add links"
 ---
-
-*(It's Sunday and I'm publishing this article without the photos that will make this much more personal. I will add them to this article later. For now, I'm publishing and then going to sleep!)*
 
 In a few days it will be my second full year having relocated to Berlin. A lot has happened. A full year of grappling with covid, for one. And our first child was born here last month! Here are some of my learnings from the past year.
 
 You can read my first year reflections [here](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/).
 
 ## 1. A welfare system provides peace of mind, and it's priceless
+
 Being Singaporean, I've been brought up to see everything from an economic point of view. I can't shake it off even when I want to -- it's like a pair of permanent contact lenses. The only respite is in Berlin, away from everyone I know, immersed in an environment completely different from the one I grew up in. Even here, I'm haunted by my upbringing.
 
 On the occasions that I break free from evaluating everything as a cost-benefit transaction, I see just how tiring it is to live like that. I just think, *you don't need to calculate everything*.
@@ -33,6 +32,9 @@ Here are some examples of things during my wife's pregnancy in 2021 that have be
 
 I share these examples because they're freshest in my memory, but there are other instances too, and overall, they make me feel like I am living in the most *humane* part of the world. If you are gainfully employed and anyone in your family falls sick, you will be cared for.
 
+![photo of me carrying my newborn daughter at 2 days old](/images/learning-to-be-a-dad.png)
+*That's me learning how to carry my two day old daughter at the public hospital!*
+
 It's not just sickness, either! Parents get *Elterngeld* (literally "parent money") from the federal government to cover up to 60% of each of their incomes (capped at 1,800 euros per month) for a combined 14 months. 
 
 Why? Because they know parents (especially men, who too often try to shirk their parenting responsibilities citing work) need time to be there for their partner and their newborn child.
@@ -42,11 +44,19 @@ There's also *Kindergeld* (literally "children money"), which is another federal
 Yes, I pay higher taxes here, but as I'm in Berlin, I've learned to not bother calculating the balance sheet. It could be the case that what I'm paying in extra taxes is more than the amount that the German government is rechanneling back to me. It could be the other way around. Whichever the case, I'm happy because life is short and peace of mind is priceless.
 
 ## 2. The solution to low reproduction is probably paid parental leave
+
+![me feeding Charlotte a bottle of milk](/images/feeding-charlotte.png)
+*I have months, not weeks, to learn to be an equal partner in parenting in Germany.*
+
 Related to the first point. The Singapore government has tried to appeal to generations of Singaporeans to have more children and yet the fertility rate has remained solidly under 2.
 
 Here's a guaranteed solution to low reproduction: provide what Germany provides its residents. For every child born, provide up to 14 months of paid parental leave that can be shared flexibly between mother and father. See how much more relaxed young and fertile Singaporeans will be and watch as things go up.
 
 ## 3. The perfect place is completely subjective
+
+![photo of me posing a goofy pose against a glaring sunset](/images/goofing-around-berlin.jpg)
+*Berlin for me is the place where I can be completely myself. Exhibit A.*
+
 One thing I learned this year in Berlin that surprised me was how little I understood people. The same place can be viewed from more angles than I can think of.
 
 I have a colleague at work who, like me, transferred from our Singapore office to our Berlin office. Within a year, she asked to be transferred back to Singapore.
@@ -64,7 +74,11 @@ And then there's another colleague who was supposed to go to Madrid with his wif
 So what's the learning here? I think it's this: a place is never bad or good; it's only ever bad for some and good for others. Oh, and the only you'll know is if you went there yourself.
 
 ## 4. Reuse culture is possible and it is beautiful
-I often stumble on boxes with the words "*Zu verschenken*" scribbled on their sides. It means "to give away" in German. 
+
+Walking the streets of Berlin, I often stumble on boxes with the words "*Zu verschenken*" scribbled on their sides. It means "to give away" in German. 
+
+![photo of one of many boxes I stumble upon when walking the streets of Berlin. It contains things that people are giving away](/images/zu-verschenken-box-berlin.jpg)
+*This was a particularly fashionable giveaway, found street-side some five minutes from my apartment.*
 
 Here's a short assortment of items I've picked from these giveaway boxes in the last year:
 
@@ -79,6 +93,10 @@ And it's not just the free things that contribute to the reuse culture that is s
 I find it wonderful that many people here would take the time to list items that they are willing to give away for free, just so that those items end up in the hands of people who are guaranteed to use them. I've also started doing that this year to [contribute to this beautiful culture](/2021-08-08-why-i-took-the-longer-route-to-give-away-things-for-free/).
 
 ## 5. Deposits guarantee recycling behaviour
+
+![photo of two women using a Pfand machine in Germany](/images/pfand-machine.jpeg)
+*Photo from Institute for Advanced Sustainability Studies ([source](https://www.iass-potsdam.de/en/news/opportunities-enhance-packaging-waste-legislation-germany))*
+
 In Germany, many beverages that ship in glass and plastic bottles must be purchased along with a deposit at the supermarket. For example, I bought an isotonic drink that came in a plastic bottle from Edeka the other day and the retail price was 0,89 euros, and at check-out, I had to pay an extra 0,25 euros as a deposit. 
 
 This process is seamless and I've stopped thinking about how much deposit I'm paying. My brain has been rewired to look at bottles as something valuable to be taken back to the store for money. And it's not just me -- everyone does it here. Of course they do; they want their money back!
@@ -86,6 +104,9 @@ This process is seamless and I've stopped thinking about how much deposit I'm pa
 A *Pfand* side effect of this is that you can (and people do) leave your bottles on the street and you would be seen as nobly contributing to wealth redistribution as people will go around the city collecting them for their deposits! *(Pfand stands for "deposit," by the way, and is pronounced like 'fun'.)*
 
 ## 6. Car-sharing is a game changer
+
+![photo of me inside an Volkswagen ID3 electric car rented from car-sharing app WeShare](/images/volkswagen-id3-weshare-berlin.jpg)
+*Me sitting inside the VW ID.3 electric car that is part of the all-electric fleet of WeShare in Berlin.*
 
 This one is worth writing about in its own article, but briefly: car-sharing is the future. It works, and it works well.
 
