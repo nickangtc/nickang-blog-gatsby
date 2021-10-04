@@ -128,7 +128,7 @@ That means that I can rent an electric car (WeShare operates an all-electric fle
 
 I use all the apps so that I can maximise my chances of finding a vacant vehicle wherever I am in Berlin. Here are my referral links for all the car-sharing apps I've been using:
 
-- [WeShare](https://weshareprod.page.link/urvPvz54Ek4fna75A)
+- [WeShare](https://weshareprod.page.link/JC8fif4aCpis22Jx6) (link may only work on mobile)
 - [Sixt](https://www.sixt.de/invite/EhoDEnoSEd==)
 - [Share Now](https://www.share-now.com/DE/en/registration/personal-data/?pc=MGM-JUJA-QEPW-HKFK-3A4E)
 - Miles - code: 4Hyrwa7ejA
