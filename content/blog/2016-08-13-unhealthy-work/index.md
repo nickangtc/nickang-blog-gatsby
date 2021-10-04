@@ -16,7 +16,7 @@ As I was sketching I was aware that even though the ideas were becoming more con
 
 The moment I felt that my sketches made some sense, I capped my pen and flipped open my Macbook, and started to write code. The plan was simple: write the programme in manageable chunks first and worry about integration later. This was my first time trying to make a pure-software project idea become reality and I wanted to go gradually and steadily and not miss any stops along the way.
 
-But when I started to write my first <div> tags on Codepen, the world around me slowed, fading into a soft humdrum. Tag after tag, line after line, I checked the live preview window to see my project go from one box in the web browser to two coloured ones, and then to two clickable sections of the page that were properly positioned, and then to…
+But when I started to write my first HTML tags on Codepen, the world around me slowed, fading into a soft humdrum. Tag after tag, line after line, I checked the live preview window to see my project go from one box in the web browser to two coloured ones, and then to two clickable sections of the page that were properly positioned, and then to…
 
 Programming is fascinating because the programmer can sit alone in a room and create something out of nothing but electricity and coffee. I may be romanticising it slightly here but today, though only briefly, I felt its whole beauty, and I’m mesmerised.
 
