@@ -111,4 +111,4 @@ For example, being away has afforded me freedom from judgement of the people who
 
 But I think it will be prudent if I write more about the gains from being away from home for prolonged periods, independent on the destination, in another article.
 
-**UPDATE (3.10.2021): You can read my second year reflections [here](/2021-10-03-6-things-i’ve-learned-from-my-second-year-living-in-berlin-away-from-singapore/).**
+**UPDATE (3.10.2021): You can read my second year reflections [here](/2021-10-03-6-things-i-learned-from-my-second-year-living-in-berlin-away-from-singapore/).**
