@@ -67,9 +67,7 @@ Now, if you ask me, I'd say there isn't a strong *community feeling* in Singapor
 
 So there's that colleague.
 
-Another colleague who is currently based in Berlin is thinking of moving to Madrid even though moving to Berlin was his and his wife's goal. Apparently, after living here for a while, it just didn't click for them, and a visit to Madrid made them want to move there.
-
-And then there's another colleague who was supposed to go to Madrid with his wife but because of visa reasons, ended up in Berlin, and he likes it enough to want to stay here for a while.
+Then there's another colleague who was supposed to go to Madrid with his wife but because of visa reasons, ended up in Berlin, and he likes it enough to want to stay here for a while.
 
 So what's the learning here? I think it's this: a place is never bad or good; it's only ever bad for some and good for others. Oh, and the only you'll know is if you went there yourself.
 
