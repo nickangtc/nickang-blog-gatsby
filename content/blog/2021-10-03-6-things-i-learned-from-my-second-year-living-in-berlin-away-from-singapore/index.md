@@ -126,7 +126,7 @@ The cherry on top is the economics. My favourite car-sharing company in Berlin i
 
 That means that I can rent an electric car (WeShare operates an all-electric fleet) for 30 minutes and pay just 6,70 euros. 
 
-I use all the apps so that I can maximise my chances of finding a vacant vehicle wherever I am in Berlin. Here are my referral links for all the car-sharing apps I've been using:
+I use all the apps so that I can maximise my chances of finding a vacant vehicle wherever I am in Berlin. Here are my **referral links** for all the car-sharing apps I've been using:
 
 - [WeShare](https://weshareprod.page.link/JC8fif4aCpis22Jx6) (link may only work on mobile)
 - [Sixt](https://www.sixt.de/invite/EhoDEnoSEd==)
