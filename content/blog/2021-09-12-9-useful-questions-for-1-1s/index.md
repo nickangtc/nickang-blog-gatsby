@@ -66,7 +66,7 @@ A framework I always refer back to is a Venn diagram that guides our internal hi
 ![a Venn diagram depicting employer-employee symbiosis](/images/employer-employee-symbiosis.png)
 *I call this the magic of employer-employee symbiosis!*
 
-At any time, an employee may feel like the work they have recently done does not hit the sweet spot of leveraging their competitive advantage, aligning with their current motivations, and maximising their impact on the company. Talking about you're feeling about work is how your manager can realise this and see how he can help. That could be anything from doing an online course on a new area of expertise, finding an exciting new project, to seeking a new role in the company.
+At any time, an employee may feel like the work they have recently done does not hit the sweet spot of leveraging their competitive advantage, aligning with their current motivations, and maximising their impact on the company. Talking about how you're feeling about work is how your manager can realise this and see how he can help. That could be anything from doing an online course in a new area of expertise, finding an exciting new project, or seeking a new role in the company.
 
 ### 6. How are you feeling about life outside of work? 
 
