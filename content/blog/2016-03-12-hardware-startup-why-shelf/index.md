@@ -3,8 +3,8 @@ title: "Why I’m Shelving My Hardware Startup After 6 Months"
 date: "2016-03-12"
 ---
 
-![With a solemn heart...](images/sian-dog-1024x683.jpeg)
-_With a solemn heart..._
+![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)
+_Talking to aspiring makers at a local Apprenticeship Programme_
 
 It was another day with an important meeting that might help push my startup forward. At the lobby I took a deep breath and stepped into the lift. “Hey, I’m Nick…”, I said to myself in the lift as I extended my hand for a rehearsal handshake.
 
@@ -49,9 +49,6 @@ The market is too small. Too small to sustain a business, and too small for me t
 In light of this clarity, which I actually found refreshing, I went deeper into thought as my body sunk further into the safety of my bed.
 
 ### Technically Not  Ready
-
-![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)
-_Talking to aspiring makers at a local Apprenticeship Programme_
 
 One of the biggest problems I faced in the previous 6 months running my startup was a technical one. _The_ technical one.
 
@@ -128,5 +125,3 @@ It was never my mission to build a startup that would do an Initial Public Offer
 I’ve been a log adrift in the ocean, going with the strongest current in these 6 months. I’d been a log: the problem was that I thought I was a motorboat.
 
 \*\*\*
-
-_I will be reflecting on the biggest lessons I’ve learned from these 6 months in an upcoming post. If you don’t want to miss it, consider **subscribing** to the blog_.
