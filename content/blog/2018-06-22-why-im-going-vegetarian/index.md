@@ -116,3 +116,5 @@ _Friday, 22 June 2018 in Cafe Tori at the Helsinki Airport._
 ---
 
 _PS. Actually, I'm also still contemplating between being full vegetarian or pescatarian (a vegetarian who also eats fish). We may need to discuss the morality of fishes vis a vis that of mammals at some point..._
+
+_PPS. It's 2020 and I have started to call myself a flexitarian. You can read about it [here](/2020-06-21-flexitarianism/)._

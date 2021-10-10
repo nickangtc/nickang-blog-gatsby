@@ -1,6 +1,8 @@
 ---
 title: "Flexitarianism"
 date: "2020-06-21"
+tags: ["Living"]
+fav: true
 ---
 
 ![vegan patty grill next to actual meat steaks](images/vegan-patty-grill.jpg)
@@ -21,3 +23,5 @@ This is why I'm a flexitarian, and probably will be for the rest of my life.
 ---
 
 _Sunday, 21 June 2020, in the courtyard finishing a bottle of Augustinerbräu Lagerbier._
+
+By the way, in 2018, I [declared](/2018-06-22-why-im-going-vegetarian/) that I was going vegetarian.
