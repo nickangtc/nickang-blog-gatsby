@@ -94,31 +94,31 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
           content: location.href,
         },
         {
-          property: `twitter:url`,
+          name: `twitter:url`,
           content: location.href,
         },
         {
-          property: `twitter:card`,
+          name: `twitter:card`,
           content: `summary_large_image`,
         },
         {
-          property: `twitter:creator`,
+          name: `twitter:creator`,
           content: `@${site.siteMetadata.social.twitter}`,
         },
         {
-          property: `twitter:site`,
+          name: `twitter:site`,
           content: `@${site.siteMetadata.social.twitter}`,
         },
         {
-          property: `twitter:image`,
+          name: `twitter:image`,
           content: twitterCardPic,
         },
         {
-          property: `twitter:title`,
+          name: `twitter:title`,
           content: title,
         },
         {
-          property: `twitter:description`,
+          name: `twitter:description`,
           content: metaDescription,
         },
         {
