@@ -8,6 +8,7 @@ import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 import profilePic from '../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg'
+import twitterCardPic from '../../content/assets/nickang-twitter-large-card.png'
 
 const SearchEngineOptimisation = ({ description, lang, meta, title, location }) => {
   const { site } = useStaticQuery(
@@ -98,7 +99,7 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
         },
         {
           property: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           property: `twitter:creator`,
@@ -110,7 +111,7 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
         },
         {
           property: `twitter:image`,
-          content: profilePic,
+          content: twitterCardPic,
         },
         {
           property: `twitter:title`,
