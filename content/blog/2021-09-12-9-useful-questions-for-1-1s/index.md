@@ -68,6 +68,13 @@ A framework I always refer back to is a Venn diagram that guides our internal hi
 
 At any time, an employee may feel like the work they have recently done does not hit the sweet spot of leveraging their competitive advantage, aligning with their current motivations, and maximising their impact on the company. Talking about how you're feeling about work is how your manager can realise this and see how he can help. That could be anything from doing an online course in a new area of expertise, finding an exciting new project, or seeking a new role in the company.
 
+### 5b. (Bonus) What can I do to help you grow in X?
+
+This is a question that one of my programming teachers, [Ahnaf Siddiqi](https://www.linkedin.com/in/aporan/), mentioned to me when he read the original post. I thought it's a great question. In his words:
+
+> I usually try to find the motivation of the devs in the team. **After all, if they are eager to do something, they'll do it by themselves.** I want to find out, what is it that they want to do: a new tooling, take lead in some activity (programming or otherwise), solve internal company problem so that devs themselves can take the next step in their career.
+> 
+> And then, if there is any way i could allow them to do so, i try my best. That way, i can keep them motivated. Although, as usual, there are always those who are happy with what they are doing, and for them, it just becomes a fun conversation.
 ### 6. How are you feeling about life outside of work? 
 
 I see this question as a continuation of the previous one, except it focuses on uncovering the true motivation part of the Venn diagram. 
@@ -89,3 +96,4 @@ No? Why not? You should! :)
 Hearing what you're planning to work on, your manager can provide suggestions on approach, point out potential blind spots, reconsider assumptions made, share relevant resources, offer to do something that could ensure smooth passage, and so on.
 
 As a manager, I find that it helps to know the broad strokes of work that each of my direct reports will make in the coming weeks because then I can have an overview of the team's work, prevent duplicate work, draw connections among related tasks, and so on. Again, this is about being a multiplier on the team's output.
+
