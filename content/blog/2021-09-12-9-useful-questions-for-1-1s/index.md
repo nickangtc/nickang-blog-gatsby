@@ -61,12 +61,9 @@ This only works if your manager knows the blockers. Hence, the relevance of the 
 
 This is about morale. Your manager probably wants to know if you're feeling uninspired or otherwise in a rut, so that he can find the root cause and, if it is fixable, fix it. If it's not fixable directly, he might at least be able to help think of a workaround.
 
-A framework I always refer back to is a Venn diagram that guides our internal hiring process at [Smartly.io](https://smartly.io). It consists of three circles: competitive advantage, true motivation, and impact for the company:
+A framework I always use is a Venn diagram that guides our internal hiring process at [Smartly.io](https://smartly.io). It consists of three circles: competitive advantage, true motivation, and impact for the company. When all three overlap, magic happens!
 
-![a Venn diagram depicting employer-employee symbiosis](/images/employer-employee-symbiosis.png)
-*I call this the magic of employer-employee symbiosis!*
-
-At any time, an employee may feel like the work they have recently done does not hit the sweet spot of leveraging their competitive advantage, aligning with their current motivations, and maximising their impact on the company. Talking about how you're feeling about work is how your manager can realise this and see how he can help. That could be anything from doing an online course in a new area of expertise, finding an exciting new project, or seeking a new role in the company.
+At any time, an employee may feel like the work they have recently done does not hit the [sweet spot](/2021-10-17-employment-sweet-spot/)) of leveraging their competitive advantage, aligning with their current motivations, and maximising their impact on the company. Talking about how you're feeling about work is how your manager can realise this and see how he can help. That could be anything from doing an online course in a new area of expertise, finding an exciting new project, or seeking a new role in the company.
 
 ### 5b. (Bonus) What can I do to help you grow in X?
 
