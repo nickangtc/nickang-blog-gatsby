@@ -1,11 +1,11 @@
 {
   "name": "nickang-blog-gatsby",
-  "private": true,
+  "private": false,
   "description": "nickang.com blog powered by Gatsby and Markdown",
   "version": "1.0.0",
   "author": "Nick Ang",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/nickangtc/nickang-gatsby/issues"
   },
   "dependencies": {
     "gatsby": "^3.4.2",
@@ -60,5 +60,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "engines": {
+    "npm": "v6.14.12"
   }
 }
