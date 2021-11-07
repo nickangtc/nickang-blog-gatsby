@@ -2,7 +2,7 @@
 title: "Why I'm active on Instagram again"
 date: "2021-11-07"
 excerpt: 
-tags: []
+tags: ["Creativity", "Living"]
 fav: false
 ---
 
