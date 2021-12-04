@@ -14,6 +14,8 @@ Whenever I posted, I pegged too much of my self-worth to the engagement I receiv
 
 But for the last 3 weeks, I've used [my IG account](https://www.instagram.com/nickangtc/) (it's currently set to public) as a place to visually document my life and it has gone better than expected. I wanted to reflect on that.
 
+Also, just to put it out there, all of this is slightly ironic given that two months ago I wrote about [retreating](/2021-09-19-retreat/) from social media even further. Turns out, my reasoning in both articles are compatible, so it's not actually ironic.
+
 ## Looking back, made simple
 While I disliked the side effects of being active on IG, I loved the fact that I could revisit my memories anytime on any device. I've also on several occasions shared links to specific posts with friends to remind *them* of our shared memories. I have to admit, I visit my profile a lot because I have a terrible memory and my IG profile serves as a digital manifestation of a memory lane, albeit a selective one.
 

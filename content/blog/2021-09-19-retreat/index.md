@@ -30,3 +30,7 @@ As I said, I love having deep connections that arise from one-to-one conversatio
 I will continue to post once weekly on this blog as I have over the last year and half as it continues to be my space for thinking and sharing broadly things that I'm working on and things that I believe matter. This blog works completely differently from social media in that it has no commenting feature and that when a new post goes live, it either goes up quietly, or it lands in your email where you can read and reply to me directly and privately.
 
 Ciao!
+
+---
+
+Update (7 Nov 2021): I've started to use Instagram again, but I hold on to the same principles as above. See [Why I'm active on Instagram again](/2021-11-07-why-active-on-instagram-again/).
