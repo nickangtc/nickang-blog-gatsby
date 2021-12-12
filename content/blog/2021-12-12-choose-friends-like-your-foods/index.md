@@ -1,10 +1,10 @@
 ---
-title: "Why and how to think of your friends as foods"
+title: "Choose friends like your foods"
 date: "2021-12-12"
 planted-date: "2021-12-12"
 last-tended: "2021-12-12"
 maturity-1-2-3: 2
-excerpt: "You are probably in a better position to choose your friends than your foods. Food? People? Now there's a mental model that could help!"
+excerpt: "Food can be healthy and enjoyable. So should your friends."
 tags: ["Living"]
 fav: true
 ---
