@@ -9,20 +9,33 @@ const CreativityPage = ({ data, location }) => {
   const creativityPosts = data.allMarkdownRemark.edges.map((post, index) => {
     return (
       <li key={index}>
-        { post.node.frontmatter.date } - <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
-        { post.node.frontmatter.fav && (<span role="img" aria-label="fire emoji indicating this article is a favourite"> 🔥</span>) }
+        {post.node.frontmatter.date} -{" "}
+        <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
+        {post.node.frontmatter.fav && (
+          <span
+            role="img"
+            aria-label="fire emoji indicating this article is a favourite"
+          >
+            {" "}
+            🔥
+          </span>
+        )}
       </li>
     )
   })
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Creativity Articles" location={location} />
+      <SearchEngineOptimisation
+        title="Creativity Articles"
+        location={location}
+      />
       <h1>Creativity articles</h1>
-      <p>Articles about writing, blogging, visual thinking, problem solving, and just about anything creative.</p>
-      <ul>
-        { creativityPosts }
-      </ul>
+      <p>
+        Articles about writing, blogging, visual thinking, problem solving, and
+        just about anything creative.
+      </p>
+      <ul>{creativityPosts}</ul>
     </Layout>
   )
 }
