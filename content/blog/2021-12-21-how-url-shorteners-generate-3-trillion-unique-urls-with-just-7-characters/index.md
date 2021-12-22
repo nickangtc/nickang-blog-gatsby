@@ -13,7 +13,7 @@ Turns out, it's by expanding the way we count, from 0-10 to 0-62!
 
 (Correction: I said 9 characters in the video, but 0-9 has 10 characters. The big numbers must be mushing my brain.)
 
-<video controls width="500">
+<video controls width="350">
     <source src="/images/url-shortener-base-62-counting.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.

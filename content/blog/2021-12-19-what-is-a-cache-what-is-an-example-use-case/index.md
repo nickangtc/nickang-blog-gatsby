@@ -13,7 +13,7 @@ New project. Sharing a new technical learning everyday! Inspired by the tenaciou
 
 I explain it in a video (the image above is just a screenshot of what I sketched in that video):
 
-<video controls width="500">
+<video controls width="350">
     <source src="/images/1-what-is-cache.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
