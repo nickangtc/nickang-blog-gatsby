@@ -3,10 +3,16 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
-import { date, article, excerpt, postsNav, titleStyle } from "./blog-list.module.scss"
+import {
+  date,
+  article,
+  excerpt,
+  postsNav,
+  titleStyle,
+} from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
-  const pathname = '/blog'
+  const pathname = "/blog"
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
@@ -16,7 +22,7 @@ const BlogList = ({ data, location, pageContext }) => {
   const isLast = currentPage === numPages
 
   const nextPage = `${pathname}/${(currentPage + 1).toString()}`
-  let prevPage = isFirst ? '/' : `${pathname}/${(currentPage - 1).toString()}`
+  let prevPage = isFirst ? "/" : `${pathname}/${(currentPage - 1).toString()}`
   if (isSecond) {
     // /blog/1 is invalid => /blog is the correct 1st page
     prevPage = pathname
@@ -30,20 +36,20 @@ const BlogList = ({ data, location, pageContext }) => {
 
         return (
           <span key={node.fields.slug}>
-            <article className={ article }>
+            <article className={article}>
               <header>
-                <h1 className={ titleStyle }>
-                  <Link to={node.fields.slug}>
-                    {title}
-                  </Link>
+                <h1 className={titleStyle}>
+                  <Link to={node.fields.slug}>{title}</Link>
                 </h1>
-                <time dateTime={ node.frontmatter.date } className={ date }>{ node.frontmatter.date }</time>
+                <time dateTime={node.frontmatter.date} className={date}>
+                  {node.frontmatter.date}
+                </time>
               </header>
               <p
                 dangerouslySetInnerHTML={{
-                  __html: node.html
+                  __html: node.html,
                 }}
-                className={ excerpt }
+                className={excerpt}
               />
             </article>
             <hr></hr>
@@ -52,20 +58,20 @@ const BlogList = ({ data, location, pageContext }) => {
       })}
 
       <nav>
-        <ul className={ postsNav }>
+        <ul className={postsNav}>
           <li>
             {!isFirst && (
-              <Link to={ prevPage } rel="prev">
+              <Link to={prevPage} rel="prev">
                 ← Newer posts
               </Link>
             )}
           </li>
           <li>
-            Page { currentPage } / { numPages }
+            Page {currentPage} / {numPages}
           </li>
           <li>
             {!isLast && (
-              <Link to={ nextPage } rel="next">
+              <Link to={nextPage} rel="next">
                 Older posts →
               </Link>
             )}
@@ -99,7 +105,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(fromNow: true)
             title
             excerpt
           }

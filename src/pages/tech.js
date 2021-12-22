@@ -9,8 +9,17 @@ const TechPage = ({ data, location }) => {
   const techPosts = data.allMarkdownRemark.edges.map((post, index) => {
     return (
       <li key={index}>
-        { post.node.frontmatter.date } - <Link to={ post.node.fields.slug }>{ post.node.frontmatter.title }</Link>
-        { post.node.frontmatter.fav && (<span role="img" aria-label="fire emoji indicating this article is a favourite"> 🔥</span>) }
+        {post.node.frontmatter.date} -{" "}
+        <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
+        {post.node.frontmatter.fav && (
+          <span
+            role="img"
+            aria-label="fire emoji indicating this article is a favourite"
+          >
+            {" "}
+            🔥
+          </span>
+        )}
       </li>
     )
   })
@@ -20,9 +29,7 @@ const TechPage = ({ data, location }) => {
       <SearchEngineOptimisation title="Tech Articles" location={location} />
       <h1>Tech articles</h1>
       <p>Articles about software engineering and web development.</p>
-      <ul>
-        { techPosts }
-      </ul>
+      <ul>{techPosts}</ul>
     </Layout>
   )
 }
@@ -48,7 +55,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             fav
-            date(formatString: "DD MMM YYYY")
+            date(fromNow: true)
           }
         }
       }

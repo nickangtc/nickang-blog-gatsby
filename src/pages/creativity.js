@@ -61,7 +61,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             fav
-            date(formatString: "DD MMM YYYY")
+            date(fromNow: true)
           }
         }
       }

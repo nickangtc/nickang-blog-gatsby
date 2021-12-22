@@ -4,9 +4,9 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
-const CommunicationPage = ({ data, location }) => {
+const EverydaysPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const communicationPosts = data.allMarkdownRemark.edges.map((post, index) => {
+  const everydaysPosts = data.allMarkdownRemark.edges.map((post, index) => {
     return (
       <li key={index}>
         {post.node.frontmatter.date} -{" "}
@@ -26,18 +26,20 @@ const CommunicationPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="Communication Articles"
-        location={location}
-      />
-      <h1>Communication articles</h1>
-      <p>Articles about mastering the art of communication.</p>
-      <ul>{communicationPosts}</ul>
+      <SearchEngineOptimisation title="Everydays" location={location} />
+      <h1>Everydays</h1>
+      <p>
+        Learning to suck less at programming with one software project or
+        learning everyday. Majorly inspired by{" "}
+        <a href="https://www.beeple-crap.com/everydays">Mike Winkelmann</a>'s
+        ongoing art project.
+      </p>
+      <ul>{everydaysPosts}</ul>
     </Layout>
   )
 }
 
-export default CommunicationPage
+export default EverydaysPage
 
 export const pageQuery = graphql`
   query {
@@ -47,7 +49,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: "Communication" } } }
+      filter: { frontmatter: { type: { in: "Everydays" } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
