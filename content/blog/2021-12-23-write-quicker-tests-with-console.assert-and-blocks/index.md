@@ -13,13 +13,9 @@ The second learning is that the built-in `console` object has an `assert` method
 
 Combine these two learnings and you have neat way to write quick and dirty tests in the same file as your implementation!
 
-<video controls width="350">
-    <source src="/images/console-assert-block-quick-testing.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
+(I faced issues pushing to github for deployment due to the size of the embedded video, so I removed it. You can still view it here: https://www.instagram.com/p/CX17n8LIDbG/)
 
-Here's the code block from the video with some annotations, which would still probably only makes sense if you viewed the video:
+Here's the code block from the video with some annotations:
 
 ```js
 /**
