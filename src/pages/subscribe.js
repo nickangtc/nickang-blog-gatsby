@@ -18,20 +18,11 @@ const SubscribePage = ({ data, location }) => {
       </p>
       <ul>
         <li>
-          Reflections on the process of running{" "}
-          <Link to="/everydays">Everydays</Link> and the{" "}
-          <a href="https://www.youtube.com/channel/UCaltHUOCehm4Ecl-oTGO2ww">
-            YouTube channel
-          </a>
-        </li>
-        <li>Freebies like the ebooks that I know I will eventually write</li>
-        <li>
-          Behind the scenes look at how I'm juggling my creator journey with
-          life and career{" "}
+          1 meaningful, unpolished idea (shortform) shared from my heart to
+          yours
         </li>
         <li>
-          ... and everything else in between. As usual, I'm making things up as
-          I go
+          2-3 things I have read/seen/heard about that I think are worth sharing
         </li>
       </ul>
       <p>
