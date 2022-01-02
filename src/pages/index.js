@@ -73,7 +73,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: { frontmatter: { status: { ne: "draft" } } }
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 8
+      limit: 20
     ) {
       edges {
         node {
