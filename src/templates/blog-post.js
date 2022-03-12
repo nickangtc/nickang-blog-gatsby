@@ -17,6 +17,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
 
+  const datesLine =
+    post.frontmatter.date_updated &&
+    post.frontmatter.date_updated !== post.frontmatter.date_published
+      ? `published: ${post.frontmatter.date_published} | updated: ${post.frontmatter.date_updated}`
+      : `published: ${post.frontmatter.date_published}`
+
   return (
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation
@@ -27,7 +33,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <article>
         <header>
           <h1 className={title}>{post.frontmatter.title}</h1>
-          <time className={date}>{post.frontmatter.date}</time>
+          <time className={date}>{datesLine}</time>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
@@ -115,7 +121,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "DD MMM YYYY")
+        date_published(formatString: "DD MMM YYYY")
+        date_updated(formatString: "DD MMM YYYY")
         excerpt
       }
     }

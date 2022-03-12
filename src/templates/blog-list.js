@@ -33,6 +33,11 @@ const BlogList = ({ data, location, pageContext }) => {
       <SearchEngineOptimisation title="Blog posts" location={location} />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
+        const datesLine =
+          node.frontmatter.date_updated &&
+          node.frontmatter.date_updated !== node.frontmatter.date_published
+            ? `published: ${node.frontmatter.date_published} | updated: ${node.frontmatter.date_updated}`
+            : `published: ${node.frontmatter.date_published}`
 
         return (
           <span key={node.fields.slug}>
@@ -41,9 +46,7 @@ const BlogList = ({ data, location, pageContext }) => {
                 <h1 className={titleStyle}>
                   <Link to={node.fields.slug}>{title}</Link>
                 </h1>
-                <time dateTime={node.frontmatter.date} className={date}>
-                  {node.frontmatter.date}
-                </time>
+                <time className={date}>{datesLine}</time>
               </header>
               <p
                 dangerouslySetInnerHTML={{
@@ -93,7 +96,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { status: { ne: "draft" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___date_published], order: DESC }
       limit: $limit
       skip: $skip
     ) {
@@ -105,7 +108,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMM YYYY")
+            date_published(formatString: "DD MMM YYYY")
             title
             excerpt
           }

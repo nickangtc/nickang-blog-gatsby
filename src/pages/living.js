@@ -9,7 +9,7 @@ const LivingPage = ({ data, location }) => {
   const livingPosts = data.allMarkdownRemark.edges.map((post, index) => {
     return (
       <li key={index}>
-        {post.node.frontmatter.date} -{" "}
+        {post.node.frontmatter.date_published} -{" "}
         <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
         {post.node.frontmatter.fav && (
           <span
@@ -45,7 +45,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { tags: { in: "Living" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___date_published], order: DESC }
     ) {
       edges {
         node {
@@ -55,7 +55,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             fav
-            date(formatString: "DD MMM YYYY")
+            date_published(formatString: "DD MMM YYYY")
           }
         }
       }
