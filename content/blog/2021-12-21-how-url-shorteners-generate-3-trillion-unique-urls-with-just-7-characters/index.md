@@ -3,7 +3,6 @@ title: "How URL shorteners generate 3 trillion unique URLs with just 7 character
 date_published: "2021-12-21"
 excerpt: "The answer is elegant: count up to 62 with base 62 counting!"
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 

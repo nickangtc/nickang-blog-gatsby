@@ -3,7 +3,6 @@ title: "Counting up in Binary"
 date_published: "2021-12-20"
 excerpt: "Not knowing how to count up in binary is not a big deal. But it is nice to know the ground you're standing on as an application developer!"
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 

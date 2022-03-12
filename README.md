@@ -29,4 +29,3 @@ List of unique topic tags:
 List of unique type tags:
 - **Book**
 - **Tutorial**
-- **Everydays**

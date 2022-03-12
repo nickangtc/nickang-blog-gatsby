@@ -3,7 +3,6 @@ title: "Write quicker tests with console.assert and blocks"
 date_published: "2021-12-23"
 excerpt: 
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 

@@ -64,10 +64,10 @@ const generatePostFolder = async function ({
 
     const frontmatter = `---
 title: "${postTitle}"
-date: "${date}"
+date_published: "${date}"
+date_updated: "${date}"
 excerpt: 
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 

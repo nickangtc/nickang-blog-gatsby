@@ -3,7 +3,6 @@ title: "My 2021 Annual Review"
 date_published: "2022-01-02"
 excerpt: 
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 

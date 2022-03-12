@@ -3,7 +3,6 @@ title: "What the duck is Duck Typing?"
 date_published: "2021-12-22"
 excerpt: 
 tags: ["Tech"]
-type: "Everydays"
 fav: false
 ---
 
