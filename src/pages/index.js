@@ -27,26 +27,24 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        I'm a developer, starting a new job in Feb 2022 (more on that soon). I
-        write broadly about what I learn and observe, but they seem to coalesce
-        around topics like technology, living a meaningful life, and
-        communicating well.
+        I'm a software engineer at Shopify. I write broadly about what I learn
+        and observe, which seem to coalesce around topics like technology,
+        living a meaningful life, and communicating well.
       </p>
       <p>
-        <s>I publish new articles every Sunday.</s> I publish essays here
-        whenever I have something to share with the world. For shorter, more raw
-        posts, head over to my <a href="https://learndaily.life">Learn Daily</a>{" "}
-        blog!
-      </p>
-      <p>
-        <Link to="/subscribe">Subscribe</Link> for free occasional updates. I
-        try to be helpful with each article I publish. If something you read
-        helped you, please <Link to="/contact">reach out</Link> and/or{" "}
-        <a target="_blank" rel="noreferrer" href={`https://ko-fi.com/nickang`}>
-          buy me a coffee
+        I used to publish new articles here every week but I've since changed to
+        publishing essays whenever I have something to share. Currently I also
+        write shorter, software engineering related notes in the{" "}
+        <a href="https://medium.com/re-engineering">
+          re-engineering publication on Medium
         </a>
-        ! If you're new here and not sure where to start, I recommend reading
-        something recent below or <Link to="/topics">browsing by topic</Link>.
+        .{" "}
+      </p>
+      <p>
+        If you like the stuff on here, <Link to="/subscribe">subscribe</Link>{" "}
+        for free occasional updates. If you're new here and not sure where to
+        start, I recommend reading something recent below or{" "}
+        <Link to="/topics">browsing by topic</Link>.
       </p>
 
       <h3>Recent articles</h3>

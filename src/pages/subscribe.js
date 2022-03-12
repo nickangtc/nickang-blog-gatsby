@@ -14,17 +14,9 @@ const SubscribePage = ({ data, location }) => {
       <p>
         If you enjoy reading this blog, you might like the{" "}
         <strong>Heart to Heart newsletter</strong>. When it lands in your inbox,
-        you can expect:
+        expect straight talk and links to some of the things I've recently found
+        interesting.
       </p>
-      <ul>
-        <li>
-          1 meaningful, unpolished idea (shortform) shared from my heart to
-          yours
-        </li>
-        <li>
-          2-3 things I have read/seen/heard about that I think are worth sharing
-        </li>
-      </ul>
       <p>
         You can find previous issues{" "}
         <a
