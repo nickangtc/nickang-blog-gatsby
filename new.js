@@ -49,7 +49,7 @@ const generatePostFolder = async function ({
 }) {
   const blogDir = __dirname + "/content/blog"
   const date = getCurrentDate()
-  const newPostDir = `${blogDir}/${date}-${postTitle
+  const newPostDir = `${blogDir}/${postTitle
     .toLowerCase()
     .split(" ")
     .join("-")}`
@@ -65,7 +65,7 @@ const generatePostFolder = async function ({
     const frontmatter = `---
 title: "${postTitle}"
 date_published: "${date}"
-date_updated:
+date_updated: "${date}"
 excerpt: 
 tags: ["Tech"]
 fav: false
