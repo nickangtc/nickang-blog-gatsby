@@ -26,9 +26,10 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        I'm a software engineer at Shopify. I write broadly about what I learn
-        and observe, which seem to coalesce around topics like technology,
-        living a meaningful life, and communicating well.
+        I'm a senior software engineer at{" "}
+        <a href="https://www.shopify.com/">Shopify</a>. I write broadly about
+        what I learn and observe, which seem to coalesce around topics like
+        technology, living a meaningful life, and communicating well.
       </p>
       <p>
         I used to publish new articles here every week but I've since changed to
