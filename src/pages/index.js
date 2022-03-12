@@ -11,7 +11,6 @@ const HomePage = ({ data, location }) => {
   const newestPosts = newestPostsData.map((post, index) => {
     return (
       <li key={index}>
-        {post.node.frontmatter.date_published} -{" "}
         <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
       </li>
     )
@@ -72,7 +71,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: { frontmatter: { status: { ne: "draft" } } }
       sort: { fields: [frontmatter___date_published], order: DESC }
-      limit: 20
+      limit: 10
     ) {
       edges {
         node {
@@ -81,7 +80,6 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            date_published(formatString: "DD MMM YYYY")
           }
         }
       }
