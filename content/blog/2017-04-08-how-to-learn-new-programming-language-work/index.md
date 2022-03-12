@@ -1,6 +1,6 @@
 ---
 title: "The better way to approach a new programming language at work"
-date: "2017-04-08"
+date_published: "2017-04-08"
 tags: ["Tech"]
 ---
 

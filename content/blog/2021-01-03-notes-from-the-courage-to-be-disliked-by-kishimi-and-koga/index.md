@@ -1,6 +1,6 @@
 ---
 title: "Notes from The Courage to Be Disliked by Kishimi and Koga"
-date: "2021-01-03"
+date_published: "2021-01-03"
 excerpt: Nick's notes from reading The Courage to Be Disliked.
 tags: ["Book"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ulcer"
-date: "2021-06-13"
+date_published: "2021-06-13"
 excerpt: "I bit myself and developed an ulcer for the hundredth time. What's wrong?"
 tags: ["Living"]
 ---

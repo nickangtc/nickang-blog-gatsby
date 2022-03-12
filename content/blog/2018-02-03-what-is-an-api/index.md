@@ -1,6 +1,6 @@
 ---
 title: "What is an API?"
-date: "2018-02-03"
+date_published: "2018-02-03"
 tags: ["Tech"]
 ---
 

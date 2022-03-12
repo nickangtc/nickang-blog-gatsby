@@ -1,6 +1,6 @@
 ---
 title: "The Art of Living Deliberately"
-date: "2018-04-21"
+date_published: "2018-04-21"
 ---
 
 https://www.instagram.com/p/Bh0ieM_nTpU

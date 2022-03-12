@@ -1,6 +1,6 @@
 ---
 title: "Conceptual overview of Jest Enzyme testing"
-date: "2018-01-05"
+date_published: "2018-01-05"
 tags: ["Tech"]
 ---
 

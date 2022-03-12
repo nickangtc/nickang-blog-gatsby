@@ -1,6 +1,6 @@
 ---
 title: "How to compress PDFs for free using Ghostscript"
-date: "2021-05-10"
+date_published: "2021-05-10"
 excerpt: "Faced with a limited file size upload? Compress your file for free using the copyleft licensed software Ghostscript."
 tags: ["Tutorial", "Tech"]
 ---

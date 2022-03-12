@@ -1,6 +1,6 @@
 ---
 title: "One big difference between CS and non-CS software engineers"
-date: "2018-01-02"
+date_published: "2018-01-02"
 tags: ["Tech"]
 ---
 

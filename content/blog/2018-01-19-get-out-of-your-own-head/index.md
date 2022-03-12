@@ -1,6 +1,6 @@
 ---
 title: "Get out of your own head"
-date: "2018-01-19"
+date_published: "2018-01-19"
 ---
 
 That's the no bullshit name of a chapter in [_Ego Is The Enemy_](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818) by Ryan Holiday that I'd read today. It's one of the best chapters in what I can tell so far as a very useful book.

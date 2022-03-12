@@ -1,6 +1,6 @@
 ---
 title: "Accepting that I have a bad neighbour"
-date: "2018-09-02"
+date_published: "2018-09-02"
 ---
 
 ![frustrated nick ang blog](images/chuttersnap-135797-unsplash.jpg)

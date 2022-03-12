@@ -1,6 +1,6 @@
 ---
 title: "The flash of unstyled text"
-date: "2016-12-15"
+date_published: "2016-12-15"
 tags: ["Tech"]
 ---
 

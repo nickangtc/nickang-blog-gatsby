@@ -1,6 +1,6 @@
 ---
 title: "Laptops are not the best for writing"
-date: "2019-05-11"
+date_published: "2019-05-11"
 ---
 
 ![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) Photo by NordWood Themes

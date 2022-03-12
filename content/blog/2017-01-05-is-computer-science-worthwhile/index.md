@@ -1,6 +1,6 @@
 ---
 title: "Is it worthwhile doing computer science?"
-date: "2017-01-05"
+date_published: "2017-01-05"
 tags: ["Tech"]
 ---
 

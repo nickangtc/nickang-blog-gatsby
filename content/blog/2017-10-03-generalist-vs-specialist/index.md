@@ -1,6 +1,6 @@
 ---
 title: "Generalist vs Specialist"
-date: "2017-10-03"
+date_published: "2017-10-03"
 tags: ["Tech"]
 fav: true
 ---

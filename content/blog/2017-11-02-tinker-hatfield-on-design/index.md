@@ -1,6 +1,6 @@
 ---
 title: "Nike shoes designer Tinker Hatfield on design"
-date: "2017-11-02"
+date_published: "2017-11-02"
 ---
 
 ![tinker hatfield](images/tinker-hatfield-1.jpg) Tinker Hatfield and one of the sneakers he designed (I'd be surprised if that assumption is wrong)

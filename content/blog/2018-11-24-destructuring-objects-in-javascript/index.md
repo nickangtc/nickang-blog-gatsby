@@ -1,6 +1,6 @@
 ---
 title: "Destructuring objects in JavaScript"
-date: "2018-11-24"
+date_published: "2018-11-24"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Publish, even if you think no one is reading"
-date: "2017-01-02"
+date_published: "2017-01-02"
 ---
 
 As crowded as the internet is in 2017, anything well thought out and clearly written will be read, as long as it is discoverable.

@@ -1,6 +1,6 @@
 ---
 title: "First impressions of the Astrohaus Freewrite"
-date: "2019-12-15"
+date_published: "2019-12-15"
 ---
 
 ![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg)

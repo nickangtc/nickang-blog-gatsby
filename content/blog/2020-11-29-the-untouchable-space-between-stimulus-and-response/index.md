@@ -1,6 +1,6 @@
 ---
 title: "The Untouchable Space Between Stimulus and Response"
-date: "2020-11-29"
+date_published: "2020-11-29"
 ---
 
 One of my favourite quotes is by the Austrian psychologist and Holocaust survivor, Dr Viktor Frankl:

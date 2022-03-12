@@ -1,6 +1,6 @@
 ---
 title: "Why You Might Want to Disengage From Politics"
-date: "2020-11-22"
+date_published: "2020-11-22"
 ---
 
 Recently, I saw a tweet quoting a minister back home saying something that was supposedly incendiary. I did not get why as the words seemed innocuous when read without context. So I tweeted asking for context and I understood why some tweets later.

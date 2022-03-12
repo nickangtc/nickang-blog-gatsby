@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - A tool to prevent Mac from sleeping"
-date: "2017-10-23"
+date_published: "2017-10-23"
 ---
 
 ![woman sleeping in bed concealed under blanket with hand showing](images/BSP-prevent-mac-from-sleeping.png) Photo by elizabeth lies on Unsplash

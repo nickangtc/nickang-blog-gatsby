@@ -1,6 +1,6 @@
 ---
 title: "Reflecting on 100 days of daily meditation"
-date: "2020-08-02"
+date_published: "2020-08-02"
 ---
 
 This week I crossed the 100 day streak of meditating daily!

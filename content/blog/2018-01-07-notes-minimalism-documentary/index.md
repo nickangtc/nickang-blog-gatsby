@@ -1,6 +1,6 @@
 ---
 title: "Notes from watching Minimalism documentary"
-date: "2018-01-07"
+date_published: "2018-01-07"
 ---
 
 ![minimalism documentary poster](images/p12124131_p_v7_aa-200x300.jpg)

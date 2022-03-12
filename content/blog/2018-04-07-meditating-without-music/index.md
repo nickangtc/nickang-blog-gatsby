@@ -1,6 +1,6 @@
 ---
 title: "Meditating without music"
-date: "2018-04-07"
+date_published: "2018-04-07"
 ---
 
 Having been meditating daily for a while now, I've finally made up my mind about the role of background music in meditation. For me, I prefer going without.

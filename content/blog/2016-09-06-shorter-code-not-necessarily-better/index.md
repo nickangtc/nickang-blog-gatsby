@@ -1,6 +1,6 @@
 ---
 title: "Shorter code is not necessarily better code"
-date: "2016-09-06"
+date_published: "2016-09-06"
 tags: ["Tech"]
 ---
 

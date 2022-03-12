@@ -1,6 +1,6 @@
 ---
 title: "Fierce and original in our work"
-date: "2017-10-04"
+date_published: "2017-10-04"
 ---
 
 ![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) Photo by Aarón Blanco Tejedor on Unsplash

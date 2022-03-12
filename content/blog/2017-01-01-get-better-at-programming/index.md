@@ -1,6 +1,6 @@
 ---
 title: "Different ways to get better at programming"
-date: "2017-01-01"
+date_published: "2017-01-01"
 tags: ["Tech"]
 ---
 

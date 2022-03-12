@@ -1,6 +1,6 @@
 ---
 title: Words matter
-date: "2020-04-29"
+date_published: "2020-04-29"
 excerpt: Inspired by a book and an article, I decided to write!
 ---
 

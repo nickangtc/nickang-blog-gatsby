@@ -1,6 +1,6 @@
 ---
 title: "Binary Search Tree explained"
-date: "2017-12-03"
+date_published: "2017-12-03"
 tags: ["Tech"]
 fav: true
 ---

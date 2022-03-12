@@ -1,6 +1,6 @@
 ---
 title: "Floss before brushing"
-date: "2018-12-04"
+date_published: "2018-12-04"
 ---
 
 ![Floss before brushing ](images/815cb50d-1e01-422d-82a5-f28dc79b14ce-7284-00000227c2209455.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "My Dog Brownie Might Be Buddha"
-date: "2016-03-31"
+date_published: "2016-03-31"
 ---
 
 Brownie, my toy poodle, might just be Buddha. I seriously think that to myself about once a week.

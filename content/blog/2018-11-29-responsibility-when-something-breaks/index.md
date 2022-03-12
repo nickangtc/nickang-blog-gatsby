@@ -1,6 +1,6 @@
 ---
 title: "Who's responsibility is it when something breaks?"
-date: "2018-11-29"
+date_published: "2018-11-29"
 ---
 
 ![Who's responsibility is it when something breaks?](images/responsibility-when-something-breaks-1024x683.jpg)

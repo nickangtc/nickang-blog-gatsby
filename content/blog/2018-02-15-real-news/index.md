@@ -1,6 +1,6 @@
 ---
 title: "Real news"
-date: "2018-02-15"
+date_published: "2018-02-15"
 ---
 
 I was in a Lyft ride in San Francisco city this afternoon when the news of the [school shooting in Florida](https://www.nytimes.com/2018/02/14/us/parkland-school-shooting.html) broke over the radio. Spawned from my ensuing conversation with my Lyft driver, a black woman in her 40s, about gun ownership, I started thinking about the way the news was reported over the air waves.

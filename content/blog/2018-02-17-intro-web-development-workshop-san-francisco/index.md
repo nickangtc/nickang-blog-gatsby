@@ -1,6 +1,6 @@
 ---
 title: "Intro to Web Development Workshop in San Francisco"
-date: "2018-02-17"
+date_published: "2018-02-17"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Visiting and evaluating Singapore"
-date: "2021-04-27"
+date_published: "2021-04-27"
 excerpt: "I'm going home for a visit and I will be evaluating everything with a brand new, outsider's perspective."
 tags: ["Living"]
 ---

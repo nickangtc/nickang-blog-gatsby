@@ -1,6 +1,6 @@
 ---
 title: "All the peace from within"
-date: "2018-08-12"
+date_published: "2018-08-12"
 ---
 
 ![boat quay nickang](images/boat-quay-nickang-1024x1024.jpg) In the morning making my way along the Singapore River to get to the gym

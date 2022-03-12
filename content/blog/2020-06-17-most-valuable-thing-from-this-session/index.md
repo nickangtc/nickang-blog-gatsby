@@ -1,6 +1,6 @@
 ---
 title: "What is the most valuable thing you got from this session?"
-date: "2020-06-17"
+date_published: "2020-06-17"
 ---
 
 I’m learning a bit of meeting rituals lately, and today I learned one that I know I will use a lot in the future. “What is the most valuable thing you got from this session?” is a question that creates a lot of value when asked at the end of a coaching session.

@@ -1,6 +1,6 @@
 ---
 title: "One month at Smartly!"
-date: "2018-06-30"
+date_published: "2018-06-30"
 ---
 
 ![smartly futurio june 2018](images/futurio-june-2018.jpg) My most unbelievable first week of work at Futurio 2018 in Haikkoo, Finland

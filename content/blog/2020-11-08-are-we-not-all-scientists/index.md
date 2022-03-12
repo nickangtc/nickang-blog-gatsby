@@ -1,6 +1,6 @@
 ---
 title: "Are we not all scientists?"
-date: "2020-11-08"
+date_published: "2020-11-08"
 ---
 
 We are all very scientific, each of us, even if we don’t necessarily think about ourselves as scientists.

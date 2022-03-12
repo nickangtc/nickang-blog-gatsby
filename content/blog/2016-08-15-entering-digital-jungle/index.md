@@ -1,6 +1,6 @@
 ---
 title: "Entering the digital jungle"
-date: "2016-08-15"
+date_published: "2016-08-15"
 tags: ["Tech"]
 ---
 

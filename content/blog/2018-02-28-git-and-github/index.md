@@ -1,6 +1,6 @@
 ---
 title: "All you need to know about Git and GitHub"
-date: "2018-02-28"
+date_published: "2018-02-28"
 tags: ["Tech"]
 ---
 

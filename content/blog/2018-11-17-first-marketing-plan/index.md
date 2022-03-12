@@ -1,6 +1,6 @@
 ---
 title: "Join me in executing my first marketing plan"
-date: "2018-11-17"
+date_published: "2018-11-17"
 ---
 
 ![executing my first marketing plan nick ang blog](images/executing-my-first-marketing-plan-nick-ang-blog.png)

@@ -1,6 +1,6 @@
 ---
 title: "Difference between let and var in JavaScript"
-date: "2018-03-19"
+date_published: "2018-03-19"
 tags: ["Tech"]
 ---
 

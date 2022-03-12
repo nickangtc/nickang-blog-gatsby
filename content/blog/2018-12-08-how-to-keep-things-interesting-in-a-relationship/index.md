@@ -1,6 +1,6 @@
 ---
 title: "How to keep things interesting in a relationship"
-date: "2018-12-08"
+date_published: "2018-12-08"
 tags: ["Communication"]
 ---
 

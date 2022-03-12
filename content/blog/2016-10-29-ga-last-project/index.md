@@ -1,6 +1,6 @@
 ---
 title: "One last project at GA"
-date: "2016-10-29"
+date_published: "2016-10-29"
 tags: ["Tech"]
 ---
 

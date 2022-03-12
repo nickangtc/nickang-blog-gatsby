@@ -1,6 +1,6 @@
 ---
 title: "Be whacky and compel feedback"
-date: "2020-05-27"
+date_published: "2020-05-27"
 ---
 
 I like feedback. No, let me make that clearer: I *love* feedback. When I receive it, I’m presented with an opportunity to grow. When I give it, I in turn offer that opportunity to someone. Feedback makes us better people.

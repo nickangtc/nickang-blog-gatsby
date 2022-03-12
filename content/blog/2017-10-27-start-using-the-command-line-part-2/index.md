@@ -1,6 +1,6 @@
 ---
 title: "How to start using the command line (part 2)"
-date: "2017-10-27"
+date_published: "2017-10-27"
 tags: ["Tech"]
 ---
 

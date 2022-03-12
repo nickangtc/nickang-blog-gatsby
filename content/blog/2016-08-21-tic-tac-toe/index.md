@@ -1,6 +1,6 @@
 ---
 title: "My first game of Tic Tac Toe!"
-date: "2016-08-21"
+date_published: "2016-08-21"
 tags: ["Tech"]
 ---
 

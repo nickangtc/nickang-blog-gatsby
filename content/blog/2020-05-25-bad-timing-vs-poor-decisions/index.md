@@ -1,6 +1,6 @@
 ---
 title: Bad timing vs poor decisions
-date: "2020-05-25"
+date_published: "2020-05-25"
 ---
 
 A pandemic brings the global economy to its knees when you had *just* moved to a new city in a new continent, ready to explore? That’s bad timing, and it is happening to me now.

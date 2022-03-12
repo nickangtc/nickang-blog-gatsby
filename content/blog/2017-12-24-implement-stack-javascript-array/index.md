@@ -1,6 +1,6 @@
 ---
 title: "Why implement Stack in JavaScript when you have Array?"
-date: "2017-12-24"
+date_published: "2017-12-24"
 tags: ["Tech"]
 ---
 

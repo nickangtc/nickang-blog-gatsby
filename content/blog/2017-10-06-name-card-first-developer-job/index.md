@@ -1,6 +1,6 @@
 ---
 title: "The name card I used to get my first developer job"
-date: "2017-10-06"
+date_published: "2017-10-06"
 tags: ["Tech"]
 ---
 

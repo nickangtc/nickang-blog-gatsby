@@ -1,6 +1,6 @@
 ---
 title: "Wait less do more"
-date: "2016-11-25"
+date_published: "2016-11-25"
 ---
 
 After doing the work--to follow up on a lead or apply for a job--it easily feels like we deserve an answer. That we have cast the net and now we should expect some fishes to swim right in...

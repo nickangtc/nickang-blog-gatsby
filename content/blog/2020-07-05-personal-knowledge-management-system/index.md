@@ -1,6 +1,6 @@
 ---
 title: "What is a Personal Knowledge Management system (PKM)?"
-date: "2020-07-05"
+date_published: "2020-07-05"
 tags: ["PKM"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "What I learned asking 120 people about my writing"
-date: "2021-11-01"
+date_published: "2021-11-01"
 excerpt: 
 tags: ["Creativity"]
 fav: false

@@ -1,6 +1,6 @@
 ---
 title: "Why I'm going vegetarian"
-date: "2018-06-22"
+date_published: "2018-06-22"
 tags: ["Living"]
 fav: true
 ---

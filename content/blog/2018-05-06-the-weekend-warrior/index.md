@@ -1,6 +1,6 @@
 ---
 title: "The weekend warrior"
-date: "2018-05-06"
+date_published: "2018-05-06"
 ---
 
 ![weekend warrior nickang sketch](images/weekend-warrior-nickang-sketch-1024x768.png)

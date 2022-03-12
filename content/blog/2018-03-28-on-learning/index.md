@@ -1,6 +1,6 @@
 ---
 title: "On learning"
-date: "2018-03-28"
+date_published: "2018-03-28"
 ---
 
 No matter how many posts covering how many topics in however much depth that I write and publish here, they will only ever add up to an infinitesimally tiny fraction of all there is to know in this world.

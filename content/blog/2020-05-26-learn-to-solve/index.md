@@ -1,6 +1,6 @@
 ---
 title: "Learn to solve"
-date: "2020-05-26"
+date_published: "2020-05-26"
 excerpt: "Technical understanding helps to solve problems, sometimes without involving any code at all."
 tags: ["Tech"]
 fav: true

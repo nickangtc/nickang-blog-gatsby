@@ -1,6 +1,6 @@
 ---
 title: "Bubble sort explained"
-date: "2017-12-16"
+date_published: "2017-12-16"
 tags: ["Tech"]
 ---
 

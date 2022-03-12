@@ -1,6 +1,6 @@
 ---
 title: "I wanna go home!"
-date: "2016-08-06"
+date_published: "2016-08-06"
 ---
 
 ![hong kong police mtr](images/DSCF7873_nickang_edited-1024x683.jpg)For the first time in my life I’m yearning to go home early from a vacation. The only time this has happened was when I was 12 and stuck in the never-ending Women’s Street in Hong Kong with my mother and sister. I guess I could blame it on women, or Hong Kong.

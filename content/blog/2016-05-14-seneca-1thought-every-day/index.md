@@ -1,6 +1,6 @@
 ---
 title: "Seneca: Stopping to digest one thought every day"
-date: "2016-05-14"
+date_published: "2016-05-14"
 ---
 
 Few things are consistent about me. I like change much more than most people are comfortable with, and I see that as a strength, not disadvantage.

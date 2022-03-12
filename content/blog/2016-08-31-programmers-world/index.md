@@ -1,6 +1,6 @@
 ---
 title: "Why programmers are always in their own world"
-date: "2016-08-31"
+date_published: "2016-08-31"
 ---
 
 ![programming staring at code](images/photo-1453060113865-968cea1ad53a-1024x683.jpeg)

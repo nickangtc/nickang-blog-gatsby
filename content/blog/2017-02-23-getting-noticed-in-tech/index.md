@@ -1,6 +1,6 @@
 ---
 title: "Get noticed in tech"
-date: "2017-02-23"
+date_published: "2017-02-23"
 ---
 
 What platform are you using to get noticed in tech?

@@ -1,6 +1,6 @@
 ---
 title: "He said, She said, But You Decide"
-date: "2020-12-06"
+date_published: "2020-12-06"
 tags: ["Communication"]
 ---
 

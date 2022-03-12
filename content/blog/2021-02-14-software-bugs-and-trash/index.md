@@ -1,6 +1,6 @@
 ---
 title: "Software bugs and trash"
-date: "2021-02-14"
+date_published: "2021-02-14"
 excerpt: "Software bugs are in many ways analogous to everyday trash."
 tags: ["Leadership", "Tech"]
 fav: true

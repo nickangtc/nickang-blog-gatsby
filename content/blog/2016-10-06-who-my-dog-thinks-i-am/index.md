@@ -1,6 +1,6 @@
 ---
 title: "Who my dog thinks I am"
-date: "2016-10-06"
+date_published: "2016-10-06"
 ---
 
 > God, please make me who my dog thinks I am!

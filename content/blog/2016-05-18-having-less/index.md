@@ -1,6 +1,6 @@
 ---
 title: "Having Less is Great"
-date: "2016-05-18"
+date_published: "2016-05-18"
 ---
 
 Stranded in the rain earlier today, I had time to kill. (That phrase should be illegal.)

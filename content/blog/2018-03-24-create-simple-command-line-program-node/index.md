@@ -1,6 +1,6 @@
 ---
 title: "How to create simple Command Line Program with Node"
-date: "2018-03-24"
+date_published: "2018-03-24"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cal Newport's \"So Good They Can't Ignore You\""
-date: "2016-03-06"
+date_published: "2016-03-06"
 tags: ["Book"]
 ---
 

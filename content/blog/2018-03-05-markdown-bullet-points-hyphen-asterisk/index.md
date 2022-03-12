@@ -1,6 +1,6 @@
 ---
 title: "Markdown bullet points - hyphen or asterisk?"
-date: "2018-03-05"
+date_published: "2018-03-05"
 ---
 
 Markdown is amazing. It's like HTML but much, much more readable and less work. But some things can get confusing, especially if there is more than one way to do the same thing. Bullet points--or unordered lists if you're a web developer--are one of those things.

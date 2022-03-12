@@ -1,6 +1,6 @@
 ---
 title: "Bye Inconsolata"
-date: "2018-02-20"
+date_published: "2018-02-20"
 ---
 
 ![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) The old typeface for this blog - bye Inconsolata!

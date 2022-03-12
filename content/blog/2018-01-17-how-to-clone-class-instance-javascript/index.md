@@ -1,6 +1,6 @@
 ---
 title: "How to clone class instance in JavaScript"
-date: "2018-01-17"
+date_published: "2018-01-17"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Kinda knowing Ruby on Rails"
-date: "2016-10-03"
+date_published: "2016-10-03"
 ---
 
 ![laptop with spectacles on it](images/photo-1456996290209-634ae6b8be31-1024x683.jpeg)

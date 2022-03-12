@@ -1,6 +1,6 @@
 ---
 title: '"Dad, have you always wanted to be a software engineer?"'
-date: "2021-04-10"
+date_published: "2021-04-10"
 excerpt: "One of many hard questions I'm imagining my daughter asking me in the future..."
 tags: ["Living", "Tech"]
 ---

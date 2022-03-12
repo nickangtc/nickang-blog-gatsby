@@ -1,6 +1,6 @@
 ---
 title: "Why programmers make visually ugly projects"
-date: "2016-09-08"
+date_published: "2016-09-08"
 tags: ["Tech"]
 fav: true
 ---

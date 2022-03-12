@@ -1,6 +1,6 @@
 ---
 title: "Why I took the longer route to give away things for free"
-date: "2021-08-08"
+date_published: "2021-08-08"
 excerpt: "You may feel, intuitively, that people undervalue free things. Me too. And it's because people are more likely to consume a product when they are aware of its costs."
 tags: 
 ---

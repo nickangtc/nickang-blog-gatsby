@@ -1,6 +1,6 @@
 ---
 title: "Don't do unhealthy work"
-date: "2016-08-13"
+date_published: "2016-08-13"
 tags: ["Living"]
 ---
 

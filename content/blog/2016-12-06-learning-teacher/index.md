@@ -1,6 +1,6 @@
 ---
 title: "Learning doesn't stop even when you become the teacher"
-date: "2016-12-06"
+date_published: "2016-12-06"
 ---
 
 I'm starting a new (short) chapter in my life as a teaching assistant at General Assembly Singapore. Actually, yesterday was my first day and it was great. Questions I used to ask myself are now aimed at me and my fellow instructors, and being able to answer most of them (well, it's still early to say) is satisfying because you know you've helped someone attain a clear understanding.

@@ -1,6 +1,6 @@
 ---
 title: "Oooh, Yeah! And... It's Gone"
-date: "2016-03-22"
+date_published: "2016-03-22"
 ---
 
 I’m trying to understand something…

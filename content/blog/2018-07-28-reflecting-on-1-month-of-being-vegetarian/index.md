@@ -1,6 +1,6 @@
 ---
 title: "Reflecting on 1 month of being vegetarian"
-date: "2018-07-28"
+date_published: "2018-07-28"
 ---
 
 ![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now

@@ -1,6 +1,6 @@
 ---
 title: What I learned from teaching colleagues how to code
-date: "2020-05-07"
+date_published: "2020-05-07"
 excerpt: An in-house technical bootcamp is highly valuable to the business, the employees who are participants, and the teacher (me).
 status: draft
 tags: ["Tech"]

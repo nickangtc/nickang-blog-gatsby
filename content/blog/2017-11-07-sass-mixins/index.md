@@ -1,6 +1,6 @@
 ---
 title: "Writing my first Sass mixins"
-date: "2017-11-07"
+date_published: "2017-11-07"
 ---
 
 ![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) Photo by Dmitri Popov on Unsplash

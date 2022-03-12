@@ -1,6 +1,6 @@
 ---
 title: "How to think about marketing"
-date: "2017-01-03"
+date_published: "2017-01-03"
 ---
 
 You find yourself suddenly with the heavy responsibility of coming up with a marketing strategy for a tech company with a product you actually believe is going to be great for e-commerce businesses. What do you do?

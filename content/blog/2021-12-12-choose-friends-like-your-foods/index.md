@@ -1,7 +1,7 @@
 ---
 title: "Choose friends like your foods"
-date: "2021-12-12"
-planted-date: "2021-12-12"
+date_published: "2021-12-12"
+planted-date_published: "2021-12-12"
 last-tended: "2021-12-12"
 maturity-1-2-3: 2
 excerpt: "Food can be healthy and enjoyable. So should your friends."

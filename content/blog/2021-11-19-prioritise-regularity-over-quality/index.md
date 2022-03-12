@@ -1,6 +1,6 @@
 ---
 title: "Prioritise regularity over quality"
-date: "2021-11-19"
+date_published: "2021-11-19"
 excerpt: "Because it's impossible to not improve at something that you keep doing regularly."
 tags: ["Living"]
 fav: false

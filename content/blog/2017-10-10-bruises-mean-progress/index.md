@@ -1,6 +1,6 @@
 ---
 title: "Bruises mean progress"
-date: "2017-10-10"
+date_published: "2017-10-10"
 ---
 
 ![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) Photo by Solal Ohayon on Unsplash

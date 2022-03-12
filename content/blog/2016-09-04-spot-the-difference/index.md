@@ -1,6 +1,6 @@
 ---
 title: "What I learned making ‘Spot the difference’ game"
-date: "2016-09-04"
+date_published: "2016-09-04"
 ---
 
 ![brick wall](images/photo-1465210649170-0c88267775be-1024x682.jpg)

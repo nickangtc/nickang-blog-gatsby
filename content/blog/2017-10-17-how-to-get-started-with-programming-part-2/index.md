@@ -1,6 +1,6 @@
 ---
 title: "How to get started with programming (part 2)"
-date: "2017-10-17"
+date_published: "2017-10-17"
 tags: ["Tech"]
 ---
 

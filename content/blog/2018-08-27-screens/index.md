@@ -1,6 +1,6 @@
 ---
 title: "Screens"
-date: "2018-08-27"
+date_published: "2018-08-27"
 ---
 
 ![screens setup on a table nick ang blog](images/nikolay-tarashchenko-748663-unsplash.jpg)

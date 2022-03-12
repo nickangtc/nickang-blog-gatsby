@@ -1,6 +1,6 @@
 ---
 title: "Comparing mindfulness and caffeine"
-date: "2017-10-02"
+date_published: "2017-10-02"
 ---
 
 ![pouring coffee in cup](images/pouring-coffee-in-cup.jpg)

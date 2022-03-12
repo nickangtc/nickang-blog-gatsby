@@ -1,6 +1,6 @@
 ---
 title: "Selling better with machine learning"
-date: "2017-07-29"
+date_published: "2017-07-29"
 ---
 
 I'm a firm believer that you can only effectively sell if you know the thing you're selling.

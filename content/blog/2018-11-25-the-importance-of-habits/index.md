@@ -1,6 +1,6 @@
 ---
 title: "The importance of habits"
-date: "2018-11-25"
+date_published: "2018-11-25"
 ---
 
 [YouTube video link](https://www.youtube.com/watch?v=_HEnohs6yYw)

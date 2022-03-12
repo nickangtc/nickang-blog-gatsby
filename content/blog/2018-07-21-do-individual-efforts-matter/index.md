@@ -1,6 +1,6 @@
 ---
 title: "Do individual efforts matter in the grand scheme of things?"
-date: "2018-07-21"
+date_published: "2018-07-21"
 ---
 
 ![bowl story time instagram nick ang blog](images/bowl-story-time-instagram-nick-ang-blog.jpg) The bowl that changed my perspective

@@ -1,6 +1,6 @@
 ---
 title: "(US) The Gem of Dumbo and Faraway Friends"
-date: "2016-04-09"
+date_published: "2016-04-09"
 ---
 
 ![manhattan skyline](images/DSCF7235-1024x683.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Stop the self-inflicted misery!"
-date: "2016-10-05"
+date_published: "2016-10-05"
 ---
 
 ![two people lying side by side looking into each other's eyes](images/photo-1461009209120-103a8f970745-1024x683.jpeg)

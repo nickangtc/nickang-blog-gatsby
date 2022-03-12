@@ -1,6 +1,6 @@
 ---
 title: "Go meta"
-date: "2017-10-11"
+date_published: "2017-10-11"
 ---
 
 ![desert](images/mark-eder-310600-1024x683.jpg) Photo by Mark Eder on Unsplash

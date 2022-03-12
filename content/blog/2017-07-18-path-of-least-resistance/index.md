@@ -1,6 +1,6 @@
 ---
 title: "Path of least resistance"
-date: "2017-07-18"
+date_published: "2017-07-18"
 ---
 
 When you have a lot to think about, problems unresolved, what do you tend to do?

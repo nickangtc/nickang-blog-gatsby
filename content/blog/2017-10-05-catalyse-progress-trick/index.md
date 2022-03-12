@@ -1,6 +1,6 @@
 ---
 title: "A trick to catalyse progress"
-date: "2017-10-05"
+date_published: "2017-10-05"
 ---
 
 ![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) Photo by Mikito Tateisi on Unsplash

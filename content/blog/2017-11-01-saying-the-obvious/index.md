@@ -1,6 +1,6 @@
 ---
 title: "Saying the obvious"
-date: "2017-11-01"
+date_published: "2017-11-01"
 ---
 
 ![an arrow carved into the wall pointing a direction saying the obvious ](images/hello-i-m-nik-281498-1024x686.jpg) Photo by Hello I'm Nik on Unsplash

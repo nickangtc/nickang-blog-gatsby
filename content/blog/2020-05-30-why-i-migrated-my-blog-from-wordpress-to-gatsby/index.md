@@ -1,6 +1,6 @@
 ---
 title: "Why I migrated my blog from WordPress to Gatsby"
-date: "2020-05-30"
+date_published: "2020-05-30"
 tags: ["Tech"]
 ---
 

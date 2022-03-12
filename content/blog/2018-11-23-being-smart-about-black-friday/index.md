@@ -1,6 +1,6 @@
 ---
 title: "Being smart about Black Friday"
-date: "2018-11-23"
+date_published: "2018-11-23"
 ---
 
 ![Being smart about Black Friday](images/black-friday-nick-ang-blog.png)

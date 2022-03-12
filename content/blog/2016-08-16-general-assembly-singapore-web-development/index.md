@@ -1,6 +1,6 @@
 ---
 title: "Day 1 at General Assembly Singapore Web Development course"
-date: "2016-08-16"
+date_published: "2016-08-16"
 tags: ["Tech"]
 ---
 

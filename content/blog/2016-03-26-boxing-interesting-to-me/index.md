@@ -1,6 +1,6 @@
 ---
 title: "Ferriss, Fussman, Ali, Tyson: The Day I Became Fascinated By Boxing"
-date: "2016-03-26"
+date_published: "2016-03-26"
 ---
 
 It was 8:30pm when I entered into the Youtube search bar: “George Foreman vs Muhammad Ali”.

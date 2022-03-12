@@ -1,6 +1,6 @@
 ---
 title: "Experienced Developer does FreeCodeCamp's Web Development course (and explain everything)"
-date: "2020-03-21"
+date_published: "2020-03-21"
 tags: ["Tech"]
 ---
 

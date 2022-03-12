@@ -1,6 +1,6 @@
 ---
 title: "(US) 5 Days Before: Survival Mode On"
-date: "2016-03-31"
+date_published: "2016-03-31"
 ---
 
 ![2 Travellers, 2 Backpacks, 1 Month in the US!](images/backpacks-edited-1024x782.jpg)

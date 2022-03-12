@@ -1,6 +1,6 @@
 ---
 title: "Employment sweet spot"
-date: "2021-10-17"
+date_published: "2021-10-17"
 excerpt: "Symbiosis comes from overlapping competitive advantage, true motivation, and impact for the businesses."
 tags: ["Leadership"]
 fav: false

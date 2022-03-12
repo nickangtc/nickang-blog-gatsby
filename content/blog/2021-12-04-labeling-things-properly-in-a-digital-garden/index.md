@@ -1,6 +1,6 @@
 ---
 title: "Labeling things properly in a digital garden"
-date: "2021-12-04"
+date_published: "2021-12-04"
 excerpt: "Labeling posts by their maturity will help readers browse the digital garden with the right mindset, and so will you as you continue to create more posts."
 tags: ["Communication", "PKM"]
 fav: false

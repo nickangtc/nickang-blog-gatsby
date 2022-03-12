@@ -1,6 +1,6 @@
 ---
 title: "Remember your juxtaposition"
-date: "2016-08-11"
+date_published: "2016-08-11"
 ---
 
 We all compare. What some of us may not realise is how much we tend to compare ourselves with things and people _around_ us. That’s a pretty small radius.

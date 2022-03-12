@@ -1,6 +1,6 @@
 ---
 title: "The better way to console log"
-date: "2016-08-30"
+date_published: "2016-08-30"
 tags: ["Tech"]
 ---
 

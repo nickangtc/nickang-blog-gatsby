@@ -1,6 +1,6 @@
 ---
 title: "Ideas for a more thoughtful web"
-date: "2021-05-30"
+date_published: "2021-05-30"
 excerpt: "Disable comments, don't disseminate on social media, and always attribute credit."
 tags: ["Creativity", "Tech"]
 ---

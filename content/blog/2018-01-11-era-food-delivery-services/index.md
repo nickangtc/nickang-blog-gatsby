@@ -1,6 +1,6 @@
 ---
 title: "The era of food delivery services"
-date: "2018-01-11"
+date_published: "2018-01-11"
 ---
 
 ![fast food delivery](images/christopher-flowers-267934.jpg)

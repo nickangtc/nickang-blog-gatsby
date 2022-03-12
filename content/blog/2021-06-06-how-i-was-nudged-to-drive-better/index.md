@@ -1,6 +1,6 @@
 ---
 title: "How I was nudged to drive better"
-date: "2021-06-06"
+date_published: "2021-06-06"
 excerpt: "Nudge theory in action in a car dashboard."
 tags: ["Tech"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What We Mean When We Say 'Home Automation'"
-date: "2016-03-04"
+date_published: "2016-03-04"
 ---
 
 There are at least two kinds of home automation:

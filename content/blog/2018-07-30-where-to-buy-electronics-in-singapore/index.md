@@ -1,6 +1,6 @@
 ---
 title: "Where to buy electronics in Singapore"
-date: "2018-07-30"
+date_published: "2018-07-30"
 ---
 
 ![sim lim square and sim lim tower google maps screenshot](images/sim-Lim.jpg)

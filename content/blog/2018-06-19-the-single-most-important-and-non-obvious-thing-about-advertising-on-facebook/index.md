@@ -1,6 +1,6 @@
 ---
 title: "The single most non-obvious thing about advertising on Facebook"
-date: "2018-06-19"
+date_published: "2018-06-19"
 ---
 
 ![Facebook app on mobile nickang blog](images/tim-bennett-538189-unsplash-1024x768.jpg) Photo by Tim Bennett on Unsplash

@@ -1,6 +1,6 @@
 ---
 title: "Accepting Rails magic"
-date: "2016-10-08"
+date_published: "2016-10-08"
 ---
 
 This is the order we learned about web development:

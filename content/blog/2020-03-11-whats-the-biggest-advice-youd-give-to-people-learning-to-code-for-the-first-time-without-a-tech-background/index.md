@@ -1,6 +1,6 @@
 ---
 title: "What's the biggest advice you'd give to people learning to code for the first time without a tech background?"
-date: "2020-03-11"
+date_published: "2020-03-11"
 tags: ["Tech"]
 fav: true
 ---

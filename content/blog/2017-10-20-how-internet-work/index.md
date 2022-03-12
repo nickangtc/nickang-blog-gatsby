@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - How does the internet work?"
-date: "2017-10-20"
+date_published: "2017-10-20"
 tags: ["Tech"]
 ---
 

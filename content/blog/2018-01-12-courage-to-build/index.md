@@ -1,6 +1,6 @@
 ---
 title: "Regaining the courage to build"
-date: "2018-01-12"
+date_published: "2018-01-12"
 ---
 
 ![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash

@@ -1,6 +1,6 @@
 ---
 title: "Make iframe hyperlinks redirect correctly in main document"
-date: "2017-08-03"
+date_published: "2017-08-03"
 tags: ["Tech"]
 ---
 

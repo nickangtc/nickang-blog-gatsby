@@ -1,6 +1,6 @@
 ---
 title: "Algorithm time complexity and the Big O notation"
-date: "2017-11-15"
+date_published: "2017-11-15"
 tags: ["Tech"]
 fav: true
 ---

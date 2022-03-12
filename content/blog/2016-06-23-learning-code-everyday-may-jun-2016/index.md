@@ -1,6 +1,6 @@
 ---
 title: "My first full month of learning code everyday"
-date: "2016-06-23"
+date_published: "2016-06-23"
 ---
 
 A blink of an eye and it's been almost a month since I posted anything here.

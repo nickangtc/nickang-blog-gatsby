@@ -1,6 +1,6 @@
 ---
 title: "(US) Giant Sequoias and Other Surrealism in Yosemite"
-date: "2016-04-22"
+date_published: "2016-04-22"
 ---
 
 ![giant redwood tree](images/DSCF8396_edited-1024x683.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "It's not just JavaScript you're learning at that Bootcamp"
-date: "2016-12-30"
+date_published: "2016-12-30"
 tags: ["Tech"]
 ---
 

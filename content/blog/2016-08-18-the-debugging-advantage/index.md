@@ -1,6 +1,6 @@
 ---
 title: "The debugging advantage"
-date: "2016-08-18"
+date_published: "2016-08-18"
 tags: ["Tech"]
 ---
 

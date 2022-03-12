@@ -1,6 +1,6 @@
 ---
 title: "How a Daily Note fixed my note taking process"
-date: "2021-05-20"
+date_published: "2021-05-20"
 excerpt: "The biggest trouble with a digital note taking system is when you have to fumble and think where to put your idea down."
 tags: ["PKM"]
 ---

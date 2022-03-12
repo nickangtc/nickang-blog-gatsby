@@ -1,6 +1,6 @@
 ---
 title: "Showing up in the cellar"
-date: "2021-04-04"
+date_published: "2021-04-04"
 excerpt: "I showed up this morning, of all places, in the cellar to write my novel."
 tags: ["Creativity"]
 ---

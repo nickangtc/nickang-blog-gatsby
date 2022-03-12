@@ -1,6 +1,6 @@
 ---
 title: "A day in the life of a software developer"
-date: "2020-01-02"
+date_published: "2020-01-02"
 tags: ["Tech"]
 fav: true
 ---

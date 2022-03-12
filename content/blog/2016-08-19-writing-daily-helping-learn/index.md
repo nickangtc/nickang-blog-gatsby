@@ -1,6 +1,6 @@
 ---
 title: "How writing daily is helping me learn"
-date: "2016-08-19"
+date_published: "2016-08-19"
 tags: ["Tech"]
 ---
 

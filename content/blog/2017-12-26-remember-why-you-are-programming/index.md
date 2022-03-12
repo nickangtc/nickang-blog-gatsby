@@ -1,6 +1,6 @@
 ---
 title: "Remember why you are programming"
-date: "2017-12-26"
+date_published: "2017-12-26"
 tags: ["Tech"]
 ---
 

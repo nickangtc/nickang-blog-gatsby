@@ -1,6 +1,6 @@
 ---
 title: "Two simple adjustments to protect your eyes from eyestrain for computer workers"
-date: "2021-01-17"
+date_published: "2021-01-17"
 excerpt: "The solution is really simple - place your external monitor farther and enlarge the system's font size."
 tags: ["Living"]
 ---

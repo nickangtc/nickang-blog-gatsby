@@ -1,6 +1,6 @@
 ---
 title: "Flexitarianism"
-date: "2020-06-21"
+date_published: "2020-06-21"
 tags: ["Living"]
 fav: true
 ---

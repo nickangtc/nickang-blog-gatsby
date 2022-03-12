@@ -1,6 +1,6 @@
 ---
 title: "Specialist or Generalist?"
-date: "2021-10-10"
+date_published: "2021-10-10"
 excerpt: 
 tags: ["Tech"]
 fav: false

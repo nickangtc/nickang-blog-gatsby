@@ -1,6 +1,6 @@
 ---
 title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
-date: "2021-10-03"
+date_published: "2021-10-03"
 excerpt: "Two years already! I still love living in Berlin, a city of history and openness."
 tags: ["Living"]
 fav: true

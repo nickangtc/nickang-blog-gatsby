@@ -1,6 +1,6 @@
 ---
 title: "Word rafting"
-date: "2020-06-28"
+date_published: "2020-06-28"
 tags: ["Communication"]
 ---
 

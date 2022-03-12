@@ -1,6 +1,6 @@
 ---
 title: "Drone delivery"
-date: "2016-10-09"
+date_published: "2016-10-09"
 ---
 
 ![drone hovering over forest](images/drone-flying-1024x683.jpeg)

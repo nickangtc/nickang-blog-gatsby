@@ -1,6 +1,6 @@
 ---
 title: "My first purchase from a local bookstore - BooksActually"
-date: "2018-05-01"
+date_published: "2018-05-01"
 ---
 
 ![have phone will sketch book nickang blog](images/Have_Phone_Will_Paint-nickang-sketch.png) After hesitating a bit, I decided to pay for my first book by a local artist

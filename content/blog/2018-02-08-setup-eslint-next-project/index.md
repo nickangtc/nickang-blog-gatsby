@@ -1,6 +1,6 @@
 ---
 title: "How to setup ESLint for your next project"
-date: "2018-02-08"
+date_published: "2018-02-08"
 tags: ["Tech"]
 ---
 

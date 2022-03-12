@@ -1,6 +1,6 @@
 ---
 title: "Notes from watching 13th (documentary)"
-date: "2020-06-07"
+date_published: "2020-06-07"
 ---
 
 ![13th documentary poster](images/13th-poster.jpg)

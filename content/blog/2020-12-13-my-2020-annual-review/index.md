@@ -1,6 +1,6 @@
 ---
 title: "My 2020 Annual Review"
-date: "2020-12-13"
+date_published: "2020-12-13"
 ---
 
 This is the first time I am writing an Annual Review in this format. I’ve experimented with various formats over the last three years ([2017](/2017-12-31-new-years-resolution-2018/), [2018](/2018-12-29-my-favourite-posts-from-2018/), [2019](/2019-12-31-goals-for-2020/)) and I think it is time to bring some consistency into these year-end reflections.

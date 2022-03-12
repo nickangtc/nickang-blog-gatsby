@@ -1,6 +1,6 @@
 ---
 title: "Good weather and access to nature"
-date: "2019-02-23"
+date_published: "2019-02-23"
 ---
 
 ![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco

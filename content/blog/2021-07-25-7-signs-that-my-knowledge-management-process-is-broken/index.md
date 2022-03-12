@@ -1,6 +1,6 @@
 ---
 title: "7 Signs that my Knowledge Management process is broken"
-date: "2021-07-25"
+date_published: "2021-07-25"
 excerpt: "One word: discovery. Without a solid knowledge management process in place, I can still live. But with one, I think life could be more interesting because I would discover & understand much more."
 tags: ["Creativity", "PKM"]
 ---

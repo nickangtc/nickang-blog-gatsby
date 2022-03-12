@@ -1,6 +1,6 @@
 ---
 title: "How to implement a Linked List in JavaScript"
-date: "2017-11-18"
+date_published: "2017-11-18"
 tags: ["Tech"]
 fav: true
 ---

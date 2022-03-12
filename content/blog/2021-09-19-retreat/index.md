@@ -1,6 +1,6 @@
 ---
 title: "Retreat"
-date: "2021-09-19"
+date_published: "2021-09-19"
 excerpt: "I'm retreating from social media."
 tags: 
 ---

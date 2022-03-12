@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - How programmers are like doctors"
-date: "2017-10-24"
+date_published: "2017-10-24"
 tags: ["Tech"]
 ---
 

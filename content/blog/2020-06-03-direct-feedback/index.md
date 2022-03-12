@@ -1,6 +1,6 @@
 ---
 title: "Direct feedback"
-date: "2020-06-03"
+date_published: "2020-06-03"
 tags: ["Leadership", "Communication"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Is Google Sheets robust enough for downloading data?"
-date: "2020-03-04"
+date_published: "2020-03-04"
 tags: ["Tech"]
 ---
 

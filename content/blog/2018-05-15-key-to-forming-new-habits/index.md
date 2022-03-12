@@ -1,6 +1,6 @@
 ---
 title: "The key to forming new habits"
-date: "2018-05-15"
+date_published: "2018-05-15"
 ---
 
 ![single red rose against brick wall](images/masaaki-komori-582888-unsplash-1024x684.jpg) Photo by Masaaki Komori on Unsplash

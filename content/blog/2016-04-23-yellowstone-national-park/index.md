@@ -1,6 +1,6 @@
 ---
 title: "(US) Yellowstone National Park"
-date: "2016-04-23"
+date_published: "2016-04-23"
 ---
 
 ![Bisons sharing the road with us](images/DSCF8611_edited-1024x683.jpg) Bisons sharing the road with us

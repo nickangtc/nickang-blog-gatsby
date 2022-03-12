@@ -1,6 +1,6 @@
 ---
 title: "Raising a newborn in Berlin vs Singapore"
-date: "2021-05-15"
+date_published: "2021-05-15"
 excerpt: "This is speculative since our newborn hasn't yet arrived. But I believe we will be a happier family in Berlin."
 tags: ["Living"]
 ---

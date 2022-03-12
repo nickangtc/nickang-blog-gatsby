@@ -1,6 +1,6 @@
 ---
 title: "Why we should always make time for books"
-date: "2019-11-24"
+date_published: "2019-11-24"
 ---
 
 ![Why we should always make time for books](images/why-we-should-always-make-time-for-books-nick-ang-blog-2-1024x683.jpg) Photo by freddie marriage

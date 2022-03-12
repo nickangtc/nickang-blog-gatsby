@@ -1,6 +1,6 @@
 ---
 title: "Consumers are not stupid"
-date: "2017-08-14"
+date_published: "2017-08-14"
 ---
 
 Startups and established companies should not think for a moment that their users can be easily fooled. Users in 2017 are usually astute consumers who notice every detail about your product and brand.

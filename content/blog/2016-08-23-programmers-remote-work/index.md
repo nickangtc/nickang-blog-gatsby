@@ -1,6 +1,6 @@
 ---
 title: "How programmers work together from every part of the world"
-date: "2016-08-23"
+date_published: "2016-08-23"
 tags: ["Tech"]
 ---
 

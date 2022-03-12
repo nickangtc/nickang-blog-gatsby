@@ -1,6 +1,6 @@
 ---
 title: "Marketing feels dirty"
-date: "2020-05-28"
+date_published: "2020-05-28"
 ---
 
 Marketing feels dirty. When a model poses with a perfect smile, just so happening to be holding a product in her hand... that thought makes me uneasy.

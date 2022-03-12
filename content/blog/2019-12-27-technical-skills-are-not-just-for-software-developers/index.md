@@ -1,6 +1,6 @@
 ---
 title: "Technical skills are not just for software developers"
-date: "2019-12-27"
+date_published: "2019-12-27"
 tags: ["Tech"]
 fav: true
 ---

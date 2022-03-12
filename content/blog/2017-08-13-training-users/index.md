@@ -1,6 +1,6 @@
 ---
 title: "Training users to do the right thing"
-date: "2017-08-13"
+date_published: "2017-08-13"
 ---
 
 ![the dashboard of a Mitsubishi Mirage car with eco mode indicator on](images/driving_eco_mode-1024x768.jpg)

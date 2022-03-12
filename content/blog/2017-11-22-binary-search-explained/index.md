@@ -1,6 +1,6 @@
 ---
 title: "Binary Search explained"
-date: "2017-11-22"
+date_published: "2017-11-22"
 tags: ["Tech"]
 fav: true
 ---

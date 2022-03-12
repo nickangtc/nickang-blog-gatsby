@@ -1,6 +1,6 @@
 ---
 title: "Purchasing convenience (and justifying it)"
-date: "2021-06-27"
+date_published: "2021-06-27"
 excerpt: 
 tags: ["Living"]
 ---

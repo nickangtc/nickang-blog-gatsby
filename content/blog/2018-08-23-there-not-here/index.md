@@ -1,6 +1,6 @@
 ---
 title: "Wanting to be there and not here"
-date: "2018-08-23"
+date_published: "2018-08-23"
 ---
 
 ![there and not here nick ang blog](images/emma-frances-logan-142162-unsplash.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Reflecting on my 3-week work rotation in Helsinki"
-date: "2019-02-09"
+date_published: "2019-02-09"
 tags: ["Leadership", "Living"]
 ---
 

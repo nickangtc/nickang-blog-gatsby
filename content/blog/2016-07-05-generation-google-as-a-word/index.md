@@ -1,6 +1,6 @@
 ---
 title: "The generation that sees google as a word, not company"
-date: "2016-07-05"
+date_published: "2016-07-05"
 ---
 
 I had just left another hardware meet up (called Hackware) and I’m emanating inspiration now, so I thought I’d write it all down while things are fresh.

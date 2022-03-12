@@ -1,6 +1,6 @@
 ---
 title: "Whenever you think you are not good at something, ask yourself this"
-date: "2021-02-28"
+date_published: "2021-02-28"
 excerpt: "I have a tendency to evaluate myself too early. So I ask myself, have I put in time to get good at it?"
 tags: ["Leadership"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "You are not buying that with money"
-date: "2020-08-30"
+date_published: "2020-08-30"
 ---
 
 Most of us trade time for money. Do you deny it?

@@ -1,6 +1,6 @@
 ---
 title: "Why do some developers use Object.prototype.hasOwnProperty.call()?"
-date: "2018-02-04"
+date_published: "2018-02-04"
 tags: ["Tech"]
 ---
 

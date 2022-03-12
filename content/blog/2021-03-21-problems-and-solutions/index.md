@@ -1,6 +1,6 @@
 ---
 title: "Problems and solutions"
-date: "2021-03-21"
+date_published: "2021-03-21"
 excerpt: "Many problems in life have more than one solution, but among those solutions, one is probably more effective than the other."
 tags: ["Creativity"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Encoding for programmers"
-date: "2017-10-09"
+date_published: "2017-10-09"
 tags: ["Tech"]
 ---
 

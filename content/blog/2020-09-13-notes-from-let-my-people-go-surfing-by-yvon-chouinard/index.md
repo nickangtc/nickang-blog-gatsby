@@ -1,6 +1,6 @@
 ---
 title: "Notes from Let My People Go Surfing by Yvon Chouinard"
-date: "2020-09-13"
+date_published: "2020-09-13"
 tags: ["Book"]
 ---
 

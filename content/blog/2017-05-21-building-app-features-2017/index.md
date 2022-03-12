@@ -1,6 +1,6 @@
 ---
 title: "What it's like building app features in 2017"
-date: "2017-05-21"
+date_published: "2017-05-21"
 ---
 
 First of all let me admit, I wasn't there to witness what it was like to build web/mobile app features before 2016, since I only became a web developer last year.

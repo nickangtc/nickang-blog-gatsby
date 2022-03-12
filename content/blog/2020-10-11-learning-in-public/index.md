@@ -1,6 +1,6 @@
 ---
 title: "Learning in public"
-date: "2020-10-11"
+date_published: "2020-10-11"
 ---
 
 Often, I let myself believe that many people just “get it,” that they know what they want to do in life and they just dove into it and became excellent.

@@ -1,6 +1,6 @@
 ---
 title: "Not newer or shinier, but what gets the job done"
-date: "2018-09-24"
+date_published: "2018-09-24"
 ---
 
 ![man wearing headphones while sitting on chair in front of MacBook nick ang blog](images/wes-hicks-480398-unsplash.jpg)

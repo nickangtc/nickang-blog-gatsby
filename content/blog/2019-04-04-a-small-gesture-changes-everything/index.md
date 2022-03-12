@@ -1,6 +1,6 @@
 ---
 title: "A small gesture changes everything"
-date: "2019-04-04"
+date_published: "2019-04-04"
 ---
 
 ![a small gesture changes everything nick ang blog](images/a-small-gesture-changes-everything-nick-ang-blog-1024x621.jpg) Photo by Tom Ezzatkhah

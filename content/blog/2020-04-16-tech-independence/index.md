@@ -1,6 +1,6 @@
 ---
 title: "Tech independence"
-date: "2020-04-16"
+date_published: "2020-04-16"
 ---
 
 This article isn't my own, but I was so moved by this story shared by Derek Sivers in his interview with Jordan Paris that I felt like I needed to publish it as an article on my blog.

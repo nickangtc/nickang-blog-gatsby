@@ -1,6 +1,6 @@
 ---
 title: "Focus on understanding, not on what is right"
-date: "2021-01-10"
+date_published: "2021-01-10"
 excerpt: When you focus exclusively on understanding instead of what is right, you grow your understanding of the world while keeping your relationships healthy.
 tags: ["Living", "Communication", "Leadership"]
 fav: true

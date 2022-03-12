@@ -1,6 +1,6 @@
 ---
 title: "Users expect bug-free software"
-date: "2017-10-19"
+date_published: "2017-10-19"
 tags: ["Tech"]
 ---
 

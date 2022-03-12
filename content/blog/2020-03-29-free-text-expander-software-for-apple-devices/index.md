@@ -1,6 +1,6 @@
 ---
 title: "Free text expander software for Apple devices"
-date: "2020-03-29"
+date_published: "2020-03-29"
 tags: ["Communication"]
 ---
 

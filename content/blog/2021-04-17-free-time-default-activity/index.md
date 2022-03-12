@@ -1,6 +1,6 @@
 ---
 title: "Free time default activity"
-date: "2021-04-17"
+date_published: "2021-04-17"
 excerpt: "My default activity when I have free time is to write."
 tags: ["Living"]
 ---

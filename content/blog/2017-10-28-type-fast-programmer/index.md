@@ -1,6 +1,6 @@
 ---
 title: "Do I need to type fast to be a programmer?"
-date: "2017-10-28"
+date_published: "2017-10-28"
 ---
 
 ![type fast to be a programmer nickang blog](images/BSP-type-fast-to-be-a-programmer.png) Photo by Ilya Pavlov on Unsplash

@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - Programming is not for everyone"
-date: "2017-10-25"
+date_published: "2017-10-25"
 tags: ["Tech"]
 ---
 

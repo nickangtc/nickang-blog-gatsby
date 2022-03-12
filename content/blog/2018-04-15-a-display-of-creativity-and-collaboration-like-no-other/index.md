@@ -1,6 +1,6 @@
 ---
 title: "A display of creativity and collaboration like no other"
-date: "2018-04-15"
+date_published: "2018-04-15"
 ---
 
 Today is a glorious day. Not in some grand way though. Today is the day Casey Neistat uploaded a video on his channel (recently rebranded as 368) where he and Jack Conte, the CEO of crowdfunding platform for creators, Patreon, declared to the world that they will be collaborating.

@@ -1,6 +1,6 @@
 ---
 title: "Uber feature request: An emergency red button"
-date: "2017-08-17"
+date_published: "2017-08-17"
 ---
 
 Hello imaginary Uber product manager, if I may, I have a feature requests as a frequent user of your product. This is related to safety.

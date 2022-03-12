@@ -1,6 +1,6 @@
 ---
 title: "Fastest way to bulk delete in Django"
-date: "2017-08-22"
+date_published: "2017-08-22"
 tags: ["Tech"]
 ---
 

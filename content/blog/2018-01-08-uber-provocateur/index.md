@@ -1,6 +1,6 @@
 ---
 title: "Uber the provocateur"
-date: "2018-01-08"
+date_published: "2018-01-08"
 ---
 
 ![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) A still from Uber's "Let's unlock cities" campaign

@@ -1,6 +1,6 @@
 ---
 title: "Why use Binary Search Tree?"
-date: "2017-12-10"
+date_published: "2017-12-10"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Breaking the coding"
-date: "2016-11-09"
+date_published: "2016-11-09"
 ---
 
 Coding feels like a chore today.

@@ -1,6 +1,6 @@
 ---
 title: "How to implement an LRU cache in JavaScript"
-date: "2021-11-28"
+date_published: "2021-11-28"
 excerpt: 
 tags: ["Tech"]
 fav: false

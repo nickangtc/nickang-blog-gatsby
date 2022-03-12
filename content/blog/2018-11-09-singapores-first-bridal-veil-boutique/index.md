@@ -1,6 +1,6 @@
 ---
 title: "Launching Singapore’s first bridal veil boutique"
-date: "2018-11-09"
+date_published: "2018-11-09"
 ---
 
 https://vimeo.com/300023705

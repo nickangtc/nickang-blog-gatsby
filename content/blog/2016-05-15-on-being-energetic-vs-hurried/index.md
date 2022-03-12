@@ -1,6 +1,6 @@
 ---
 title: "Energetic Vs. Hurried"
-date: "2016-05-15"
+date_published: "2016-05-15"
 ---
 
 The main thing that occupied my mind today is the difference between hurrying and being energetic.

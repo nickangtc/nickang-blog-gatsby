@@ -1,6 +1,6 @@
 ---
 title: "How I think about memory"
-date: "2020-02-23"
+date_published: "2020-02-23"
 ---
 
 ![about memory](images/nick-ang-about-memory-1024x683.jpg)

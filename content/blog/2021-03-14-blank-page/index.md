@@ -1,6 +1,6 @@
 ---
 title: "Blank page"
-date: "2021-03-14"
+date_published: "2021-03-14"
 excerpt: "It's not you, it's me."
 tags: [Writing]
 ---

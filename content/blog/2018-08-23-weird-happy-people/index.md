@@ -1,6 +1,6 @@
 ---
 title: "Weird happy people"
-date: "2018-08-23"
+date_published: "2018-08-23"
 ---
 
 ![really weird picture of guy standing on float in a pool doing hitler salute](images/neko-tai-604234-unsplash.jpg) This picture is so weird! Photo by Neko Tai on Unsplash

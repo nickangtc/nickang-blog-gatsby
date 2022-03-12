@@ -1,6 +1,6 @@
 ---
 title: "Don't code for code's sake"
-date: "2016-09-13"
+date_published: "2016-09-13"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Introducing Bite Size Programming"
-date: "2017-10-14"
+date_published: "2017-10-14"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How to setup access to GitHub from Terminal with 2FA"
-date: "2020-03-06"
+date_published: "2020-03-06"
 tags: ["Tech"]
 ---
 

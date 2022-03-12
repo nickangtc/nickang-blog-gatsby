@@ -1,6 +1,6 @@
 ---
 title: "What needs evaluating here?"
-date: "2020-12-20"
+date_published: "2020-12-20"
 excerpt: "Always judge a book strictly by its contents. If the author is an alcoholic and misogynist, it should not matter in your consideration of his ideas."
 ---
 

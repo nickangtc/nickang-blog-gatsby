@@ -1,6 +1,6 @@
 ---
 title: "How to squash git commits"
-date: "2017-09-23"
+date_published: "2017-09-23"
 tags: ["Tech"]
 fav: true
 ---

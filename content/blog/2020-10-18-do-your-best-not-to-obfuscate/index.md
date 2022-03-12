@@ -1,6 +1,6 @@
 ---
 title: "Do your best not to obfuscate"
-date: "2020-10-18"
+date_published: "2020-10-18"
 tags: ["Living"]
 ---
 

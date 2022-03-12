@@ -1,6 +1,6 @@
 ---
 title: "Spidey - the faster, less distracting way to do research online"
-date: "2016-09-23"
+date_published: "2016-09-23"
 ---
 
 ![general assembly singapore web development course in session](images/20160923-IMG_20160923_140726-1024x768.jpg) It’s the end of the week, a project week, a project week-eeeennnnd! (Wong Fu Productions reference.)

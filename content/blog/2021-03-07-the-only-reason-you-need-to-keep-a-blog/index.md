@@ -1,6 +1,6 @@
 ---
 title: "The only reason you need to keep a blog"
-date: "2021-03-07"
+date_published: "2021-03-07"
 excerpt: "That singularly important reason why I keep showing up to write and publish articles is simple."
 tags: [Writing]
 ---

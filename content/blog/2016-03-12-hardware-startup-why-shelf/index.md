@@ -1,6 +1,6 @@
 ---
 title: "Why I’m Shelving My Hardware Startup After 6 Months"
-date: "2016-03-12"
+date_published: "2016-03-12"
 ---
 
 ![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)

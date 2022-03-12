@@ -1,6 +1,6 @@
 ---
 title: "Stop thanking me for what I ought to be doing as a father"
-date: "2021-10-24"
+date_published: "2021-10-24"
 excerpt: 
 tags: ["Living"]
 fav: false

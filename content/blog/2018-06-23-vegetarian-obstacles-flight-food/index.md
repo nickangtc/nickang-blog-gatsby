@@ -1,6 +1,6 @@
 ---
 title: "Vegetarian obstacles: in-flight food"
-date: "2018-06-23"
+date_published: "2018-06-23"
 ---
 
 I met a small surprise challenge on my flight home from Helsinki today.

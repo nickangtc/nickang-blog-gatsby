@@ -1,6 +1,6 @@
 ---
 title: "Adapt and forget"
-date: "2017-11-06"
+date_published: "2017-11-06"
 ---
 
 ![sapling](images/francesco-gallarotti-72602-1024x683.jpg) Photo by Francesco Gallarotti on Unsplash

@@ -1,6 +1,6 @@
 ---
 title: "Getting good and getting a dream job"
-date: "2017-11-04"
+date_published: "2017-11-04"
 ---
 
 ![dream job depicted by a laptop with a code editor open](images/dream-job-1024x682.jpg) Photo by Christopher Gower on Unsplash

@@ -1,6 +1,6 @@
 ---
 title: "One small change, a very different outcome"
-date: "2019-02-13"
+date_published: "2019-02-13"
 tags: ["Leadership"]
 ---
 

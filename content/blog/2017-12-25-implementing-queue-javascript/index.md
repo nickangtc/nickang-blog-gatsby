@@ -1,6 +1,6 @@
 ---
 title: "Implementing a Queue in JavaScript?"
-date: "2017-12-25"
+date_published: "2017-12-25"
 tags: ["Tech"]
 ---
 

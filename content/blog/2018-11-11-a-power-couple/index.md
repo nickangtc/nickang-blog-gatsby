@@ -1,6 +1,6 @@
 ---
 title: "A power couple"
-date: "2018-11-11"
+date_published: "2018-11-11"
 ---
 
 ![power couple nick ang blog](images/milan-popovic-596860-unsplash.jpg) Not us. But I'm digging the vibes!

@@ -1,6 +1,6 @@
 ---
 title: "Linked List explained"
-date: "2017-11-17"
+date_published: "2017-11-17"
 tags: ["Tech"]
 fav: true
 ---

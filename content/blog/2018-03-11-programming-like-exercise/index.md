@@ -1,6 +1,6 @@
 ---
 title: "Programming is like exercise"
-date: "2018-03-11"
+date_published: "2018-03-11"
 tags: ["Tech"]
 ---
 

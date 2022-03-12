@@ -1,6 +1,6 @@
 ---
 title: "Notes from The Year Without Pants by Scott Berkun"
-date: "2020-07-26"
+date_published: "2020-07-26"
 tags: ["Book", "Communication"]
 ---
 

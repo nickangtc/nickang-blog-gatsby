@@ -1,6 +1,6 @@
 ---
 title: "The best approach to start learning to code"
-date: "2019-12-29"
+date_published: "2019-12-29"
 tags: ["Tech"]
 fav: true
 ---

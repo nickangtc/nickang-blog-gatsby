@@ -1,6 +1,6 @@
 ---
 title: "Why online advice is dangerous"
-date: "2017-11-11"
+date_published: "2017-11-11"
 ---
 
 ![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) Medium is becoming a major source of online advice for me and I'm getting worried

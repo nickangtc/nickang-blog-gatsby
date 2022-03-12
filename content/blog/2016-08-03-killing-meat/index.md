@@ -1,6 +1,6 @@
 ---
 title: "Anthony Bourdain killed a red stag"
-date: "2016-08-03"
+date_published: "2016-08-03"
 ---
 
 ![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) A scene from Parts Unknown, Scotland episode

@@ -1,6 +1,6 @@
 ---
 title: "Hard work is hard work"
-date: "2021-05-09"
+date_published: "2021-05-09"
 excerpt: "It's not the sweat and blood. Hard work is often hardest in terms of sacrifices."
 tags: ["Living"]
 ---

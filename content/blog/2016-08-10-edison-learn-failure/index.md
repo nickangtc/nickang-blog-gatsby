@@ -1,6 +1,6 @@
 ---
 title: "Opportunities in failure"
-date: "2016-08-10"
+date_published: "2016-08-10"
 ---
 
 Recently we realised the need to protect ourselves with a surveillance camera in case of one of our Airbnb guests decides to be an idiot and doodle all over the walls, or something worse. So I did what I thought was the perfect thing to do: make one myself.

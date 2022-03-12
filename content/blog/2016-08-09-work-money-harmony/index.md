@@ -1,6 +1,6 @@
 ---
 title: "Work and money in harmony"
-date: "2016-08-09"
+date_published: "2016-08-09"
 tags: ["Living"]
 ---
 

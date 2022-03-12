@@ -1,6 +1,6 @@
 ---
 title: "Reducing redundancy through JavaScript prototypes"
-date: "2016-09-05"
+date_published: "2016-09-05"
 tags: ["Tech"]
 ---
 

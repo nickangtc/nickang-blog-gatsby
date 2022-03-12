@@ -1,6 +1,6 @@
 ---
 title: "Not interested in mastery"
-date: "2020-10-25"
+date_published: "2020-10-25"
 ---
 
 I can code and I think I can code well. But for some reason, I'm just not inclined to try and become an amazing programmer. For me, with programming as with many other skills, I ascribe to the mantra that*good enough is good enough*. Why pace the long end of the curve of diminishing returns? I just see no point in it.

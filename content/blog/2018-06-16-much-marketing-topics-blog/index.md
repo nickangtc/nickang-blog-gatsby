@@ -1,6 +1,6 @@
 ---
 title: "Much more marketing topics on this blog"
-date: "2018-06-16"
+date_published: "2018-06-16"
 ---
 
 If you've read a few posts on this blog, you'd know that most of them revolve around the topics of technology (technical and non-technical), society and life in general.

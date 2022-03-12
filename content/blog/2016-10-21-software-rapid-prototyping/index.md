@@ -1,6 +1,6 @@
 ---
 title: "Software developers, please learn rapid prototyping"
-date: "2016-10-21"
+date_published: "2016-10-21"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A thing every day"
-date: "2016-12-09"
+date_published: "2016-12-09"
 ---
 
 Show up.

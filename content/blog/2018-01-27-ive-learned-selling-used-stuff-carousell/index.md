@@ -1,6 +1,6 @@
 ---
 title: "What I've learned from selling used stuff on Carousell"
-date: "2018-01-27"
+date_published: "2018-01-27"
 ---
 
 [Carousell](https://carousell.com/) is an online marketplace that is huge in Southeast Asia, grown proudly from Singapore. (What a great name, right? Carousel with a cute, sneaky "sell" at the end?) I remember when the founder, [Quek Siu Rui](https://www.crunchbase.com/person/quek-siu-rui), who's about my age, began the service in obscurity at our university (NUS). With traction, they then quickly rolled it out island-wide and then regionally. It's quite a story!

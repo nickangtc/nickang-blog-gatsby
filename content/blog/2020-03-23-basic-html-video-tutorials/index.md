@@ -1,6 +1,6 @@
 ---
 title: "Basic HTML Video Tutorials"
-date: "2020-03-23"
+date_published: "2020-03-23"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Why it's useful to learn Terminal (with example application)"
-date: "2020-03-08"
+date_published: "2020-03-08"
 tags: ["Tech"]
 ---
 

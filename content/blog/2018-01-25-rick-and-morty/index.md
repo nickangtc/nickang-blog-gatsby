@@ -1,6 +1,6 @@
 ---
 title: "Rick and Morty, bitch!"
-date: "2018-01-25"
+date_published: "2018-01-25"
 ---
 
 ![rick and morty](images/rick-and-morty.png) Why the heck is Rick's skin gray?

@@ -1,6 +1,6 @@
 ---
 title: "Why care about SEO?"
-date: "2016-11-26"
+date_published: "2016-11-26"
 ---
 
 Why get involved when you know it's not necessary?

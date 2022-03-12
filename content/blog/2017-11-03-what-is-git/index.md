@@ -1,6 +1,6 @@
 ---
 title: "What is Git?"
-date: "2017-11-03"
+date_published: "2017-11-03"
 tags: ["Tech"]
 ---
 

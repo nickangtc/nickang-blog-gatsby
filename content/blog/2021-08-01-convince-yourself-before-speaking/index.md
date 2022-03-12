@@ -1,6 +1,6 @@
 ---
 title: "Convince yourself before speaking"
-date: "2021-08-01"
+date_published: "2021-08-01"
 excerpt: "Do it for the sake of better group meetings."
 tags: ["Communication"]
 ---

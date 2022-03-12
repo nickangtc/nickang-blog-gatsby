@@ -1,6 +1,6 @@
 ---
 title: "Treasure! That's just what you are"
-date: "2016-10-09"
+date_published: "2016-10-09"
 tags: ["Living"]
 ---
 

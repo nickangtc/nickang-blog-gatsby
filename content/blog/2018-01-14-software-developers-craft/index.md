@@ -1,6 +1,6 @@
 ---
 title: "The software developer's craft"
-date: "2018-01-14"
+date_published: "2018-01-14"
 tags: ["Tech"]
 ---
 

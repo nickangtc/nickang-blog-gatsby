@@ -1,6 +1,6 @@
 ---
 title: "Fun but deregatory terms"
-date: "2018-11-12"
+date_published: "2018-11-12"
 ---
 
 ![people laughing nick ang blog](images/helena-lopes-633154-unsplash.jpg)

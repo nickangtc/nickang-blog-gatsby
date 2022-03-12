@@ -1,6 +1,6 @@
 ---
 title: "Pursuit of a Memorable Life"
-date: "2016-03-18"
+date_published: "2016-03-18"
 ---
 
 ![You're not going to forget this](images/bee-guy.jpg)

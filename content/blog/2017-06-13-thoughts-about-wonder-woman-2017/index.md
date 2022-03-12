@@ -1,6 +1,6 @@
 ---
 title: "A guy's thoughts about Wonder Woman 2017"
-date: "2017-06-13"
+date_published: "2017-06-13"
 ---
 
 **Warning**, I'm going to be sharing my thoughts about Wonder Woman, so spoilers ahead. Please skip this post if you haven't watched the DC movie. (It is in my opinion worth your time, so please don't let me spoil it for you!)

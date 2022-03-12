@@ -1,6 +1,6 @@
 ---
 title: "Stop to think"
-date: "2021-06-21"
+date_published: "2021-06-21"
 excerpt: "What the contrast between quarantine and daily socialisation helped me realise."
 tags: ["Living", "Creativity"]
 ---

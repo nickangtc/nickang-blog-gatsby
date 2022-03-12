@@ -1,6 +1,6 @@
 ---
 title: "Reflecting on 15 days in the Philippines fields"
-date: "2018-06-02"
+date_published: "2018-06-02"
 ---
 
 ![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180523_074422_Fotor-1024x431.jpg) Students of NUS BES in the lobby of Dao Diamond Hotel

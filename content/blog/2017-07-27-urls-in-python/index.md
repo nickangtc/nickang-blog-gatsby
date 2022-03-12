@@ -1,6 +1,6 @@
 ---
 title: "How to add prefix or suffix to image urls in Python"
-date: "2017-07-27"
+date_published: "2017-07-27"
 tags: ["Tech"]
 ---
 

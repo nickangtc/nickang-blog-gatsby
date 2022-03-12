@@ -1,6 +1,6 @@
 ---
 title: "How to partially download a file in Chrome"
-date: "2018-11-14"
+date_published: "2018-11-14"
 tags: ["Tech"]
 ---
 

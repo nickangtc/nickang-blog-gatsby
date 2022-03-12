@@ -1,6 +1,6 @@
 ---
 title: "Cooking vs creating software"
-date: "2018-01-20"
+date_published: "2018-01-20"
 ---
 
 ![two chefs adding final touches to plating food](images/fabrizio-magoni-219347-1024x601.jpg) Photo by Fabrizio Magoni on Unsplash

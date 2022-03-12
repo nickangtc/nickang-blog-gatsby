@@ -1,6 +1,6 @@
 ---
 title: "The newly rich"
-date: "2016-08-14"
+date_published: "2016-08-14"
 ---
 
 The newly rich spend their money lavishing themselves and those they know with items, but also with protection. Money buys protection. From paying penalties that don’t hurt their net worth to buying favours from people in power. This goes on everywhere, just in varying degrees, private and public.

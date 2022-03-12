@@ -1,6 +1,6 @@
 ---
 title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
-date: "2020-10-04"
+date_published: "2020-10-04"
 tags: ["Living"]
 ---
 

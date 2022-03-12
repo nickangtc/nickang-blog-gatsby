@@ -1,6 +1,6 @@
 ---
 title: "Obsidian? Roam? Why I am staying with Bear as my PKM"
-date: "2021-02-21"
+date_published: "2021-02-21"
 excerpt: "The tool does not need to be sophisticated. Your note-taking workflow does."
 tags: ["PKM"]
 ---

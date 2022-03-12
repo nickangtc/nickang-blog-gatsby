@@ -1,6 +1,6 @@
 ---
 title: "Getting my ear pierced"
-date: "2017-10-16"
+date_published: "2017-10-16"
 ---
 
 ![bali kuta beach sunset](images/20171016-sunset_bali-1024x768.jpg) Sunset at Kuta beach in Bali

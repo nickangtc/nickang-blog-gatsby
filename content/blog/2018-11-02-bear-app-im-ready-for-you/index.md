@@ -1,6 +1,6 @@
 ---
 title: "Bear app, I’m ready for you"
-date: "2018-11-02"
+date_published: "2018-11-02"
 ---
 
 ![bear app screenshot nick ang blog](images/bear-app-screenshot.png)

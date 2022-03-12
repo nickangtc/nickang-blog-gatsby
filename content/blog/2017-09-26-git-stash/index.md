@@ -1,6 +1,6 @@
 ---
 title: "How to use git stash (and when not to use it)"
-date: "2017-09-26"
+date_published: "2017-09-26"
 tags: ["Tech"]
 fav: true
 ---

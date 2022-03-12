@@ -1,6 +1,6 @@
 ---
 title: "The fallacy of greener bananas"
-date: "2018-01-09"
+date_published: "2018-01-09"
 ---
 
 ![row of bananas mostly yellow with one green](images/lotte-lohr-766.jpg) Photo by Lotte Löhr on Unsplash

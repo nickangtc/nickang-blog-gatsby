@@ -1,6 +1,6 @@
 ---
 title: "How to add event listeners without repeating yourself"
-date: "2016-12-14"
+date_published: "2016-12-14"
 tags: ["Tech"]
 ---
 

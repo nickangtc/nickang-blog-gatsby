@@ -1,6 +1,6 @@
 ---
 title: "8 Hard Things about providing High Quality Customer Support"
-date: "2021-07-18"
+date_published: "2021-07-18"
 excerpt: "Lessons from 3 years of providing, organising, and building tools for Customer Support"
 tags: ["Communication"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Back in the army"
-date: "2018-10-14"
+date_published: "2018-10-14"
 ---
 
 And so it begins, another thrusting into the unique social hierarchy of the military. It makes me uncomfortable to don the uniform every year. Why not? I'm a citizen ninety five percent of my adulthood. It's hard to, at the snap of the fingers, get into the role of a soldier.

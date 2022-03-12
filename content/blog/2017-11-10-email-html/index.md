@@ -1,6 +1,6 @@
 ---
 title: "Dear email HTML, please get better"
-date: "2017-11-10"
+date_published: "2017-11-10"
 ---
 
 ![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) Photo by Erik-Jan Leusink on Unsplash

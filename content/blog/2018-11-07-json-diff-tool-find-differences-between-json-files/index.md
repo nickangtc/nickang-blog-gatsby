@@ -1,6 +1,6 @@
 ---
 title: "A tool to find differences between JSON files"
-date: "2018-11-07"
+date_published: "2018-11-07"
 tags: ["Tech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How I think about Work-Life Balance"
-date: "2018-07-14"
+date_published: "2018-07-14"
 tags: ["Leadership"]
 ---
 

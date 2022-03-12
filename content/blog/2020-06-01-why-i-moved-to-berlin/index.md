@@ -1,6 +1,6 @@
 ---
 title: "Why I moved to Berlin"
-date: "2020-06-01"
+date_published: "2020-06-01"
 ---
 
 I regularly get asked why I moved to Berlin. While I’d be glad to answer this question every time I get asked because because *wow*, I *get* to live in Berlin, I wanted to write my answer properly so I can share this article with whoever seems to really want to know my reasons.

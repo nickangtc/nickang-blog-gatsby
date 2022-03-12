@@ -1,6 +1,6 @@
 ---
 title: "Action, not information"
-date: "2018-01-01"
+date_published: "2018-01-01"
 ---
 
 I was struggling quite a lot today with an algorithm challenge on LeetCode called "[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)". It was hard enough that after trying for 2 hours, I decided it'd be for the better to look for solutions and learn from them.

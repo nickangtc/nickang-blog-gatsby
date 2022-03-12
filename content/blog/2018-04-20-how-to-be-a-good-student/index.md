@@ -1,6 +1,6 @@
 ---
 title: "How to be a good student"
-date: "2018-04-20"
+date_published: "2018-04-20"
 ---
 
 ![](images/chalis007-189517-unsplash-1024x683.jpg) Photo by 胡 卓亨 on Unsplash

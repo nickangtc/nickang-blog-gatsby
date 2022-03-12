@@ -1,6 +1,6 @@
 ---
 title: "My biggest fear"
-date: "2021-04-29"
+date_published: "2021-04-29"
 excerpt: "Am I going to have time to pursue creative work when I become a dad?"
 tags: ["Creativity", "Living"]
 ---

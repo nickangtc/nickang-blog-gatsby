@@ -1,6 +1,6 @@
 ---
 title: "Two modes of programming"
-date: "2016-09-10"
+date_published: "2016-09-10"
 ---
 
 ![rack of old vinyl records](images/records-rack-1024x680.jpeg)

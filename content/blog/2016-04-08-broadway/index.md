@@ -1,6 +1,6 @@
 ---
 title: "(US) A Little Broadway"
-date: "2016-04-08"
+date_published: "2016-04-08"
 ---
 
 ![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) Every train has a thunderous arrival in NYC

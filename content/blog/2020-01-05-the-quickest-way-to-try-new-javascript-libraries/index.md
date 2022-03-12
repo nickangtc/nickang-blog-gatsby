@@ -1,6 +1,6 @@
 ---
 title: "The quickest way to try new JavaScript libraries"
-date: "2020-01-05"
+date_published: "2020-01-05"
 tags: ["Tech"]
 ---
 

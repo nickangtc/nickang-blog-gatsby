@@ -1,6 +1,6 @@
 ---
 title: "Travel: How to Decide What Cities to Visit"
-date: "2016-03-01"
+date_published: "2016-03-01"
 ---
 
 ![The eagle is landing](images/american-eagle-1024x683.jpeg)

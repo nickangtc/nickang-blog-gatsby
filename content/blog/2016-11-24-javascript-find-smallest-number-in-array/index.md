@@ -1,6 +1,6 @@
 ---
 title: "Find the smallest number in an array with JavaScript"
-date: "2016-11-24"
+date_published: "2016-11-24"
 tags: ["Tech"]
 ---
 

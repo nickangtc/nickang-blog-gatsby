@@ -1,6 +1,6 @@
 ---
 title: "My Millennial Impression of the Typewriter"
-date: "2016-03-05"
+date_published: "2016-03-05"
 ---
 
 Oh how naive I’ve been.

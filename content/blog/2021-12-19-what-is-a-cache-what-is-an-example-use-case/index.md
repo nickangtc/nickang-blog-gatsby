@@ -1,6 +1,6 @@
 ---
 title: "What is a cache? What is an example use case?"
-date: "2021-12-19"
+date_published: "2021-12-19"
 excerpt: "What is a cache? What is an example use case? Explained with a video"
 tags: ["Tech"]
 type: "Everydays"

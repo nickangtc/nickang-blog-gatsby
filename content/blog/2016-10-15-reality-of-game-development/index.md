@@ -1,6 +1,6 @@
 ---
 title: "The reality of game development"
-date: "2016-10-15"
+date_published: "2016-10-15"
 ---
 
 ![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) Grave Matters, a game by our web development instructor and two friends

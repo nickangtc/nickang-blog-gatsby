@@ -1,6 +1,6 @@
 ---
 title: "How to know you are a junior developer"
-date: "2017-10-13"
+date_published: "2017-10-13"
 tags: ["Tech"]
 ---
 

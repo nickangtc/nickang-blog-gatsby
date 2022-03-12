@@ -1,6 +1,6 @@
 ---
 title: "Why you should blog as a programmer"
-date: "2016-12-24"
+date_published: "2016-12-24"
 tags: ["Tech"]
 fav: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The uncommon (and invaluable) ability to recognise a noisy mind"
-date: "2018-01-28"
+date_published: "2018-01-28"
 ---
 
 ![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) Photo by Levi XU on Unsplash

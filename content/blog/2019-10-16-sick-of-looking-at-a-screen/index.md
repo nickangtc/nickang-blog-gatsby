@@ -1,6 +1,6 @@
 ---
 title: "Getting sick of looking at a screen"
-date: "2019-10-16"
+date_published: "2019-10-16"
 ---
 
 ![sick of looking at a screen](images/adrien-olichon-0RoIEgga6vs-unsplash-1024x683.jpg) Photo by Adrien Olichon on Unsplash

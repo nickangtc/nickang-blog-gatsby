@@ -1,6 +1,6 @@
 ---
 title: "Blogging the old way"
-date: "2017-09-14"
+date_published: "2017-09-14"
 ---
 
 The idea of blogging has changed. In the past when people first started to use Blogger to publicly share stories about their lives, blogs were like a sort of public log - you know, like a b-log. I think that's actually the etymology of the word. Now, most of us have blogs because they aid us in our careers, and I'm starting to miss blogging the old way.

@@ -1,6 +1,6 @@
 ---
 title: "Success needs health"
-date: "2017-12-28"
+date_published: "2017-12-28"
 ---
 
 ![](images/20171227-laksa-nickang-blog-1024x768.jpg) Singapore laksa from a nearby makeshift food court near work

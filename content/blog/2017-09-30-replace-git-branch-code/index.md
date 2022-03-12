@@ -1,6 +1,6 @@
 ---
 title: "How to completely replace git branch code with another branch's code"
-date: "2017-09-30"
+date_published: "2017-09-30"
 tags: ["Tech"]
 fav: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Technical or not, the hardest part of blogging is still writing"
-date: "2021-11-14"
+date_published: "2021-11-14"
 excerpt: 
 tags: ["Creativity"]
 fav: false

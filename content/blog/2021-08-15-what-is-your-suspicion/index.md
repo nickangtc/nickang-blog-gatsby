@@ -1,6 +1,6 @@
 ---
 title: "What is your suspicion?"
-date: "2021-08-15"
+date_published: "2021-08-15"
 excerpt: "Any good troubleshooter should always ask about suspected causes, because no list can realistically cover all possible scenarios"
 tags: ["Communication"]
 ---

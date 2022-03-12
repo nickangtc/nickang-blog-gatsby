@@ -1,6 +1,6 @@
 ---
 title: "Two healthy ways to look at exercise"
-date: "2016-10-02"
+date_published: "2016-10-02"
 ---
 
 ![remote work under the block in singapore](images/20161002-IMG_20161002_083841-1024x715.jpg) Laptop work is inherently unhealthy (yup that's Ruby on Rails)

@@ -1,6 +1,6 @@
 ---
 title: "Rest and productivity"
-date: "2018-04-26"
+date_published: "2018-04-26"
 ---
 
 ![rest and productivity - nickang sketch](images/rest-and-productivity-nickang-sketch-1024x627.png)

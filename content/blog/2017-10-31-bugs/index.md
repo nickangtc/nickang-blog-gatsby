@@ -1,6 +1,6 @@
 ---
 title: "What are bugs in software?"
-date: "2017-10-31"
+date_published: "2017-10-31"
 tags: ["Tech"]
 ---
 

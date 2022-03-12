@@ -1,6 +1,6 @@
 ---
 title: "The magic of a light touch"
-date: "2020-07-19"
+date_published: "2020-07-19"
 ---
 
 ![photo of the Austrian alps in the town of Bichlbach](images/bichl-bach-light-touch.png)

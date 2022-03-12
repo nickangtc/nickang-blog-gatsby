@@ -1,6 +1,6 @@
 ---
 title: "Silly useful things on my Repl.it"
-date: "2017-09-12"
+date_published: "2017-09-12"
 tags: ["Tech"]
 ---
 

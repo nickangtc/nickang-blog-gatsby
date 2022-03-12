@@ -1,6 +1,6 @@
 ---
 title: "Naming variables well"
-date: "2017-07-31"
+date_published: "2017-07-31"
 tags: ["Tech"]
 ---
 

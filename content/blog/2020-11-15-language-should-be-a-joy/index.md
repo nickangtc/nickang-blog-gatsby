@@ -1,6 +1,6 @@
 ---
 title: "Language should be a joy"
-date: "2020-11-15"
+date_published: "2020-11-15"
 ---
 
 I recently rewatched a short sporting Stephen Fry’s wisdom on the English language (as well as his wonderful British accent in the voiceover). I remember being struck by some of the ideas encapsulated in it many years ago when I first watched it, but I didn’t fully fathom them. Today, after watching it again, I can safely say that I fathom most of it and that I love it. This short soliloquy is ingenious in prose and format equally.

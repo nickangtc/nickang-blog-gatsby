@@ -1,6 +1,6 @@
 ---
 title: "Why I love the seasons"
-date: "2020-08-23"
+date_published: "2020-08-23"
 ---
 
 Deep within me, I yearn for variation. Very few things in life are truly monotonous, so when the weather actually is, it makes me sad. Most things like our heartbeats have a rhythm to it! So by that argument, I've been rather sad my whole life having lived in Singapore.

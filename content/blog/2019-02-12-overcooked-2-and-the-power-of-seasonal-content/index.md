@@ -1,6 +1,6 @@
 ---
 title: "Overcooked 2 and the power of seasonal content"
-date: "2019-02-12"
+date_published: "2019-02-12"
 ---
 
 ![overcooked 2 chinese new year update nick ang](images/overcooked-2-chinese-new-year-update-nick-ang-1024x576.jpg) Graphic by Team17

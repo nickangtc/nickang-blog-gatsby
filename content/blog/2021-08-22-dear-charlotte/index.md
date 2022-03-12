@@ -1,6 +1,6 @@
 ---
 title: "Dear Charlotte"
-date: "2021-08-22"
+date_published: "2021-08-22"
 excerpt: "A short letter to my soon to be born daughter."
 tags: ["Living"]
 ---

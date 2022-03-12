@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - Why do programmers use a Command Line Interface?"
-date: "2017-10-18"
+date_published: "2017-10-18"
 tags: ["Tech"]
 fav: true
 ---

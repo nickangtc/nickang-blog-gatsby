@@ -1,6 +1,6 @@
 ---
 title: "Minimalist personal finance"
-date: "2018-08-15"
+date_published: "2018-08-15"
 ---
 
 Matt D'Avela is a filmmaker and rising YouTuber who has managed to build a community of people who are or aspire to be minimalists. 

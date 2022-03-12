@@ -1,6 +1,6 @@
 ---
 title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
-date: "2020-12-27"
+date_published: "2020-12-27"
 excerpt: "Germany has had a law since the 1950s that bans most shops from selling on Sundays, and it has given me a new lease on my time."
 ---
 

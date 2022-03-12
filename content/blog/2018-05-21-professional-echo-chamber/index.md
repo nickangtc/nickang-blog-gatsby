@@ -1,6 +1,6 @@
 ---
 title: "The professional echo chamber"
-date: "2018-05-21"
+date_published: "2018-05-21"
 ---
 
 ![flight into Bohol Philippines nickang blog](images/20180517-BES-ENV3102-flight-arrival-nickang-blog-1024x768.jpg) Touching down at Mactan-Cebu International Airport

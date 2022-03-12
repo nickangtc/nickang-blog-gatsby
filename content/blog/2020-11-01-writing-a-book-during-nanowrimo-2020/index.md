@@ -1,6 +1,6 @@
 ---
 title: "Writing a book during NaNoWriMo 2020"
-date: "2020-11-01"
+date_published: "2020-11-01"
 ---
 
 Today I'm setting myself a hairy goal of writing a book in November. I made the decision just now to participate in the [National Novel Writing Month](https://nanowrimo.org/) (NaNoWriMo). So far I’ve only done minimal preparation like reading [*Take Off Your Pants*](https://www.goodreads.com/book/show/25126763-take-off-your-pants-outline-your-books-for-faster-better-writing) by Libbie Hawker, while many other writers have already finished preparations in October, or *Prep-tober*. I’m not bothered by this since this is a personal challenge, not a competition, but I do feel like I could be more prepared.

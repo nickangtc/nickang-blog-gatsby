@@ -1,6 +1,6 @@
 ---
 title: "What is DRY (in programming)?"
-date: "2017-12-11"
+date_published: "2017-12-11"
 tags: ["Tech"]
 ---
 

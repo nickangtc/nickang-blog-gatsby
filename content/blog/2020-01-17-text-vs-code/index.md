@@ -1,6 +1,6 @@
 ---
 title: "Text vs Code"
-date: "2020-01-17"
+date_published: "2020-01-17"
 tags: ["Tech"]
 ---
 

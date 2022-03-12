@@ -1,6 +1,6 @@
 ---
 title: "We're on Free SSL!"
-date: "2018-07-15"
+date_published: "2018-07-15"
 tags: ["Tech"]
 ---
 

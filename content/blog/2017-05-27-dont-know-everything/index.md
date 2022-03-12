@@ -1,6 +1,6 @@
 ---
 title: "You don't know everything"
-date: "2017-05-27"
+date_published: "2017-05-27"
 ---
 
 By you I mean I. I'm ready to admit, I don't know everything.

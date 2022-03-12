@@ -1,6 +1,6 @@
 ---
 title: "Meta Work Talk"
-date: "2016-05-24"
+date_published: "2016-05-24"
 ---
 
 ![man working with his hands](images/man-craftsman-1024x683.jpeg) Image: [Eddie Klaus](https://unsplash.com/@eduardo_mekmuffin)

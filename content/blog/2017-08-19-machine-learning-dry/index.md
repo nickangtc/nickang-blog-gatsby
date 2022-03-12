@@ -1,6 +1,6 @@
 ---
 title: "Machine learning is kind of dry"
-date: "2017-08-19"
+date_published: "2017-08-19"
 ---
 
 _San Francisco, we have a problem._

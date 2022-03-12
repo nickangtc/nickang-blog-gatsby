@@ -1,6 +1,6 @@
 ---
 title: "My view on changing jobs"
-date: "2019-04-09"
+date_published: "2019-04-09"
 tags: ["Tech"]
 ---
 

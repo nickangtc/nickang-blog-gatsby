@@ -1,6 +1,6 @@
 ---
 title: "How to be calm"
-date: "2019-01-31"
+date_published: "2019-01-31"
 ---
 
 ![how to be calm - Smartly office](images/how-to-be-calm-1024x595.jpg)

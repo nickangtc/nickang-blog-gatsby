@@ -1,6 +1,6 @@
 ---
 title: "The newborn bubble"
-date: "2021-09-26"
+date_published: "2021-09-26"
 excerpt: 
 tags: ["Living"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "10 reasons why simple is better"
-date: "2018-12-06"
+date_published: "2018-12-06"
 ---
 
 ![Why simple is better](images/Why-simple-is-better-1024x686.jpg)

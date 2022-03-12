@@ -1,6 +1,6 @@
 ---
 title: "Bite Size Programming - How to start using the command line (part 1)"
-date: "2017-10-21"
+date_published: "2017-10-21"
 tags: ["Tech"]
 ---
 

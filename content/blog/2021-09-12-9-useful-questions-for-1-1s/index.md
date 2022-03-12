@@ -1,6 +1,6 @@
 ---
 title: "9 Questions for 1-1s"
-date: "2021-09-12"
+date_published: "2021-09-12"
 excerpt: "We all know 1-1s are useful, but not everyone sees it that way. Here is a list of 9 questions that may help guide and make your next 1-1 more useful."
 tags: ["Communication", "Leadership"]
 fav: true

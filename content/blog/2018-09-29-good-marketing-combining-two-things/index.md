@@ -1,6 +1,6 @@
 ---
 title: "Good marketing example: Combining two things that already go well together"
-date: "2018-09-29"
+date_published: "2018-09-29"
 ---
 
 YouTube recommended me this video from Gymshark today and I found myself immediately connecting with what it stood for.

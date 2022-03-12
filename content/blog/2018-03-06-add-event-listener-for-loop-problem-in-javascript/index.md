@@ -1,6 +1,6 @@
 ---
 title: "Add event listener for loop problem in JavaScript"
-date: "2018-03-06"
+date_published: "2018-03-06"
 tags: ["Tech"]
 ---
 
