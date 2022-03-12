@@ -29,6 +29,12 @@ const PkmPage = ({ data, location }) => {
       <SearchEngineOptimisation title="PKM Articles" location={location} />
       <h1>PKM articles</h1>
       <p>Articles about Personal Knowledge Management (PKM).</p>
+      <p>
+        I've received some emails asking questions about how I set up my PKM and
+        so I feel obligated to say this: I'm still figuring this stuff out.
+        Please take what I write about PKM (and everything else) with a grain of
+        salt and always apply only what should apply to your context.
+      </p>
       <ul>{pkmPosts}</ul>
     </Layout>
   )
