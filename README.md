@@ -19,6 +19,7 @@ For everything else in this public repository you may use freely according to th
 
 List of unique topic tags:
 - **Tech** - Software Development - Design - Product
+- **Career**
 - **Living** - Mindfulness - Parenting - Habits - Society & Culture
 - **Creativity** - Writing - Blogging - Problem Solving
 - **PKM** - Note Taking
