@@ -1,9 +1,10 @@
 ---
 title: "Not interested in mastery"
 date_published: "2020-10-25"
+date_updated: "2022-04-02"
 ---
 
-I can code and I think I can code well. But for some reason, I'm just not inclined to try and become an amazing programmer. For me, with programming as with many other skills, I ascribe to the mantra that*good enough is good enough*. Why pace the long end of the curve of diminishing returns? I just see no point in it.
+I can code and I think I can code well. But for some reason, I'm just not inclined to try and become an amazing programmer. For me, with programming as with many other skills, I ascribe to the mantra that *good enough is good enough*. Why pace the long end of the curve of diminishing returns? I just see no point in it.
 
 The founder of the visionary outdoor apparel company Patagonia, Yvon Chouinard, says the same about himself in his memoir *[Let My People Go Surfing (my notes)](/2020-09-13-notes-from-let-my-people-go-surfing-by-yvon-chouinard/)*: 
 
@@ -28,4 +29,10 @@ When I sit down and rationalise things this way, everything seems okay. But the 
 
 Each time I question my decisions, I make myself feel like crap. But at some point, we *have* to come to terms with who we are. I am simply not interested in becoming excellent at something by mastering one or two skills. I would much rather become excellent at something because I am good-enough at ten different skills.
 
-I'm currently working on getting good at writing.
+~~I'm currently working on getting good at writing.~~
+
+### Update in 2022
+
+As I've started in an individual contributor role as a senior software engineer at Shopify, I'm beginning to re-evaluate this once again. I feel like I'm definitely going to need to go further on the mastery curve for software engineering to be able to build the product for millions of users; I think I'd be irresponsible if I believed otherwise.
+
+That said, I still feel that deep down I prefer being valuable by knowing a range of things relatively well (and letting them blend) rather than knowing a craft extremely well. I don't think it's necessarily one or the other since how well one knows something lies on a spectrum.
