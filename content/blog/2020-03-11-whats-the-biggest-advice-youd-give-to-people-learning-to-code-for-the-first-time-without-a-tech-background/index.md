@@ -1,13 +1,12 @@
 ---
 title: "What's the biggest advice you'd give to people learning to code for the first time without a tech background?"
 date_published: "2020-03-11"
-tags: ["Tech"]
+tags: ["Tech", "Career"]
 fav: true
 ---
 
 ![advice to people learning to code for the first time nick ang blog](images/advice-to-people-learning-to-code-for-the-first-time-nick-ang-blog-1024x768.jpg)
-
-Photo by Brett Jordan
+_Photo by Brett Jordan_
 
 Someone asked me this at a Q&A recently and my answer was this:
 
