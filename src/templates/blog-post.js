@@ -37,6 +37,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
+        <section>
+          <p>
+            <em>
+              If you liked reading this, you might like my{" "}
+              <Link to="/subscribe">newsletter</Link>.
+            </em>
+          </p>
+        </section>
+        <hr />
         <footer>
           <Bio location={location} />
         </footer>
