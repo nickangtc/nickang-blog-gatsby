@@ -4,12 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
-import {
-  title,
-  date,
-  postsNav,
-  newsletterDescription,
-} from "./blog-post.module.scss"
+import { title, date, postsNav } from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
 const BlogPostTemplate = ({ data, pageContext, location }) => {
@@ -37,15 +32,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
-        <section>
-          <p>
-            <em>
-              If you liked reading this, you might like my{" "}
-              <Link to="/subscribe">newsletter</Link>.
-            </em>
-          </p>
-        </section>
-        <hr />
         <footer>
           <Bio location={location} />
         </footer>
@@ -70,45 +56,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
 
-      <section>
-        <form
-          action="https://buttondown.email/api/emails/embed-subscribe/nickang"
-          method="post"
-          target="popupwindow"
-          onSubmit={() =>
-            window.open("https://buttondown.email/nickang", "popupwindow")
-          }
-          className="embeddable-buttondown-form"
-        >
-          <p className={newsletterDescription}>
-            If you enjoy reading this blog, you might like my{" "}
-            <strong>Heart to Heart newsletter</strong>. You can find previous
-            issues{" "}
-            <a
-              href="https://buttondown.email/nickang/archive"
-              target="_blank"
-              rel="noreferrer"
-            >
-              here
-            </a>
-            . See you in the next email?
-          </p>
-          <input
-            type="email"
-            name="email"
-            id="bd-email"
-            placeholder="Your email address"
-          ></input>
-          <input type="hidden" value="1" name="embed"></input>
-          <input
-            type="hidden"
-            value="blog view article footer form"
-            name="metadata__origin"
-          ></input>
-          <span>&nbsp;</span>
-          <input type="submit" value="Subscribe"></input>
-        </form>
-      </section>
+      <iframe
+        src="https://nickang.substack.com/embed"
+        width="100%"
+        height="320"
+        style={{ border: "1px solid #EEE", background: "white" }}
+        frameborder="0"
+        scrolling="no"
+        title="Subscribe to In the End newsletter"
+      ></iframe>
     </Layout>
   )
 }
