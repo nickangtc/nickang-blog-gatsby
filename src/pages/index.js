@@ -26,25 +26,23 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        I'm a senior software engineer at{" "}
+        I'm currently a senior software engineer at{" "}
         <a href="https://www.shopify.com/">Shopify</a>. I write broadly about
-        what I learn and observe, which seem to coalesce around topics like
-        technology, living a meaningful life, and communicating well.
+        what I learn and observe about technology, living a meaningful life, and
+        communicating well.
       </p>
       <p>
-        I used to publish new articles here every week but I've since changed to
-        publishing essays whenever I have something to share. Currently I also
-        write shorter, software engineering related notes in the{" "}
-        <a href="https://medium.com/re-engineering">
-          re-engineering publication on Medium
-        </a>
-        .{" "}
+        If you're new here and not sure where to start, I recommend reading
+        something recent below or <Link to="/topics">browsing by topic</Link>.
       </p>
       <p>
-        If you like the stuff on here, <Link to="/subscribe">subscribe</Link>{" "}
-        for free occasional updates. If you're new here and not sure where to
-        start, I recommend reading something recent below or{" "}
-        <Link to="/topics">browsing by topic</Link>.
+        <strong>Update - a new home for new posts: </strong>
+        From April 2022, I will be publishing exclusively through my newsletter.
+        I laid out my reason in the{" "}
+        <a href="https://nickang.substack.com/p/a-mule-a-campervan-and-other-updates">
+          first dispatch
+        </a>{" "}
+        - scroll to "finding my tribe."
       </p>
 
       <h3>Recent articles</h3>
