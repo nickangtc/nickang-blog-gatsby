@@ -1,8 +1,10 @@
 ---
 title: "Whenever you think you are not good at something, ask yourself this"
 date_published: "2021-02-28"
+date_updated: "2022-05-14"
 excerpt: "I have a tendency to evaluate myself too early. So I ask myself, have I put in time to get good at it?"
 tags: ["Leadership"]
+fav: true
 ---
 
 I’ve been talking to several colleagues at work to find out what I’m lacking as a new team leader in the organisation. I did that because I was beginning to feel all over the place, doing a little here and there. Something about spreading myself thin feels wrong. It feels like I’m not focusing, and if I’m not focusing, how can the team of people that I lead focus? And if they do focus, how would I know if they’re focusing on the right things?
@@ -20,3 +22,9 @@ So what I’m trying to say is this: **whenever you think you are bad at somethi
 Because I’ve had to focus on time-sensitive tasks like hiring immediately after I started my role as a team lead, I have been spread thin and as a result, I have not been able to dedicate time to understanding the big picture, to understand what yardsticks we should use to measure our team’s success, and how to validate items in our backlog against our current goals.
 
 I have more confidence now as I understand that I have a *chance* at being good at some of these — I just have to find and put in the time.
+
+## Go on passion trials
+
+Artist and YouTuber [struthless](https://struthless.com/) explains the idea of passion trials in this [video](https://www.youtube.com/watch?v=yeoVDeUhrms).
+
+The idea is simple and one that is rooted in the simple logic that you have to try, and give yourself enough time (e.g. 30 days) to try so you have a chance of getting decent at it, before you'll know whether you're passionate at something or not. In the video, he also explains, and I agree, that passion is the product of doing something for a while. It is not something that is a seed inside of you since birth.
