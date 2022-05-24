@@ -1,6 +1,9 @@
 ---
 title: "The magic of a light touch"
 date_published: "2020-07-19"
+date_updated: "2022-05-24"
+fav: true
+tags: ["Living", "Creativity"]
 ---
 
 ![photo of the Austrian alps in the town of Bichlbach](images/bichl-bach-light-touch.png)
@@ -66,3 +69,10 @@ I have mostly succeeded in approaching writing with a light touch, although I oc
 What has helped me in this regard is having joined a writing support group. Anything that makes one socially accountable to publish at a cadence (e.g. it is once a week for me with my fellow [word rafters](/2020-06-28-word-rafting)) is capable of muffling even the loudest self-critical thoughts.
 
 When in doubt, you are probably overthinking it. Pursue everything with a light touch and let the magic bring you forward!
+
+## Getting stuff done by not being mean to yourself
+
+> Once I remembered that my motivation is rooted in genuine curiosity and that my tasks are in complete alignment with who I am and want to be, my office suddenly seemed like a playground rather than a labor camp.
+
+This is the title of a blog post by Susan Piver that I stumbled on from Ali Abdaal's [newsletter](https://aliabdaal.com/having-doubts/) in May 2022. Read Susan's post [here](https://openheartproject.com/getting-stuff-done-by-not-being-mean-to-yourself).
+
