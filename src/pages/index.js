@@ -37,6 +37,13 @@ const HomePage = ({ data, location }) => {
         dispatches to my newsletter subscribers.
       </p>
       <p>
+        If you like what you read, then I highly recommend{" "}
+        <strong>subscribing</strong> to my newsletter (or bookmarking its{" "}
+        <a href="https://nickang.substack.com/?s=nickangcom">substack page</a>)
+        because I'm publishing new posts exclusively through the newsletter
+        starting April 2022.
+      </p>
+      <p>
         <iframe
           src="https://nickang.substack.com/embed"
           width="100%"
@@ -52,13 +59,6 @@ const HomePage = ({ data, location }) => {
         this blog <Link to="/topics">by topic</Link>. There is also a growing{" "}
         <a href="https://nickang.substack.com/archive">archive</a> of free
         newsletter posts that may be interesting.
-      </p>
-      <p>
-        If you like what you read, then I highly recommend{" "}
-        <strong>subscribing</strong> to my newsletter (or bookmarking its{" "}
-        <a href="https://nickang.substack.com/?s=nickangcom">substack page</a>)
-        because I'm publishing new posts exclusively through the newsletter
-        starting April 2022.
       </p>
       <p>Thanks for reading!</p>
       <h3>Recent articles</h3>
