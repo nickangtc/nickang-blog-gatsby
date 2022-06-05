@@ -27,24 +27,40 @@ const HomePage = ({ data, location }) => {
       </h1>
       <p>
         I'm currently a senior software engineer at{" "}
-        <a href="https://www.shopify.com/">Shopify</a>. I write broadly about
-        what I learn and observe about technology, living a meaningful life, and
-        communicating well.
+        <a href="https://www.shopify.com/">Shopify</a>. I'm also a dad, husband,
+        rock climber, and all-around avid learner. We live in Berlin, Germany
+        and are originally from Singapore.
       </p>
       <p>
-        If you're new here and not sure where to start, I recommend reading
-        something recent below or <Link to="/topics">browsing by topic</Link>.
+        I write and publish regularly my learnings on living a calm, joyful life
+        through consistent and kind introspection that I make public as
+        dispatches to my newsletter subscribers.
       </p>
       <p>
-        <strong>Update - a new home for new posts: </strong>
-        From April 2022, I will be publishing exclusively through my newsletter.
-        I laid out my reason in the{" "}
-        <a href="https://nickang.substack.com/p/a-mule-a-campervan-and-other-updates">
-          first dispatch
-        </a>{" "}
-        - scroll to "finding my tribe."
+        <iframe
+          src="https://nickang.substack.com/embed"
+          width="100%"
+          height="320"
+          style={{ border: "1px solid #EEE", background: "white" }}
+          frameborder="0"
+          scrolling="no"
+          title="Subscribe to In the End newsletter"
+        ></iframe>
       </p>
-
+      <p>
+        For an introduction to the stuff I write about, I recommend browsing
+        this blog <Link to="/topics">by topic</Link>. There is also a growing{" "}
+        <a href="https://nickang.substack.com/archive">archive</a> of free
+        newsletter posts that may be interesting.
+      </p>
+      <p>
+        If you like what you read, then I highly recommend{" "}
+        <strong>subscribing</strong> to my newsletter (or bookmarking its{" "}
+        <a href="https://nickang.substack.com/?s=nickangcom">substack page</a>)
+        because I'm publishing new posts exclusively through the newsletter
+        starting April 2022.
+      </p>
+      <p>Thanks for reading!</p>
       <h3>Recent articles</h3>
       <ul className={articles}>{newestPosts}</ul>
       <nav>
