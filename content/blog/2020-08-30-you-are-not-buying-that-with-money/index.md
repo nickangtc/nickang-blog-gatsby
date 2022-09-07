@@ -1,13 +1,15 @@
 ---
 title: "You are not buying that with money"
 date_published: "2020-08-30"
+tags: ["Living"]
+fav: true
 ---
 
 Most of us trade time for money. Do you deny it?
 
 In modern life we purchase things all the time. There is an ongoing pandemic trapping us at home, yet we continue to buy stuff from Amazon. Our lives are structured around stuff, there is no escaping it. Unless, well, you literally escape and build a log cabin in the wilderness with your bare hands (I saw a Youtube video of a guy doing that recently that had 18 million views.) The rhythm of life is tied extricably with the rhythm of our purchases.
 
-Now, you might wonder why I'm making a deal out of this. It is, after all, not a crime to shop or even *like* to shop. We buy things to satisfy a need or desire. We buy services and experiences to make life a little sweeter. We deserve at least that much after a long month's work, right? 
+Now, you might wonder why I'm making a deal out of this. It is, after all, not a crime to shop or even *like* to shop. We buy things to satisfy a need or desire. We buy services and experiences to make life a little sweeter. We deserve at least that much after a long month's work, right?
 
 Actually, no. I really don't think you deserve to be treated this way. You deserve better than to unquestioningly spend your money like that. Like you said so yourself, you've worked hard the whole month.
 
@@ -15,11 +17,11 @@ Assuming you're like most people, you probably really own two of seven days in a
 
 Why is that exactly, you ask?
 
-Because I know that **I buy things with time, not money**. Remember that saying, *time is money*? It comes from the simple notion that most of us trade time for money. The only way we are getting that paycheck in the first place is that we have spent time at a job. Time for money. Expertise merely augments that basic variable in our earning potential: time. 
+Because I know that **I buy things with time, not money**. Remember that saying, *time is money*? It comes from the simple notion that most of us trade time for money. The only way we are getting that paycheck in the first place is that we have spent time at a job. Time for money. Expertise merely augments that basic variable in our earning potential: time.
 
 What could be more cruel than to trick a time-impoverished person into giving up more of his time by enticing him to buy stuff?
 
-Let's turn this scenario on its head so that we can see more clearly the point I'm trying to make. 
+Let's turn this scenario on its head so that we can see more clearly the point I'm trying to make.
 
 Imagine that instead of thinking that he deserved a nice dinner at an expensive sushi restaurant this weekend after a week of dealing with passive aggressive coworkers, Jonny decided to have a normal homemade meal. The net effect here is that Jonny becomes doubly well off: he saved money (time) by cooking at home and the grip that his employer has on him (and really, his time) loosens ever so slightly because he has more money left in the bank.
 
