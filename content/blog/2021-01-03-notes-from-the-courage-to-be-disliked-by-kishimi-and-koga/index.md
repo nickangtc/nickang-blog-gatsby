@@ -27,13 +27,13 @@ Take a child who is not studying for example. The child is the one who pays the 
 
 Another example from the book is the acne-laden boy being worried about his looks. He is the one who ultimately determines how he feels about himself. Therefore if other students make fun of him for his acne, and he tries to convince the assholes not to make fun of him, then *he* is intruding on *other people’s tasks*. (Yes, separation works both ways.)
 
-What someone else thinks about how he looks is their task, not his. True, by making fun of him, other people are intruding on his task, too. Or at least attempting to. But the boy only needs to remember that *how he feels about himself* is *his task*, then he can move on to other things in life. Case closed, assholes!
+What someone else thinks about how he looks is their task, not his. True, by making fun of him, other people are intruding on his task, too. Or at least attempting to. But the boy only needs to remember that *how he feels about himself* is *his task*, then he can move on to other things in life. Case closed, assholes! (Edit on 20 October 2022: This [blog post](https://world.hey.com/dhh/don-t-tell-someone-how-to-feel-b3fd3c25) by DHH entitled "Don't tell someone how to feel" tells of how this happens in the workplace too.)
 
 This idea is liberating and helpful. It does need a bit of mind-bending to grasp it intellectually, though. *Whose task is it? Huh?*
 
-Then, you have to be open to using it as a new lens to view your problems. And you need to practice using that [untouchable space between stimuli and response](/2020-11-29-the-untouchable-space-between-stimulus-and-response/) as a mindful pause-point. But once you are open to this optic and have gained the ability to pause on command, much of what you think of as problems will evaporate. *Pfffssssst.* Gone. Just like that. 
+Then, you have to be open to using it as a new lens to view your problems. And you need to practice using that [untouchable space between stimuli and response](/2020-11-29-the-untouchable-space-between-stimulus-and-response/) as a mindful pause-point. But once you are open to this optic and have gained the ability to pause on command, much of what you think of as problems will evaporate. *Pfffssssst.* Gone. Just like that.
 
-For example, when people don't agree with what I write, I will contend with their opinion without letting it affect me. What I believe I am achieving with my writing is my task. How others think about it is theirs. *Pfffssst.* 
+For example, when people don't agree with what I write, I will contend with their opinion without letting it affect me. What I believe I am achieving with my writing is my task. How others think about it is theirs. *Pfffssst.*
 
 *Ahhhh...*
 
@@ -45,7 +45,7 @@ So, if some people dislike you, it means that you are likely living according to
 
 ## How would I describe the book to a friend?
 
-This is a book that distils the life-changing ideas of a philosopher-psychologist Alfred Adler. The ideas change your life by altering the way you perceive problems. 
+This is a book that distils the life-changing ideas of a philosopher-psychologist Alfred Adler. The ideas change your life by altering the way you perceive problems.
 
 The book explains how all problems are interpersonal problems and that if you want to be able to like yourself, you need to adjust the way you view your relationships. Chiefly, by learning to practice the separation of life’s tasks.
 
