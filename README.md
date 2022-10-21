@@ -25,8 +25,9 @@ List of unique topic tags:
 - **PKM** - Note Taking
 - **Leadership**
 - **Communication**
-- **Productivity** (maybe?) - Workflow - Taming complexity 
+- **Productivity** (maybe?) - Workflow - Taming complexity
 
 List of unique type tags:
 - **Book**
 - **Tutorial**
+- **Raw essays** - 30 days raw essays project
