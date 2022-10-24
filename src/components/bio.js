@@ -56,9 +56,9 @@ const Bio = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href={`https://ko-fi.com/nickang`}
+            href={`https://nickang.substack.com/subscribe`}
           >
-            buy coffee
+            subscribe & access all latest posts
           </a>
         </small>
       </div>
