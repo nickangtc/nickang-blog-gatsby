@@ -7,7 +7,7 @@ tags: ["Living", "Raw essays"]
 fav: false
 ---
 
-*(This is #2 of 30 raw essays. The topic was submitted by D.)*
+*(This is #2 of 30 raw essays in 30 days. The topic was submitted by D.)*
 
 How do you feel about the intersection of parenthood and work? 
 

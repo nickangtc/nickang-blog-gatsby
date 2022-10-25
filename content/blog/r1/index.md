@@ -7,7 +7,7 @@ tags: ["Living", "Raw essays"]
 fav: false
 ---
 
-*(This is #1 of 30 raw essays. The topic was submitted by someone.)*
+*(This is #1 of 30 raw essays in 30 days. The topic was submitted by someone.)*
 
 Why do some of us wonder if becoming a parent (newly minted or an old timer) is compatible with having a new job?
 
