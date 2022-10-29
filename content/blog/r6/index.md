@@ -7,7 +7,7 @@ tags: ["Living", "Raw essays"]
 fav: false
 ---
 
-*(This is #5 of 30 raw essays in 30 days.)*
+*(This is #6 of 30 raw essays in 30 days.)*
 
 *Is this fictional or autobiographical, you wonder? I ask in response: does it matter?*
 
