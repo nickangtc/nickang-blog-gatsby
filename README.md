@@ -26,6 +26,7 @@ List of unique topic tags:
 - **Leadership**
 - **Communication**
 - **Productivity** (maybe?) - Workflow - Taming complexity
+- **Fiction** - Flash fiction, Short story, Poem
 
 List of unique type tags:
 - **Book**

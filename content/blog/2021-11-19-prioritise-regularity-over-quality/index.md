@@ -1,6 +1,7 @@
 ---
 title: "Prioritise regularity over quality"
 date_published: "2021-11-19"
+date_updated: "2022-10-31"
 excerpt: "Because it's impossible to not improve at something that you keep doing regularly."
 tags: ["Living"]
 fav: false
@@ -24,7 +25,7 @@ Are there counter-examples where regularity leads people to deteriorate at somet
 
 Before we reach the level where we can write quality blog posts, we should write regularly.
 
-Before we reach the level where we can floss well, we should floss regularly. 
+Before we reach the level where we can floss well, we should floss regularly.
 
 Before we reach the level where we can code well, we should code regularly.
 
@@ -33,3 +34,7 @@ Before we reach the level where we can cook well, we should cook regularly.
 Then one day, we'll realise that we can write well, floss well, code well, cook well, and care well for a baby.
 
 Then, and only then, should we even entertain the idea that spending more time on a single blog post, flossing session, coding session, or cooking session, leads to quality. Because by then we'll actually know what quality is for us and we'll be able to plot a path to achieving it. Maybe we'll even achieve it regularly.
+
+---
+
+**Edit 31.10.2022**: I wrote a [poem](/r8) about this tension and it reminded me of this post, so I'm inserting it here.
