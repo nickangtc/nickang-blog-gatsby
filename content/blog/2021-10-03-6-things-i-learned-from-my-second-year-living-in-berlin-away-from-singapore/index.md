@@ -1,6 +1,7 @@
 ---
 title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
 date_published: "2021-10-03"
+date_updated: "2022-11-03"
 excerpt: "Two years already! I still love living in Berlin, a city of history and openness."
 tags: ["Living"]
 fav: true
@@ -19,7 +20,7 @@ On the occasions that I break free from evaluating everything as a cost-benefit 
 
 But, in a place like hyper-capitalistic Singapore, I don't see that people have a choice. You *have* to be calculative. You *have* to take all costs into account. Because if you don't, you just might not be able to afford things that you really need, like regular and emergency healthcare, or food to keep your family fed during an economic crisis brought on by, say, a new coronavirus.
 
-In Germany where I'm currently based, I'm receiving more or less equal treatment as citizens (in terms of public insurance, on paper and in practice). Here, I just pay my taxes and know that the welfare system has got my back. Mine and my wife's and my newborn child's. 
+In Germany where I'm currently based, I'm receiving more or less equal treatment as citizens (in terms of public insurance, on paper and in practice). Here, I just pay my taxes and know that the welfare system has got my back. Mine and my wife's and my newborn child's.
 
 Seriously, I work one job and my statutory health insurance covers both of them at no additional cost to me. And this is the way it should be because, in reality, a family is literally on the same boat. If it sinks, everyone goes down.
 
@@ -35,7 +36,7 @@ I share these examples because they're freshest in my memory, but there are othe
 ![photo of me carrying my newborn daughter at 2 days old](/images/learning-to-be-a-dad.png)
 *That's me learning how to carry my two day old daughter at the public hospital!*
 
-It's not just sickness, either! Parents get *Elterngeld* (literally "parent money") from the federal government to cover up to 60% of each of their incomes (capped at 1,800 euros per month) for a combined 14 months. 
+It's not just sickness, either! Parents get *Elterngeld* (literally "parent money") from the federal government to cover up to 60% of each of their incomes (capped at 1,800 euros per month) for a combined 14 months.
 
 Why? Because they know parents (especially men, who too often try to shirk their parenting responsibilities citing work) need time to be there for their partner and their newborn child.
 
@@ -73,7 +74,7 @@ So what's the learning here? I think it's this: a place is never bad or good; it
 
 ## 4. Reuse culture is possible and it is beautiful
 
-Walking the streets of Berlin, I often stumble on boxes with the words "*Zu verschenken*" scribbled on their sides. It means "to give away" in German. 
+Walking the streets of Berlin, I often stumble on boxes with the words "*Zu verschenken*" scribbled on their sides. It means "to give away" in German.
 
 ![photo of one of many boxes I stumble upon when walking the streets of Berlin. It contains things that people are giving away](/images/zu-verschenken-box-berlin.jpg)
 *This was a particularly fashionable giveaway, found street-side some five minutes from my apartment.*
@@ -86,7 +87,7 @@ Here's a short assortment of items I've picked from these giveaway boxes in the 
 - Eat Pray Love book (in German)
 - Around 10 children's books (in German)
 
-And it's not just the free things that contribute to the reuse culture that is so strong in Berlin. It's also the things that people list on *eBay Kleinanzeigen* (the classifieds) that are labelled as free or priced very cheaply. 
+And it's not just the free things that contribute to the reuse culture that is so strong in Berlin. It's also the things that people list on *eBay Kleinanzeigen* (the classifieds) that are labelled as free or priced very cheaply.
 
 I find it wonderful that many people here would take the time to list items that they are willing to give away for free, just so that those items end up in the hands of people who are guaranteed to use them. I've also started doing that this year to [contribute to this beautiful culture](/2021-08-08-why-i-took-the-longer-route-to-give-away-things-for-free/).
 
@@ -95,7 +96,7 @@ I find it wonderful that many people here would take the time to list items that
 ![photo of two women using a Pfand machine in Germany](/images/pfand-machine.jpeg)
 *Photo from Institute for Advanced Sustainability Studies ([source](https://www.iass-potsdam.de/en/news/opportunities-enhance-packaging-waste-legislation-germany))*
 
-In Germany, many beverages that ship in glass and plastic bottles must be purchased along with a deposit at the supermarket. For example, I bought an isotonic drink that came in a plastic bottle from Edeka the other day and the retail price was 0,89 euros, and at check-out, I had to pay an extra 0,25 euros as a deposit. 
+In Germany, many beverages that ship in glass and plastic bottles must be purchased along with a deposit at the supermarket. For example, I bought an isotonic drink that came in a plastic bottle from Edeka the other day and the retail price was 0,89 euros, and at check-out, I had to pay an extra 0,25 euros as a deposit.
 
 This process is seamless and I've stopped thinking about how much deposit I'm paying. My brain has been rewired to look at bottles as something valuable to be taken back to the store for money. And it's not just me -- everyone does it here. Of course they do; they want their money back!
 
@@ -118,13 +119,13 @@ The beauty of this car-sharing model is that I can drive any time without ever n
 - deal with regular car servicing
 - wash and vacuum the vehicle
 
-It's not just convenient for me as a user. I think letting a business operate the fleet of vehicles that people drive presents a lot of potential savings. They are incentivised to inflate the tires to the correct pressure regularly, for example, reducing the per-kilometre fuel consumption. 
+It's not just convenient for me as a user. I think letting a business operate the fleet of vehicles that people drive presents a lot of potential savings. They are incentivised to inflate the tires to the correct pressure regularly, for example, reducing the per-kilometre fuel consumption.
 
-A nice bonus for me is that the fleet in Berlin is incredible. (It's probably because Berlin, *Germany*; as in, home of Audi, BMW, Mercedez-Benz, Porsche, and Volkswagen.) I drove my first electric cars here, including a BMW i3, Peugeot e-208, Volkswagen ID.3 and e-Golf, and even a Mazda MX-30. 
+A nice bonus for me is that the fleet in Berlin is incredible. (It's probably because Berlin, *Germany*; as in, home of Audi, BMW, Mercedez-Benz, Porsche, and Volkswagen.) I drove my first electric cars here, including a BMW i3, Peugeot e-208, Volkswagen ID.3 and e-Golf, and even a Mazda MX-30.
 
-The cherry on top is the economics. My favourite car-sharing company in Berlin is WeShare because their rates are the easiest to understand and the lowest for my kind of use. I pay 10 euros for their monthly subscription called WeShare+ and that makes every rental cost 1 euro to unlock and 0,19 euros per minute. 150km mileage is included and parking anywhere is free. 
+The cherry on top is the economics. My favourite car-sharing company in Berlin is WeShare because their rates are the easiest to understand and the lowest for my kind of use. I pay 10 euros for their monthly subscription called WeShare+ and that makes every rental cost 1 euro to unlock and 0,19 euros per minute. 150km mileage is included and parking anywhere is free.
 
-That means that I can rent an electric car (WeShare operates an all-electric fleet) for 30 minutes and pay just 6,70 euros. 
+That means that I can rent an electric car (WeShare operates an all-electric fleet) for 30 minutes and pay just 6,70 euros.
 
 I use all the apps so that I can maximise my chances of finding a vacant vehicle wherever I am in Berlin. Here are my **referral links** for all the car-sharing apps I've been using:
 
@@ -136,3 +137,5 @@ I use all the apps so that I can maximise my chances of finding a vacant vehicle
 ---
 
 In case you missed it, you can read my first year reflections [here](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/).
+
+Update 3.11.2022: I've published my third year reflection on Substack. You can read it [here](https://nickang.substack.com/p/b3).
