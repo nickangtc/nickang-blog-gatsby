@@ -1,6 +1,7 @@
 ---
 title: "Markdown bullet points - hyphen or asterisk?"
 date_published: "2018-03-05"
+date_updated: "2022-12-07"
 ---
 
 Markdown is amazing. It's like HTML but much, much more readable and less work. But some things can get confusing, especially if there is more than one way to do the same thing. Bullet points--or unordered lists if you're a web developer--are one of those things.
@@ -15,6 +16,16 @@ Scarce usage is the reason why "TK" is so commonly used by the editorial world t
 
 Since `*` is much less often used than `-` in a markdown file, I now prefer using that because it allows me to do quick multi-selection like this:
 
-![markdown](images/giphy.gif)
+![asterisk bullet point converts easily to numbered list with multiselection](/images/asterisks-bullet-markdown-success.gif)
+
+Otherwise, if the same list were to be bulleted using `-` hyphens, I would face this problem:
+
+![hyphen bullet point fails because hyphens occur regularly in english text](/images/hyphen-markdown-bullet-fail.gif)
 
 I know it's not a frequent use case, but changing a list from unordered (bulleted) to ordered (numbered) comes up just enough to give preferential treatment!
+
+**Tool note**: In case you're not familiar with the tool I'm using, it's Visual Studios Code - an editor designed for programmers to work with code. But for this "multiselect" functionality alone, it might be worth downloading as a writer. It's [free to download](https://code.visualstudio.com/download) from Microsoft. On a Mac, you can do multi-selection by highlighting the text you want to multi-select and hitting `Command` + `D` as many times as you want to select more.
+
+---
+
+*7 Dec 2022 edit: Thank you Nikita Iashchenko for pointing out to me that this page had a broken gif!*

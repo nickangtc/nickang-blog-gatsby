@@ -1,6 +1,7 @@
 ---
 title: "The better way to console log"
 date_published: "2016-08-30"
+date_modified: "2022-12-07"
 tags: ["Tech"]
 ---
 
@@ -12,12 +13,12 @@ Let me just put it out there: debugging is a science, not art. It can easily \
 
 The science of debugging involves methodically testing and isolating the problem. Here’s a common list of things that have bugged me in my short programming career:
 
-- ; - missing semicolon
-- } - missing closing braces
-- misspelling - (now a thing of the past with JS-linter-standard tool
-- placing a line of code one line too high in an if/else statement
-- placing an array declaration before its constituent variables are declared
-- calling clearInterval(id) directly after setInterval(function(), delay)
+* ; - missing semicolon
+* } - missing closing braces
+* misspelling - (now a thing of the past with JS-linter-standard tool
+* placing a line of code one line too high in an if/else statement
+* placing an array declaration before its constituent variables are declared
+* calling clearInterval(id) directly after setInterval(function(), delay)
 
 Each time one of these show up I spend somewhere between 10 minutes to an hour trying to isolate the problem. Over time, the amount of time spent debugging will decrease over time as I start to recognise patterns. It will also shrink as I become more conversant with debugging tools.
 
