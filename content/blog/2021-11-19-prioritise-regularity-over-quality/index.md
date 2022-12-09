@@ -38,3 +38,7 @@ Then, and only then, should we even entertain the idea that spending more time o
 ---
 
 **Edit 31.10.2022**: I wrote a [poem](/r8) about this tension and it reminded me of this post, so I'm inserting it here.
+
+---
+
+**Edit 9.12.2022**: Austin Kleon has a blog post called [Quantity leads to quality](https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/) and it shares a retelling of a story that beautifully illustrates the point.
