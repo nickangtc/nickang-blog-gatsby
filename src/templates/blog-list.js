@@ -36,8 +36,8 @@ const BlogList = ({ data, location, pageContext }) => {
         const datesLine =
           node.frontmatter.date_updated &&
           node.frontmatter.date_updated !== node.frontmatter.date_published
-            ? `published: ${node.frontmatter.date_published} | updated: ${node.frontmatter.date_updated}`
-            : `published: ${node.frontmatter.date_published}`
+            ? `${node.frontmatter.date_published} | updated: ${node.frontmatter.date_updated}`
+            : `${node.frontmatter.date_published}`
 
         return (
           <span key={node.fields.slug}>
@@ -48,12 +48,7 @@ const BlogList = ({ data, location, pageContext }) => {
                 </h1>
                 <time className={date}>{datesLine}</time>
               </header>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.html,
-                }}
-                className={excerpt}
-              />
+              <p className={excerpt}>{node.excerpt}</p>
             </article>
             <hr></hr>
           </span>
@@ -103,7 +98,7 @@ export const pageQuery = graphql`
       edges {
         node {
           html
-          excerpt
+          excerpt(pruneLength: 300)
           fields {
             slug
           }
