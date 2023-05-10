@@ -26,10 +26,9 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        I'm currently a senior software engineer at{" "}
-        <a href="https://www.shopify.com/">Shopify</a>. I'm also a dad, husband,
-        rock climber, and all-around avid learner. We live in Berlin, Germany
-        and are originally from Singapore.
+        <strike>I'm currently a senior software engineer at Shopify</strike>.
+        I'm also a dad, husband, rock climber, and all-around avid learner. I
+        live in Berlin, Germany and are originally from Singapore.
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
@@ -37,11 +36,9 @@ const HomePage = ({ data, location }) => {
         dispatches to my newsletter subscribers.
       </p>
       <p>
-        If you like what you read, then I highly recommend{" "}
-        <strong>subscribing</strong> to my newsletter (or bookmarking its{" "}
-        <a href="https://nickang.substack.com/?s=nickangcom">substack page</a>)
-        because I'm publishing new posts exclusively through the newsletter
-        starting April 2022.
+        If you like reading stuff on this blog, then I highly recommend{" "}
+        <strong>subscribing</strong> to my newsletter because I've been
+        publishing new posts exclusively there since April 2022:
       </p>
       <p>
         <iframe
@@ -55,13 +52,13 @@ const HomePage = ({ data, location }) => {
         ></iframe>
       </p>
       <p>
-        For an introduction to the stuff I write about, I recommend browsing
-        this blog <Link to="/topics">by topic</Link>. There is also a growing{" "}
-        <a href="https://nickang.substack.com/archive">archive</a> of free
-        newsletter posts that may be interesting.
+        For a structured walk around this place, browse{" "}
+        <Link to="/topics">by topic</Link>. Also head over to the growing{" "}
+        <a href="https://nickang.substack.com/archive">newsletter archive</a>{" "}
+        for the latest posts (some paywalled).
       </p>
       <p>Thanks for reading!</p>
-      <h3>Recent articles</h3>
+      <h3>Popular articles</h3>
       <ul className={articles}>{newestPosts}</ul>
       <nav>
         <p>
@@ -84,9 +81,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { status: { ne: "draft" } } }
+      filter: { frontmatter: { status: { ne: "draft" }, fav: { in: [true] } } }
       sort: { fields: [frontmatter___date_published], order: DESC }
-      limit: 10
+      limit: 15
     ) {
       edges {
         node {
