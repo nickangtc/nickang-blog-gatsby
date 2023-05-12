@@ -5,7 +5,7 @@ tags: ["Tech"]
 fav: true
 ---
 
-![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png) Photo by Lysander Yuen on Unsplash
+![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png)
 
 Big O notation has attained superstar status among the other concepts of math because of programmers like to use it in discussions about algorithms (and for good reason). It's a quick way to talk about algorithm time complexity.
 
@@ -40,26 +40,27 @@ Instead, Big O notation is a way of approximating how much **more** time and spa
 
 Here’s a useful graph from a very good [stackoverflow post](https://stackoverflow.com/a/487278/6463816) that shows all the practical Big O types and their general performance characteristics.
 
-![big o notation time space complexity graph from stackoverflow](images/big-o-notation-complexity-from-stackoverflow.png) Source: cletus on https://stackoverflow.com/a/487278/6463816
+![big o notation time space complexity graph from stackoverflow](images/big-o-notation-complexity-from-stackoverflow.png)
+_Source: cletus on https://stackoverflow.com/a/487278/6463816_
 
 Now let’s nourish our understanding so far with a simplistic example.
 
 ```js
-var smallArray = \[1, 2, 3, 4, … , 96, 97, 98, 99, 100\];
-var largeArray = \[1, 2, 3, 4, … , 9996, 9997, 9998, 9999, 10000\];
+var smallArray = [1, 2, 3, 4, … , 96, 97, 98, 99, 100];
+var largeArray = [1, 2, 3, 4, … , 9996, 9997, 9998, 9999, 10000];
 
 function iterate(inputArray) {
     var total = 0;
 
     for (var i = 0; i < inputArray.length; i++) {
-        total += inputArray\[i\];
+        total += inputArray[i];
     }
 
     return total;
 }
 
 iterate(smallArray);
-iterate(largeArray); 
+iterate(largeArray);
 ```
 
 If `smallArray` has 100 items in it and `largeArray` has 10,000 items, and they are passed (in two separate calls) into an algorithm that iterates through every single item in the array, this algorithm can be said to have **time complexity of O(n)**, or **linear time complexity**.
@@ -76,7 +77,7 @@ This may seem intuitive, but I’m still going to state some seemingly obvious t
 
 We typically consider the order of complexity of an algorithm, its Big O, as though the Murphy (and his law) has a personal vendetta against our algorithm. That is, we consider the **worst case scenario**.
 
-But earlier we alluded to the fact that `iterate()` can actually be completed in linear time if the input array has only a single element. This is the **best case scenario**. In other words, the scenario that we should not have to fret over and can safely overlook.
+But earlier we alluded to the fact that `iterate()` can actually be completed in constant time if the input array has only a single element. This is the **best case scenario**. In other words, the scenario that we should not have to fret over and can safely overlook.
 
 Finally, sometimes programmers also consider the **expected case scenario**. That is the scenario that is most likely to play out whenever we run an algorithm. In the case of our `iterate()` algorithm, this is probably somewhere around O(n/2).
 
@@ -92,11 +93,11 @@ function iterate(inputArray) {
     var total = 0;
 
     for (var i = 0; i < inputArray.length; i++) {
-        total += inputArray\[i\];
+        total += inputArray[i];
     }
 
     for (var i = 0; i < inputArray.length; i++) {
-        total += inputArray\[i\];
+        total += inputArray[i];
     }
 
     return total;
@@ -124,12 +125,12 @@ function weirdIterate(inputArray) {
     var total = 0;
 
     for (var i = 0; i < inputArray.length; i++) {
-        total += inputArray\[i\];
+        total += inputArray[i];
     }
 
     for (var i = 0; i < inputArray.length; i++) {
         for (var j = 0; j < inputArray.length; j++) {
-            total += inputArray\[i\] + inputArray\[j\];
+            total += inputArray[i] + inputArray[j];
         }
     }
 
@@ -152,15 +153,15 @@ Consider this algorithm that counts the number of overlapping items in two array
 ```js
 function overlapCount(arrayA, arrayB) {
     var count = 0;
-    
+
     for (var i = 0; i < arrayA.length; i++) {
         for (var j = 0; j < arrayB.length; j++) {
-            if (arrayA\[i\] === arrayB\[j\]) {
+            if (arrayA[i] === arrayB[j]) {
                 count += 1;
             }
         }
     }
-    
+
     return count;
 }
 ```
@@ -175,7 +176,7 @@ Why should this be the case when we were happy to simplify `2n` as `n` in the pr
 
 The reason has to do with clear representation. When we say that an algorithm has a time complexity of O(n²) instead of O(a \* b) or O(ab), we are obscuring the fact that the complexity is really dependent on two inputs rather than one. It’s just clearer.
 
-That said, a lot of people will still refer to an algorithm like `overlapCount(a, b)` as having O(n²) time complexity. They’re not wrong because this algorithm ultimately has the same line and shape on the graph. I guess it’s a _potato, potahto_ sort of thing?
+That said, a lot of people will still refer to an algorithm like `overlapCount(a, b)` as having O(n²) time complexity. They’re not wrong because this algorithm ultimately has the same line and shape on the graph. I guess it’s a _po-tay-toh, po-tah-toh_ sort of thing?
 
 ## A note about space complexity
 
@@ -183,7 +184,7 @@ So far we've only discussed time complexity. What about space complexity?
 
 It's exactly the same concept, just applied to memory use (ie. RAM) instead of time.
 
-We talk more about time complexity than space complexity. I think that's because our algorithms tend to run into runtime duration constraints than they do with reaching physical memory limits.
+Programmers tend to talk more about time complexity than space complexity. I think that's because our algorithms tend to run into runtime duration constraints than they do with reaching physical memory limits.
 
 I know this seems like I'm skimming over a large topic in itself, and that's because I am.
 
