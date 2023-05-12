@@ -3,7 +3,7 @@ title: "Respect the cannotness"
 date_published: "2022-06-11"
 date_updated: "2022-06-11"
 excerpt:
-tags: ["Tech"]
+tags: ["Living"]
 fav: false
 
 ---

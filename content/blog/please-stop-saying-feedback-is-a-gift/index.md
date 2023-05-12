@@ -2,9 +2,9 @@
 title: "Please stop saying feedback is a gift"
 date_published: "2022-04-19"
 date_updated: "2022-04-19"
-excerpt: 
-tags: ["Tech"]
-fav: false
+excerpt:
+tags: ["Communication"]
+fav: true
 ---
 
 Stop pretending that you like everything about feedback. A gift is something that is meant to be liked. Feedback is not.
