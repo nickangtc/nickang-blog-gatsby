@@ -33,8 +33,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 750,
-              linkImagesToOriginal: false
+              maxWidth: 1000,
+              linkImagesToOriginal: false,
             },
           },
           {
@@ -78,7 +78,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
