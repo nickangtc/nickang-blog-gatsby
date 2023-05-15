@@ -4,7 +4,7 @@ date_published: "2017-12-16"
 tags: ["Tech"]
 ---
 
-![bubble sort explained banner ](images/BSP-bubble-sort-explained.png) Photo by Sime Basioli on Unsplash
+![bubble sort explained banner ](images/BSP-bubble-sort-explained.png)
 
 The goal of bubble sort is to sort an array in ascending or descending order according to a sortable property.
 
@@ -27,7 +27,7 @@ In plain English, here's the sequence of operations:
 
 1. Starting from the back of the array, point at the last element
 2. Compare that element with the one to its left
-    
+
     - if current value is smaller than the one to its left, swap them (so the smaller value is now correctly in front of the larger value)
     - if current value is larger than the one to its left, do nothing (they are already in their right places relative to each other)
 3. Shift pointer one step left
