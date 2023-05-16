@@ -17,6 +17,8 @@ const ContactPage = ({ data, location }) => {
         <li>What did you just read? What did you think?</li>
         <li>Who are you?</li>
         <li>What made you land on this page?</li>
+        <li>Job opportunities</li>
+        <li>Ideas for collaboration</li>
       </ul>
     </Layout>
   )
