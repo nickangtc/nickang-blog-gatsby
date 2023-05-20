@@ -27,7 +27,6 @@ In plain English, here's the sequence of operations:
 
 1. Starting from the back of the array, point at the last element
 2. Compare that element with the one to its left
-
     - if current value is smaller than the one to its left, swap them (so the smaller value is now correctly in front of the larger value)
     - if current value is larger than the one to its left, do nothing (they are already in their right places relative to each other)
 3. Shift pointer one step left
@@ -38,37 +37,28 @@ In plain English, here's the sequence of operations:
 
 ```js
 /**
- * Sort an array in ascending order.
- * Delete null values before output.
- * @param {number[]} array
- * @return {number[]}
+ * Bubble sort that mutates the array, sorting in-place.
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
  */
-function bubbleSort (array) {
-  var count = 0
-  var length = array.length
+const bubbleSort = function (nums) {
+  const lastIndex = nums.length - 1;
+  let sortedUpToIndex = -1;
 
-  // traverse the array (length of array) times
-  while (count !== length) {
-    for (var i = length; i > count; i--) {
-      var current = array[i]
-      var left = array[i - 1]
+  while (sortedUpToIndex !== lastIndex) {
+    for (let i = lastIndex; i > sortedUpToIndex + 1; i--) {
+      const num = nums[i];
+      const left = nums[i - 1];
 
-      // delete element if value is null
-      if (current === null) {
-        array.splice(i, 1)
-        continue
-      }
-
-      // swap
-      if (left !== undefined && left > current) {
-        array[i - 1] = current
-        array[i] = left
+      if (num < left) {
+        // swap
+        nums[i - 1] = num;
+        nums[i] = left;
       }
     }
-    count++
+    sortedUpToIndex++;
   }
-  return array
-}
+};
 
 // test with positive numbers only
 console.log(bubbleSort([109, 90, 44, 39, 4, 24, 2, 0, 10]))
