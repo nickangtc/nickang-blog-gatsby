@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg`,
+        icon: `content/assets/nickang-twitter-large-card.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

@@ -7,10 +7,16 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-import profilePic from '../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg'
-import twitterCardPic from '../../content/assets/nickang-twitter-large-card.png'
+// import profilePic from '../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg'
+import twitterCardPic from "../../content/assets/nickang-twitter-large-card.png"
 
-const SearchEngineOptimisation = ({ description, lang, meta, title, location }) => {
+const SearchEngineOptimisation = ({
+  description,
+  lang,
+  meta,
+  title,
+  location,
+}) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -40,24 +46,24 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
         {
           rel: `apple-touch-icon`,
           sizes: `180x180`,
-          href: `/apple-touch-icon.png`
+          href: `/apple-touch-icon.png`,
         },
         {
           rel: `icon`,
           type: `image/png`,
           sizes: `32x32`,
-          href: `/favicon-32x32.png`
+          href: `/favicon-32x32.png`,
         },
         {
           rel: `icon`,
           type: `image/png`,
           sizes: `16x16`,
-          href: `/favicon-16x16.png`
+          href: `/favicon-16x16.png`,
         },
         {
           rel: `mask-icon`,
           href: `/safari-pinned-tab.svg`,
-          color: `#5bbad5`
+          color: `#5bbad5`,
         },
       ]}
       meta={[
@@ -83,7 +89,7 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
         },
         {
           property: `og:image`,
-          content: profilePic,
+          content: twitterCardPic,
         },
         {
           property: `og:site_name`,
@@ -123,8 +129,8 @@ const SearchEngineOptimisation = ({ description, lang, meta, title, location }) 
         },
         {
           name: `msapplication-TileColor`,
-          content: `#da532c`
-        }
+          content: `#da532c`,
+        },
       ].concat(meta)}
     />
   )
