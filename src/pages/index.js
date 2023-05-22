@@ -26,9 +26,17 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        <strike>I'm currently a senior software engineer at Shopify</strike>.
-        I'm also a dad, husband, rock climber, and all-around avid learner. I
-        live in Berlin, Germany and are originally from Singapore.
+        I'm a dad, husband, rock climber, and all-around avid learner. I
+        currently live in Berlin, Germany 🇩🇪 and am originally from Singapore
+        🇸🇬.
+      </p>
+      <p>
+        <strike>
+          I'm also currently a senior software engineer at Shopify.
+        </strike>{" "}
+        <strong>Update: </strong>I am currently looking for my next role and as
+        of early May 2023, am actively interviewing.{" "}
+        <Link to="/js">Read what my coworkers and students say about me</Link>.
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life

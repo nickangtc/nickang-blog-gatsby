@@ -30,6 +30,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <h1 className={title}>{post.frontmatter.title}</h1>
           <time className={date}>{datesLine}</time>
         </header>
+        {post?.frontmatter?.status === "draft" && (
+          <p>
+            (This is a public <strong>draft</strong>. It can contain errors of
+            all sorts. Read with a pinch of salt.)
+          </p>
+        )}
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
         <footer>
@@ -85,6 +91,7 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 160)
       html
       frontmatter {
+        status
         title
         date_published(formatString: "DD MMM YYYY")
         date_updated(formatString: "DD MMM YYYY")
