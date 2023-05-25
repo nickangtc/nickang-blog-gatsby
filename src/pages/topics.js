@@ -21,6 +21,7 @@ const TAGS_TO_SHOW_AS_TOPICS = [
   "PKM",
   "Leadership",
   "Communication",
+  "Interviewing",
 ]
 
 const _groupByTag = (articles = []) => {
@@ -112,6 +113,7 @@ export const pageQuery = graphql`
               "PKM"
               "Leadership"
               "Communication"
+              "Interviewing"
             ]
           }
         }

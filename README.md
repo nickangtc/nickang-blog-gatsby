@@ -18,17 +18,18 @@ For everything else in this public repository you may use freely according to th
 **Remember!** Wrap all tags in "" in frontmatter for easy search. e.g. searching for articles tagged "Tech" is much easier when searching `"Tech"` instead of `Tech`.
 
 List of unique topic tags:
-- **Tech** - Software Development - Design - Product
-- **Career**
-- **Living** - Mindfulness - Parenting - Habits - Society & Culture
-- **Creativity** - Writing - Blogging - Problem Solving
-- **PKM** - Note Taking
-- **Leadership**
-- **Communication**
-- **Productivity** (maybe?) - Workflow - Taming complexity
-- **Fiction** - Flash fiction, Short story, Poem
+- **"Tech"** - Software Development - Design - Product
+- **"Interviewing"** - self-explanatory
+- **"Career"**
+- **"Living"** - Mindfulness - Parenting - Habits - Society & Culture
+- **"Creativity"** - Writing - Blogging - Problem Solving
+- **"PKM"** - Note Taking
+- **"Leadership"**
+- **"Communication"**
+- **"Productivity"** (maybe?) - Workflow - Taming complexity
+- **"Fiction"** - Flash fiction, Short story, Poem
 
 List of unique type tags:
-- **Book**
-- **Tutorial**
-- **Raw essays** - 30 days raw essays project
+- **"Book"**
+- **"Tutorial"**
+- **"Raw essays"** - 30 days raw essays project

@@ -1,7 +1,7 @@
 ---
 title: "Job searching is not about the numbers"
 date_published: "2018-04-25"
-tags: ["Tech"]
+tags: ["Tech", "Interviewing"]
 fav: true
 ---
 
