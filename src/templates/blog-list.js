@@ -31,6 +31,10 @@ const BlogList = ({ data, location, pageContext }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Blog posts" location={location} />
+      <p>
+        Want to see a full list instead of pages of results? See{" "}
+        <Link to="/e">here</Link>.
+      </p>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         const datesLine =
