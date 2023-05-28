@@ -117,10 +117,15 @@ testCases.forEach((testCase) => {
 Or if you're working with inputs that are Object or Array types, you can modify it to use `JSON.stringify` for the output like so:
 
 ```js
+const _ = require('lodash');
+
 testCases.forEach((testCase) => {
   const output = redact(testCase.input);
 
   console.assert(
+    // Comparing 2 arrays or objects is tricky,
+    // so best not to implement it yourself.
+    // So we use lodash.
     _.isEqual(output, testCase.expect),
     `Test case "${testCase.description}" failed. Input was ${
       testCase.input
@@ -134,6 +139,8 @@ testCases.forEach((testCase) => {
 Putting it all together, you'll have a single file that would look something like this:
 
 ```js
+const _ = require('lodash');
+
 // implementation
 function redact(inputStr) {
   const tokens = inputStr.split(" ");
