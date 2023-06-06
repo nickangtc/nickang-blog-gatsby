@@ -2,6 +2,7 @@
 title: "What is REPL?"
 date_published: "2020-01-06"
 tags: ["Tech"]
+fav: true
 ---
 
 REPL stands for read-evaluate-print-loop and it is basically a program that is an active session running a programming language and awaiting additional inputs.

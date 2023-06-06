@@ -35,6 +35,7 @@ const JobSearchPage = ({ data, location }) => {
         <strong>fully remote</strong>, and I should be employed in Germany.
       </p>
       <h2>What coworkers and managers say about me</h2>
+      <p>Coworkers say:</p>
       <blockquote>
         "I had the pleasure of working closely with Nick for nearly one and a
         half years, and it was truly remarkable. Nick's exceptional project
@@ -44,6 +45,13 @@ const JobSearchPage = ({ data, location }) => {
         navigate domain complexity with ease and his exceptional communication
         skills when engaging with stakeholders."{" "}
         <cite>Carlos R, senior software engineer (Shopify)</cite>
+      </blockquote>
+      <blockquote>
+        You've taught me so much about what it means to be efficient and
+        effective at work and to do so in a holistic, sustainable and smart way.
+        If there's an award to represent the most Smartly of all Smartlies, I
+        think you should be granted one. Thanks for all the learnings you have
+        given me! <cite>Justin T, solutions engineer (Shopify)</cite>
       </blockquote>
       <blockquote>
         "Nick is technically strong, a fast learner and takes initiative to
@@ -57,6 +65,7 @@ const JobSearchPage = ({ data, location }) => {
         coworker. Working with Nick really made me feel like I belonged in the
         team." <cite>Milan R, Product Manager (Smartly.io)</cite>
       </blockquote>
+      <p>Students say:</p>
       <blockquote>
         "I had the privilege of being taught by Nick during my time at General
         Assembly. Nick was one of my teaching assistants in the course and he
