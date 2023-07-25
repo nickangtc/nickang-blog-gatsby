@@ -10,7 +10,7 @@ const JobSearchPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Nick's Job Search" location={location} />
-      <h1>I'm looking for my next role</h1>
+      <h1>I'm currently NOT actively looking for my next role</h1>
       <p>
         Environmental Studies major turned Entrepreneur turned Software
         Engineer. I learn constantly, teach openly, communicate clearly, and

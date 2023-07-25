@@ -31,12 +31,12 @@ const HomePage = ({ data, location }) => {
         🇸🇬.
       </p>
       <p>
-        <strike>
-          I'm also currently a senior software engineer at Shopify.
-        </strike>{" "}
-        <strong>Update: </strong>I am currently looking for my next role and as
-        of early May 2023, am actively interviewing.{" "}
-        <Link to="/js">Read what my coworkers and students say about me</Link>.
+        I currently work at{" "}
+        <a href="https://topi.eu" target="_blank" rel="noreferrer">
+          topi
+        </a>{" "}
+        as a software engineer where I'm helping to build a hardware
+        subscriptions as a service product.
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
