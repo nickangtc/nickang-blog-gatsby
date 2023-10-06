@@ -35,8 +35,8 @@ const HomePage = ({ data, location }) => {
         <a href="https://topi.eu" target="_blank" rel="noreferrer">
           topi
         </a>{" "}
-        as a software engineer where I'm helping to build a hardware
-        subscriptions as a service product.
+        as a software engineer where I'm helping to build a Device as a Service
+        (DaaS) product.
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
@@ -45,8 +45,7 @@ const HomePage = ({ data, location }) => {
       </p>
       <p>
         If you like reading stuff on this blog, then I highly recommend{" "}
-        <strong>subscribing</strong> to my newsletter because I've been
-        publishing new posts exclusively there since April 2022:
+        <strong>subscribing</strong> to my newsletter:
       </p>
       <p>
         <iframe

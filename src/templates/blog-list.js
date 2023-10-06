@@ -32,7 +32,7 @@ const BlogList = ({ data, location, pageContext }) => {
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Blog posts" location={location} />
       <p>
-        Want to see a full list instead of pages of results? See{" "}
+        Want to see a full list instead of pages of results? Click{" "}
         <Link to="/e">here</Link>.
       </p>
       {posts.map(({ node }) => {
