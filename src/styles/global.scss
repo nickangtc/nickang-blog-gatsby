@@ -97,7 +97,8 @@ li {
 /**
 * EVERYTHING ELSE
 */
-span.gatsby-resp-image-wrapper + em {
+span.gatsby-resp-image-wrapper + em,
+p > img + em {
     display: block;
     padding-top: $rhythm / 2;
     border-top: 3px solid $blue;

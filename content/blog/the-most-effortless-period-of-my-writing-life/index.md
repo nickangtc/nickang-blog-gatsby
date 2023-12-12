@@ -3,11 +3,9 @@ title: "The most effortless period of my writing life"
 date_published: "2023-11-27"
 date_updated: "2023-11-27"
 excerpt: "It was when I was learning to code."
-tags: ["Tech"]
+tags: ["Creativity"]
 fav: false
 ---
-
-(Note to self: Need to write a bash script that looks at yaml date_published property of all posts, sorts chronologically, and outputs the titles. Will be useful for searching for posts.)
 
 One of the most amazing periods of my life is something unexpected.
 
