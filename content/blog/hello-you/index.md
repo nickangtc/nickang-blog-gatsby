@@ -3,7 +3,7 @@ title: "Hello you"
 date_published: "2023-12-14"
 date_updated: "2023-12-14"
 excerpt:
-tags: ["Living"]
+tags: ["Creativity"]
 fav: false
 ---
 
