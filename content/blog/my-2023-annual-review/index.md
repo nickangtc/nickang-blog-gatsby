@@ -5,7 +5,7 @@ date_updated: "2023-12-22"
 excerpt:
 tags: ["Tech"]
 fav: false
-draft: true
+status: draft
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.
