@@ -2,8 +2,8 @@
 title: "My 2021 Annual Review"
 date_published: "2022-01-02"
 date_updated: "2022-01-02"
-excerpt: 
-tags: ["Tech"]
+excerpt:
+tags: ["Living"]
 fav: false
 ---
 
@@ -31,7 +31,7 @@ I go into each of these in the sections below. Let's go!
 
 **Growing as a leader.** I was presented the opportunity to become a Team Lead at Smartly.io from the start of the year and I took it. In a few months, I had seven direct reports, which still sounds crazy. I've learned many things about leading people and managing a team's output. I've grown as a leader and mentor this year.
 
-**Consistency.** I continued to discover who I am as I published a blog post every single week this year. This habit has helped me reflect on my life at least once every week, which has given me clarity throughout the year about where I am at and where I am headed. I'm also more confident now in executing projects that call for a consistent schedule. I can confidently say that I'm a consistent guy. 
+**Consistency.** I continued to discover who I am as I published a blog post every single week this year. This habit has helped me reflect on my life at least once every week, which has given me clarity throughout the year about where I am at and where I am headed. I'm also more confident now in executing projects that call for a consistent schedule. I can confidently say that I'm a consistent guy.
 
 **Found a sustainable solution to re-live memories.** In October, after Charlotte turned a month old, I started to publish one Instagram post every single day ([@nickangtc](https://www.instagram.com/nickangtc/)) to encapsulate our experiences each day into a daily log. I've done it for close to three months now and have found a way to do it in less than 30 minutes each day and I intend to keep doing it throughout 2022. This matters to me because I have a bad memory, among [other things](https://www.nickang.com/2021-11-07-why-active-on-instagram-again/).
 
@@ -41,7 +41,7 @@ I go into each of these in the sections below. Let's go!
 
 ## 2.  What did not go so well this year?
 
-**Not reading books.** I didn't read as many books as I'd hoped. The quantity wouldn't bother me much if I had consciously picked only a handful of books to read throughout the year, but I didn't. I took a much more sporadic approach to what I read this year, which seems like poor design. 
+**Not reading books.** I didn't read as many books as I'd hoped. The quantity wouldn't bother me much if I had consciously picked only a handful of books to read throughout the year, but I didn't. I took a much more sporadic approach to what I read this year, which seems like poor design.
 
 **Finding and sustainably engaging my community.** I still don't understand how online communities function despite having spent a lot of time on Twitter, Instagram, Discord, and Slack with people. I'm not sure if it's the case that I don't understand how communities function or that I just haven't found my people yet. It's frustrating because I know there are *many* interesting people in this world with whom I share interests but will probably never accidentally encounter in real life. I'll have to continue to learn where to find my people and sustain a largely online relationship with them.
 
@@ -55,10 +55,10 @@ I go into each of these in the sections below. Let's go!
 
 **Things will expand and contract again and again.** I learned that almost everything in life works in a contract-expand cycle. This is a useful way to see the world because it puts chaos into perspective and makes it bearable, even understandable.
 
-For example, I used Obsidian for note-taking and wrote a lot of notes for a while (expand), and at some point, I went back to delete and merge notes (contract). Or, take the example of moving apartments. I'd construct boxes and throw stuff all around the house (expand) before being able to pack them neatly into boxes (contract) and before finally taking things out of the boxes to put around the new apartment again (expand). 
+For example, I used Obsidian for note-taking and wrote a lot of notes for a while (expand), and at some point, I went back to delete and merge notes (contract). Or, take the example of moving apartments. I'd construct boxes and throw stuff all around the house (expand) before being able to pack them neatly into boxes (contract) and before finally taking things out of the boxes to put around the new apartment again (expand).
 
 **I enjoy working remotely.** I learned that remote work is a model that works very well for me. I like spontaneous interactions with people but what I like even more is not being interrupted when I'm working. Not being interrupted means I can do more with less time, giving myself time back to spend with my family, reading, writing, or doing side projects. Remote work with a sprinkling of once or twice yearly in-person meetups with the team sounds like the perfect model of the future of work to me!
 
-**I'm decent at programming.** I learned that I'm not bad at building software and that because of that I like building software. One more data point to the hypothesis that we tend to like what we are good at. 
+**I'm decent at programming.** I learned that I'm not bad at building software and that because of that I like building software. One more data point to the hypothesis that we tend to like what we are good at.
 
 **Regularity and consistency beat a pursuit of quality any day.** The sun goes up, the sun goes down. I can [also](https://austinkleon.com/2013/12/29/something-small-every-day/) get my head around that. I learned to enjoy prioritising [regularity over quality](https://www.nickang.com/2021-11-19-prioritise-regularity-over-quality/). Shawn Wang [echoes](https://www.swyx.io/quality-vs-consistency/) a similar thought.

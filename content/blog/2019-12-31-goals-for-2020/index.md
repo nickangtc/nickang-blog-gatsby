@@ -1,6 +1,7 @@
 ---
 title: "Goals for 2020"
 date_published: "2019-12-31"
+tags: ["Living"]
 ---
 
 Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.
@@ -51,7 +52,7 @@ In 2020, I want to firmly establish these as part of my daily routine.
 I am soon to be 30 and I am finally beginning to understand that we are our routines. Great things are accomplished with consistency. One of my [favourite quotes](/2017-10-04-fierce-and-original/) is by Gustave Flaubert:
 
 > "Be steady and well-ordered in your life so that you can be fierce and original in your work."
-> 
+>
 > Gustave Flaubert, French author in the late 1800s
 
 I have found the effects of journaling, reading, and meditating to be profound in keeping me life calm _and_ orderly. While none of these activities actually help me do the laundry, buy groceries, or make money, they give me the awareness to do these mundane things willingly and diligently. And that makes a big difference to my daily happiness.

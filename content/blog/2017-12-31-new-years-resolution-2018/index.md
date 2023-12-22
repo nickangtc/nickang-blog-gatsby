@@ -1,6 +1,7 @@
 ---
 title: "My New Year's resolution for 2018"
 date_published: "2017-12-31"
+tags: ["Living"]
 ---
 
 ![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg) The Moleskine notebook I used every step of the way in 2017
