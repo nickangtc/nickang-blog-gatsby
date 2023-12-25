@@ -30,9 +30,15 @@ List of unique topic tags:
 - **"Communication"**
 - **"Productivity"** (maybe?) - Workflow - Taming complexity
 - **"Fiction"** - Flash fiction, Short story, Poem
+- **"Good intentions"** -
 
 List of unique type tags:
 
 - **"Book"**
 - **"Tutorial"**
 - **"Raw essays"** - 30 days raw essays project
+
+List of unique statuses:
+
+- draft - hidden from blog list page
+- revisit - things that I want to be resurfaced for follow-up some time in the future

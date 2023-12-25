@@ -2,7 +2,7 @@
 title: "Reflecting on my career in tech: 5 years in"
 date_published: "2021-07-04"
 excerpt: "A deep reflection about my career in software engineering and what's next"
-status: "draft"
+tags: ["Tech"]
 ---
 
 ![a picture of Nick and Charlane in an empty new rental apartment](/images/nickang-new-rental-apartment-berlin.jpg)
@@ -30,9 +30,9 @@ I remember feeling thankful and lucky that I accidentally crossed paths with sof
 
 So we set our sights on the city that left a deep impression on both of us: San Francisco. We were there for our first road trip together, and I was there touring Silicon Valley startups as part of my university entrepreneurship program before she had arrived for that road trip.
 
-The job hunt was harder than I thought, but I still had a healthy pipeline of companies who were willing to consider me and were scheduling first calls. 
+The job hunt was harder than I thought, but I still had a healthy pipeline of companies who were willing to consider me and were scheduling first calls.
 
-At this time, I was still teaching at the bootcamp and one day, I bumped into a person whom I hadn't seen for a while on campus. His name was Jun Kai, and he was, like me, a graduate from the programming bootcamp. 
+At this time, I was still teaching at the bootcamp and one day, I bumped into a person whom I hadn't seen for a while on campus. His name was Jun Kai, and he was, like me, a graduate from the programming bootcamp.
 
 I asked him what he was doing on campus and he told me that he was recruiting fresh graduates to join the company he's working for. Casually, I asked him if the company had an office in San Francisco and just as casually, he said "yes." The company, he told me, is called Smartly.io. Three years have passed since I started working here.
 
@@ -44,7 +44,7 @@ Alright, so far I've described how I started on the path of software engineering
 
 My title at Smartly.io when I started was something that took me over a year to understand -- I was to be a Service Operations Engineer. The industry did not have a title like that and I had a hard time explaining to my mum what I do. But the title wasn't the problem. The job scope was.
 
-I spent 20 percent of my time coding, while the remaining 80 percent of my time was always spent providing technical support to customers or training Customer Success Managers on how to do technical product troubleshooting. I learned a lot about the [hard things of providing high quality customer support](/2021-07-18-8-hard-things-about-providing-high-quality-customer-support/), but I believe this increasing distance from day-to-day programming work was what eventually helped me see that the intrigue of programming had evaporated from me. 
+I spent 20 percent of my time coding, while the remaining 80 percent of my time was always spent providing technical support to customers or training Customer Success Managers on how to do technical product troubleshooting. I learned a lot about the [hard things of providing high quality customer support](/2021-07-18-8-hard-things-about-providing-high-quality-customer-support/), but I believe this increasing distance from day-to-day programming work was what eventually helped me see that the intrigue of programming had evaporated from me.
 
 Put another way: I found myself no longer that interested in software development. Building something new or fixing a bug is something I still find fun doing, but only occasionally.
 
@@ -52,8 +52,8 @@ At this time, a number of my colleagues in the same team (Service Operations) wh
 
 And so, here I am, leading a team of 8 internal tools software engineers, not being very excited about software development.
 
-I see a few potential paths forward, some involving changing roles in the company, others requiring more drastic change. Of course, there's the option of staying in the role too, in which I think I'm doing a decent job from the managerial perspective. After all, I am *able* to do the job. I'm just finding myself a little less interested in doing it with each passing week.
+I see a few potential paths forward, some involving changing roles in the company, others requiring more drastic change. Of course, there's the option of staying in the role too, in which I think I'm doing a decent job from the managerial perspective. After all, I am _able_ to do the job. I'm just finding myself a little less interested in doing it with each passing week.
 
-How does one ultimately decide what the next step in their career should be? I don't know, but I know one needs to consider his unique circumstance and priorities. 
+How does one ultimately decide what the next step in their career should be? I don't know, but I know one needs to consider his unique circumstance and priorities.
 
 Even though this essay may appear to be somewhat depressing, especially towards the end, I must say this: I am very grateful for the opportunities that have come up because of software engineering. I know that I am lucky to have a choice. That said, having a choice means having to do some thinking beforehand so that it may become a good decision.

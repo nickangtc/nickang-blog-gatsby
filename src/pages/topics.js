@@ -22,6 +22,7 @@ const TAGS_TO_SHOW_AS_TOPICS = [
   "Leadership",
   "Communication",
   "Interviewing",
+  "Good intentions",
 ]
 
 const _groupByTag = (articles = []) => {
@@ -36,6 +37,35 @@ const _groupByTag = (articles = []) => {
     })
   })
   return articlesByTag
+}
+
+const tagToSectionHeading = tag => {
+  const map = {
+    Tech: "🤖 Tech",
+    Living: "😊 Living",
+    Creativity: "🌌 Creativity",
+    PKM: "📝 Personal Knowledge Management",
+    Leadership: "🙇🏻‍♂️ Leadership",
+    Communication: "🗣 Communication",
+    Interviewing: "💼 Interviewing",
+    "Good intentions": "🤞 Good intentions (and how they play out)",
+  }
+  return map[tag]
+}
+
+const tagToPageSlug = tag => {
+  // the strings are the page filenames
+  const map = {
+    Tech: "tech",
+    Living: "living",
+    Creativity: "creativity",
+    PKM: "pkm",
+    Leadership: "leadership",
+    Communication: "communication",
+    Interviewing: "interviewing",
+    "Good intentions": "gi",
+  }
+  return map[tag]
 }
 
 const TopicsPage = ({ data, location }) => {
@@ -59,12 +89,12 @@ const TopicsPage = ({ data, location }) => {
       return (
         <section key={tag} className={twoColumnFlexItem}>
           <h3 className={sectionHeading}>
-            <Link to={`/${tag.toLowerCase()}`} className={hyperlink}>
-              {tag}
+            <Link to={`/${tagToPageSlug(tag)}`} className={hyperlink}>
+              {tagToSectionHeading(tag)}
             </Link>
           </h3>
           <ul className={list}>{articlesList}</ul>
-          <Link to={`/${tag.toLowerCase()}`} className={hyperlink}>
+          <Link to={`/${tagToPageSlug(tag)}`} className={hyperlink}>
             <em>
               Read all {`${articlesByTag[tag].length}`} articles on {tag} →
             </em>
@@ -114,6 +144,7 @@ export const pageQuery = graphql`
               "Leadership"
               "Communication"
               "Interviewing"
+              "Good intentions"
             ]
           }
         }

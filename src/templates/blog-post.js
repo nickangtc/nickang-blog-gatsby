@@ -32,8 +32,18 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </header>
         {post?.frontmatter?.status === "draft" && (
           <p>
-            (This is a public <strong>draft</strong>. It can contain errors of
-            all sorts. Read with a pinch of salt.)
+            <strong>
+              (This is a public <strong>draft</strong>. It can contain errors or
+              problematic thinking. Read with a teaspoon of salt.)
+            </strong>
+          </p>
+        )}
+        {post?.frontmatter?.status === "revisit" && (
+          <p>
+            <strong>
+              (This post has been marked for revisiting, likely because it needs
+              a follow-up.)
+            </strong>
           </p>
         )}
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
