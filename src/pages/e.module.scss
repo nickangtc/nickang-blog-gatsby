@@ -1,0 +1,44 @@
+@import '../styles/variables';
+
+.tags,
+.meta {
+  font-family: $serif;
+  font-size: $base-size * 0.8;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.tags {
+  margin-bottom: $rhythm * 0.5;
+}
+
+.meta {
+  margin-bottom: 0;
+}
+
+.cardLink {
+  text-decoration: none;
+  color: $darkgray;
+}
+
+.card {
+  padding: $rhythm 0;
+  border-bottom: 1px solid $gray;
+}
+
+.cardTitle {
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: $rhythm;
+
+  &:hover {
+    text-decoration: underline;
+    color: $blue;
+    transition: color 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+  }
+}
+
+.excerpt {
+  margin-bottom: $rhythm;
+  line-height: $rhythm;
+}

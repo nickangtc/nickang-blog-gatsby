@@ -2,12 +2,13 @@
 $red: #cc2936;
 $blue: #4CA9EA;
 $beige: #F6F5EF;
-$gray: #EDEADE;
+$gray: #d2d2d2;
 $darkgray: #404040;
 
-// typogrpahy
-$sans-serif: "Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+// typography
+$sans-serif: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+$serif: 'Courier New', Courier, monospace;
 
 // measurements
 $base-size: 1rem;
-$rhythm: $base-size * 1.5;
+$rhythm: $base-size * 1.4;
