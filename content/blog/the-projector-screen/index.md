@@ -3,7 +3,7 @@ title: "The projector screen"
 date_published: "2023-12-25"
 date_updated: "2023-12-25"
 excerpt:
-tags: ["Good intentions"]
+tags: ["Good intentions", "Living"]
 status: "revisit"
 fav: false
 ---

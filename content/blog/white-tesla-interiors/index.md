@@ -3,7 +3,7 @@ title: "White Tesla interiors: hell-yeah or oh-no for a family?"
 date_published: "2023-12-27"
 date_updated: "2023-12-27"
 excerpt:
-tags: ["Living"]
+tags: ["Good intentions", "Living"]
 status: "revisit"
 fav: false
 ---
