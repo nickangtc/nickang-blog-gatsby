@@ -37,6 +37,7 @@ List of unique type tags:
 - **"Book"**
 - **"Tutorial"**
 - **"Raw essays"** - 30 days raw essays project
+- **Collection** - holds any growing collection of things
 
 List of unique statuses:
 

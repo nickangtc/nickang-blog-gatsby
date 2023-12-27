@@ -46,6 +46,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </strong>
           </p>
         )}
+        {post?.frontmatter?.tags?.includes("Collection") && (
+          <p>
+            <strong>
+              (This is a growing collection, so it's better to think of it as a
+              wiki page. Check the updated date below the title for last date of
+              update.)
+            </strong>
+          </p>
+        )}
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
         <footer>
@@ -103,6 +112,7 @@ export const pageQuery = graphql`
       frontmatter {
         status
         title
+        tags
         date_published(formatString: "DD MMM YYYY")
         date_updated(formatString: "DD MMM YYYY")
         excerpt
