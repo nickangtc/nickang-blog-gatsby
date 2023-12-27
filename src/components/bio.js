@@ -34,7 +34,7 @@ const Bio = () => {
       <StaticImage
         src="../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg/"
         imgStyle={{
-          borderRadius: `50%`,
+          borderRadius: `999px`,
         }}
         alt={`${data.site.siteMetadata.author.name} profile picture`}
         style={{
@@ -47,7 +47,7 @@ const Bio = () => {
       />
       <div>
         <div>
-          Senior software engineer, dad, writer-thinker type. Big on learning
+          Husband, dad, and software engineer that writes. Big on learning
           something everyday and trying to have fun before the lights go out.
         </div>
         <small>
@@ -58,7 +58,7 @@ const Bio = () => {
             rel="noreferrer"
             href={`https://nickang.substack.com/subscribe`}
           >
-            subscribe & access all latest posts
+            subscribe
           </a>
         </small>
       </div>
