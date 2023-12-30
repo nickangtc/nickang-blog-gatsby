@@ -30,7 +30,8 @@ List of unique topic tags:
 - **"Communication"**
 - **"Productivity"** (maybe?) - Workflow - Taming complexity
 - **"Fiction"** - Flash fiction, Short story, Poem
-- **"Good intentions"** -
+- **"Good intentions"**
+- **"Announcement"**
 
 List of unique type tags:
 

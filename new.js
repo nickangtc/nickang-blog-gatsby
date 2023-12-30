@@ -66,8 +66,8 @@ const generatePostFolder = async function ({
 title: "${postTitle}"
 date_published: "${date}"
 date_updated: "${date}"
-excerpt: 
-tags: ["Tech"]
+excerpt:
+tags: ["Tech", "Interviewing", "Career", "Living", "Creativity", "PKM", "Leadership", "Communication", "Productivity", "Fiction", "Good intentions", "Book", "Tutorial", "Collection", "Announcement"]
 fav: false
 ---
 
