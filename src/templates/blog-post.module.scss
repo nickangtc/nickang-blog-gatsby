@@ -1,14 +1,14 @@
 @import '../styles/variables';
 
 .title {
-  margin-bottom: $rhythm / 3;
+  margin-bottom: $rhythm / 2;
 }
 
 .date {
   display: block;
-  margin-top: 0.5rem;
-  margin-bottom: 1.75rem;
-  font-size: 0.85rem;
+  margin-top: $rhythm / 2;
+  margin-bottom: $rhythm;
+  font-size: 0.85 * $base-size;
   font-family: $sans-serif;
   color: $darkgray;
 }

@@ -31,32 +31,36 @@ pre[class*="language-"] {
 	color: #728fcb;
 }
 
-pre > code[class*="language-"] {
+pre>code[class*="language-"] {
 	font-size: 1em;
 }
 
-pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
-code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+pre[class*="language-"]::-moz-selection,
+pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection,
+code[class*="language-"] ::-moz-selection {
 	text-shadow: none;
 	background: #faf8f5;
 }
 
-pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
-code[class*="language-"]::selection, code[class*="language-"] ::selection {
+pre[class*="language-"]::selection,
+pre[class*="language-"] ::selection,
+code[class*="language-"]::selection,
+code[class*="language-"] ::selection {
 	text-shadow: none;
 	background: #faf8f5;
 }
 
 /* Code blocks */
 pre[class*="language-"] {
-  padding: $rhythm;
-  border-radius: .6rem;
+	padding: $rhythm;
+	border-radius: .6rem;
 	margin: .5em 0;
 	overflow: auto;
 }
 
 /* Inline code */
-:not(pre) > code[class*="language-"] {
+:not(pre)>code[class*="language-"] {
 	padding: .3em;
 	border-radius: .6rem;
 }
@@ -149,7 +153,7 @@ code.language-scss,
 	cursor: help;
 }
 
-pre > code.highlight {
+pre>code.highlight {
 	outline: .4em solid #896724;
 	outline-offset: .4em;
 }
@@ -161,7 +165,7 @@ pre > code.highlight {
 	border-right-color: #ece8de;
 }
 
-.line-numbers-rows > span:before {
+.line-numbers-rows>span:before {
 	color: #cdc4b1;
 }
 

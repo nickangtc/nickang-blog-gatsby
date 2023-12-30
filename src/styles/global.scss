@@ -5,7 +5,10 @@
 */
 body {
     background-color: white;
+    font-size: $base-size;
+    line-height: $rhythm;
 }
+
 a {
     box-shadow: none;
     transition: box-shadow 0.25s ease-in-out;
@@ -16,6 +19,7 @@ a {
         box-shadow: 0 2px 0 0 $blue;
     }
 }
+
 form {
     background-color: $beige;
     padding: $base-size;
@@ -24,25 +28,52 @@ form {
 /**
 * TYPOGRAPHY AND SIZING
 */
-h4, h5, h6 {
+nav,
+footer,
+form,
+p,
+li,
+ul,
+ol,
+h4,
+h5,
+h6 {
     font-size: $base-size;
 }
+
 h3 {
     font-size: $base-size * 1.25;
 }
+
 h2 {
     font-size: $base-size * 1.5;
 }
+
 h1 {
     font-size: $base-size * 2;
 }
-h1, h2, h3, h4, h5, h6, nav, footer, form, p, li, ul, ol {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav,
+footer,
+form,
+p,
+li,
+ul,
+ol {
     font-family: $sans-serif;
 }
+
 input {
     border-radius: $base-size * 0.2;
     border: 1px solid rgba(0, 0, 0, 0.4);
 }
+
 input[type="submit"] {
     background-color: $gray;
 
@@ -55,22 +86,27 @@ input[type="submit"] {
 }
 
 // Portrait and Landscape
-@media only screen
-  and (min-device-width: 320px)
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-    body, h4, h5, h6 {
-        font-size: $base-size * 0.9;
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+
+    body,
+    h4,
+    h5,
+    h6 {
+        font-size: $base-size;
     }
+
     h3 {
         font-size: $base-size * 1.2;
     }
+
     h2 {
         font-size: $base-size * 1.3;
     }
+
     h1 {
         font-size: $base-size * 1.5;
     }
+
     blockquote {
         font-size: $base-size * 1.1;
     }
@@ -83,13 +119,18 @@ pre {
     margin-top: 0 !important;
     margin-bottom: $rhythm !important;
 }
-hr, p {
+
+hr,
+p {
     margin-bottom: $rhythm;
 }
-ol, ul {
+
+ol,
+ul {
     margin-left: $rhythm;
     margin-bottom: $rhythm;
 }
+
 li {
     margin-bottom: $base-size / 2;
 }
@@ -97,8 +138,8 @@ li {
 /**
 * EVERYTHING ELSE
 */
-span.gatsby-resp-image-wrapper + em,
-p > img + em {
+span.gatsby-resp-image-wrapper+em,
+p>img+em {
     display: block;
     padding-top: $rhythm / 2;
     border-top: 3px solid $blue;
