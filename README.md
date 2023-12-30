@@ -6,7 +6,7 @@ I made the decision to to open source my Gatsby blog so that more people can cop
 
 ## License
 
-The following directories and their contents are Copyright Nick Ang. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyrighted by me, Nick Ang. You may not reuse anything therein without my permission:
 
 - content/
 
@@ -44,3 +44,21 @@ List of unique statuses:
 
 - draft - hidden from blog list page
 - revisit - things that I want to be resurfaced for follow-up some time in the future
+
+## Scripts
+
+### Create a new post
+
+Use the node script -- new.js -- to create a new post whenever you are ready to write.
+
+```shell
+node ./new.js post
+```
+
+### Review posts and tag some as personal
+
+I wrote another node script -- housekeeping.js -- when I decided to review my post archives to tag some of them as personal so that they do not appear on the main blog listing page.
+
+```shell
+node ./housekeeping.js review
+```
