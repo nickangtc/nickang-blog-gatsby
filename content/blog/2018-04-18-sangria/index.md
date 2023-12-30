@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Sangria"
 date_published: "2018-04-18"
 ---

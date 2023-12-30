@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "I wanna go home!"
 date_published: "2016-08-06"
 ---

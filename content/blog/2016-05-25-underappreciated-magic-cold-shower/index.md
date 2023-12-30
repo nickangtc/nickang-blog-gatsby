@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The Underappreciated Magic of a Cold Shower"
 date_published: "2016-05-25"
 ---

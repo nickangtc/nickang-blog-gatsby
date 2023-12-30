@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The right amount of danger"
 date_published: "2018-02-21"
 ---

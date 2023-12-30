@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "No idea what to write about"
 date_published: "2017-10-07"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "On Buy-Baity Book Titles"
 date_published: "2016-03-03"
 ---

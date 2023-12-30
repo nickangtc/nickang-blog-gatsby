@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Comparing mindfulness and caffeine"
 date_published: "2017-10-02"
 ---

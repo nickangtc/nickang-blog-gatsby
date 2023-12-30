@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Oooh, Yeah! And... It's Gone"
 date_published: "2016-03-22"
 ---

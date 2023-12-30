@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Having Less is Great"
 date_published: "2016-05-18"
 ---

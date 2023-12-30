@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Get noticed in tech"
 date_published: "2017-02-23"
 ---

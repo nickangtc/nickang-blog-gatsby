@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "What to do when your bike runs out of fuel"
 date_published: "2017-12-27"
 ---

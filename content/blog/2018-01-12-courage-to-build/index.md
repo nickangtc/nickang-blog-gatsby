@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Regaining the courage to build"
 date_published: "2018-01-12"
 ---

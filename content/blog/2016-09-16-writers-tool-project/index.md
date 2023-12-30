@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "A writer's tool for project two"
 date_published: "2016-09-16"
 ---

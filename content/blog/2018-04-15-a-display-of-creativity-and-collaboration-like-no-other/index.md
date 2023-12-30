@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "A display of creativity and collaboration like no other"
 date_published: "2018-04-15"
 ---

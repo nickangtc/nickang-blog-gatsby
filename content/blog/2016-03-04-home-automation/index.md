@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "What We Mean When We Say 'Home Automation'"
 date_published: "2016-03-04"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Thicker, please"
 date_published: "2016-03-02"
 ---

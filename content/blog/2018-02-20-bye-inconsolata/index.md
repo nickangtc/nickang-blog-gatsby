@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Bye Inconsolata"
 date_published: "2018-02-20"
 ---

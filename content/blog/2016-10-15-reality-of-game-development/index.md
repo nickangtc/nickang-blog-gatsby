@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The reality of game development"
 date_published: "2016-10-15"
 ---

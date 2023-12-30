@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "My first full month of learning code everyday"
 date_published: "2016-06-23"
 ---

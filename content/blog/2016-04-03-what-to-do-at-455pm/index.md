@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "What To Do At 4:55PM"
 date_published: "2016-04-03"
 ---

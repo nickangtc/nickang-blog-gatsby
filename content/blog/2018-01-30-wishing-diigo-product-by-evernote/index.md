@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Wishing Diigo was a product by Evernote"
 date_published: "2018-01-30"
 ---

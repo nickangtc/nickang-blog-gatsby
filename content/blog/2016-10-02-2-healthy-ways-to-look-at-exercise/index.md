@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Two healthy ways to look at exercise"
 date_published: "2016-10-02"
 ---

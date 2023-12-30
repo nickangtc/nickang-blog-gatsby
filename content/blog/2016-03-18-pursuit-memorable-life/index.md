@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Pursuit of a Memorable Life"
 date_published: "2016-03-18"
 ---

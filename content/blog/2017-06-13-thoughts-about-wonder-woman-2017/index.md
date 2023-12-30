@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "A guy's thoughts about Wonder Woman 2017"
 date_published: "2017-06-13"
 ---

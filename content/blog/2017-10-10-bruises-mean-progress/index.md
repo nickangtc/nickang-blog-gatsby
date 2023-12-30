@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Bruises mean progress"
 date_published: "2017-10-10"
 ---

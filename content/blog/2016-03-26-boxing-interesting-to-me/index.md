@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Ferriss, Fussman, Ali, Tyson: The Day I Became Fascinated By Boxing"
 date_published: "2016-03-26"
 ---

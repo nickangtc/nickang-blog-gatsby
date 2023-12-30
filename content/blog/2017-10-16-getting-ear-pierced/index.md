@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Getting my ear pierced"
 date_published: "2017-10-16"
 ---

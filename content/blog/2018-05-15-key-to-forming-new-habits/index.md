@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The key to forming new habits"
 date_published: "2018-05-15"
 ---

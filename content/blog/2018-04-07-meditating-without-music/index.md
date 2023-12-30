@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Meditating without music"
 date_published: "2018-04-07"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Modern masculinity: Men have much to learn from women"
 date_published: "2017-06-11"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Agnostic"
 date_published: "2018-01-18"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Fierce and original in our work"
 date_published: "2017-10-04"
 ---

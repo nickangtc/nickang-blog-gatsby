@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Blogging the old way"
 date_published: "2017-09-14"
 ---

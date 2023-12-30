@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Who my dog thinks I am"
 date_published: "2016-10-06"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) Chicago, San Francisco, Bakersfield and Oakhurst"
 date_published: "2016-04-21"
 ---

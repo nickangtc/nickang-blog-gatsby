@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Markdown bullet points - hyphen or asterisk?"
 date_published: "2018-03-05"
 date_updated: "2022-12-07"

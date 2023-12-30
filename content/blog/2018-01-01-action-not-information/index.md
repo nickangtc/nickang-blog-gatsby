@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Action, not information"
 date_published: "2018-01-01"
 ---

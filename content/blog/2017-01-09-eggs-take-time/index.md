@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Eggs that take more time"
 date_published: "2017-01-09"
 ---

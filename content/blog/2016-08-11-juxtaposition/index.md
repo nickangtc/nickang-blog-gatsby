@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Remember your juxtaposition"
 date_published: "2016-08-11"
 ---

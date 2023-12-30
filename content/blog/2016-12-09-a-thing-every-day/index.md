@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "A thing every day"
 date_published: "2016-12-09"
 ---

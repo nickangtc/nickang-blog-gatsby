@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "A forgotten resource to learn CS"
 date_published: "2018-03-13"
 ---

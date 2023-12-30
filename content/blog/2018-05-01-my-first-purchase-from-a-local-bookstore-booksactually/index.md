@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "My first purchase from a local bookstore - BooksActually"
 date_published: "2018-05-01"
 ---

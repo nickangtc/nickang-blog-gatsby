@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Adventure of Flo on Everest"
 date_published: "2016-03-08"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Don't do unhealthy work"
 date_published: "2016-08-13"
-tags: ["Living"]
+tags: ["Living", "Personal"]
 ---
 
 It’s ok to be busy at work, but being overly engrossed is almost never worth it. Perhaps the only exception is when the deadline is the next day, or when you know that if you stopped, you would cut the tap and never experience the same flow again.

@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Bad software - Kopitiam top up machine"
 date_published: "2017-11-05"
 ---

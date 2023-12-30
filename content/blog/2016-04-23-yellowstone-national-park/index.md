@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) Yellowstone National Park"
 date_published: "2016-04-23"
 ---

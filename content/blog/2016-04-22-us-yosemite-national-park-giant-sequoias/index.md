@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) Giant Sequoias and Other Surrealism in Yosemite"
 date_published: "2016-04-22"
 ---

@@ -2,11 +2,11 @@ const fs = require("fs")
 const program = require("commander")
 const { prompt } = require("inquirer")
 
-const BLOG_PATH = "/content/blogcopy"
+const BLOG_PATH = "/content/blog"
 
 const yesNo = {
-  yes: true,
   no: false,
+  yes: true,
 }
 
 const questions = [

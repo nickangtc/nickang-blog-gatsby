@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Machine learning is kind of dry"
 date_published: "2017-08-19"
 ---

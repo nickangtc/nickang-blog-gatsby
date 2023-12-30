@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Poetry"
 date_published: "2017-11-11"
 ---

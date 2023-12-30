@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Litmus test for having enough rest"
 date_published: "2017-10-29"
 ---

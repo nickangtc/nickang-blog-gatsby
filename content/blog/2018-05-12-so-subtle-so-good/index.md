@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "So subtle, so good"
 date_published: "2018-05-12"
 ---

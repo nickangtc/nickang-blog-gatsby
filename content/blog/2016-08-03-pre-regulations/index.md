@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The things we can but don't do"
 date_published: "2016-08-03"
 ---

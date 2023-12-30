@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) 5 Days Before: Survival Mode On"
 date_published: "2016-03-31"
 ---

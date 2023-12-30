@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "I don't get that many chances to dress pretty"
 date_published: "2018-05-05"
 ---

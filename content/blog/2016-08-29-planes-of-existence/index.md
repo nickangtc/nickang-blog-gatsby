@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Planes of existence"
 date_published: "2016-08-29"
 ---

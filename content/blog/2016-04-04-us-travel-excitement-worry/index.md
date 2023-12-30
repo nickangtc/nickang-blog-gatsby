@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) Anticipation, Excitement and Worry"
 date_published: "2016-04-04"
 ---

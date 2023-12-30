@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The favourite project"
 date_published: "2017-02-09"
 ---

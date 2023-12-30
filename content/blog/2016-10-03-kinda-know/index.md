@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Kinda knowing Ruby on Rails"
 date_published: "2016-10-03"
 ---

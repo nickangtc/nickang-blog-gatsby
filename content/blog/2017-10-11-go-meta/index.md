@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Go meta"
 date_published: "2017-10-11"
 ---

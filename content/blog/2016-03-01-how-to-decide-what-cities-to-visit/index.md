@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Travel: How to Decide What Cities to Visit"
 date_published: "2016-03-01"
 ---

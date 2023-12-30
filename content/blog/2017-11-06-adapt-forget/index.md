@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Adapt and forget"
 date_published: "2017-11-06"
 ---

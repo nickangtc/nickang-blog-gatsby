@@ -1,7 +1,7 @@
 ---
 title: "Treasure! That's just what you are"
 date_published: "2016-10-09"
-tags: ["Living"]
+tags: ["Living", "Personal"]
 ---
 
 ![bruno mars treasure music video](images/bruno-mars-treasure.jpg)

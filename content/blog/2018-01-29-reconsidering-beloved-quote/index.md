@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Reconsidering a beloved quote"
 date_published: "2018-01-29"
 ---

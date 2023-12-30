@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Selling better with machine learning"
 date_published: "2017-07-29"
 ---

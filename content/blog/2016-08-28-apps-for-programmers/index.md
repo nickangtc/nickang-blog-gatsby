@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Alfred and other apps for the programmer"
 date_published: "2016-08-28"
 ---

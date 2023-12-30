@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Stop the self-inflicted misery!"
 date_published: "2016-10-05"
 ---

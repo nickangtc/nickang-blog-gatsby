@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The Art of Living Deliberately"
 date_published: "2018-04-21"
 ---

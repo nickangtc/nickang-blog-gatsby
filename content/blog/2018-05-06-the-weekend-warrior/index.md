@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "The weekend warrior"
 date_published: "2018-05-06"
 ---

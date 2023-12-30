@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "You don't know everything"
 date_published: "2017-05-27"
 ---

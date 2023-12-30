@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "(US) Manhattan And A Desire To Belong In NYU"
 date_published: "2016-04-07"
 ---

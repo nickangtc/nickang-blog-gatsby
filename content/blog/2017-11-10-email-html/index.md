@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Dear email HTML, please get better"
 date_published: "2017-11-10"
 ---

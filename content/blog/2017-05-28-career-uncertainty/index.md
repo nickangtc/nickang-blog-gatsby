@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "How to deal with career uncertainty"
 date_published: "2017-05-28"
 ---

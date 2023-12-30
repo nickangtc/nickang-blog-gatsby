@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Substantial juxtaposition in Keong Saik"
 date_published: "2016-08-25"
 ---

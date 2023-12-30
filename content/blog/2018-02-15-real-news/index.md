@@ -1,4 +1,5 @@
 ---
+tags: ["Personal"]
 title: "Real news"
 date_published: "2018-02-15"
 ---
