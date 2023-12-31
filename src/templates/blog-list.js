@@ -52,7 +52,9 @@ const BlogList = ({ data, location, pageContext }) => {
                 </h1>
                 <time className={date}>{datesLine}</time>
               </header>
-              <p className={excerpt}>{node.excerpt}</p>
+              <p className={excerpt}>
+                {node.frontmatter.excerpt || node.excerpt}
+              </p>
             </article>
             <hr></hr>
           </span>
@@ -94,7 +96,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { status: { ne: "draft" } } }
+      filter: {
+        frontmatter: { status: { ne: "draft" }, tags: { ne: "Personal" } }
+      }
       sort: { fields: [frontmatter___date_published], order: DESC }
       limit: $limit
       skip: $skip

@@ -46,7 +46,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { status: { ne: "draft" } } }
+      filter: {
+        frontmatter: { status: { ne: "draft" }, tags: { ne: "Personal" } }
+      }
       sort: { fields: [frontmatter___date_published], order: DESC }
     ) {
       edges {

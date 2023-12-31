@@ -2,7 +2,7 @@
 title: "ChatGPT use cases for Software Engineers"
 date_published: "2023-12-27"
 date_updated: "2023-12-27"
-excerpt: "A growing list of use cases of AIs, including ChatGPT and GitHub Copilot. Maintained by Nick Ang, a programmer who writes."
+excerpt: "A growing list of use cases of AIs, including ChatGPT and GitHub Copilot."
 tags: ["Collection", "Productivity"]
 fav: false
 ---
