@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 
-import { tags, cardTitle, meta, card, cardLink, excerpt } from "./e.module.scss"
+import { cardTitle, meta, card, cardLink, excerpt } from "./e.module.scss"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
@@ -11,13 +11,13 @@ const EverythingPage = ({ data, location }) => {
     return (
       <Link to={post.node.fields.slug} className={cardLink}>
         <article key={index} className={card}>
-          <p className={tags}>
+          <h2 className={cardTitle}>{post.node.frontmatter.title}</h2>
+          <p className={excerpt}>{post.node.frontmatter.excerpt}</p>
+          <p className={meta}>
+            {post.node.frontmatter.date_published} |{" "}
             {post.node.frontmatter.fav ? "[🔥]" : ""}{" "}
             {post.node.frontmatter.tags?.join(", ")}
           </p>
-          <h2 className={cardTitle}>{post.node.frontmatter.title}</h2>
-          <p className={excerpt}>{post.node.frontmatter.excerpt}</p>
-          <p className={meta}>{post.node.frontmatter.date_published}</p>
         </article>
       </Link>
     )
