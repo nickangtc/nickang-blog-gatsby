@@ -1,5 +1,5 @@
 ---
-title: "A framework for prioritising workchunks"
+title: "A framework for prioritising workchunks?"
 date_published: "2024-01-23"
 date_updated: "2024-01-23"
 excerpt: "You are responsible for delivering a project. Prioritise the work in such a way that will maximise the chances of its success. Go."
