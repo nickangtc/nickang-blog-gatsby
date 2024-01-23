@@ -1,15 +1,15 @@
 ---
 title: "ChatGPT use cases for Software Engineers"
 date_published: "2023-12-27"
-date_updated: "2023-12-27"
+date_updated: "2024-01-23"
 excerpt: "A growing list of use cases of AIs, including ChatGPT and GitHub Copilot."
 tags: ["Collection", "Productivity"]
 fav: false
 ---
 
-ChatGPT is eating the world, and it's particularly powerful at doing knowledge work like programming. Yet, most articles on the internet are focused on selling you tips and tricks for prompt engineering instead of showing you practical examples of how ChatGPT (especially GPT 4) is being used by real software engineers in their work.
+Everything here is based on my direct experience of successfully using AI to assist me in my day-to-day work and life. Each header is a situation where it worked.
 
-This page is my attempt at slowly accumulating use cases of ChatGPT and other AIs that I've discovered -- mostly by direct use -- for software engineers, programmers, and developers.
+AI tools included in this list: ChatGPT (GPT-4) and GitHub Copilot.
 
 ## GH Copilot explaining build code
 
@@ -18,3 +18,9 @@ Code that's gone through some kind of build pipeline usually comes out obfuscate
 But sometimes you just need to read code post-build to verify that something is in it, or to study how it'll work on the client side (e.g. is it going to pollute the global namespace? Would it conflict in any other way with the rest of the client-side JavaScript?). That's when Copilot came in handy for me.
 
 ![screenshot of github copilot explaining code based on highlighted chunks of obfuscated code in the editor](images/copilot-help-explain-build-output.PNG)
+
+## Figuring out why two SVGs look slightly different
+
+Paste the 2 SVG code into ChatGPT and ask,
+
+> I see that the second SVG is rendered smaller on a browser than the first. I verified that the parent elements both apply the same styles, so I suspect it's the SVG code itself. Help me spot the difference.
