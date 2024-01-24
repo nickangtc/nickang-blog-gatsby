@@ -73,3 +73,8 @@ I don't know yet. Maybe there's no viable framework, only a series of important 
 But what I find troubling about this is something I've observed about us: when we try to consider too many question at once with our puny brains, we tend to take the lazy route and make a snap decision that accidentally skips or wilfully ignores some of the important questions. Better make a decision than meltdown and crash.
 
 And so the search for a framework continues.
+
+## Related reads
+
+- [Never attribute to stupidity that which is adequately explained by opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
+- [Notes from The Year Without Pants by Scott Berkun](/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/)
