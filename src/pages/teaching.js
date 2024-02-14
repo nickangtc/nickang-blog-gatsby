@@ -42,11 +42,11 @@ const TeachingBioPage = ({ data, location }) => {
         <blockquote>
           <p>
             "I had the privilege of being taught by Nick during my time at
-            General Assembly. Nick was one of my teaching assistants in the
-            course and he was one of the better educators I ever had in my
-            learning journey thus far. Nick is patient, logical, and approaches
-            every single challenge with a zealous attitude. I am really honoured
-            to have been taught by such a marvellous educator."
+            General Assembly. Nick was one of my instructors in the course and
+            he was one of the better educators I ever had in my learning journey
+            thus far. Nick is patient, logical, and approaches every single
+            challenge with a zealous attitude. I am really honoured to have been
+            taught by such a marvellous educator."
           </p>
           <cite>Zhao Loong, Software Engineer at GovTech Singapore</cite>
         </blockquote>
@@ -101,7 +101,7 @@ const TeachingBioPage = ({ data, location }) => {
         </blockquote>
         <blockquote>
           <p>
-            "Nick is a patient and encouraging Teaching Assistant who explains
+            "Nick is a patient and encouraging instructor who explains
             programming concepts in a way that even non programmers can
             understand!"
           </p>
@@ -109,15 +109,15 @@ const TeachingBioPage = ({ data, location }) => {
         </blockquote>
         <blockquote>
           <p>
-            "I had the privilege of having Nick as my TA at General Assembly.
-            He's a patient and highly competent programmer who was committed to
-            each student's success since day 1. As a newbie to programming, the
-            rapid pace of the course was really a challenge but Nick always
-            showed unbelievable patience and kindness. He would methodically
-            understanding your problem before offering solutions that takes into
-            account your progress and ability. He was a friend as much as he was
-            our TA, offering insights about the tech industry that was foreign
-            to many of us."
+            "I had the privilege of having Nick as my instructor at General
+            Assembly. He's a patient and highly competent programmer who was
+            committed to each student's success since day 1. As a newbie to
+            programming, the rapid pace of the course was really a challenge but
+            Nick always showed unbelievable patience and kindness. He would
+            methodically understanding your problem before offering solutions
+            that takes into account your progress and ability. He was a friend
+            as much as he was our instructor, offering insights about the tech
+            industry that was foreign to many of us."
           </p>
           <cite>Olivia Chung, Product Support Manager at YouTube</cite>
         </blockquote>
