@@ -1,5 +1,5 @@
 ---
-title: "50 Learnings from my Trip to Singapore in 2024"
+title: "12 Learnings from my Trip to Singapore in 2024"
 date_published: "2024-03-28"
 date_updated: "2024-03-28"
 excerpt:
