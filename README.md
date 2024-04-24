@@ -39,6 +39,7 @@ List of unique type tags:
 - **"Tutorial"**
 - **"Raw essays"** - 30 days raw essays project
 - **Collection** - holds any growing collection of things
+- **Notes** - open, loose reflections from an event (e.g. learning a new thing, watching a video, etc.)
 
 List of unique statuses:
 
