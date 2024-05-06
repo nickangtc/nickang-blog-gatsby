@@ -27,8 +27,8 @@ const HomePage = ({ data, location }) => {
       </h1>
       <p>
         I'm a dad, husband, rock climber, and all-around avid learner. I
-        currently live in Berlin, Germany 🇩🇪 and am originally from Singapore
-        🇸🇬.
+        currently live in Dusseldorf, Germany 🇩🇪 and am originally from
+        Singapore 🇸🇬.
       </p>
       <p>
         I currently work at{" "}
