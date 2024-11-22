@@ -75,7 +75,9 @@ fav: false
 `
 
     fs.writeFileSync(newPostDir + "/index.md", frontmatter)
-
+  } catch (err) {
+    throw err
+  }
 }
 
 function getCurrentDate() {
