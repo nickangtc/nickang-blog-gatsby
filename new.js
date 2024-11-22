@@ -76,20 +76,6 @@ fav: false
 
     fs.writeFileSync(newPostDir + "/index.md", frontmatter)
 
-    exec(`code ${newPostDir}`, (error, stdout, stderr) => {
-      if (error) {
-        console.log(`error: ${error.message}`)
-        return
-      }
-      if (stderr) {
-        console.log(`stderr: ${stderr}`)
-        return
-      }
-      console.log(`stdout: ${stdout}`)
-    })
-  } catch (err) {
-    throw err
-  }
 }
 
 function getCurrentDate() {
