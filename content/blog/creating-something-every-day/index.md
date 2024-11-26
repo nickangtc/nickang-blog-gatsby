@@ -15,7 +15,7 @@ Going to the gym helps me exercise my body and keep it primed for action.
 
 Writing has always helped me exercise my mind and keep it primed for mental action. It has also helped me connect with many people I otherwise wouldn't have connected with.
 
-With the confidence gained from having created a new habit of gymming 3 times a week for 5 months, I'm now seeking to create a new habit of creating something (writing being one of those media) every day.
+With the confidence gained from having created a new habit of gymming 3 times a week for 5 months, I'm now seeking to create a new habit of creating something (writing being one of those media) every day. And there's one more reason for it.
 
 ## How I formed the habit of gymming 3x per week
 
@@ -27,7 +27,7 @@ I told myself that the best way for me to immediately insulate myself against th
 
 That is all there is to it. That story, which I repeat to myself whenever I entertain the idea of skipping one workout, always gets me fired up to go to the gym.
 
-## How I'm going to apply stories to help me create regularly
+## Why I'm going to apply stories to help me create regularly
 
 I don't find as much joy in my work as a software engineer as I did a few years ago. The work is occasionally enjoyable and mostly just... meh. And having changed jobs 3 times in the last 5 years, I don't think this will differ from company to company. It's my new state of reality.
 
