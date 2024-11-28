@@ -2,7 +2,7 @@
 title: "4 Reasons to prefer recorded over live demos"
 date_published: "2024-11-29"
 date_updated: "2024-11-29"
-excerpt: ""
+excerpt: "Can you see my screen?"
 tags: ["Tech", "Career", "Communication", "Productivity"]
 fav: false
 ---
