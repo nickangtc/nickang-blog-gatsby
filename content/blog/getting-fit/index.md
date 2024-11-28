@@ -1,7 +1,7 @@
 ---
 title: "getting-fit"
-date_published: "2024-11-28"
-date_updated: "2024-11-28"
+date_published: "2024-12-02"
+date_updated: "2024-12-02"
 excerpt: "No Plan B, only a solid purpose to fulfil Plan A and build a strong body now."
 tags: ["Living"]
 fav: false
