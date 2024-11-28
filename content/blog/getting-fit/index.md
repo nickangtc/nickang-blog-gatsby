@@ -1,5 +1,5 @@
 ---
-title: "getting-fit"
+title: "What finally makes fitness a priority in my life"
 date_published: "2024-12-02"
 date_updated: "2024-12-02"
 excerpt: "No Plan B, only a solid purpose to fulfil Plan A and build a strong body now."
