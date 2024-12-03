@@ -32,6 +32,7 @@ List of unique topic tags:
 - **"Fiction"** - Flash fiction, Short story, Poem
 - **"Good intentions"**
 - **"Announcement"**
+- **"Money"**
 
 List of unique type tags:
 
