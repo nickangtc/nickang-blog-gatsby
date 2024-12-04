@@ -10,7 +10,7 @@ creation_duration_minutes: 120
 
 Our daughter is 3 years old during this trip. This post is a collection of the valuable, teachable moments that would never have occurred if we simply flew 3 hours rather than drive for 5 days to Spain.
 
-### 1. The consequences of unbuckling the seat belt in-drive
+### 1. The consequences of unbuckling the seat belt in-drive.
 
 Driving somewhere in Spain, I noticed something odd in my peripheral vision: my daughter had gotten out of her child seat in our van!
 
