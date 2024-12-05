@@ -1,8 +1,8 @@
 ---
-title: "10 things our kid learned on a road trip"
+title: "10 things kids learn when on a road trip"
 date_published: "2024-12-04"
 date_updated: "2024-12-04"
-excerpt: "Or why road trips are better than flights."
+excerpt: "a.k.a. 10 ways driving is better than flying, if you can afford the time."
 tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 120

@@ -28,25 +28,7 @@ const BooksPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Books list" location={location} />
       <h1>Books list</h1>
-      <p>
-        Just like you, I'm trying to read more, period. I currently read an
-        average of 10 books a year (including the ones I choose to give up on),
-        which I think is a measly portion of what I think I ought to consume.
-        Currenty, I'm inclined to read broadly; this means I'll read a mix of
-        genres.
-      </p>
-      <p>
-        I've made my longlist of books available to the public. In case you're
-        interested,{" "}
-        <a
-          href="https://docs.google.com/spreadsheets/d/10BBp2cYszi8LZxOmcOKyZIg2edmZrpGxDyG56XJrmS0/edit?usp=sharing"
-          target="_blank"
-        >
-          open the spreadsheet
-        </a>{" "}
-        to see what I'm reading, what I've read, and what I'm planning to read.
-        Below are the notes I've written for books I've read.
-      </p>
+      <p>Below are the notes for some of the books I've read.</p>
       <ul>{booksPosts}</ul>
     </Layout>
   )
