@@ -27,7 +27,7 @@ const HomePage = ({ data, location }) => {
       </h1>
       <p>
         I'm a dad, husband, rock climber, and all-around avid learner. I
-        currently live in Dusseldorf, Germany 🇩🇪 and am originally from
+        currently live in Düsseldorf, Germany 🇩🇪 and am originally from
         Singapore 🇸🇬.
       </p>
       <p>
@@ -60,9 +60,7 @@ const HomePage = ({ data, location }) => {
       </p>
       <p>
         For a structured walk around this place, browse{" "}
-        <Link to="/topics">by topic</Link>. Also head over to the growing{" "}
-        <a href="https://nickang.substack.com/archive">newsletter archive</a>{" "}
-        for the latest posts (some paywalled).
+        <Link to="/topics">by topic</Link>.
       </p>
       <p>Thanks for reading!</p>
       <h3>Popular articles</h3>
