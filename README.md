@@ -33,6 +33,7 @@ List of unique topic tags:
 - **"Good intentions"**
 - **"Announcement"**
 - **"Money"**
+- **"Parenting"**
 
 List of unique type tags:
 
