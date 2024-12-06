@@ -1,7 +1,7 @@
 ---
 title: "The post-it incident"
-date_published: "2024-12-06"
-date_updated: "2024-12-06"
+date_published: "2024-12-07"
+date_updated: "2024-12-07"
 excerpt: "Little things matter."
 tags: ["Career", "Communication", "Good intentions"]
 fav: false
