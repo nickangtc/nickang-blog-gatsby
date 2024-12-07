@@ -1,7 +1,7 @@
 ---
 title: "A simple 3-step morning reset"
-date_published: "2024-12-07"
-date_updated: "2024-12-07"
+date_published: "2024-12-08"
+date_updated: "2024-12-08"
 excerpt: "Going from anxious in the morning to calm for the rest of the day."
 tags: ["Living"]
 fav: false
