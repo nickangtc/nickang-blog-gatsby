@@ -4,11 +4,12 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import {
-  date,
-  article,
+  cardTitle,
+  meta,
+  card,
+  cardLink,
   excerpt,
   postsNav,
-  titleStyle,
 } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
@@ -35,29 +36,20 @@ const BlogList = ({ data, location, pageContext }) => {
         Want to see a full list instead of pages of results? Click{" "}
         <Link to="/e">here</Link>.
       </p>
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        const datesLine =
-          node.frontmatter.date_updated &&
-          node.frontmatter.date_updated !== node.frontmatter.date_published
-            ? `${node.frontmatter.date_published} | updated: ${node.frontmatter.date_updated}`
-            : `${node.frontmatter.date_published}`
 
+      {posts.map((post, index) => {
         return (
-          <span key={node.fields.slug}>
-            <article className={article}>
-              <header>
-                <h1 className={titleStyle}>
-                  <Link to={node.fields.slug}>{title}</Link>
-                </h1>
-                <time className={date}>{datesLine}</time>
-              </header>
-              <p className={excerpt}>
-                {node.frontmatter.excerpt || node.excerpt}
+          <Link to={post.node.fields.slug} className={cardLink}>
+            <article key={index} className={card}>
+              <h2 className={cardTitle}>{post.node.frontmatter.title}</h2>
+              <p className={excerpt}>{post.node.frontmatter.excerpt}</p>
+              <p className={meta}>
+                {post.node.frontmatter.date_published} |{" "}
+                {post.node.frontmatter.fav ? "[🔥]" : ""}{" "}
+                {post.node.frontmatter.tags?.join(", ")}
               </p>
             </article>
-            <hr></hr>
-          </span>
+          </Link>
         )
       })}
 
@@ -114,6 +106,8 @@ export const pageQuery = graphql`
             date_published(formatString: "DD MMM YYYY")
             title
             excerpt
+            tags
+            fav
           }
         }
       }
