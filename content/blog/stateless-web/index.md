@@ -17,8 +17,6 @@ Let's try and answer this by loading a random site, say, [nickang.com/blog](http
 
 The answer is, it should still work. Until you click on a link. At that point, the page breaks.
 
-![CleanShot 2024-12-11 at 08.00.41@2x](/Users/nickang/Library/Application Support/CleanShot/media/media_DYw9jxFOIv/CleanShot 2024-12-11 at 08.00.41@2x.png)
-
 Browsing an already-loaded page doesn't require the internet. Trying to take an action -- e.g. loading a specific blog post -- does.
 
 Okay, now that we've done that bit of experimentation, let's fill our knowledge gap with one of the most fundamental truths about how websites and more sophisticated web applications work: **the web is stateless**.
