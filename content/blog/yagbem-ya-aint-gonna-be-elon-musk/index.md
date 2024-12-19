@@ -87,7 +87,6 @@ I looked at her and said, "I don't know when my ambition took control of how I t
 
 "Who would I share the joy of achieving anything if you're not around?" I elaborated, the matter-of-fact tone slowly melting away. "I cannot think of anyone else I would like to share the joyful moments of my life with."
 
-
 ![](/images/yagbem3.webp)
 _Me in a Roadster in a Tesla showroom in San Jose in 2013._
 
@@ -122,10 +121,6 @@ What I'm doing nowadays is spending my limited time on this earth being kind and
 (The part about "when wanted" is why a newsletter like this has become so appealing to me - everyone who is on my mailing list can directly signal to me, "Hey, whenever you're writing something that could be helpful, please send it my way!")
 
 A related myth is that to become wealthy enough to enjoy your life you need to accomplish what people like Elon have. This is an old myth that I'm sure every millennial has read at least a dozen articles debunking, yet it is one that I know many people my age are still living in. _I just need to work extra hard this quarter so my manager has something to work with when appraising me in the upcoming performance review and I'll get that promotion! After that we can go for a nice holiday..._
-
-
-![](/images/yagbem4.webp)
-_I love being judged by my 8 m/o yeah, it’s the best thing in the world._
 
 I recently started a new job as a software engineer at a company that I admire and I got the job without ever "going big" and making big sacrifices that Elon has undoubtedly had to. At a company like Shopify, I feel like I'm making a meaningful impact on people's lives through my work as one of 13,000 employees. These days, there are plenty of workplaces where an individual contributor's life is respected and where their work creates impact.
 

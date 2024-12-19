@@ -19,17 +19,11 @@ That would have been the _convenient_ thing to do, and the normal (sane?) me wou
 
 But here's the good news that I've been working this preamble to get to - Charlotte _loved_ playing in the small puddle that she had curiously created for herself…
 
-![](/images/baby1.jpeg)
-_The moment Charlotte realised what she had done and how fun (but wrong?) it felt, looking to me, I think, for confirmation that this is all okay. (It is!)_
-
 First, when the water spilt, she looked at me, wondering if what she did was okay. When I smiled instead of showing frustration, I think she read it as "go ahead, have fun with the water!" because that's exactly what she did next. She started doing the frog-style on the floor, hands splashing the water that lay spilt in front of her. Big smiles for minutes straight. I grabbed my phone and took pictures and videos, of course.
 
 What was most surprising to me was that minutes later, my wife went to fill a bucket with water, threw in a few of Charlotte's plastic toys, and put that in front of her.
 
 Charlotte sat there splashing water for the next hour, having the most concentrated and independent play she has ever had to date. And yes, the wet mess she created was also the biggest since we moved into this apartment a few months ago.
-
-![](/images/baby2.jpeg)
-_Charlotte all drenched when we decided to upgrade her play to a bucket full of water. I guess her expression is one of shock at our generosity?_
 
 And now let me say this: in hindsight, it was _absolutely_ worth it. Nothing makes my heart feel fuller than seeing Charlotte having a genuinely good time playing, not just because she was laughing and having a blast, but also because I know that it is not just playing - nothing is. Through play, she was learning how it feels to touch water, how certain things floated while others sank in it, how cold it feels when water starts drying off the surface of her skin, and any number of things I can no longer remember as having learned from playing.
 
