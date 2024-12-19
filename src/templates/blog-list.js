@@ -10,6 +10,9 @@ import {
   cardLink,
   excerpt,
   postsNav,
+  card1,
+  card2,
+  card3,
 } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
@@ -38,9 +41,15 @@ const BlogList = ({ data, location, pageContext }) => {
       </p>
 
       {posts.map((post, index) => {
+        const accentedBorder =
+          index === 0 ? card1 : index === 1 ? card2 : index === 2 ? card3 : ""
         return (
-          <Link to={post.node.fields.slug} className={cardLink}>
-            <article key={index} className={card}>
+          <Link
+            to={post.node.fields.slug}
+            className={cardLink}
+            key={post.node.fields.title}
+          >
+            <article className={`${card} ${accentedBorder}`}>
               <h2 className={cardTitle}>{post.node.frontmatter.title}</h2>
               <p className={excerpt}>{post.node.frontmatter.excerpt}</p>
               <p className={meta}>
