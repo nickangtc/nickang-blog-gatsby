@@ -34,6 +34,31 @@
   }
 }
 
+@function reduce-opacity($color, $opacity) {
+  @return rgba(red($color), green($color), blue($color), $opacity);
+}
+
+.card1 {
+  $opacity: 1;
+  border-color: reduce-opacity($blue, $opacity);
+  border-width: 2px;
+  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
+}
+
+.card2 {
+  @extend .card1;
+  $opacity: 0.6;
+  border-color: reduce-opacity($blue, $opacity);
+  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
+}
+
+.card3 {
+  @extend .card1;
+  $opacity: 0.3;
+  border-color: reduce-opacity($blue, $opacity);
+  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
+}
+
 .excerpt {
   margin-bottom: $rhythm;
   line-height: $rhythm;
