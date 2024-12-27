@@ -5,7 +5,7 @@ date_updated: "2024-12-19"
 excerpt: "Two tactics you can implement right now and see instant results."
 tags: ["Living", "Productivity", "Good intentions"]
 fav: false
-creation_duration_minutes: 15
+creation_duration_minutes: 120
 ---
 
 I often get overstimulated when using my iPhone. For me, it's a subtle build-up of smaller moments of stimulation that leads to overstimulation by the afternoon. It goes something like this:

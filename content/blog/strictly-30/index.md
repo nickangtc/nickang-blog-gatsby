@@ -3,12 +3,14 @@ title: "Strictly 30"
 date_published: "2024-12-27"
 date_updated: "2024-12-27"
 excerpt: "A new concept for reducing writing time without -- hopefully -- reducing interestingness."
-tags: ["Creativity", "Good intentions"]
+tags: ["Creativity", "Good intentions", "Strictly 30"]
 fav: false
 creation_duration_minutes: 20
 ---
 
-For the 10 years I've been writing online, I've gone from being very serious to becoming very relaxed with what I publish.
+![person holding a pen looking like he has just been struck by an idea](./images/strictly-30.webp)
+
+For the roughly 10 years I've been writing online, I've gone from being very serious to becoming very relaxed with what I publish.
 
 What I've learned is that neither ends are good for me, nor what comes out through me. Take too long, end up with stuffy, overly produced writing. Be too hasty, produce rubbish.
 
@@ -43,7 +45,5 @@ With this setup, I'll be able to spend whatever free time I have remaining on my
 Oh and one last thing: I'm going to record exactly how long each piece took to publish, and it'll appear at the bottom of each post.
 
 I'm opting to display this as an experiment as well. I think it'll send two messages to readers: 1) this blog contains not very serious writing; 2) if I can "churn up" something in 30 minutes and do it every day, maybe you can too.
-
-![person holding a pen looking like he has just been struck by an idea](./images/strictly-30.webp)
 
 Let's go.

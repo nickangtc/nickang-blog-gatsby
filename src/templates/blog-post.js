@@ -4,7 +4,12 @@ import { Link, graphql } from "gatsby"
 // import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
-import { title, date, postsNav } from "./blog-post.module.scss"
+import {
+  title,
+  date,
+  postsNav,
+  creationDuration,
+} from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
 const BlogPostTemplate = ({ data, pageContext, location }) => {
@@ -17,6 +22,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     post.frontmatter.date_updated !== post.frontmatter.date_published
       ? `published: ${post.frontmatter.date_published} | updated: ${post.frontmatter.date_updated}`
       : `published: ${post.frontmatter.date_published}`
+
+  const creationDurationMinutes = post.frontmatter.creation_duration_minutes
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -55,12 +62,31 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </strong>
           </p>
         )}
+        {post?.frontmatter?.tags?.includes("Strictly 30") && (
+          <p>
+            <strong>
+              (This post was written, edited, and published in under 30 minutes.{" "}
+              <Link to="/strictly-30">Learn more</Link>.)
+            </strong>
+          </p>
+        )}
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr />
+        {/* <hr /> */}
         {/* <footer>
           <Bio location={location} />
         </footer> */}
+
+        {creationDurationMinutes && (
+          <>
+            <hr />
+            <p className={creationDuration}>
+              Written, edited, and published in {creationDurationMinutes} mins.
+            </p>
+          </>
+        )}
       </article>
+
+      <hr />
 
       <nav>
         <ul className={postsNav}>
@@ -116,6 +142,7 @@ export const pageQuery = graphql`
         date_published(formatString: "DD MMM YYYY")
         date_updated(formatString: "DD MMM YYYY")
         excerpt
+        creation_duration_minutes
       }
     }
   }

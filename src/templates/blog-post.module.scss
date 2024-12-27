@@ -13,6 +13,12 @@
   color: $darkgray;
 }
 
+.creation-duration {
+  margin-top: $rhythm;
+  font-style: italic;
+  color: $darkgray;
+}
+
 ul.posts-nav {
   display: flex;
   flex-wrap: wrap;

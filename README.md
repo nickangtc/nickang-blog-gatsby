@@ -34,6 +34,7 @@ List of unique topic tags:
 - **"Announcement"**
 - **"Money"**
 - **"Parenting"**
+- **"Strictly 30"**: Experiment to write, edit, publish in under 30 mins
 
 List of unique type tags:
 
