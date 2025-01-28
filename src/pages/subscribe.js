@@ -12,16 +12,16 @@ const SubscribePage = ({ data, location }) => {
       <SearchEngineOptimisation title="Subscribe" location={location} />
       <h1>Subscribe</h1>
       <blockquote>
-        I just wanted to drop you a note to tell you that you write very well -
-        as in I'm, not saying in the literary sense but in a straightforward and
-        straight to the heart kind of writing. No bullshit and unnecessary
-        preamble.
-      </blockquote>
-      <blockquote>
         I want to thank you for helping me down this path of facing the finite
         nature of my time and abilities (trying to internalise that that's okay)
         and figuring out what a meaningful life truly means for me (an answer
         that needs to come from me)
+      </blockquote>
+      <blockquote>
+        I just wanted to drop you a note to tell you that you write very well -
+        as in I'm, not saying in the literary sense but in a straightforward and
+        straight to the heart kind of writing. No bullshit and unnecessary
+        preamble.
       </blockquote>
       <blockquote>
         I really like your style of writing, hence I subscribed! I have been off
@@ -33,16 +33,6 @@ const SubscribePage = ({ data, location }) => {
         formulaic and inauthentic. Your blog is the opposite. I love it for
         being raw, for being honest.
       </blockquote>
-      <blockquote>
-        Your PKM experiments and process notes are what drew me to your work.
-        Minimalist approach to writing and publishing keeps me coming back.
-      </blockquote>
-
-      <p>
-        I love writing and continue to publish one post every week. Since early
-        2022, however, I've published my writing exclusively through my
-        newsletter hosted on Substack. You can subscribe for free here:
-      </p>
 
       <iframe
         src="https://nickang.substack.com/embed"
