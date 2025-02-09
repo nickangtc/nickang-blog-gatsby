@@ -22,7 +22,7 @@ I immediately went to delete a new publication I'd created a week ago – Notice
 
 > The most active part of me is the writer. And as a writer, I can't bear the thought of scattering my writing all over the internet. So, here they are, in one place. Despite being a less discoverable place, it is a more durable place. Like a home should be.
 
-Then, having just read [Alex Danco's latest newsletter](https://danco.substack.com/p/manifest-destiny-returns), I wrote in my journal – 2 new goals for 2025: 1) pay attention well; 2) read 12 books. It's the latter that Danco's posts "[Ten books](https://danco.substack.com/p/ten-books)" and "[Ten more books](https://danco.substack.com/p/ten-more-books)" inspired, and I immediately ordered second-hand copies of 4 books from medimops.de and sent Danco a direct message on Substack to thank him.
+Then, having just read [Alex Danco's latest newsletter](https://danco.substack.com/p/manifest-destiny-returns), I wrote in my journal – 2 new goals for 2025: 1) [pay attention well](/paying-attention/); 2) read 12 books. It's the latter that Danco's posts "[Ten books](https://danco.substack.com/p/ten-books)" and "[Ten more books](https://danco.substack.com/p/ten-more-books)" inspired, and I immediately ordered second-hand copies of 4 books from medimops.de and sent Danco a direct message on Substack to thank him.
 
 What I noticed: I had my first surge of inspiration post-caffeine.
 
