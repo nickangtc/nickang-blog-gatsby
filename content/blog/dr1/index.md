@@ -1,7 +1,7 @@
 ---
 title: "Why and how I'm personalising how I internalise information"
-date_published: "2025-02-12"
-date_updated: "2025-02-12"
+date_published: "2025-02-13"
+date_updated: "2025-02-13"
 excerpt: "Turning information into intuition and knowledge systematically."
 tags: ["Daily Reflection"]
 fav: false
