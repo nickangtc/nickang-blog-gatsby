@@ -3,7 +3,11 @@ title: "Paying attention"
 date_published: "2025-02-01"
 date_updated: "2025-02-01"
 excerpt: "To paying attention."
+<<<<<<< HEAD
 tags: ["Living"]
+=======
+tags: ["Living", "2025 - Notice"]
+>>>>>>> 983437f (Update readme and publish posts)
 fav: false
 creation_duration_minutes:
 ---

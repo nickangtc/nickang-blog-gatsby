@@ -44,8 +44,10 @@ const HomePage = ({ data, location }) => {
         dispatches to my newsletter subscribers.
       </p>
       <p>
-        If you like reading stuff on this blog, then I highly recommend{" "}
-        <strong>subscribing</strong> to my newsletter:
+        The most active part of me is the writer. And as a writer, I can't bear
+        the thought of scattering my writing all over the internet. So, here
+        they are, in one place. Despite being a less discoverable place, it is a
+        more durable place. Like a home should be.
       </p>
       <p>
         <iframe
@@ -54,7 +56,6 @@ const HomePage = ({ data, location }) => {
           height="320"
           style={{ border: "1px solid #EEE", background: "white" }}
           frameborder="0"
-          scrolling="no"
           title="Subscribe to In the End newsletter"
         ></iframe>
       </p>

@@ -3,7 +3,11 @@ title: "Language barriers"
 date_published: "2025-02-02"
 date_updated: "2025-02-02"
 excerpt: "When you would have said something if it were in your language."
+<<<<<<< HEAD
 tags: ["Living", "Communication"]
+=======
+tags: ["Living", "Communication", "2025 - Notice"]
+>>>>>>> 983437f (Update readme and publish posts)
 fav: false
 creation_duration_minutes:
 ---

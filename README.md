@@ -35,6 +35,8 @@ List of unique topic tags:
 - **"Money"**
 - **"Parenting"**
 - **"Strictly 30"**: Experiment to write, edit, publish in under 30 mins
+- **"2025 - Notice"**: Goal 1 of 2025 is paying attention well
+- **"2025 - 12 Books"**: Goal 2 of 2025 is becoming well-read, starting by reading 12 books in the year
 
 List of unique type tags:
 
