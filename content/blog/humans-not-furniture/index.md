@@ -3,11 +3,7 @@ title: "Humans not furniture"
 date_published: "2025-02-03"
 date_updated: "2025-02-03"
 excerpt:
-<<<<<<< HEAD
-tags: ["Living", "Parenting"]
-=======
 tags: ["Living", "Parenting", "2025 - Notice"]
->>>>>>> 983437f (Update readme and publish posts)
 fav: false
 creation_duration_minutes:
 ---

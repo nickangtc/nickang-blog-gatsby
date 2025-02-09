@@ -3,11 +3,7 @@ title: "An uncalibrated assault on my pomade"
 date_published: "2025-02-06"
 date_updated: "2025-02-06"
 excerpt:
-<<<<<<< HEAD
-tags: ["Living"]
-=======
 tags: ["Living", "2025 - Notice"]
->>>>>>> 983437f (Update readme and publish posts)
 fav: false
 creation_duration_minutes:
 ---
