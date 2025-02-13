@@ -68,7 +68,7 @@ title: "${postTitle}"
 date_published: "${date}"
 date_updated: "${date}"
 excerpt:
-tags: ["Tech", "Money", "Interviewing", "Career", "Living", "Creativity", "PKM", "Leadership", "Communication", "Productivity", "Fiction", "Good intentions", "Book", "Tutorial", "Collection", "Announcement", "Parenting", "Strictly 30"]
+tags: ["Tech", "Money", "Interviewing", "Career", "Living", "Creativity", "Leadership", "Communication", "Productivity", "Good intentions", "Parenting", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
 ---
