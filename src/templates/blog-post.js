@@ -1,5 +1,5 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React, { useEffect } from "react"
+import { Link, graphql, navigate } from "gatsby"
 
 // import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -16,6 +16,20 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
+
+  // Add keyboard navigation
+  useEffect(() => {
+    const handleKeyPress = (event) => {
+      if (event.key === "ArrowLeft" && previous) {
+        navigate(previous.fields.slug)
+      } else if (event.key === "ArrowRight" && next) {
+        navigate(next.fields.slug)
+      }
+    }
+
+    window.addEventListener("keydown", handleKeyPress)
+    return () => window.removeEventListener("keydown", handleKeyPress)
+  }, [previous, next])
 
   const datesLine =
     post.frontmatter.date_updated &&
