@@ -20,6 +20,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   // Add keyboard navigation
   useEffect(() => {
     const handleKeyPress = (event) => {
+      // Ignore if any modifier keys are pressed (Cmd, Ctrl, Alt, Shift)
+      // This prevents disurpting browser navigation keybaord shortcuts.
+      if (event.metaKey || event.ctrlKey) {
+        return
+      }
+
       if (event.key === "ArrowLeft" && previous) {
         navigate(previous.fields.slug)
       } else if (event.key === "ArrowRight" && next) {
