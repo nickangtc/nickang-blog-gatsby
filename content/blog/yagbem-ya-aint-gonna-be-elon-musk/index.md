@@ -7,6 +7,10 @@ tags: ["Living"]
 fav: true
 ---
 
+Edit 23 Feb 2025: A note from me about Elon Musk. He has become very much the kind of person I do not support. His meddling with US politics was one thing, but his nazi salute was way over the line. People apparently change. I'm leaving this artcile available for reading because it is at its core a personal story about ambition, not about Musk. I ask that you read with this in mind.
+
+---
+
 Yep, I thought I was going to do something big with my life as Elon Musk has. It was when I believed that doing "something big" was the epitome of a meaningful life.
 
 ![](/images/yagbem1.webp)
