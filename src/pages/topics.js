@@ -149,7 +149,7 @@ export const pageQuery = graphql`
           }
         }
       }
-      sort: { fields: [frontmatter___date_published], order: DESC }
+      sort: { frontmatter: { date_published: DESC } }
     ) {
       edges {
         node {

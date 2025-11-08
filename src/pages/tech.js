@@ -45,7 +45,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { tags: { in: "Tech" } } }
-      sort: { fields: [frontmatter___date_published], order: DESC }
+      sort: { frontmatter: { date_published: DESC } }
     ) {
       edges {
         node {

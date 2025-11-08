@@ -49,7 +49,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: { status: { ne: "draft" }, tags: { ne: "Personal" } }
       }
-      sort: { fields: [frontmatter___date_published], order: DESC }
+      sort: { frontmatter: { date_published: DESC } }
     ) {
       edges {
         node {

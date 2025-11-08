@@ -88,7 +88,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { status: { ne: "draft" }, fav: { in: [true] } } }
-      sort: { fields: [frontmatter___date_published], order: DESC }
+      sort: { frontmatter: { date_published: DESC } }
       limit: 15
     ) {
       edges {
