@@ -2,7 +2,7 @@
 
 .site-title {
   font-size: $base-size * 1.5;
-  margin-bottom: $base-size / 2;
+  margin-bottom: calc($base-size / 2);
   margin-top: 0;
 }
 
@@ -25,5 +25,5 @@
 }
 
 .active {
-  border-bottom: ($base-size / 8) solid black;
+  border-bottom: calc($base-size / 8) solid black;
 }

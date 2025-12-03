@@ -1,12 +1,12 @@
 @import '../styles/variables';
 
 .title {
-  margin-bottom: $rhythm / 2;
+  margin-bottom: calc($rhythm / 2);
 }
 
 .date {
   display: block;
-  margin-top: $rhythm / 2;
+  margin-top: calc($rhythm / 2);
   margin-bottom: $rhythm;
   font-size: 0.85 * $base-size;
   font-family: $sans-serif;

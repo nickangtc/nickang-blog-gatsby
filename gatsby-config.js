@@ -30,13 +30,14 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 1000,
-              linkImagesToOriginal: false,
-            },
-          },
+          // Temporarily disabled due to sharp installation issues
+          // {
+          //   resolve: `gatsby-remark-images`,
+          //   options: {
+          //     maxWidth: 1000,
+          //     linkImagesToOriginal: false,
+          //   },
+          // },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -49,27 +50,22 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-sharp`,
-    `gatsby-plugin-image`,
-    `gatsby-transformer-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: `UA-135066509-2`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Nick Ang`,
-        short_name: `Nick Ang`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `content/assets/nickang-twitter-large-card.png`,
-      },
-    },
+    // Temporarily disabled due to sharp installation issues
+    // `gatsby-plugin-sharp`,
+    // `gatsby-plugin-image`,
+    // `gatsby-transformer-sharp`,
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Nick Ang`,
+    //     short_name: `Nick Ang`,
+    //     start_url: `/`,
+    //     background_color: `#ffffff`,
+    //     theme_color: `#663399`,
+    //     display: `minimal-ui`,
+    //     icon: `content/assets/nickang-twitter-large-card.png`,
+    //   },
+    // },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
