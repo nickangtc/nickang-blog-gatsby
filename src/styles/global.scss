@@ -132,7 +132,7 @@ ul {
 }
 
 li {
-    margin-bottom: $base-size / 2;
+    margin-bottom: calc($base-size / 2);
 }
 
 /**
@@ -141,7 +141,7 @@ li {
 span.gatsby-resp-image-wrapper+em,
 p>img+em {
     display: block;
-    padding-top: $rhythm / 2;
+    padding-top: calc($rhythm / 2);
     border-top: 3px solid $blue;
     font-size: $base-size * 0.9;
 }
