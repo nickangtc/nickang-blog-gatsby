@@ -60,6 +60,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "engines": {
-    "npm": "v6.14.12"
+    "node": ">=18.0.0",
+    "npm": ">=6.0.0"
   }
 }
