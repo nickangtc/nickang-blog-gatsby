@@ -31,12 +31,12 @@ const HomePage = ({ data, location }) => {
         Singapore 🇸🇬.
       </p>
       <p>
-        I currently work at{" "}
-        <a href="https://topi.eu" target="_blank" rel="noreferrer">
-          topi
+        I am currently building an AI language learning app that doesn't suck,
+        called{" "}
+        <a href="https://youtionary.com" target="_blank" rel="noreferrer">
+          Youtionary
         </a>{" "}
-        as a software engineer where I'm helping to build a Device as a Service
-        (DaaS) product.
+        .
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
