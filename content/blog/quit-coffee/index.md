@@ -38,7 +38,7 @@ Hello,
 
 It's December 2025 and I've started to drink a cup of coffee a day again.
 
-My reasoning was captured in an Instagram video, but the train of thought is something like this:
+My reasoning was captured in an [Instagram video](https://www.instagram.com/reel/DPMlf2siOR1/), but the train of thought is something like this:
 
 - I quit my job in June 2025
 - I started doing a German language course which takes up 4 hours per weekday and runs for 5 months
