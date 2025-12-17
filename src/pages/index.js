@@ -26,17 +26,16 @@ const HomePage = ({ data, location }) => {
         </span>
       </h1>
       <p>
-        I'm a dad, husband, rock climber, and all-around avid learner. I
-        currently live in Düsseldorf, Germany 🇩🇪 and am originally from
-        Singapore 🇸🇬.
+        I'm a dad, husband, senior software engineer, and all-around avid
+        learner. I currently live in Düsseldorf, Germany 🇩🇪 and am originally
+        from Singapore 🇸🇬.
       </p>
       <p>
-        I am currently building an AI language learning app that doesn't suck,
-        called{" "}
+        I am currently building{" "}
         <a href="https://youtionary.com" target="_blank" rel="noreferrer">
           Youtionary
-        </a>{" "}
-        .
+        </a>
+        , an AI language learning app that doesn't suck.
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
