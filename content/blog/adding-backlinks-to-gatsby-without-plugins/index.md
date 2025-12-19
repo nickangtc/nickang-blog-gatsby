@@ -7,6 +7,8 @@ tags: ["Tech", "Gatsby"]
 backlinks:
 ---
 
+**Warning, this was written by AI**: I asked Claude to write this post for me after I guided it to implement the backlinks feature in this custom-rolled blog of mine. I have taken time to read the post and it's 80% in my tone, and 100% what I would have written. If you hate AI-generated write-ups, read other posts. Only posts with this disclaimer are written by AI.
+
 I have been thinking a lot about backlinks lately. If you are familiar with digital gardens or personal knowledge management systems, you know that backlinks—the inverse of regular links—are powerful. They help readers discover related content that they might otherwise miss. They also give you a sense of how your ideas are connected across your blog.
 
 When I started exploring how to add backlinks to this Gatsby blog, I quickly realised that most solutions out there rely on Gatsby plugins. And while plugins are convenient, they come with their own complexity and dependencies. I wondered: is it possible to implement backlinks without relying on any plugins at all?
@@ -31,53 +33,54 @@ I created `scripts/generate-backlinks.js` that does all this:
 
 ```javascript
 // Parse all markdown files
-const postsBySlug = {};
-const postsWithLinks = [];
+const postsBySlug = {}
+const postsWithLinks = []
 
 mdFiles.forEach(filePath => {
-  const content = fs.readFileSync(filePath, 'utf8');
-  const { frontmatterStr, body } = parseFrontmatter(content);
-  const slug = `/${path.basename(path.dirname(filePath))}/`;
+  const content = fs.readFileSync(filePath, "utf8")
+  const { frontmatterStr, body } = parseFrontmatter(content)
+  const slug = `/${path.basename(path.dirname(filePath))}/`
 
-  postsBySlug[slug] = { filePath, frontmatterStr, body, title };
+  postsBySlug[slug] = { filePath, frontmatterStr, body, title }
 
-  const links = extractInternalLinks(body);
+  const links = extractInternalLinks(body)
   if (links.length > 0) {
-    postsWithLinks.push({ slug, links });
+    postsWithLinks.push({ slug, links })
   }
-});
+})
 
 // Build backlinks index (reverse mapping)
-const backlinksBySlug = {};
+const backlinksBySlug = {}
 
 postsWithLinks.forEach(({ slug: sourceSlug, links }) => {
   links.forEach(targetSlug => {
     if (postsBySlug[targetSlug]) {
       if (!backlinksBySlug[targetSlug]) {
-        backlinksBySlug[targetSlug] = [];
+        backlinksBySlug[targetSlug] = []
       }
       backlinksBySlug[targetSlug].push({
         slug: sourceSlug,
         title: postsBySlug[sourceSlug].title,
-      });
+      })
     }
-  });
-});
+  })
+})
 
 // Update each file's frontmatter
 Object.entries(postsBySlug).forEach(([slug, postData]) => {
-  const backlinks = backlinksBySlug[slug] || [];
+  const backlinks = backlinksBySlug[slug] || []
   const newFrontmatterStr = updateFrontmatterBacklinks(
     postData.frontmatterStr,
     backlinks
-  );
+  )
 
-  const newContent = `---\n${newFrontmatterStr}\n---\n${postData.body}`;
-  fs.writeFileSync(postData.filePath, newContent, 'utf8');
-});
+  const newContent = `---\n${newFrontmatterStr}\n---\n${postData.body}`
+  fs.writeFileSync(postData.filePath, newContent, "utf8")
+})
 ```
 
 The key insight here is that the script:
+
 - Parses the YAML frontmatter (not just reading raw markdown, but actually understanding the structure)
 - Finds the existing `backlinks:` line if it exists, or appends before the closing `---`
 - Updates ONLY that section, leaving the rest of the file untouched
@@ -127,21 +130,23 @@ export const pageQuery = graphql`
 And rendering is equally straightforward:
 
 ```jsx
-{post?.frontmatter?.backlinks && post.frontmatter.backlinks.length > 0 && (
-  <>
-    <hr />
-    <section>
-      <p>Posts that link to this one:</p>
-      <ul>
-        {post.frontmatter.backlinks.map(backlink => (
-          <li key={backlink.slug}>
-            <Link to={backlink.slug}>{backlink.title}</Link>
-          </li>
-        ))}
-      </ul>
-    </section>
-  </>
-)}
+{
+  post?.frontmatter?.backlinks && post.frontmatter.backlinks.length > 0 && (
+    <>
+      <hr />
+      <section>
+        <p>Posts that link to this one:</p>
+        <ul>
+          {post.frontmatter.backlinks.map(backlink => (
+            <li key={backlink.slug}>
+              <Link to={backlink.slug}>{backlink.title}</Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </>
+  )
+}
 ```
 
 ## Why this approach works well
@@ -162,7 +167,7 @@ This approach isn't perfect, though. Here are the honest drawbacks:
 
 The script is blazingly fast—it scanned and processed all 539 posts across my entire blog in less than a second. So performance isn't a concern unless you have tens of thousands of posts. Since the computation happens in a pre-commit hook (not during the Gatsby build), your actual site build time remains completely unaffected.
 
-The script updates *all* post files every time it runs, even if only one post changed. In a large repository, this creates a lot of churn in git. You could optimise this by checking if backlinks actually changed before writing, but I haven't bothered.
+The script updates _all_ post files every time it runs, even if only one post changed. In a large repository, this creates a lot of churn in git. You could optimise this by checking if backlinks actually changed before writing, but I haven't bothered.
 
 You need to remember to run the script before committing. I solved this with a git hook, but others might prefer to integrate it into CI/CD instead.
 
