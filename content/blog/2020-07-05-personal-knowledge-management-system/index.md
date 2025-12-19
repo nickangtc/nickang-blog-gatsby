@@ -9,6 +9,8 @@ backlinks:
     title: "How a Daily Note fixed my note taking process"
   - slug: "/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/"
     title: "Types of Notes in a PKM explained with a Gardening Analogy (Part I)"
+  - slug: "/adding-backlinks-to-gatsby-without-plugins/"
+    title: "Adding backlinks to a Gatsby blog without plugins"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
 ---

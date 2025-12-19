@@ -14,6 +14,8 @@ backlinks:
     title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
   - slug: "/2021-12-04-labeling-things-properly-in-a-digital-garden/"
     title: "Labeling things properly in a digital garden"
+  - slug: "/adding-backlinks-to-gatsby-without-plugins/"
+    title: "Adding backlinks to a Gatsby blog without plugins"
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
 ---
