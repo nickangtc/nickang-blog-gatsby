@@ -1,6 +1,9 @@
 ---
 title: "Getting sick of looking at a screen"
 date_published: "2019-10-16"
+backlinks:
+  - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
+    title: "First impressions of the Astrohaus Freewrite"
 ---
 
 ![sick of looking at a screen](images/adrien-olichon-0RoIEgga6vs-unsplash-1024x683.jpg) Photo by Adrien Olichon on Unsplash

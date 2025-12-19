@@ -4,6 +4,11 @@ date_published: "2020-07-19"
 date_updated: "2022-05-24"
 fav: true
 tags: ["Living", "Creativity"]
+backlinks:
+  - slug: "/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/"
+    title: "Notes from The Year Without Pants by Scott Berkun"
+  - slug: "/2021-03-28-notes-from-show-your-work-by-austin-kleon-part-1/"
+    title: "Notes from Show Your Work by Austin Kleon (Part 1)"
 ---
 
 ![photo of the Austrian alps in the town of Bichlbach](images/bichl-bach-light-touch.png)

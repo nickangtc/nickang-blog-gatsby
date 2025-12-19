@@ -3,6 +3,7 @@ title: "Two simple adjustments to protect your eyes from eyestrain for computer 
 date_published: "2021-01-17"
 excerpt: "The solution is really simple - place your external monitor farther and enlarge the system's font size."
 tags: ["Living"]
+backlinks:
 ---
 
 ![Illustration of two external monitor setups, one with larger font and farther distance - that is recommended for reducing eyestrain!](/images/reduce-eyestrain-increase-screen-distance-enlarge-font-nick-ang.png)

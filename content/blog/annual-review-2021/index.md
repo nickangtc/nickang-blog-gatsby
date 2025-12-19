@@ -5,6 +5,17 @@ date_updated: "2022-01-02"
 excerpt:
 tags: ["Living", "Annual Review"]
 fav: false
+backlinks:
+  - slug: "/annual-review-2017/"
+    title: "My New Year's resolution for 2018"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
+  - slug: "/why-i-removed-dates-from-my-blog-post-urls/"
+    title: "Why I removed dates from my blog post URLs"
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.

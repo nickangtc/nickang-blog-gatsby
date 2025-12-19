@@ -19,7 +19,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   // Add keyboard navigation
   useEffect(() => {
-    const handleKeyPress = (event) => {
+    const handleKeyPress = event => {
       // Ignore if any modifier keys are pressed (Cmd, Ctrl, Alt, Shift)
       // This prevents disurpting browser navigation keybaord shortcuts.
       if (event.metaKey || event.ctrlKey) {
@@ -104,6 +104,23 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </p>
           </>
         )}
+
+        {post?.frontmatter?.backlinks &&
+          post.frontmatter.backlinks.length > 0 && (
+            <>
+              <hr />
+              <section>
+                <p>Posts that link to this one:</p>
+                <ul>
+                  {post.frontmatter.backlinks.map(backlink => (
+                    <li key={backlink.slug}>
+                      <Link to={backlink.slug}>{backlink.title}</Link>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            </>
+          )}
       </article>
 
       <hr />
@@ -163,6 +180,10 @@ export const pageQuery = graphql`
         date_updated(formatString: "DD MMM YYYY")
         excerpt
         creation_duration_minutes
+        backlinks {
+          slug
+          title
+        }
       }
     }
   }

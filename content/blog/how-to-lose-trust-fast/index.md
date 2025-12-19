@@ -6,6 +6,7 @@ excerpt: "Illustrated with my own triple foible in a single day."
 tags: ["Career"]
 fav: false
 creation_duration_minutes: 41
+backlinks:
 ---
 
 Recently I caused a colleague to lose some trust in me, and it was due to a minor but frequently repeated mistake on my part.

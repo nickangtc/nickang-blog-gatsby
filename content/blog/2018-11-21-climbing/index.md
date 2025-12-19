@@ -1,6 +1,9 @@
 ---
 title: "Climbing"
 date_published: "2018-11-21"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![Climbing nick ang](images/climbing-nick-ang-blog.png)

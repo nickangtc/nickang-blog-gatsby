@@ -4,6 +4,7 @@ date_published: "2021-12-04"
 excerpt: "Labeling posts by their maturity will help readers browse the digital garden with the right mindset, and so will you as you continue to create more posts."
 tags: ["Communication", "PKM"]
 fav: false
+backlinks:
 ---
 
 [Maggie Appleton](https://maggieappleton.com/) had just revamped her website that she refers to as a digital garden and two clicks later, I've read her essay entitled [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) and took notes. And, I'm inspired.

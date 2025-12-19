@@ -5,6 +5,7 @@ date_updated: "2023-12-06"
 excerpt: Boredom is, surprisingly, both the problem and the solution to getting shit done
 tags: ["Productivity", "Living"]
 fav: false
+backlinks:
 ---
 
 It’s not often that a YouTube video makes you pause to think, oh shit, that sounds right, why the heck did I not see it before… THIS IS HUGE!!!

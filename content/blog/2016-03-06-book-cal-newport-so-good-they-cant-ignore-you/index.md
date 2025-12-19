@@ -2,6 +2,9 @@
 title: "Cal Newport's \"So Good They Can't Ignore You\""
 date_published: "2016-03-06"
 tags: ["Book"]
+backlinks:
+  - slug: "/2017-11-04-dream-job/"
+    title: "Getting good and getting a dream job"
 ---
 
 ### [![so good they cant ignore you book cover](images/so-good-they-cant-ignore-you-book-cover.jpg)](http://amzn.to/1TN6FJY)

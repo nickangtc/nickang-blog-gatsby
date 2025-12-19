@@ -2,6 +2,9 @@
 title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
 date_published: "2020-12-27"
 excerpt: "Germany has had a law since the 1950s that bans most shops from selling on Sundays, and it has given me a new lease on my time."
+backlinks:
+  - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
+    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
 ---
 
 In Berlin, nobody does shopping on Sunday. You literally cannot go to a shop because it will be closed. This simple fact means that in Berlin, Monday to Saturday is for turning the wheels of capitalism. But Sunday? That is reserved for recuperation. Because, you know, capitalism is quite a piece of work.

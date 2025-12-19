@@ -6,6 +6,7 @@ excerpt: "Turning information into intuition and knowledge systematically."
 tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes:
+backlinks:
 ---
 
 I'm beginning to see something: people have lots of different ways of processing information, but there's no single best way. It all depends on who you are and what works for you.

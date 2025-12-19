@@ -3,6 +3,7 @@ title: "How I was nudged to drive better"
 date_published: "2021-06-06"
 excerpt: "Nudge theory in action in a car dashboard."
 tags: ["Tech"]
+backlinks:
 ---
 
 ![photo of my Toyota car dashboard showing the fuel efficiency number and eco light indicator](/images/toyota-car-dashboard-nickang.jpg)

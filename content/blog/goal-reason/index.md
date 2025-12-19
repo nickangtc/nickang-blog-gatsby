@@ -6,6 +6,7 @@ excerpt:
 tags: ["Living"]
 fav: false
 creation_duration_minutes: 30
+backlinks:
 ---
 
 From August to November, I hit the gym three times a week. That's a 12-week streak, the longest I've ever had in my life. Then, in December, I went to Spain with my family for a month and worked out only once at a bouldering gym's workout area.

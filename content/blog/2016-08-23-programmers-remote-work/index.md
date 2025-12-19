@@ -2,6 +2,13 @@
 title: "How programmers work together from every part of the world"
 date_published: "2016-08-23"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-27-start-using-the-command-line-part-2/"
+    title: "How to start using the command line (part 2)"
+  - slug: "/2017-11-03-what-is-git/"
+    title: "What is Git?"
+  - slug: "/2020-03-06-how-to-setup-access-to-github-from-terminal-with-2fa/"
+    title: "How to setup access to GitHub from Terminal with 2FA"
 ---
 
 The label ‘digital nomad’ exists because people whose job was to write programmes have become so fluid in the workplace that they can work from virtually anywhere in the world on the single, simple condition that there is an internet connection.

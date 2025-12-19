@@ -2,6 +2,9 @@
 title: "Bite Size Programming - Programming is not for everyone"
 date_published: "2017-10-25"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-28-type-fast-programmer/"
+    title: "Do I need to type fast to be a programmer?"
 ---
 
 ![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) Jesse Eisenberg in The Social Network

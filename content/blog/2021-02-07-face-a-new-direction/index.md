@@ -3,6 +3,7 @@ title: "Face a new direction"
 date_published: "2021-02-07"
 excerpt: "If you are distracted at home, just sitting facing a different direction could fix it."
 tags: 
+backlinks:
 ---
 
 When I'm in a room and I stop to think about that fact, I realise that I'm really in a box. These four walls, they envelop me. When I zoom out and think about the corridor leading to my apartment door and the lift around the corner, I realise the whole building is just a bigger box. A bigger box containing smaller boxes with elongated boxes that provide passage.

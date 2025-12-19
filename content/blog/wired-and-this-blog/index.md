@@ -6,6 +6,7 @@ excerpt: "In observing the interesting phenomenon that the audience's gaze eleva
 tags: ["Good intentions", "Announcement"]
 fav: false
 status: "draft"
+backlinks:
 ---
 
 One thing that's been on my mind lately: publishing a post as a newsletter that lands in people's inboxes pushes me to think and write more clearly than publishing a post quietly on a blog like this one.

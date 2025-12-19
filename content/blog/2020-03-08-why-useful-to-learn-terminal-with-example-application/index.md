@@ -2,6 +2,9 @@
 title: "Why it's useful to learn Terminal (with example application)"
 date_published: "2020-03-08"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2020-03-09-whats-one-thing-about-coding-that-excites-you/"
+    title: "What's one thing about coding that excites you?"
 ---
 
 ![why it is useful to learn to use the terminal with example application nick ang](images/why-it-is-usefu-to-learn-to-use-the-terminal-with-example-application-nick-ang.png)

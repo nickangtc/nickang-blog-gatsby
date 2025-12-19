@@ -6,6 +6,7 @@ excerpt: "Something doesn't seem right about the way we eat them."
 tags: ["Living"]
 fav: false
 creation_duration_minutes: 18
+backlinks:
 ---
 
 Lobsters can feel pain. It's not known if the pain it feels is as intense or less than what humans feel, say, in a pot of boiling water.

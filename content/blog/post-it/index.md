@@ -6,6 +6,7 @@ excerpt: "Little things matter."
 tags: ["Career", "Communication", "Good intentions"]
 fav: false
 creation_duration_minutes: 26
+backlinks:
 ---
 
 It was my first week at a startup. I was in the office meeting people and setting up my laptop, doing all that typical week 1 stuff.

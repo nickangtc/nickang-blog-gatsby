@@ -1,6 +1,7 @@
 ---
 title: "Marketing in Aesop"
 date_published: "2017-08-16"
+backlinks:
 ---
 
 When the first few Aesop stores started appearing in Singapore, being a generally skeptical consumer, I thought they were another gimmicky company that is all about packaging.

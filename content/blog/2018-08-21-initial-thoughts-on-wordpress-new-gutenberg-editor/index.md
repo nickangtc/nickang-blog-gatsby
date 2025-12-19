@@ -1,6 +1,7 @@
 ---
 title: "Initial thoughts on WordPress' new Gutenberg editor"
 date_published: "2018-08-21"
+backlinks:
 ---
 
 ![sky](images/aidan-hancock-787756-unsplash.jpg)

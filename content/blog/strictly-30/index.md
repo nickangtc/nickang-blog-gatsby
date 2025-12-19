@@ -6,6 +6,7 @@ excerpt: "A new concept for reducing writing time without -- hopefully -- reduci
 tags: ["Creativity", "Good intentions", "Strictly 30"]
 fav: false
 creation_duration_minutes: 20
+backlinks:
 ---
 
 ![person holding a pen looking like he has just been struck by an idea](./images/strictly-30.webp)

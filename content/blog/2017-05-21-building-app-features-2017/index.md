@@ -1,6 +1,11 @@
 ---
 title: "What it's like building app features in 2017"
 date_published: "2017-05-21"
+backlinks:
+  - slug: "/2017-11-10-email-html/"
+    title: "Dear email HTML, please get better"
+  - slug: "/2017-12-14-prevent-jquery-loading-image-parsehtml/"
+    title: "How to prevent jQuery from loading image in parseHTML"
 ---
 
 First of all let me admit, I wasn't there to witness what it was like to build web/mobile app features before 2016, since I only became a web developer last year.

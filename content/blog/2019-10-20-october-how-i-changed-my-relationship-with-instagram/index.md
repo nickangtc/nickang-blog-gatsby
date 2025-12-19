@@ -1,6 +1,7 @@
 ---
 title: "How I changed my relationship with Instagram"
 date_published: "2019-10-20"
+backlinks:
 ---
 
 Earlier this year in February, I published my last post on Instagram and left the platform. I left because I was feeling what every magazine has discussed as the detrimental effects of using something like Instagram. I was constantly and, worse, subconsciously, comparing my life to other people's.

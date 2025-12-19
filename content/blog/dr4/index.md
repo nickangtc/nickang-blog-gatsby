@@ -6,6 +6,7 @@ excerpt: "And exercise intellectual honesty instead."
 tags: ["Career", "Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 60
+backlinks:
 ---
 
 ## (Courage) Which one? Okay.

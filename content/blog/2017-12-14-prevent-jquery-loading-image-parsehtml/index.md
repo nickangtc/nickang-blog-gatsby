@@ -1,6 +1,7 @@
 ---
 title: "How to prevent jQuery from loading image in parseHTML"
 date_published: "2017-12-14"
+backlinks:
 ---
 
 This post is inspired by a recent bug fix at work related to jQuery's `parseHTML()` method.

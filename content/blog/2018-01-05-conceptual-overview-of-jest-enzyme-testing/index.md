@@ -2,6 +2,7 @@
 title: "Conceptual overview of Jest Enzyme testing"
 date_published: "2018-01-05"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![jest and enzyme testing blog post banner nickang](images/BSP-jest-do-it.png)

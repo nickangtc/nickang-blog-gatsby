@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "(US) Chicago, San Francisco, Bakersfield and Oakhurst"
 date_published: "2016-04-21"
+backlinks:
 ---
 
 ![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) Took a picture of this roadside wildflower with stunning colours

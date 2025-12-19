@@ -2,6 +2,7 @@
 title: "Warm spots"
 date_published: "2016-12-10"
 tags: [Love, "Personal"]
+backlinks:
 ---
 
 Every time when Mei and I come home from a trip to the bank or a nice movie date, we'd come home searching for that warm spot on our marble floors.

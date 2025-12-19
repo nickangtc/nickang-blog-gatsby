@@ -1,6 +1,7 @@
 ---
 title: "German word drawings"
 date_published: "2020-08-16"
+backlinks:
 ---
 
 I'm learning German now and I wanted to find a fun way to remember words. Yesterday, a colleague of mine went to a bookstore to buy a pretty book full of drawings that illustrated German words. I thought to myself, "that looks fun".

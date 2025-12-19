@@ -3,6 +3,7 @@ title: "Convince yourself before speaking"
 date_published: "2021-08-01"
 excerpt: "Do it for the sake of better group meetings."
 tags: ["Communication"]
+backlinks:
 ---
 
 After years in the "working world," I've learned one of the core tenets of communicating in a group: before speaking, always first convince yourself of what you're about to say. Always remember that you are Audience Number 1.

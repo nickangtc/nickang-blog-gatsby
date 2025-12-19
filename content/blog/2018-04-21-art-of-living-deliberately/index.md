@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "The Art of Living Deliberately"
 date_published: "2018-04-21"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 https://www.instagram.com/p/Bh0ieM_nTpU

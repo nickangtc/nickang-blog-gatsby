@@ -1,6 +1,9 @@
 ---
 title: "How to be calm"
 date_published: "2019-01-31"
+backlinks:
+  - slug: "/2019-02-09-reflecting-3-week-work-rotation-helsinki/"
+    title: "Reflecting on my 3-week work rotation in Helsinki"
 ---
 
 ![how to be calm - Smartly office](images/how-to-be-calm-1024x595.jpg)

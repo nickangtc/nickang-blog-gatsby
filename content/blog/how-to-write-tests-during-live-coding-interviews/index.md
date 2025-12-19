@@ -5,6 +5,7 @@ date_updated: "2023-05-25"
 excerpt:
 tags: ["Tech", "Interviewing"]
 fav: false
+backlinks:
 ---
 
 This post is for anyone who is wondering what might be a good approach to writing tests during a software engineering live coding interview.

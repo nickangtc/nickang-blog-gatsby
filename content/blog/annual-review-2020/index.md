@@ -2,6 +2,17 @@
 title: "My 2020 Annual Review"
 date_published: "2020-12-13"
 tags: ["Living", "Annual Review"]
+backlinks:
+  - slug: "/annual-review-2017/"
+    title: "My New Year's resolution for 2018"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
 ---
 
 This is the first time I am writing an Annual Review in this format. I've experimented with various formats over the last three years ([2017](/annual-review-2017/), [2018](/annual-review-2018/), [2019](/annual-review-2019/)) and I think it is time to bring some consistency into these year-end reflections.

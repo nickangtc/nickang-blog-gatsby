@@ -3,6 +3,13 @@ title: "What is a callback? An analogy with tea"
 date_published: "2021-05-18"
 excerpt: "A callback is programming concept that you are already using in your daily life."
 tags: ["Tutorial", "Tech"]
+backlinks:
+  - slug: "/2016-06-23-learning-code-everyday-may-jun-2016/"
+    title: "My first full month of learning code everyday"
+  - slug: "/2017-10-12-tunnel-http-requests-into-localhost/"
+    title: "How to tunnel HTTP requests into localhost"
+  - slug: "/2017-10-13-junior-developer/"
+    title: "How to know you are a junior developer"
 ---
 
 ![Me pulling out an overly steeped teabag with a phone timer showing 7 minutes and 17 seconds](/images/teabag-infusing-stopwatch.jpg)

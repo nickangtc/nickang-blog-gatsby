@@ -6,6 +6,7 @@ excerpt: "And how it's going transitioning into more of Product role."
 tags: ["Career", "Communication", "Parenting", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 50
+backlinks:
 ---
 
 ## (parenting) The capsicum analogy for illuminating selfishness to a toddler

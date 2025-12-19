@@ -2,6 +2,7 @@
 title: "Do your best not to obfuscate"
 date_published: "2020-10-18"
 tags: ["Living"]
+backlinks:
 ---
 
 I recently watched *A Life on Our Planet*, a documentary that David Attenborough called his witness statement. He talked as if he was testifying against humanity for the stupid things we’ve done collectively to degrade our only inhabitable planet. I enjoyed the cinematography, but I enjoyed even more the crew’s skilful execution in making it clear that we are screwing up badly, and the biggest victims are animals, including us.

@@ -5,6 +5,7 @@ date_updated: "2022-10-25"
 excerpt: "Failure, success, and the next thing and the nex thing."
 tags: ["Fiction", "Raw essays"]
 fav: false
+backlinks:
 ---
 
 *(This is #5 of 30 raw essays in 30 days.)*

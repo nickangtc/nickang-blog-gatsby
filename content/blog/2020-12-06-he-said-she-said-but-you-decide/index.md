@@ -2,6 +2,7 @@
 title: "He said, She said, But You Decide"
 date_published: "2020-12-06"
 tags: ["Communication"]
+backlinks:
 ---
 
 I try to be serious with what I write and publish on this blog. My fuzzy goal is to write to help people, regardless of who they are, to live well. Be it through greater purpose, meaning, safety, love, or whatever else comprises a well-lived life, I am there searching for answers, for you and for me.

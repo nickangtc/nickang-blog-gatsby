@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Modern masculinity: Men have much to learn from women"
 date_published: "2017-06-11"
+backlinks:
 ---
 
 "I can't. Ok I should say, I shouldn't. For some stupid reason, as a male person it is not appropriate to shade yourself under an umbrella", I explained to my wife when she asked me to do said taboo activity.

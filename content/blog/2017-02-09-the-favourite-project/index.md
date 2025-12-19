@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "The favourite project"
 date_published: "2017-02-09"
+backlinks:
 ---
 
 Yesterday I got my friend, Yihui, to come in to give a talk to the current WDI batch at General Assembly. He was gracious with his time and came in to share with us his joining-GA story and the (huge) product that came out of it - his e-commerce website, [Hush](http://hush.sg). It was a great talk. I kept hearing the word "inspiring" from the audience. Great!

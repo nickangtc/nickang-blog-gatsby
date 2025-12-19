@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Alfred and other apps for the programmer"
 date_published: "2016-08-28"
+backlinks:
 ---
 
 ![relaxing in a pool by snow mountains](images/chilling-1024x683.jpeg) Tools conserve cognitive resources for the actual tasks! Image: [Robson Morgan](https://unsplash.com/@robsonhmorgan)

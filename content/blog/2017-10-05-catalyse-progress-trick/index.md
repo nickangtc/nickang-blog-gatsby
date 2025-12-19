@@ -1,6 +1,9 @@
 ---
 title: "A trick to catalyse progress"
 date_published: "2017-10-05"
+backlinks:
+  - slug: "/2018-01-19-get-out-of-your-own-head/"
+    title: "Get out of your own head"
 ---
 
 ![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) Photo by Mikito Tateisi on Unsplash

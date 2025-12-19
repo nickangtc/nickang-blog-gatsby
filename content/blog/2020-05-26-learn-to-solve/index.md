@@ -4,6 +4,7 @@ date_published: "2020-05-26"
 excerpt: "Technical understanding helps to solve problems, sometimes without involving any code at all."
 tags: ["Tech"]
 fav: true
+backlinks:
 ---
 
 One of the biggest reasons I enjoy teaching is because I get to see others do things I would never have thought of doing. While I’m good at explaining things clearly for others to understand, I don’t think I am good at coming up with creative solutions to problems. It’s clear to me that there are many people who are much better at doing that than I am. Teaching is fun for me because I get to watch someone grasp a concept and then apply it to build something cool afterwards, again and again.

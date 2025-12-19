@@ -2,6 +2,15 @@
 title: "The nightmare of coding a node.js server"
 date_published: "2016-09-19"
 tags: ["Tech", "Personal"]
+backlinks:
+  - slug: "/2016-09-23-faster-less-distracting-research/"
+    title: "Spidey - the faster, less distracting way to do research online"
+  - slug: "/2016-10-03-kinda-know/"
+    title: "Kinda knowing Ruby on Rails"
+  - slug: "/2017-05-27-dont-know-everything/"
+    title: "You don't know everything"
+  - slug: "/2018-03-24-create-simple-command-line-program-node/"
+    title: "How to create simple Command Line Program with Node"
 ---
 
 ![lion lying restlessly on the ground](images/lion-lying-down-1024x684.jpeg)

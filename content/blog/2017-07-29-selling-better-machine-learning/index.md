@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Selling better with machine learning"
 date_published: "2017-07-29"
+backlinks:
 ---
 
 I'm a firm believer that you can only effectively sell if you know the thing you're selling.

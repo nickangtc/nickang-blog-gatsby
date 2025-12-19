@@ -2,6 +2,11 @@
 title: "Silly useful things on my Repl.it"
 date_published: "2017-09-12"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-11-18-linked-list-implementation-part-2/"
+    title: "How to implement a Linked List in JavaScript"
+  - slug: "/2020-01-05-the-quickest-way-to-try-new-javascript-libraries/"
+    title: "The quickest way to try new JavaScript libraries"
 ---
 
 ![screenshot of a repl.it document](images/Screen-Shot-2017-09-12-at-7.04.18-PM.png)

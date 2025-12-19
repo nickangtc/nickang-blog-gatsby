@@ -1,6 +1,7 @@
 ---
 title: "Dying and the value of our work"
 date_published: "2017-01-16"
+backlinks:
 ---
 
 Bit by bit, we're inching closer to our deathbeds. While this isn't meant to bring anyone down, I am trying to elicit an emotional response. Why? Because without evoking emotions, we tend to forget that we all eventually move on.

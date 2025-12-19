@@ -2,6 +2,9 @@
 title: "Why use Binary Search Tree?"
 date_published: "2017-12-10"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-12-03-binary-search-tree-explained/"
+    title: "Binary Search Tree explained"
 ---
 
 ![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png)

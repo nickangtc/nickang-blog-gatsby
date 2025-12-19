@@ -1,6 +1,7 @@
 ---
 title: "5 reasons why I love my new Amazon Echo"
 date_published: "2018-02-24"
+backlinks:
 ---
 
 We just got back from a trip to San Francisco. Aside from strolling along the bay by the Golden Gate Bridge, we visited our friends living there. One thing was immediate apparent: most of them had either an [Amazon Echo](http://amzn.to/2HHUgpG) or [Google Home](https://store.google.com/?srp=/product/google_home) in their homes. That's awesome!

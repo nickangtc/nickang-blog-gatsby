@@ -1,6 +1,11 @@
 ---
 title: "The Untouchable Space Between Stimulus and Response"
 date_published: "2020-11-29"
+backlinks:
+  - slug: "/2021-01-03-notes-from-the-courage-to-be-disliked-by-kishimi-and-koga/"
+    title: "Notes from The Courage to Be Disliked by Kishimi and Koga"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 One of my favourite quotes is by the Austrian psychologist and Holocaust survivor, Dr Viktor Frankl:

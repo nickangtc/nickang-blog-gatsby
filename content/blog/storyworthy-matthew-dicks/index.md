@@ -5,6 +5,7 @@ date_updated: "2024-12-01"
 excerpt: "'Storyworthy' explores the essentials of compelling personal storytelling, focusing on honesty, vulnerability, and emotional impact. With practical advice like 'Homework for Life,' Dicks offers a guide to turning everyday moments into engaging narratives."
 tags: ["Communication", "Book"]
 fav: false
+backlinks:
 ---
 
 Honesty is attractive.

@@ -1,6 +1,7 @@
 ---
 title: "Are you a planner or executor?"
 date_published: "2018-11-05"
+backlinks:
 ---
 
 ![planner or executor nick ang blog](images/studio-ease-629076-unsplash.jpg)

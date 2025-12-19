@@ -5,6 +5,7 @@ date_updated: "2022-10-31"
 excerpt: "How I feel about attempting to write 30 essays in 30 days"
 tags: ["Fiction"]
 fav: false
+backlinks:
 ---
 
 *(This is #8 of 30 raw essays in 30 days. It's a poem.)*

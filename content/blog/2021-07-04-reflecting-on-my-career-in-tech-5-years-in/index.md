@@ -3,6 +3,9 @@ title: "Reflecting on my career in tech: 5 years in"
 date_published: "2021-07-04"
 excerpt: "A deep reflection about my career in software engineering and what's next"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-03-12-general-assembly-singapore-review/"
+    title: "General Assembly Singapore Review - Web Development Immersive"
 ---
 
 ![a picture of Nick and Charlane in an empty new rental apartment](/images/nickang-new-rental-apartment-berlin.jpg)

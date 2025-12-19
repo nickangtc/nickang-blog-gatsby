@@ -6,6 +6,7 @@ excerpt: "Criticise gently."
 tags: ["Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 22
+backlinks:
 ---
 
 I planned to take my daughter to a Gruffalo puppet show, but a friend phoned the roving circus and they said "No reservations. You can come earlier to buy your tickets."

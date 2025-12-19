@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Machine learning is kind of dry"
 date_published: "2017-08-19"
+backlinks:
 ---
 
 _San Francisco, we have a problem._

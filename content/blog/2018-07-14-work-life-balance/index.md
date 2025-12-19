@@ -2,6 +2,11 @@
 title: "How I think about Work-Life Balance"
 date_published: "2018-07-14"
 tags: ["Career"]
+backlinks:
+  - slug: "/2018-09-20-company-rejoin-after-quitting/"
+    title: "I work in a company where people rejoin after quitting"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![working in smartly singapore office nickang blog](images/smartly-singapore-office-nickang-blog-e1531540364775-768x1024.jpg)

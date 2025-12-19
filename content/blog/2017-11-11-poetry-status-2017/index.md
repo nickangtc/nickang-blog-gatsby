@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Poetry"
 date_published: "2017-11-11"
+backlinks:
 ---
 
 It's almost the end of the year 2017. I'm 27 and I still don't get poetry.

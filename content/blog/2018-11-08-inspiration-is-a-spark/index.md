@@ -1,6 +1,7 @@
 ---
 title: "Inspiration is a spark"
 date_published: "2018-11-08"
+backlinks:
 ---
 
 ![inspiration is a spark nick ang blog](images/j-a-n-u-p-r-a-s-a-d-259192-unsplash.jpg)

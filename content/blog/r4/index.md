@@ -5,6 +5,7 @@ date_updated: "2022-10-24"
 excerpt: "I no longer wish to write to be understood... I wish to write to understand."
 tags: ["Creativity", "Raw essays"]
 fav: false
+backlinks:
 ---
 
 *(This is #4 of 30 raw essays in 30 days. The topic is my own. #3 was published on my newsletter as a paid subscriber only post and won't be found on this site.)*

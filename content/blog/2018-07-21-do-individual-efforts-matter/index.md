@@ -1,6 +1,9 @@
 ---
 title: "Do individual efforts matter in the grand scheme of things?"
 date_published: "2018-07-21"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![bowl story time instagram nick ang blog](images/bowl-story-time-instagram-nick-ang-blog.jpg) The bowl that changed my perspective

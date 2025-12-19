@@ -5,6 +5,9 @@ date_updated: "2022-10-31"
 excerpt: "Because it's impossible to not improve at something that you keep doing regularly."
 tags: ["Living"]
 fav: false
+backlinks:
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
 ---
 
 When it comes to learning, always choose to do what works for you.

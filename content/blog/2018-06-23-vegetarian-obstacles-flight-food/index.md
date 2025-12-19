@@ -1,6 +1,11 @@
 ---
 title: "Vegetarian obstacles: in-flight food"
 date_published: "2018-06-23"
+backlinks:
+  - slug: "/2018-07-28-reflecting-on-1-month-of-being-vegetarian/"
+    title: "Reflecting on 1 month of being vegetarian"
+  - slug: "/2020-06-21-flexitarianism/"
+    title: "Flexitarianism"
 ---
 
 I met a small surprise challenge on my flight home from Helsinki today.

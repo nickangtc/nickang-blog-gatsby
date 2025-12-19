@@ -6,6 +6,7 @@ excerpt: "It just takes 5 minutes and a little initiative!"
 tags: ["Leadership", "Communication", "Productivity"]
 fav: false
 creation_duration_minutes: 36
+backlinks:
 ---
 
 Regular day, I'm doing my work as a software engineer when I receive a DM from a colleague:

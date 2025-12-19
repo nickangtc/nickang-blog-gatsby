@@ -1,6 +1,7 @@
 ---
 title: "Macbook slow and laggy after upgrading to macOS Sierra / Big Sur"
 date_published: "2021-06-16"
+backlinks:
 ---
 
 ![mac os sierra banner](images/macos-sierra.jpg)

@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Bye Inconsolata"
 date_published: "2018-02-20"
+backlinks:
 ---
 
 ![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) The old typeface for this blog - bye Inconsolata!

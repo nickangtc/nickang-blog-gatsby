@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "On Buy-Baity Book Titles"
 date_published: "2016-03-03"
+backlinks:
 ---
 
 I’m currently reading Cal Newport’s _So Good They Can’t Ignore You_. If you haven’t heard of this book before, I have to ask: Did you flinch when you first read the book title?

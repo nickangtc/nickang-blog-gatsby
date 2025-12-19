@@ -2,6 +2,9 @@
 title: "Fastest way to bulk delete in Django"
 date_published: "2017-08-22"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-26-optimisation-worth-time-part-1/"
+    title: "Optimisation: Is it worth the time? (part 1)"
 ---
 
 Was faced with an optimisation problem today at work. Our [product](https://askmetisa.com) analyses large datasets every day and as our number of user grew over the last few months, we've had to optimise our algorithm that generates and saves recommendations to our database. Poking around a bit, I noticed the step that deleted rows in our recommendations table was taking a long time to process.

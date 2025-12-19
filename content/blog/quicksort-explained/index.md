@@ -5,6 +5,7 @@ date_updated: "2023-05-15"
 excerpt:
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 Quicksort – stylised as a single word for some reason unknown to me – is a practical sorting algorithm that is often used in production code because it is very efficient for a sorting algorithm.

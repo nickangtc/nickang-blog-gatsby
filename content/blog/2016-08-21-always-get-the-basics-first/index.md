@@ -2,6 +2,9 @@
 title: "Always get the basics first"
 date_published: "2016-08-21"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-04-08-how-to-learn-new-programming-language-work/"
+    title: "The better way to approach a new programming language at work"
 ---
 
 ![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript

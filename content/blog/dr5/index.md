@@ -6,6 +6,7 @@ excerpt: "Today's daily reflection."
 tags: ["Career", "Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 30
+backlinks:
 ---
 
 ## (Design) The scooter that compels you to lend a helping hand

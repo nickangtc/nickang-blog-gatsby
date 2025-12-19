@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Reconsidering a beloved quote"
 date_published: "2018-01-29"
+backlinks:
 ---
 
 > Be steady and well-ordered in your life, so that you can be fierce and original in your work.

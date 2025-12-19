@@ -2,6 +2,7 @@
 title: "Buy or build?"
 date_published: "2019-03-30"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![buy or build nick ang](images/buy-or-build-nick-ang-1024x698.jpg) Photo by Robert Anasch

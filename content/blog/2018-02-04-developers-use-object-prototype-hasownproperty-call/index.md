@@ -2,6 +2,7 @@
 title: "Why do some developers use Object.prototype.hasOwnProperty.call()?"
 date_published: "2018-02-04"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) Original photo credit: Pete Wright

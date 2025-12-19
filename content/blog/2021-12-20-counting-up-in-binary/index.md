@@ -4,6 +4,7 @@ date_published: "2021-12-20"
 excerpt: "Not knowing how to count up in binary is not a big deal. But it is nice to know the ground you're standing on as an application developer!"
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 This is one of those things that is very easy to forget when unused. But I find that it's something worth revisiting now and again because it's so fundamental to how computers work. 

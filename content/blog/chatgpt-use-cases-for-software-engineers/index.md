@@ -5,6 +5,7 @@ date_updated: "2024-01-23"
 excerpt: "A growing list of use cases of AIs, including ChatGPT and GitHub Copilot."
 tags: ["Collection", "Productivity"]
 fav: false
+backlinks:
 ---
 
 Everything here is based on my direct experience of successfully using AI to assist me in my day-to-day work and life. Each header is a situation where it worked.

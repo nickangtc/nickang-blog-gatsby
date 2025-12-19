@@ -2,6 +2,15 @@
 title: "What is a Personal Knowledge Management system (PKM)?"
 date_published: "2020-07-05"
 tags: ["PKM"]
+backlinks:
+  - slug: "/2020-02-23-how-i-think-about-memory/"
+    title: "How I think about memory"
+  - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
+    title: "How a Daily Note fixed my note taking process"
+  - slug: "/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/"
+    title: "Types of Notes in a PKM explained with a Gardening Analogy (Part I)"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 ![a visualisation of a neuron firing](images/brain-synapsis.jpg)

@@ -3,6 +3,7 @@ title: "Ulcer"
 date_published: "2021-06-13"
 excerpt: "I bit myself and developed an ulcer for the hundredth time. What's wrong?"
 tags: ["Living"]
+backlinks:
 ---
 
 I just recovered from an ulcer on my lip the other day and it felt amazing. It was an ulcer caused by clumsy chewing. I 5 days of pain before it recovered to the point where toothpaste stopped feeling like acid when it inevitably touches the wound.

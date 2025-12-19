@@ -2,6 +2,9 @@
 title: "What are bugs in software?"
 date_published: "2017-10-31"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2021-02-14-software-bugs-and-trash/"
+    title: "Software bugs and trash"
 ---
 
 ![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) Photo by Glen Carrie on Unsplash

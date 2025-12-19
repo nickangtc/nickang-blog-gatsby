@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "The Underappreciated Magic of a Cold Shower"
 date_published: "2016-05-25"
+backlinks:
 ---
 
 I’m growing up. Maturing. Definitely considered an adult now at 26.

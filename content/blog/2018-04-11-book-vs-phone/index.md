@@ -1,6 +1,7 @@
 ---
 title: "Book vs phone"
 date_published: "2018-04-11"
+backlinks:
 ---
 
 For me, holding a book elicits a different feeling compared to holding a phone. The former feels productive, quiet, and tactile; the latter feels more potent, disruptive, and distant.

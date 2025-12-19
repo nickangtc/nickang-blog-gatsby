@@ -4,6 +4,7 @@ date_published: "2021-11-14"
 excerpt: 
 tags: ["Creativity"]
 fav: false
+backlinks:
 ---
 
 This blog is run on Gatsby.js, a [decision](https://www.nickang.com/2020-05-30-why-i-migrated-my-blog-from-wordpress-to-gatsby/) I made 1.5 years ago and haven't looked back on. Well, until recently. I'm not planning to change the CMS behind this blog any time soon (who has time for that after only less than 2 years?), but I do want to pause and reflect on this idea of a Technical vs Non-Technical blogger.

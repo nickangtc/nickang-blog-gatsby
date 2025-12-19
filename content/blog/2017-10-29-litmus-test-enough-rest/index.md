@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Litmus test for having enough rest"
 date_published: "2017-10-29"
+backlinks:
+  - slug: "/2018-02-01-sleep-is-sacred/"
+    title: "Sleep is sacred"
 ---
 
 ![laptop and cup of cappuccino on wooden table](images/nolan-issac-38299-1024x683.jpg) Photo by Nolan Issac on Unsplash

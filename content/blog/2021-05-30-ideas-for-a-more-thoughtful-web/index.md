@@ -3,6 +3,7 @@ title: "Ideas for a more thoughtful web"
 date_published: "2021-05-30"
 excerpt: "Disable comments, don't disseminate on social media, and always attribute credit."
 tags: ["Creativity", "Tech"]
+backlinks:
 ---
 
 Right now the web is a very noisy place. It's a constant shouting contest, and very few people, even those with good intentions, speak softly and with conviction. The first page results from a google search provide all the evidence of this.

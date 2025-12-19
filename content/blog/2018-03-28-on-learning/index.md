@@ -1,6 +1,11 @@
 ---
 title: "On learning"
 date_published: "2018-03-28"
+backlinks:
+  - slug: "/2020-06-28-word-rafting/"
+    title: "Word rafting"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 No matter how many posts covering how many topics in however much depth that I write and publish here, they will only ever add up to an infinitesimally tiny fraction of all there is to know in this world.

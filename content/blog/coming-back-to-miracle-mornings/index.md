@@ -6,6 +6,7 @@ excerpt: "Productivity - Stay Out!"
 tags: ["Daily Reflection", "Productivity"]
 fav: false
 creation_duration_minutes: 30
+backlinks:
 ---
 
 There's a book called Miracle Mornings by Hal Elrod. It's a short little book that touts the life-changing habit of waking up early to do things that contribute to self-development.

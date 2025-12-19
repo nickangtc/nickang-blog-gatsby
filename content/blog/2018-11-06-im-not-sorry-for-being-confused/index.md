@@ -1,6 +1,9 @@
 ---
 title: "I'm not sorry for being confused"
 date_published: "2018-11-06"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 When people are confused, I have seen some choose to not ask a clarifying question. Most of the time, that aversion comes out of fear of being embarrassed for asking. _You don't know even that?_

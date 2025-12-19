@@ -2,6 +2,11 @@
 title: "Don't do unhealthy work"
 date_published: "2016-08-13"
 tags: ["Living", "Personal"]
+backlinks:
+  - slug: "/2017-10-29-litmus-test-enough-rest/"
+    title: "Litmus test for having enough rest"
+  - slug: "/2017-12-28-success-needs-health/"
+    title: "Success needs health"
 ---
 
 It’s ok to be busy at work, but being overly engrossed is almost never worth it. Perhaps the only exception is when the deadline is the next day, or when you know that if you stopped, you would cut the tap and never experience the same flow again.

@@ -2,6 +2,7 @@
 title: "Add event listener for loop problem in JavaScript"
 date_published: "2018-03-06"
 tags: ["Tech"]
+backlinks:
 ---
 
 In web development class today, many of our students faced a problem adding event listeners to an array of HTML elements (ok, DOM nodes to be specific).

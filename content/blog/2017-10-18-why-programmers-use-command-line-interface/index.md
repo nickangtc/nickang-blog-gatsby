@@ -3,6 +3,11 @@ title: "Bite Size Programming - Why do programmers use a Command Line Interface?
 date_published: "2017-10-18"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-10-21-start-using-the-command-line-part-1/"
+    title: "Bite Size Programming - How to start using the command line (part 1)"
+  - slug: "/2017-10-27-start-using-the-command-line-part-2/"
+    title: "How to start using the command line (part 2)"
 ---
 
 ![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) Photo by Paweł Durczok on Unsplash

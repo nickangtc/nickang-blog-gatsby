@@ -1,6 +1,9 @@
 ---
 title: "Why online advice is dangerous"
 date_published: "2017-11-11"
+backlinks:
+  - slug: "/2018-12-08-how-to-keep-things-interesting-in-a-relationship/"
+    title: "How to keep things interesting in a relationship"
 ---
 
 ![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) Medium is becoming a major source of online advice for me and I'm getting worried

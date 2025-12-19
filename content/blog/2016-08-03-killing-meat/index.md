@@ -1,6 +1,13 @@
 ---
 title: "Anthony Bourdain killed a red stag"
 date_published: "2016-08-03"
+backlinks:
+  - slug: "/2018-06-22-why-im-going-vegetarian/"
+    title: "Why I'm going vegetarian"
+  - slug: "/2018-08-26-how-to-find-good-food/"
+    title: "How to find good food"
+  - slug: "/2020-10-18-do-your-best-not-to-obfuscate/"
+    title: "Do your best not to obfuscate"
 ---
 
 ![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) A scene from Parts Unknown, Scotland episode

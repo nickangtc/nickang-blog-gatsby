@@ -5,6 +5,7 @@ date_updated: "2023-12-12"
 excerpt: "Using Large Language Models to learn languages makes perfect sense."
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 This is a short blog post to share a fantastic use case I've discovered for conversational AI based on large language models (LLMs): making intelligent guesses of what someone said in a spoken sentence.

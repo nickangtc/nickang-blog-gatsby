@@ -5,6 +5,7 @@ date_updated: "2022-10-26"
 excerpt: "These days, people call this first principles thinking. I call it thinking for yourself."
 tags: ["Living", "Raw essays"]
 fav: false
+backlinks:
 ---
 
 *(This is #6 of 30 raw essays in 30 days.)*

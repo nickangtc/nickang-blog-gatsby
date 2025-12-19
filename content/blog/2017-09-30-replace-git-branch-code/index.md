@@ -3,6 +3,13 @@ title: "How to completely replace git branch code with another branch's code"
 date_published: "2017-09-30"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-09-23-squash-git-commits/"
+    title: "How to squash git commits"
+  - slug: "/2017-09-26-git-stash/"
+    title: "How to use git stash (and when not to use it)"
+  - slug: "/2017-11-03-what-is-git/"
+    title: "What is Git?"
 ---
 
 ![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) Photo by Leo Rivas-Micoud on Unsplash

@@ -2,6 +2,9 @@
 title: "Users expect bug-free software"
 date_published: "2017-10-19"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-31-bugs/"
+    title: "What are bugs in software?"
 ---
 
 ![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) Photo by rawpixel.com on Unsplash

@@ -5,6 +5,7 @@ date_updated: "2024-11-22"
 excerpt: "(Contains a Tesla Referral Code for $1,000 off.) One year in, I have a lot to share with you to help you decide for and against one."
 tags: ["Tech"]
 fav: true
+backlinks:
 ---
 
 Hello folks!

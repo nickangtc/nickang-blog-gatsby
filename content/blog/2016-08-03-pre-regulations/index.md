@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "The things we can but don't do"
 date_published: "2016-08-03"
+backlinks:
 ---
 
 The transitional space between pre-regulation and regulation might be the best time to get in on something.

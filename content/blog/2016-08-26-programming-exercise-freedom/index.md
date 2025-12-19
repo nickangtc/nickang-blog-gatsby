@@ -1,6 +1,7 @@
 ---
 title: "Programming is an exercise of freedom"
 date_published: "2016-08-26"
+backlinks:
 ---
 
 Projects that I’m used to working on are entrenched in structures (as in structure versus agency) that inevitably hold me back from full expression.

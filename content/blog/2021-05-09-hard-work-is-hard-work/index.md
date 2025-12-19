@@ -3,6 +3,7 @@ title: "Hard work is hard work"
 date_published: "2021-05-09"
 excerpt: "It's not the sweat and blood. Hard work is often hardest in terms of sacrifices."
 tags: ["Living"]
+backlinks:
 ---
 
 Most people want to live in a nice house, eat good food, go to the theatre, drive a nice car (or a few). But most people also want to not work too hard at the same time. If I could, I certainly want both at the same time.

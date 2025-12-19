@@ -1,6 +1,9 @@
 ---
 title: "Life on a Campervan"
 date_published: "2020-09-20"
+backlinks:
+  - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
+    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
 ---
 
 Before you know it, your face is greasy, your feet cold, and you wonder, why are you doing this? Nah, that’s not representative of life on a campervan, although I’ve felt all that in my recent week-long campervan trip with my wife and dog.

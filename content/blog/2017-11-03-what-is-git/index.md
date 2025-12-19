@@ -2,6 +2,9 @@
 title: "What is Git?"
 date_published: "2017-11-03"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2018-02-28-git-and-github/"
+    title: "All you need to know about Git and GitHub"
 ---
 
 ![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash

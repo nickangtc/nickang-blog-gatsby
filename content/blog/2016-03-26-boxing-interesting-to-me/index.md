@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Ferriss, Fussman, Ali, Tyson: The Day I Became Fascinated By Boxing"
 date_published: "2016-03-26"
+backlinks:
+  - slug: "/2016-04-03-what-to-do-at-455pm/"
+    title: "What To Do At 4:55PM"
 ---
 
 It was 8:30pm when I entered into the Youtube search bar: “George Foreman vs Muhammad Ali”.

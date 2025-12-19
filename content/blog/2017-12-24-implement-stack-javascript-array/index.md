@@ -2,6 +2,9 @@
 title: "Why implement Stack in JavaScript when you have Array?"
 date_published: "2017-12-24"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-12-25-implementing-queue-javascript/"
+    title: "Implementing a Queue in JavaScript?"
 ---
 
 This is the stupidly simple question I asked myself today as I was trying to familiarise myself with data structures. Is there ever a need to implement a stack data structure in JavaScript when the built-in [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) data structure already exists?

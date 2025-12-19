@@ -1,6 +1,7 @@
 ---
 title: "The flinch"
 date_published: "2019-03-08"
+backlinks:
 ---
 
 We grow older and earn luxuries with our steadily increasing income. Instead of shrinking into comforts and doing less and less with each passing day, we ought to seek _the flinch_.

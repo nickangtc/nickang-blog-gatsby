@@ -6,6 +6,7 @@ excerpt: "Early thoughts on an important 'old' book"
 tags: ["Tech", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 40
+backlinks:
 ---
 
 I just started reading The Road Ahead by Bill Gates, a book published in 1995.

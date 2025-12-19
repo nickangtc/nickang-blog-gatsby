@@ -4,6 +4,7 @@ date_published: "2021-12-22"
 excerpt: 
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 Boiled down to a sentence: it's the choice of invoking a method based on whether something has the method, rather than based on whether something is of a certain type.

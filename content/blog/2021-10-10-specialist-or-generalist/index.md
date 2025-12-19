@@ -4,6 +4,9 @@ date_published: "2021-10-10"
 excerpt: 
 tags: ["Tech"]
 fav: false
+backlinks:
+  - slug: "/2017-10-03-generalist-vs-specialist/"
+    title: "Generalist vs Specialist"
 ---
 
 ![photo of black coffee in a mug](/images/black-batch-brew-coffee.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "The family photo effect"
 date_published: "2017-04-04"
+backlinks:
 ---
 
 Everyone takes photos with their family, but only those who have their priorities straightened pin them up in their cubicles at work. And with that act comes a family photo effect.

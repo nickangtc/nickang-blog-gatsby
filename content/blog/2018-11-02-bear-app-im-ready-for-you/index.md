@@ -1,6 +1,11 @@
 ---
 title: "Bear app, I’m ready for you"
 date_published: "2018-11-02"
+backlinks:
+  - slug: "/2020-07-05-personal-knowledge-management-system/"
+    title: "What is a Personal Knowledge Management system (PKM)?"
+  - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
+    title: "How a Daily Note fixed my note taking process"
 ---
 
 ![bear app screenshot nick ang blog](images/bear-app-screenshot.png)

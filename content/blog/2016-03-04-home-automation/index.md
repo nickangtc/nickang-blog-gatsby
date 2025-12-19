@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "What We Mean When We Say 'Home Automation'"
 date_published: "2016-03-04"
+backlinks:
+  - slug: "/2018-07-30-where-to-buy-electronics-in-singapore/"
+    title: "Where to buy electronics in Singapore"
 ---
 
 There are at least two kinds of home automation:

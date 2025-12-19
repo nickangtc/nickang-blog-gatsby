@@ -2,6 +2,7 @@
 title: "It's not just JavaScript you're learning at that Bootcamp"
 date_published: "2016-12-30"
 tags: ["Tech"]
+backlinks:
 ---
 
 Programming bootcamps are everywhere now. Some are up to the mark while others make up for it with good marketing. Whichever the choice you end up making, it'd be a mistake to think that you're going into one, say a web development bootcamp, to learn HTML, CSS and JavaScript.

@@ -3,6 +3,7 @@ title: "What's the biggest advice you'd give to people learning to code for the 
 date_published: "2020-03-11"
 tags: ["Tech", "Career"]
 fav: true
+backlinks:
 ---
 
 ![advice to people learning to code for the first time nick ang blog](images/advice-to-people-learning-to-code-for-the-first-time-nick-ang-blog-1024x768.jpg)

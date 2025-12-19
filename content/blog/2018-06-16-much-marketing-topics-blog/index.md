@@ -1,6 +1,11 @@
 ---
 title: "Much more marketing topics on this blog"
 date_published: "2018-06-16"
+backlinks:
+  - slug: "/2018-06-19-the-single-most-important-and-non-obvious-thing-about-advertising-on-facebook/"
+    title: "The single most non-obvious thing about advertising on Facebook"
+  - slug: "/2018-11-10-lessons-from-launching-a-new-business/"
+    title: "Lessons from launching a new business"
 ---
 
 If you've read a few posts on this blog, you'd know that most of them revolve around the topics of technology (technical and non-technical), society and life in general.

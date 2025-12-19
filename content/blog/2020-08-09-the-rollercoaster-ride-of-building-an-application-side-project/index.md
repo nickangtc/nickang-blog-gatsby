@@ -1,6 +1,7 @@
 ---
 title: "The rollercoaster ride of a side project"
 date_published: "2020-08-09"
+backlinks:
 ---
 
 ![demo gif of nickang's remote sprint planing side project](images/remote-sprint-planner-demo-nickang-blog.gif)

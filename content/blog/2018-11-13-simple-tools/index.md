@@ -1,6 +1,7 @@
 ---
 title: "Simple tools"
 date_published: "2018-11-13"
+backlinks:
 ---
 
 ![](images/02f953ce-7105-424e-b996-981cb24c781a-60106-00000fdf7bddc270.jpg)

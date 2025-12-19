@@ -1,6 +1,9 @@
 ---
 title: "All the peace from within"
 date_published: "2018-08-12"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![boat quay nickang](images/boat-quay-nickang-1024x1024.jpg) In the morning making my way along the Singapore River to get to the gym

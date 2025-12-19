@@ -3,6 +3,9 @@ title: "Retreat"
 date_published: "2021-09-19"
 excerpt: "I'm retreating from social media."
 tags: 
+backlinks:
+  - slug: "/2021-11-07-why-active-on-instagram-again/"
+    title: "Why I'm active on Instagram again"
 ---
 
 I've decided to stop using social media indefinitely. Specifically, I'm not going to use it for engaging in "personal" conversations. That means I'll not be tweeting at anyone to reply to something they've said, or commenting on people's life updates on IG or Facebook or LinkedIn. I will be keeping my accounts but I won't be using them much.

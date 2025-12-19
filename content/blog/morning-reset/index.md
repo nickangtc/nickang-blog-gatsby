@@ -6,6 +6,7 @@ excerpt: "Going from anxious in the morning to calm for the rest of the day."
 tags: ["Living"]
 fav: false
 creation_duration_minutes: 65
+backlinks:
 ---
 
 I woke up with a messy mind this Saturday morning. It's quiet -- I'm the only one awake, sitting in the living room of our rented apartment in Spain. My thoughts, restless as ever, bounce around the walls.

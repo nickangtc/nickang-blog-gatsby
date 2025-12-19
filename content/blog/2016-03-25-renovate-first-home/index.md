@@ -1,6 +1,7 @@
 ---
 title: "Should You Go All-Out to Renovate Your First Home?"
 date_published: "2016-03-25"
+backlinks:
 ---
 
 _From [Quora](https://www.quora.com/Should-you-renovate-the-whole-house-at-once-or-little-by-little):_ 

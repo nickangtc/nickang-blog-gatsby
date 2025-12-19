@@ -6,6 +6,7 @@ excerpt: "Getting there in a single step in 2025."
 tags: ["Living", "Good intentions"]
 fav: false
 creation_duration_minutes: 35
+backlinks:
 ---
 
 I quit coffee in 2025.

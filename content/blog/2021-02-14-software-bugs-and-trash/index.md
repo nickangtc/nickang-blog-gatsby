@@ -4,6 +4,9 @@ date_published: "2021-02-14"
 excerpt: "Software bugs are in many ways analogous to everyday trash."
 tags: ["Leadership", "Tech"]
 fav: true
+backlinks:
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 Software bugs are in many ways analogous to everyday trash.

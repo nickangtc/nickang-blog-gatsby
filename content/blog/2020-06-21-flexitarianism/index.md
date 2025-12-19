@@ -3,6 +3,9 @@ title: "Flexitarianism"
 date_published: "2020-06-21"
 tags: ["Living"]
 fav: true
+backlinks:
+  - slug: "/2018-06-22-why-im-going-vegetarian/"
+    title: "Why I'm going vegetarian"
 ---
 
 ![vegan patty grill next to actual meat steaks](images/vegan-patty-grill.jpg)

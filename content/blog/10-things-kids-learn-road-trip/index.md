@@ -6,6 +6,7 @@ excerpt: "a.k.a. 10 ways driving is better than flying, if you can afford the ti
 tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 120
+backlinks:
 ---
 
 Our daughter is 3 years old during this trip. This post is a collection of the valuable, teachable moments that would never have occurred if we simply flew 3 hours rather than drive for 5 days to Spain.

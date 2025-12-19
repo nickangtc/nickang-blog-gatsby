@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Regaining the courage to build"
 date_published: "2018-01-12"
+backlinks:
+  - slug: "/2020-08-09-the-rollercoaster-ride-of-building-an-application-side-project/"
+    title: "The rollercoaster ride of a side project"
 ---
 
 ![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash

@@ -5,6 +5,7 @@ date_updated: "2024-01-13"
 excerpt: "My honest review after 2 weeks of owning a new Tesla Model Y Long Range."
 tags: ["Tech", "Living"]
 fav: false
+backlinks:
 ---
 
 ![our Tesla Model Y Long Range in midnight cherry red, taken delivery in Germany](images/tesla-model-y-midnight-cherry-red.jpg)

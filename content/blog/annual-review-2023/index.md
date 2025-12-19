@@ -5,6 +5,15 @@ date_updated: "2023-12-22"
 excerpt: What went well in 2023? What did not go so well? What did I learn?
 tags: ["Living", "Annual Review"]
 fav: false
+backlinks:
+  - slug: "/annual-review-2017/"
+    title: "My New Year's resolution for 2018"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.

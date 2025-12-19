@@ -2,6 +2,13 @@
 title: "What is an API?"
 date_published: "2018-02-03"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2018-11-07-json-diff-tool-find-differences-between-json-files/"
+    title: "A tool to find differences between JSON files"
+  - slug: "/2018-11-16-code-readability-or-efficiency/"
+    title: "Code readability or efficiency?"
+  - slug: "/2019-12-27-technical-skills-are-not-just-for-software-developers/"
+    title: "Technical skills are not just for software developers"
 ---
 
 ![what is an api blog post banner nickang](images/igor-ovsyannykov-165874-1024x683.jpg)

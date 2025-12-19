@@ -1,6 +1,11 @@
 ---
 title: "Good weather and access to nature"
 date_published: "2019-02-23"
+backlinks:
+  - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
+    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
+  - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
+    title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
 ---
 
 ![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco

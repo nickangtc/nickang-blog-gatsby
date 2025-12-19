@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Adapt and forget"
 date_published: "2017-11-06"
+backlinks:
 ---
 
 ![sapling](images/francesco-gallarotti-72602-1024x683.jpg) Photo by Francesco Gallarotti on Unsplash

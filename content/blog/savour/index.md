@@ -6,6 +6,7 @@ excerpt: "Stop the bloody fussing."
 tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 33
+backlinks:
 ---
 
 It's 10:30pm on a weekday. We just got home from a Chinese orchestra concert. Charlotte is sleeping on my shoulder but I gently wake her up because it's time to drink her milk, brush her teeth, and slide under her sheets.

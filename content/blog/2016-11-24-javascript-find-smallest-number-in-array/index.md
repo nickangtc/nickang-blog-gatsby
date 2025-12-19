@@ -2,6 +2,7 @@
 title: "Find the smallest number in an array with JavaScript"
 date_published: "2016-11-24"
 tags: ["Tech"]
+backlinks:
 ---
 
 Let's say you're given an array of numbers, and you're required to find the smallest number in the array. How would you do it?

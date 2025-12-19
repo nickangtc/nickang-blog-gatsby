@@ -2,6 +2,17 @@
 title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
 date_published: "2020-10-04"
 tags: ["Living"]
+backlinks:
+  - slug: "/2020-10-11-learning-in-public/"
+    title: "Learning in public"
+  - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
+    title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
+  - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
+    title: "Reflecting on my career in tech: 5 years in"
+  - slug: "/2021-10-03-6-things-i-learned-from-my-second-year-living-in-berlin-away-from-singapore/"
+    title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 In two days, I will mark my first year living away from Singapore in Berlin. I moved here with my wife and dog last year when I managed to get transferred to the Berlin office of my current employer. As you can imagine, life has been different since. 

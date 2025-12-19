@@ -2,6 +2,7 @@
 title: "What needs evaluating here?"
 date_published: "2020-12-20"
 excerpt: "Always judge a book strictly by its contents. If the author is an alcoholic and misogynist, it should not matter in your consideration of his ideas."
+backlinks:
 ---
 
 When you read a book about leadership, does it matter if the author was reported to have had an affair?

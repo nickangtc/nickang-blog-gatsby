@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Comparing mindfulness and caffeine"
 date_published: "2017-10-02"
+backlinks:
+  - slug: "/2017-10-29-litmus-test-enough-rest/"
+    title: "Litmus test for having enough rest"
 ---
 
 ![pouring coffee in cup](images/pouring-coffee-in-cup.jpg)

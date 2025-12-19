@@ -6,6 +6,7 @@ excerpt: "As long as it's not likely to be fatal, let them do it."
 tags: ["Parenting"]
 fav: false
 creation_duration_minutes: 44
+backlinks:
 ---
 
 My wife Charlane and I have developed our distinct parenting style over 3 years of having Charlotte. The distinguishing trait of our approach seems to be a combination of patience and high risk tolerance, as friends who hang out with us like to point out.

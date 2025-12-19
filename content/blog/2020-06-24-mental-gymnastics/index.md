@@ -1,6 +1,7 @@
 ---
 title: "Mental gymnastics"
 date_published: "2020-06-24"
+backlinks:
 ---
 
 My wife recently gave me an elaborate facial procedure to follow daily. She devised a note that consisted of one list for the morning and another for the evening, instructing the order of products to use. It looks like this:

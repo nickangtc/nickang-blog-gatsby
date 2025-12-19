@@ -6,6 +6,7 @@ excerpt: "I had my first surge of inspiration post-caffeine."
 tags: ["Living", "Creativity", "2025 - Notice"]
 fav: false
 creation_duration_minutes: 20
+backlinks:
 ---
 
 I gave up coffee at the beginning of 2025. I did it because I was increasingly anxious in social contexts – giving an update to a small company town hall, telling the baker what bread I'd like, and even when introducing myself at a parent-teacher conference.

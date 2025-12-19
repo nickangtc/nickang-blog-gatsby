@@ -3,6 +3,11 @@ title: "Linked List explained"
 date_published: "2017-11-17"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-11-18-linked-list-implementation-part-2/"
+    title: "How to implement a Linked List in JavaScript"
+  - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
+    title: "How to implement an LRU cache in JavaScript"
 ---
 
 ![linked list explained banner nickang](images/BSP-linked-list-explained.png) Photo by Simon Abrams on Unsplash

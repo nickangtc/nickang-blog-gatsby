@@ -5,6 +5,7 @@ date_updated: "2022-05-20"
 excerpt: "I had unthinkingly been buying and using mechanical keyboards to signal something else. I admit that it is time to stop it."
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 

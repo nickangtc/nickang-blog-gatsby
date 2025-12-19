@@ -1,6 +1,11 @@
 ---
 title: "Temptation to just build stuff"
 date_published: "2018-01-03"
+backlinks:
+  - slug: "/2018-01-12-courage-to-build/"
+    title: "Regaining the courage to build"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![mannequin wearing santa hat looking broken](images/buzz-andersen-138897-1024x681.jpg) Photo by Buzz Andersen on Unsplash

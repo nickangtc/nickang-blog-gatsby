@@ -5,6 +5,7 @@ date_updated: "2022-05-27"
 excerpt: More fun, surprising, fulfilling, rewarding, and memorable experiences await us.
 tags: ["Living"]
 fav: true
+backlinks:
 ---
 
 The older I've become, the more I've started to make decisions based on convenience. Based on a hunch and a recent experience, I think it may be time to reconsider that as my default approach.

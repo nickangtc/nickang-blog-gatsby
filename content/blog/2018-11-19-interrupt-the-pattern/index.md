@@ -1,6 +1,7 @@
 ---
 title: "Want to be heard? Interrupt the pattern"
 date_published: "2018-11-19"
+backlinks:
 ---
 
 ![Want to be heard? Interrupt the pattern](images/interrupt-the-pattern-with-the-unexpected-nick-ang-blog-1024x683.jpg)

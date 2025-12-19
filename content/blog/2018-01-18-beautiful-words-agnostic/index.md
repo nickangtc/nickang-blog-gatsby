@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Agnostic"
 date_published: "2018-01-18"
+backlinks:
 ---
 
 Programming is a precision sport. I've personally encountered--and many times have been the reason for--situations where an imprecise word is used to describe a line of code to another person, leading to confusion or worse, insidious misunderstandings that unravel only down the line.

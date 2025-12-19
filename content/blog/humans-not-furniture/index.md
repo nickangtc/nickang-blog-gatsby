@@ -6,6 +6,7 @@ excerpt:
 tags: ["Living", "Parenting", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
+backlinks:
 ---
 
 It's 8:30 am, we're at home preparing to send our daughter to kindergarten. Charlotte's seems under the weather, so I ask her if she's good enough to go.

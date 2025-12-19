@@ -3,6 +3,11 @@ title: "Binary Search Tree explained"
 date_published: "2017-12-03"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-12-10-why-use-binary-search-tree/"
+    title: "Why use Binary Search Tree?"
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 ![binary search tree explained nickang blog banner](images/BSP-binary-search-tree-explained.png) Not my arm. Photo by Patrick Fore on Unsplash

@@ -2,6 +2,15 @@
 title: "Entering the digital jungle"
 date_published: "2016-08-15"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2018-01-12-courage-to-build/"
+    title: "Regaining the courage to build"
+  - slug: "/2020-06-28-word-rafting/"
+    title: "Word rafting"
+  - slug: "/2021-04-10-dad-have-you-always-wanted-to-be-a-software-engineer/"
+    title: "'"
+  - slug: "/the-most-effortless-period-of-my-writing-life/"
+    title: "The most effortless period of my writing life"
 ---
 
 Before today I was trained as an environmental and social scientist. Knowledge of the complex issues that are ongoing around us and around the world is helpful, but without so much as a hint of an ability to actually try to solve these problems has made me increasingly uneasy.

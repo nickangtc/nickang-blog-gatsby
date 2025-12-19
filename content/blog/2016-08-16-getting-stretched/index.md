@@ -2,6 +2,7 @@
 title: "Getting stretched"
 date_published: "2016-08-16"
 tags: ["Tech"]
+backlinks:
 ---
 
 I’m going to keep this post short because I think tonight’s homework is going to take over 3 more hours…

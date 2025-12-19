@@ -2,6 +2,9 @@
 title: "How to keep things interesting in a relationship"
 date_published: "2018-12-08"
 tags: ["Communication"]
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![How to keep things interesting in a relationship](images/How-to-keep-things-interesting-in-a-relationship-1024x769.jpg)

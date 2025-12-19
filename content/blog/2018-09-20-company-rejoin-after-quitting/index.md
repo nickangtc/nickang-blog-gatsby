@@ -1,6 +1,9 @@
 ---
 title: "I work in a company where people rejoin after quitting"
 date_published: "2018-09-20"
+backlinks:
+  - slug: "/2019-04-09-my-view-on-changing-jobs/"
+    title: "My view on changing jobs"
 ---
 
 ![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) Not my colleagues, but this scene is totally normal in Smartly.io

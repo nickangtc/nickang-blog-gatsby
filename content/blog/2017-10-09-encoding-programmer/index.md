@@ -2,6 +2,7 @@
 title: "Encoding for programmers"
 date_published: "2017-10-09"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![red book with 8 bit bytes carved on the cover](images/hope-house-press-390262-768x1024.jpg) Photo by Hope House Press on Unsplash

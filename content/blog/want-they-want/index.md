@@ -6,6 +6,7 @@ excerpt: "Cha Cha Real Smooth."
 tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 16
+backlinks:
 ---
 
 Yesterday my wife and I watched _Cha Cha Real Smooth_ on Apple TV, a movie that shows why growing up is hard.

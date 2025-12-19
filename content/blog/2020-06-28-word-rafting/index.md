@@ -2,6 +2,13 @@
 title: "Word rafting"
 date_published: "2020-06-28"
 tags: ["Communication"]
+backlinks:
+  - slug: "/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/"
+    title: "Notes from The Year Without Pants by Scott Berkun"
+  - slug: "/2021-06-21-stop-to-think/"
+    title: "Stop to think"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 Once in a while an idea comes along that feels right. I've learned to be biased towards acting on such ideas when they appear, and today I'm taking action on an idea by someone I honestly barely know from twitter. The idea is to join a word raft.

@@ -4,6 +4,7 @@ date_published: "2021-12-23"
 excerpt: 
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 Apparently `{}` can be interpreted by the JavaScript engine as a block and not an object. That's the first learning.

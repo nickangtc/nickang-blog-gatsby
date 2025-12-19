@@ -1,6 +1,9 @@
 ---
 title: "The professional echo chamber"
 date_published: "2018-05-21"
+backlinks:
+  - slug: "/2018-06-02-philippines-field-trip/"
+    title: "Reflecting on 15 days in the Philippines fields"
 ---
 
 ![flight into Bohol Philippines nickang blog](images/20180517-BES-ENV3102-flight-arrival-nickang-blog-1024x768.jpg) Touching down at Mactan-Cebu International Airport

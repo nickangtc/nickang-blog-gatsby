@@ -6,6 +6,7 @@ excerpt:
 tags: ["Career", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
+backlinks:
 ---
 
 I find myself in a lucky position where I believe my role is malleable. I'm currently a Software Engineer building mostly web applications, but I believe I can pull off a transition to an adjacent role like Product Management if I tried hard enough - a transition that many engineers have done before.

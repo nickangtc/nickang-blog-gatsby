@@ -1,6 +1,7 @@
 ---
 title: "Three second rule for purchases"
 date_published: "2018-09-14"
+backlinks:
 ---
 
 Here's my version of the three second rule applied to purchases: if something puts a stupid little grin on your face for three seconds or more, and it's something money can buy, spend and buy it.

@@ -2,6 +2,9 @@
 title: "Bubble sort explained"
 date_published: "2017-12-16"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 ![bubble sort explained banner ](images/BSP-bubble-sort-explained.png)

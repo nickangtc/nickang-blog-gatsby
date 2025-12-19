@@ -2,6 +2,9 @@
 title: "The software developer's craft"
 date_published: "2018-01-14"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2018-01-20-cooking-vs-creating-software/"
+    title: "Cooking vs creating software"
 ---
 
 ![software developers craft post banner](images/20171223-software-developers-craft-nickang-blog.jpg) What my desk looks like on a good day from working at home

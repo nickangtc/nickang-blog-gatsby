@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Engineering because we can't be trusted"
 date_published: "2016-08-05"
+backlinks:
 ---
 
 Sometimes I feel like engineers engineer because they know that humans cannot be trusted to take charge of what's inside their mind and body. So they make things that people can then rely on to induce the adjustments that should've been taken care of by themselves, internally.

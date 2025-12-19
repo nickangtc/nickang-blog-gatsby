@@ -5,6 +5,7 @@ date_updated: "2022-04-19"
 excerpt:
 tags: ["Communication"]
 fav: true
+backlinks:
 ---
 
 Stop pretending that you like everything about feedback. A gift is something that is meant to be liked. Feedback is not.

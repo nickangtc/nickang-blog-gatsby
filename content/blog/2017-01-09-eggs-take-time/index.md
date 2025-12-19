@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Eggs that take more time"
 date_published: "2017-01-09"
+backlinks:
 ---
 
 One of my favourite Singaporean foods is the classic eggs and toast breakfast. Two soft-boiled egg heated to just slightly runny, served with soy sauce and a dash of pepper, paired with kaya and butter toasts and a cup of thick local coffee that my parents' parents drank. It's perfect.

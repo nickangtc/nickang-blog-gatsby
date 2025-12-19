@@ -5,6 +5,7 @@ date_updated: "2023-11-27"
 excerpt: "It was when I was learning to code."
 tags: ["Creativity"]
 fav: false
+backlinks:
 ---
 
 One of the most amazing periods of my life is something unexpected.

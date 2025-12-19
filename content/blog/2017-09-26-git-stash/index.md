@@ -3,6 +3,13 @@ title: "How to use git stash (and when not to use it)"
 date_published: "2017-09-26"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-09-23-squash-git-commits/"
+    title: "How to squash git commits"
+  - slug: "/2017-09-30-replace-git-branch-code/"
+    title: "How to completely replace git branch code with another branch's code"
+  - slug: "/2017-11-03-what-is-git/"
+    title: "What is Git?"
 ---
 
 ![guy wearing shades working on laptop in a dark room](images/neonbrand-356967.jpg) Photo by [NeONBRAND](https://unsplash.com/photos/_Kmtj6UIlGo)

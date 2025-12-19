@@ -2,6 +2,11 @@
 title: "Day 1 at General Assembly Singapore Web Development course"
 date_published: "2016-08-16"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-16-get-started-programming-part-1/"
+    title: "How to get started with programming (part 1)"
+  - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
+    title: "First impressions of the Astrohaus Freewrite"
 ---
 
 ![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) What our classroom looks like from the inside.

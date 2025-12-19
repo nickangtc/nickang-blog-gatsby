@@ -2,6 +2,7 @@
 title: "What is DRY (in programming)?"
 date_published: "2017-12-11"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) Photo by Ben Neale on Unsplash

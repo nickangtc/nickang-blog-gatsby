@@ -5,6 +5,7 @@ date_updated: "2024-03-28"
 excerpt:
 tags: ["Living", "Career"]
 fav: false
+backlinks:
 ---
 
 It's 7am here in Singapore, one day before we leave for Düsseldorf after roughly 5 weeks abroad. We've been to China for a week and spent the remaining days in Singapore. I've learned a bunch! Here's a selection of the ones worth mentioning.

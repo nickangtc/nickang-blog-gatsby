@@ -3,6 +3,9 @@ title: "How a Daily Note fixed my note taking process"
 date_published: "2021-05-20"
 excerpt: "The biggest trouble with a digital note taking system is when you have to fumble and think where to put your idea down."
 tags: ["PKM"]
+backlinks:
+  - slug: "/2021-09-05-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-ii/"
+    title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
 ---
 
 ![hand-drawn illustration of a Daily Note](/images/daily-note-nickang-blog-illustration.png)

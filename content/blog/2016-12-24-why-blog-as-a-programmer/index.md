@@ -3,6 +3,7 @@ title: "Why you should blog as a programmer"
 date_published: "2016-12-24"
 tags: ["Tech"]
 fav: true
+backlinks:
 ---
 
 ![Sal's 4 tips for writing blog posts as a developer](images/Screen-Shot-2016-12-24-at-8.23.04-pm-1024x521.png) Sal's 4 tips for writing blog posts as a developer

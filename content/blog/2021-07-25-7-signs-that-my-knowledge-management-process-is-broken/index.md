@@ -3,6 +3,11 @@ title: "7 Signs that my Knowledge Management process is broken"
 date_published: "2021-07-25"
 excerpt: "One word: discovery. Without a solid knowledge management process in place, I can still live. But with one, I think life could be more interesting because I would discover & understand much more."
 tags: ["Creativity", "PKM"]
+backlinks:
+  - slug: "/2020-07-05-personal-knowledge-management-system/"
+    title: "What is a Personal Knowledge Management system (PKM)?"
+  - slug: "/2021-02-21-obsidian-roam-why-i-am-staying-with-bear-as-my-pkm/"
+    title: "Obsidian? Roam? Why I am staying with Bear as my PKM"
 ---
 
 **1. I am not writing notes when reading books anymore**. This is bad because knowing myself, I am not able to remember most of what I read! Most of what I read, therefore, fades into the ether in a short time.

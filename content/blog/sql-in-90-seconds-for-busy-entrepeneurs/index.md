@@ -5,6 +5,7 @@ date_updated: "2024-12-06"
 excerpt: "Use this as your starting point."
 tags: ["Tech", "Tutorial"]
 fav: false
+backlinks:
 ---
 
 ## SQL is for managing and querying data

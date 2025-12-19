@@ -3,6 +3,7 @@ title: "Technical skills are not just for software developers"
 date_published: "2019-12-27"
 tags: ["Tech"]
 fav: true
+backlinks:
 ---
 
 ![technical skills are not just for developers, they are useful for a variety of roles like Customer Success Managers and Product Managers](images/technical-skills-are-not-just-for-developers-nick-ang-blog.jpg)

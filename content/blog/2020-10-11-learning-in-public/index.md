@@ -1,6 +1,11 @@
 ---
 title: "Learning in public"
 date_published: "2020-10-11"
+backlinks:
+  - slug: "/2021-03-28-notes-from-show-your-work-by-austin-kleon-part-1/"
+    title: "Notes from Show Your Work by Austin Kleon (Part 1)"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 Often, I let myself believe that many people just “get it,” that they know what they want to do in life and they just dove into it and became excellent.

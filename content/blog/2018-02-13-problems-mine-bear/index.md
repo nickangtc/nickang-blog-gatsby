@@ -1,6 +1,7 @@
 ---
 title: "My problems are mine to bear"
 date_published: "2018-02-13"
+backlinks:
 ---
 
 ![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) Somewhere in Oakland along Market Street.

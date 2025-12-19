@@ -3,6 +3,19 @@ title: "Types of Notes in a PKM explained with a Gardening Analogy (Part I)"
 date_published: "2021-08-29"
 excerpt: "Using a PKM requires reframing the goal from creating notes to creating connections, and a good place to start is to look at the types of notes in a PKM. Part 1 of 2."
 tags: ["PKM"]
+backlinks:
+  - slug: "/2020-07-05-personal-knowledge-management-system/"
+    title: "What is a Personal Knowledge Management system (PKM)?"
+  - slug: "/2021-02-21-obsidian-roam-why-i-am-staying-with-bear-as-my-pkm/"
+    title: "Obsidian? Roam? Why I am staying with Bear as my PKM"
+  - slug: "/2021-07-25-7-signs-that-my-knowledge-management-process-is-broken/"
+    title: "7 Signs that my Knowledge Management process is broken"
+  - slug: "/2021-09-05-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-ii/"
+    title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
+  - slug: "/2021-12-04-labeling-things-properly-in-a-digital-garden/"
+    title: "Labeling things properly in a digital garden"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
 ---
 
 *If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/).*

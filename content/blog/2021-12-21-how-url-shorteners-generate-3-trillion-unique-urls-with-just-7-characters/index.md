@@ -4,6 +4,7 @@ date_published: "2021-12-21"
 excerpt: "The answer is elegant: count up to 62 with base 62 counting!"
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 How do URL shorteners support 3.5 trillion unique URLs with just 7 characters?

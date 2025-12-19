@@ -1,6 +1,9 @@
 ---
 title: "Writing my first Sass mixins"
 date_published: "2017-11-07"
+backlinks:
+  - slug: "/2017-12-11-what-is-dry-programming/"
+    title: "What is DRY (in programming)?"
 ---
 
 ![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) Photo by Dmitri Popov on Unsplash

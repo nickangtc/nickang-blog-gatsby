@@ -1,6 +1,9 @@
 ---
 title: "Seneca: Stopping to digest one thought every day"
 date_published: "2016-05-14"
+backlinks:
+  - slug: "/2020-06-28-word-rafting/"
+    title: "Word rafting"
 ---
 
 Few things are consistent about me. I like change much more than most people are comfortable with, and I see that as a strength, not disadvantage.

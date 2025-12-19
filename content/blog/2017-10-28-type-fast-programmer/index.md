@@ -1,6 +1,9 @@
 ---
 title: "Do I need to type fast to be a programmer?"
 date_published: "2017-10-28"
+backlinks:
+  - slug: "/2017-10-25-programming-is-not-for-everyone/"
+    title: "Bite Size Programming - Programming is not for everyone"
 ---
 
 ![type fast to be a programmer nickang blog](images/BSP-type-fast-to-be-a-programmer.png) Photo by Ilya Pavlov on Unsplash

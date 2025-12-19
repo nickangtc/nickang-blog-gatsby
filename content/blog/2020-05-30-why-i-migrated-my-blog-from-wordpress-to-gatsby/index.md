@@ -2,6 +2,11 @@
 title: "Why I migrated my blog from WordPress to Gatsby"
 date_published: "2020-05-30"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2021-11-14-technical-or-not-the-hardest-part-of-blogging-is-still-writing/"
+    title: "Technical or not, the hardest part of blogging is still writing"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 ![blog post banner for post Why I migrated my blog from WordPress to Gatsby](images/wp-to-gatsby-nickang.png)

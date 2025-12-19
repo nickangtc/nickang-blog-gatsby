@@ -1,6 +1,7 @@
 ---
 title: "Why I won't be using Google Blog Compass"
 date_published: "2018-09-22"
+backlinks:
 ---
 
 ![dancing on my own nick ang blog](images/ahmad-odeh-705334-unsplash.jpg)

@@ -4,6 +4,13 @@ date_published: "2017-03-19"
 coverImage: "programming-bootcamps.png"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-03-12-general-assembly-singapore-review/"
+    title: "General Assembly Singapore Review - Web Development Immersive"
+  - slug: "/2018-03-24-create-simple-command-line-program-node/"
+    title: "How to create simple Command Line Program with Node"
+  - slug: "/2021-05-09-hard-work-is-hard-work/"
+    title: "Hard work is hard work"
 ---
 
 ![Programming bootcamps blog image](/images/programming-bootcamps.png)

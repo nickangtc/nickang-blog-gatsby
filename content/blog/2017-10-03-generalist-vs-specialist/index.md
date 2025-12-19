@@ -3,6 +3,9 @@ title: "Generalist vs Specialist"
 date_published: "2017-10-03"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 I had an interesting conversation with my friend Rama today. We talked about many things, from management to meditation, creating music to digging shell scrapes. The most interesting topic that we explored was the idea of a generalist versus a specialist.

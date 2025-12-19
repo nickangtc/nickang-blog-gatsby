@@ -1,6 +1,7 @@
 ---
 title: "What are you trying to say?"
 date_published: "2019-05-01"
+backlinks:
 ---
 
 ![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) Photo by Thought Catalog

@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Bad software - Kopitiam top up machine"
 date_published: "2017-11-05"
+backlinks:
 ---
 
 ![guy looking stressed presumably because of the kopitiam top up machine](images/nik-shuliahin-251237-1024x668.jpg) Photo by Nik Shuliahin on Unsplash

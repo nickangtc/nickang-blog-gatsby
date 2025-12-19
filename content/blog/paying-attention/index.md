@@ -6,6 +6,9 @@ excerpt: "To paying attention."
 tags: ["Living", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
+backlinks:
+  - slug: "/brain-sprints-without-caffeine/"
+    title: "Brain surges without caffeine are possible"
 ---
 
 At the beginning of 2025, after a year-long confusion about why I've been feeling increasingly anxious, I decided to give up coffee. By the end of January, a month after giving up the substance, my anxiety has fallen significantly. I feel about as confident as I was as a university student again (that is, very confident).

@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "The right amount of danger"
 date_published: "2018-02-21"
+backlinks:
 ---
 
 ![san francisco wells fargo nick ang blog](images/20180220-IMG_20180220_193047-nickang-blog-1024x768.jpg)

@@ -5,6 +5,7 @@ date_updated: "2023-12-26"
 excerpt: "I may just be reasoning backwards but I thought I'd try and rationalise the purchase anyway"
 tags: ["Living"]
 fav: false
+backlinks:
 ---
 
 Why a Tesla?

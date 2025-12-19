@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "No idea what to write about"
 date_published: "2017-10-07"
+backlinks:
 ---
 
 ![hand holding a white washed polaroid](images/markus-spiske-215992-1024x683.jpg) Photo by Markus Spiske on Unsplash

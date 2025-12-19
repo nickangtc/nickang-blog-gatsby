@@ -1,6 +1,7 @@
 ---
 title: "Why do we keep keeping up?"
 date_published: "2018-10-27"
+backlinks:
 ---
 
 We do so much just to keep up, why not reduce our needs so we free ourselves from having to do so much?

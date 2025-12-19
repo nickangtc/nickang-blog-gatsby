@@ -2,6 +2,9 @@
 title: "All you need to know about Git and GitHub"
 date_published: "2018-02-28"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2020-03-06-how-to-setup-access-to-github-from-terminal-with-2fa/"
+    title: "How to setup access to GitHub from Terminal with 2FA"
 ---
 
 ![git and github nickang blog](images/git-and-github-nickang-blog.png) Photo by Paul Gilmore.

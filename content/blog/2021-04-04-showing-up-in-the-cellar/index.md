@@ -3,6 +3,7 @@ title: "Showing up in the cellar"
 date_published: "2021-04-04"
 excerpt: "I showed up this morning, of all places, in the cellar to write my novel."
 tags: ["Creativity"]
+backlinks:
 ---
 
 ![An illustration of the author Steven Pressfield, originally from the Tim Ferriss blog](/images/steve-pressfield-illustration.png)

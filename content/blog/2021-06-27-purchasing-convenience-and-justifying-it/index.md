@@ -3,6 +3,7 @@ title: "Purchasing convenience (and justifying it)"
 date_published: "2021-06-27"
 excerpt: 
 tags: ["Living"]
+backlinks:
 ---
 
 ![screenshot of my Amazon order list](/images/amazon-order-list.jpg)

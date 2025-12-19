@@ -2,6 +2,17 @@
 title: "My favourite posts from 2018"
 date_published: "2018-12-29"
 tags: ["Living", "Annual Review"]
+backlinks:
+  - slug: "/annual-review-2017/"
+    title: "My New Year's resolution for 2018"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
 ---
 
 ![favourite posts from 2018 nick ang](images/favourite-posts-from-2018-nick-ang-1024x682.jpg)

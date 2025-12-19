@@ -2,6 +2,7 @@
 title: "One last project at GA"
 date_published: "2016-10-29"
 tags: ["Tech"]
+backlinks:
 ---
 
 Time is almost up! One last week and we'll be official graduates from General Assembly's web development course. But before that, one final project. One final push to build something--anything--for fun (and practice, of course).

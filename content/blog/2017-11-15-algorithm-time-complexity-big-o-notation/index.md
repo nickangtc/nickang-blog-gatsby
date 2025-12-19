@@ -3,6 +3,21 @@ title: "Algorithm time complexity and the Big O notation"
 date_published: "2017-11-15"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-11-17-linked-list-explained-part-1/"
+    title: "Linked List explained"
+  - slug: "/2017-11-18-linked-list-implementation-part-2/"
+    title: "How to implement a Linked List in JavaScript"
+  - slug: "/2017-11-22-binary-search-explained/"
+    title: "Binary Search explained"
+  - slug: "/2017-12-10-why-use-binary-search-tree/"
+    title: "Why use Binary Search Tree?"
+  - slug: "/2017-12-16-bubble-sort-explained/"
+    title: "Bubble sort explained"
+  - slug: "/2018-11-16-code-readability-or-efficiency/"
+    title: "Code readability or efficiency?"
+  - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
+    title: "How to implement an LRU cache in JavaScript"
 ---
 
 ![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png)

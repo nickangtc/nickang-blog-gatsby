@@ -6,6 +6,7 @@ excerpt: "This is home"
 tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 20
+backlinks:
 ---
 
 Here goes nothing! I'm currently writing this in a web app that I've just dreamed up in 5 minutes and was built in bolt.new in a mind-boggling 5 minutes. That's 10 minutes to bring my blur vision of an app to life.

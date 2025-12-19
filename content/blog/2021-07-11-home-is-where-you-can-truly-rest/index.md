@@ -3,6 +3,7 @@ title: "Home is where you can truly rest"
 date_published: "2021-07-11"
 excerpt: 
 tags: 
+backlinks:
 ---
 
 My wife and I just came back from a 3-day trip over the weekend to Hamburg and if I've learned anything on this trip, it is this: home is a fluid concept.

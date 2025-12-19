@@ -1,6 +1,7 @@
 ---
 title: "Go from good to amazing with storytelling"
 date_published: "2017-01-06"
+backlinks:
 ---
 
 Today marks the end of the first project for WDI7, the 7th web development course to run at General Assembly Singapore, and boy is my mind dizzy. These guys are _amazing_.

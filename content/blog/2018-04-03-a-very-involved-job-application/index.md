@@ -1,6 +1,11 @@
 ---
 title: "A very involved job application"
 date_published: "2018-04-03"
+backlinks:
+  - slug: "/2018-04-25-job-searching-is-not-about-the-numbers/"
+    title: "Job searching is not about the numbers"
+  - slug: "/2021-05-09-hard-work-is-hard-work/"
+    title: "Hard work is hard work"
 ---
 
 ![Riding on Stevens road ](images/img_20180403_2328428105026912879685680.jpg "Riding on Stevens road ")Today's thoughts were formed while riding in the Singaporean traffic jam

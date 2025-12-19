@@ -3,6 +3,9 @@ title: "Why programmers make visually ugly projects"
 date_published: "2016-09-08"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/"
+    title: "Notes from The Year Without Pants by Scott Berkun"
 ---
 
 ![people laughing and talking with one another general assembly wdi singapore](images/20160907-IMG_20160907_211409-1024x578.jpg)

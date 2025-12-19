@@ -5,6 +5,7 @@ date_updated: "2024-04-24"
 excerpt:
 tags: ["Tech", "Notes"]
 fav: false
+backlinks:
 ---
 
 I'm currently doing the Google Data Analytics course on Coursera because of a recent itch to learn how to be more proficient in querying data to answer business questions at work.

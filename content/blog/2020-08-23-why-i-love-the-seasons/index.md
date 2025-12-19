@@ -1,6 +1,13 @@
 ---
 title: "Why I love the seasons"
 date_published: "2020-08-23"
+backlinks:
+  - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
+    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
+  - slug: "/2020-10-11-learning-in-public/"
+    title: "Learning in public"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 Deep within me, I yearn for variation. Very few things in life are truly monotonous, so when the weather actually is, it makes me sad. Most things like our heartbeats have a rhythm to it! So by that argument, I've been rather sad my whole life having lived in Singapore.

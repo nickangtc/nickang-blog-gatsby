@@ -5,6 +5,7 @@ date_updated: "2022-03-31"
 excerpt: "I no longer see my blog posts as static after publication. They're"
 tags: ["Creativity"]
 fav: false
+backlinks:
 ---
 
 At the time of writing, I'm running this blog on Gatsby.js. It's [open sourced](https://github.com/nickangtc/nickang-blog-gatsby) and you can view the code on GitHub

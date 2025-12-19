@@ -2,6 +2,25 @@
 title: "My New Year's resolution for 2018"
 date_published: "2017-12-31"
 tags: ["Living", "Personal", "Annual Review"]
+backlinks:
+  - slug: "/2018-01-19-get-out-of-your-own-head/"
+    title: "Get out of your own head"
+  - slug: "/2018-04-21-art-of-living-deliberately/"
+    title: "The Art of Living Deliberately"
+  - slug: "/2019-10-20-october-how-i-changed-my-relationship-with-instagram/"
+    title: "How I changed my relationship with Instagram"
+  - slug: "/2019-12-22-what-ive-learned-in-2019/"
+    title: "What I've learned in 2019"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
 ---
 
 ![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg) The Moleskine notebook I used every step of the way in 2017

@@ -3,6 +3,9 @@ title: "The better way to console log"
 date_published: "2016-08-30"
 date_modified: "2022-12-07"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-11-01-saying-the-obvious/"
+    title: "Saying the obvious"
 ---
 
 As JavaScript code is being executed by the browser, the value stored in variables change dynamically. When a user clicks on a button on a page, for example, a block of code (usually a function) gets executed. In a typical programme, executing a function will make use of the computer’s ability to, well, compute, to do some computation and store the value in a variable.

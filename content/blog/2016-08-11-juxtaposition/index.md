@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Remember your juxtaposition"
 date_published: "2016-08-11"
+backlinks:
 ---
 
 We all compare. What some of us may not realise is how much we tend to compare ourselves with things and people _around_ us. That’s a pretty small radius.

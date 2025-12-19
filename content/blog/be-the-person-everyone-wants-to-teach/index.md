@@ -5,6 +5,7 @@ date_updated: "2022-04-10"
 excerpt: "I've consciously taken a new approach to learning to do my job, and it's by doing one simple thing very deliberately - always teach what I learn"
 tags: ["Living", "Tech"]
 fav: true
+backlinks:
 ---
 
 I've consciously taken a new approach to learning to do my job, and it's by doing one simple thing very deliberately: to **always teach what I learn**.

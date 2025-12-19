@@ -5,6 +5,7 @@ date_updated: "2024-11-30"
 excerpt: "A simple realisation to improve both productivity and relationships."
 tags: ["Career", "Living"]
 fav: false
+backlinks:
 ---
 
 Cal Newport and Ali Abdaal are on a [podcast](https://open.spotify.com/episode/0qpL8GD6UHRaaJpYfmJkhf?ref=nicks-notes.ghost.io). The former just published a book called Slow Productivity and the latter, a book called Feel Good Productivity. Both productivity thought leaders in their own way.

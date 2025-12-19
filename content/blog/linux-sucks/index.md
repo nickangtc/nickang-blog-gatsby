@@ -6,6 +6,7 @@ excerpt: "Users shouldn't need to understand how the terminal works to use an ap
 tags: ["Tech"]
 fav: false
 creation_duration_minutes: 15
+backlinks:
 ---
 
 Try installing an app, like Cursor, which I hear is all the rage among my friends who aren't professional developers, on Ubuntu. It doesn't just work!

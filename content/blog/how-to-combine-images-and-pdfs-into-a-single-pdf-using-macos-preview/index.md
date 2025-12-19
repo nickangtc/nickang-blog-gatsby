@@ -5,6 +5,7 @@ date_updated: "2024-01-23"
 excerpt: "Some bureaucratic prick demands you combine all your documents neatly into a single PDF to make their life easier and yours a living hell? I got you. MacOS Preview can do this for you."
 tags: ["Tutorial"]
 fav: false
+backlinks:
 ---
 
 This post is simply to put a stake on the internet help people with macOS computers that the built-in Preview software is probably good enough to meet your needs. You don't need to use ominous online PDF tools or pay for Adobe Acrobat just to combine images and PDFs into a single PDF.

@@ -2,6 +2,7 @@
 title: "My view on changing jobs"
 date_published: "2019-04-09"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) Photo by Erol Ahmed

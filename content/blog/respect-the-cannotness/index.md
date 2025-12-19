@@ -6,6 +6,7 @@ excerpt:
 tags: ["Living"]
 fav: false
 
+backlinks:
 ---
 
 These days there is not a thing that I'm more grateful for than my wife. I have much to say about her, about how much she has influenced who I am today, which I fully expect to write about in this newsletter over time. In this post I want to examine something that I've been thinking about a lot lately - it's about her respecting and granting my need for respite.

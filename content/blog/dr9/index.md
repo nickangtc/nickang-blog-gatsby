@@ -6,6 +6,7 @@ excerpt: "Today's daily reflection is about product work"
 tags: ["Tech", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
+backlinks:
 ---
 
 A product manager's bread and butter involves (inspired by [Reforge](https://www.reforge.com/blog/product-work-beyond-product-market-fit)):

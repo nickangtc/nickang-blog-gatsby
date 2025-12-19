@@ -1,6 +1,9 @@
 ---
 title: "Reflecting on 1 month of being vegetarian"
 date_published: "2018-07-28"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now

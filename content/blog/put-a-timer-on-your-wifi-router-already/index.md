@@ -5,6 +5,7 @@ date_updated: "2024-01-14"
 excerpt: "The simplest way to automatically snap out of junk internet content binges."
 tags: ["Good intentions", "Living"]
 fav: false
+backlinks:
 ---
 
 Among my favourite decisions lately is buying a electro-mechanical timer wall plug that I use with my WiFi router's power adapter. Now my WiFi router is automatically turned off at 23:00 and turned on again at 06:00 sharp.

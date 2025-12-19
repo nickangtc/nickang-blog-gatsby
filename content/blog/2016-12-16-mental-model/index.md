@@ -1,6 +1,7 @@
 ---
 title: "Go wherever you lack a mental model of"
 date_published: "2016-12-16"
+backlinks:
 ---
 
 Humans have mental models of everything. How is that birthday party going to be like? How does it feel to be entering a new stage in life? What are some challenges I'll likely face when I'm in it?

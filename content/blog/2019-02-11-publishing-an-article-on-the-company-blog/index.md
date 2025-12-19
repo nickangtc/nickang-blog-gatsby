@@ -1,6 +1,7 @@
 ---
 title: "Publishing an article on the company blog"
 date_published: "2019-02-11"
+backlinks:
 ---
 
 ![Smartly.io Futurio group photo ](images/Smartly_2019_Group_Purple-1024x559.jpg) Photo by Smartly.io

@@ -5,6 +5,7 @@ date_updated: "2022-06-03"
 excerpt: The story of my almost-catastrophic encounter with ambition.
 tags: ["Living"]
 fav: true
+backlinks:
 ---
 
 Edit 23 Feb 2025: A note from me about Elon Musk. He has become very much the kind of person I do not support. His meddling with US politics was one thing, but his nazi salute was way over the line. People apparently change. I'm leaving this artcile available for reading because it is at its core a personal story about ambition, not about Musk. I ask that you read with this in mind.

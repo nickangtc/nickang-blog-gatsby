@@ -2,6 +2,11 @@
 title: "How to get started with programming (part 2)"
 date_published: "2017-10-17"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-16-get-started-programming-part-1/"
+    title: "How to get started with programming (part 1)"
+  - slug: "/2019-12-29-the-best-approach-to-start-learning-to-code/"
+    title: "The best approach to start learning to code"
 ---
 
 ![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash

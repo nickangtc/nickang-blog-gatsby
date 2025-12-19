@@ -1,6 +1,9 @@
 ---
 title: "Getting good and getting a dream job"
 date_published: "2017-11-04"
+backlinks:
+  - slug: "/2018-01-19-get-out-of-your-own-head/"
+    title: "Get out of your own head"
 ---
 
 ![dream job depicted by a laptop with a code editor open](images/dream-job-1024x682.jpg) Photo by Christopher Gower on Unsplash

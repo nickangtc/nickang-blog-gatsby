@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Kinda knowing Ruby on Rails"
 date_published: "2016-10-03"
+backlinks:
 ---
 
 ![laptop with spectacles on it](images/photo-1456996290209-634ae6b8be31-1024x683.jpeg)

@@ -2,6 +2,9 @@
 title: "Shorter code is not necessarily better code"
 date_published: "2016-09-06"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-26-optimisation-worth-time-part-1/"
+    title: "Optimisation: Is it worth the time? (part 1)"
 ---
 
 ![people smiling in front of pinnacles at duxton](images/20160906-IMG_20160906_123527-1024x768.jpg) Going to lunch

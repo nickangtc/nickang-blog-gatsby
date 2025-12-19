@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "How to deal with career uncertainty"
 date_published: "2017-05-28"
+backlinks:
 ---
 
 Ever since I became an adult, there's always been someone around me noticeably lost in their life. I've been there before and expect a good chance of going back there again further down the road. It’s a privileged problem to have (not that I want it).

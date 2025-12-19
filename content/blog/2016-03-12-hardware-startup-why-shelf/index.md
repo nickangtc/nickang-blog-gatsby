@@ -1,6 +1,15 @@
 ---
 title: "Why I’m Shelving My Hardware Startup After 6 Months"
 date_published: "2016-03-12"
+backlinks:
+  - slug: "/2017-11-04-dream-job/"
+    title: "Getting good and getting a dream job"
+  - slug: "/2021-04-10-dad-have-you-always-wanted-to-be-a-software-engineer/"
+    title: "'"
+  - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
+    title: "Reflecting on my career in tech: 5 years in"
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 ![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)

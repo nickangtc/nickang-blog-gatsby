@@ -2,6 +2,9 @@
 title: "Reducing redundancy through JavaScript prototypes"
 date_published: "2016-09-05"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-11-18-linked-list-implementation-part-2/"
+    title: "How to implement a Linked List in JavaScript"
 ---
 
 ![picture of a small tree blossoming with flowers](images/20160905-IMG_20160905_124834-1024x768.jpg) Chinatown 

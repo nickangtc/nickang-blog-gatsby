@@ -2,6 +2,17 @@
 tags: ["Personal"]
 title: "Fierce and original in our work"
 date_published: "2017-10-04"
+backlinks:
+  - slug: "/2017-11-01-saying-the-obvious/"
+    title: "Saying the obvious"
+  - slug: "/2017-11-02-tinker-hatfield-on-design/"
+    title: "Nike shoes designer Tinker Hatfield on design"
+  - slug: "/2018-01-19-get-out-of-your-own-head/"
+    title: "Get out of your own head"
+  - slug: "/2018-01-29-reconsidering-beloved-quote/"
+    title: "Reconsidering a beloved quote"
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
 ---
 
 ![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) Photo by Aarón Blanco Tejedor on Unsplash

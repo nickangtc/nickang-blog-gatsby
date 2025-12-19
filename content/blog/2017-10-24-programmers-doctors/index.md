@@ -2,6 +2,7 @@
 title: "Bite Size Programming - How programmers are like doctors"
 date_published: "2017-10-24"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![BSP programmers are like doctors nickang blog](images/BSP-programmers-are-like-doctors-nickang-blog.png) Photo by Piron Guillaume on Unsplash

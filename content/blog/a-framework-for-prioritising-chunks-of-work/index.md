@@ -5,6 +5,7 @@ date_updated: "2024-01-23"
 excerpt: "You are responsible for delivering a project. Prioritise the work in such a way that will maximise the chances of its success. Go."
 tags: ["Productivity"]
 fav: false
+backlinks:
 ---
 
 When you have bitten off -- or been assigned -- a project that involves many tasks, how do you group and prioritise the work?

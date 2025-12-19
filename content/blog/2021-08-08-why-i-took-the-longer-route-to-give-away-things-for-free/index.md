@@ -3,6 +3,9 @@ title: "Why I took the longer route to give away things for free"
 date_published: "2021-08-08"
 excerpt: "You may feel, intuitively, that people undervalue free things. Me too. And it's because people are more likely to consume a product when they are aware of its costs."
 tags: 
+backlinks:
+  - slug: "/2021-10-03-6-things-i-learned-from-my-second-year-living-in-berlin-away-from-singapore/"
+    title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
 ---
 
 ![Box on the street with a sign that says zu verschenken](/images/berlin-verschenken.jpeg)

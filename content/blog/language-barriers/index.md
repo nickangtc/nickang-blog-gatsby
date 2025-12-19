@@ -6,6 +6,7 @@ excerpt: "When you would have said something if it were in your language."
 tags: ["Living", "Communication", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
+backlinks:
 ---
 
 I'm at the dance studio with my daughter who is taking classes. The class is over. She comes out with a quivering voice, "Daddy..."

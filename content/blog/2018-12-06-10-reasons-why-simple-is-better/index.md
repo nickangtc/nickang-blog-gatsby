@@ -1,6 +1,9 @@
 ---
 title: "10 reasons why simple is better"
 date_published: "2018-12-06"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![Why simple is better](images/Why-simple-is-better-1024x686.jpg)

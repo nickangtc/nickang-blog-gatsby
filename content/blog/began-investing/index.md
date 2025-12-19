@@ -5,6 +5,7 @@ date_updated: "2024-12-03"
 excerpt: "It's not just to beat inflation."
 tags: ["Money", "Living"]
 fav: false
+backlinks:
 ---
 
 I just put in $10,000 into buying an exchange-traded fund (ETF) that mirrors the S&P 500 index and it feels like I've just laid put the first foundational stone on my future life.

@@ -1,6 +1,11 @@
 ---
 title: "Reflecting on 15 days in the Philippines fields"
 date_published: "2018-06-02"
+backlinks:
+  - slug: "/2018-06-22-why-im-going-vegetarian/"
+    title: "Why I'm going vegetarian"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180523_074422_Fotor-1024x431.jpg) Students of NUS BES in the lobby of Dao Diamond Hotel

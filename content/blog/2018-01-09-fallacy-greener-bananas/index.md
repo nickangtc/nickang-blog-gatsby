@@ -1,6 +1,9 @@
 ---
 title: "The fallacy of greener bananas"
 date_published: "2018-01-09"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![row of bananas mostly yellow with one green](images/lotte-lohr-766.jpg) Photo by Lotte Löhr on Unsplash

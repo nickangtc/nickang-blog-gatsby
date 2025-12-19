@@ -3,6 +3,7 @@ title: "A day in the life of a software developer"
 date_published: "2020-01-02"
 tags: ["Tech"]
 fav: true
+backlinks:
 ---
 
 If you have ever wondered what it is like to be a software developer, like what a week in the life looks like, this post is for you. I will share from my experience when I was a software developer leading a small team and also draw from my observations of other software developers in companies that I've worked at.

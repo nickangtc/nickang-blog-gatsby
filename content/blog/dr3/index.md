@@ -6,6 +6,7 @@ excerpt: "Plus a productivity boost and a technical TIL."
 tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 40
+backlinks:
 ---
 
 ## AI - When a custom GPT is not going to be useful

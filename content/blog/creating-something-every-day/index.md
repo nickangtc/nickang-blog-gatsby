@@ -5,6 +5,7 @@ date_updated: "2024-11-26"
 excerpt: "Why and how"
 tags: ["Creativity"]
 fav: false
+backlinks:
 ---
 
 Gym - 5 months straight. Nice.

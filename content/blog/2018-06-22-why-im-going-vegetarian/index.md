@@ -3,6 +3,15 @@ title: "Why I'm going vegetarian"
 date_published: "2018-06-22"
 tags: ["Living"]
 fav: true
+backlinks:
+  - slug: "/2018-07-28-reflecting-on-1-month-of-being-vegetarian/"
+    title: "Reflecting on 1 month of being vegetarian"
+  - slug: "/2020-06-21-flexitarianism/"
+    title: "Flexitarianism"
+  - slug: "/2020-10-18-do-your-best-not-to-obfuscate/"
+    title: "Do your best not to obfuscate"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![why i am going vegetarian nickang blog](images/alex-mercado-585615-unsplash-1024x683.jpg) Photo by Alex Mercado on Unsplash

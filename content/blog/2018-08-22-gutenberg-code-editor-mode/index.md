@@ -1,6 +1,7 @@
 ---
 title: "Gutenberg code editor mode"
 date_published: "2018-08-22"
+backlinks:
 ---
 
 I was wrong. I think I jumped to conclusions a little too quickly about the Gutenberg editor. You can use it while still retaining the charm of a simple code-like editor - they just call it a "code editor", actually.

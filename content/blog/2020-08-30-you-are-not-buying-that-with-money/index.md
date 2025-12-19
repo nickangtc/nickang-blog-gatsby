@@ -3,6 +3,17 @@ title: "You are not buying that with money"
 date_published: "2020-08-30"
 tags: ["Living"]
 fav: true
+backlinks:
+  - slug: "/2020-09-06-enjoying-a-cuppa-on-the-hedonic-treadmill/"
+    title: "Enjoying a cuppa on the hedonic treadmill"
+  - slug: "/2020-10-11-learning-in-public/"
+    title: "Learning in public"
+  - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
+    title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
+  - slug: "/2021-05-09-hard-work-is-hard-work/"
+    title: "Hard work is hard work"
+  - slug: "/2021-05-15-raising-a-newborn-in-berlin-vs-singapore/"
+    title: "Raising a newborn in Berlin vs Singapore"
 ---
 
 Most of us trade time for money. Do you deny it?

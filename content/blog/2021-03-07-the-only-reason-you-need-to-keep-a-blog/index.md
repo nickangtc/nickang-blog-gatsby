@@ -3,6 +3,9 @@ title: "The only reason you need to keep a blog"
 date_published: "2021-03-07"
 excerpt: "That singularly important reason why I keep showing up to write and publish articles is simple."
 tags: [Writing]
+backlinks:
+  - slug: "/2021-04-29-my-biggest-fear/"
+    title: "My biggest fear"
 ---
 
 My friends often ask me how I stay motivated to write and publish articles on my blog. I can easily think of several reasons I keep a blog, but I wanted to know *the one* - that singularly important reason why I keep showing up.

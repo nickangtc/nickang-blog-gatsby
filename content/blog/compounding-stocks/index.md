@@ -5,6 +5,7 @@ date_updated: "2024-11-22"
 excerpt: "Cash in the bank compounds in interest. Stocks in an account compounds in... what exactly?"
 tags: ["Money"]
 fav: false
+backlinks:
 ---
 
 Cash in the bank compounds in interest. Stocks in an account compound in... what exactly?

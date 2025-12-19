@@ -5,6 +5,7 @@ date_updated: "2024-11-23"
 excerpt: There's an art to packaging ideas for consumption.
 tags: ["Communication"]
 fav: false
+backlinks:
 ---
 
 There's an art to packaging ideas for consumption.

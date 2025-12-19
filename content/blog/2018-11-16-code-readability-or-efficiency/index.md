@@ -2,6 +2,9 @@
 title: "Code readability or efficiency?"
 date_published: "2018-11-16"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2018-11-24-destructuring-objects-in-javascript/"
+    title: "Destructuring objects in JavaScript"
 ---
 
 ![code readability or efficiency](images/faye-cornish-553425-unsplash-1024x683.jpg)

@@ -1,6 +1,9 @@
 ---
 title: "There's so much we can do with our life"
 date_published: "2018-05-14"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 ![christina tosi chefs table](images/christina-tosi-chefs-table-1024x510.png)

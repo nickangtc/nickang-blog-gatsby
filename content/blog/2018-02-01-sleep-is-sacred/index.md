@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Sleep is sacred"
 date_published: "2018-02-01"
+backlinks:
+  - slug: "/2021-04-17-free-time-default-activity/"
+    title: "Free time default activity"
 ---
 
 ![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) Photo by Natalia Figueredo on Unsplash

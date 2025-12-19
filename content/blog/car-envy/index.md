@@ -6,6 +6,7 @@ excerpt: "Spoken by a member of /fuckcars."
 tags: ["Money", "Living"]
 fav: false
 creation_duration_minutes: 22
+backlinks:
 ---
 
 Car as symbol of socioeconomic mobility

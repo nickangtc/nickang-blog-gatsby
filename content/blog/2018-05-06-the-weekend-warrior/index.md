@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "The weekend warrior"
 date_published: "2018-05-06"
+backlinks:
 ---
 
 ![weekend warrior nickang sketch](images/weekend-warrior-nickang-sketch-1024x768.png)

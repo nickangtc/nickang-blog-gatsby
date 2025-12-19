@@ -6,6 +6,7 @@ excerpt: "One of the reasons I'm happy to live abroad, away from Singapore."
 tags: ["Money", "Living", "Parenting"]
 fav: false
 creation_duration_minutes: 40
+backlinks:
 ---
 
 My wife tells me about a person she knows. We affectionately call him the "Up uncle" because he looks like the uncle from the animated film, Up.

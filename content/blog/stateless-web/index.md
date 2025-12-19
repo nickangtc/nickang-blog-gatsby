@@ -5,6 +5,7 @@ date_updated: "2024-12-13"
 excerpt: "It's independent requests all the way down."
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 When I load a website, what really happens?

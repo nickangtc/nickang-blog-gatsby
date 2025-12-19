@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "A forgotten resource to learn CS"
 date_published: "2018-03-13"
+backlinks:
 ---
 
 I heard about [teachyourselfcs.com](https://teachyourselfcs.com/) some months earlier, but I'd forgotten all about it. At that time, I haven't had serious thoughts about moving to San Francisco yet.

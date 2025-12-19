@@ -5,6 +5,7 @@ date_updated: "2024-11-13"
 excerpt: A quick explanation for why I switched to Ghost and back to Gatsby in 5 months.
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 In July this year I was possessed by an idea -- that I could combine the idea of a blog and a newsletter into one. I might even have given it a crazy name like 'bletter'.

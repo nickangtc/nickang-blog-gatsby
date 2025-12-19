@@ -1,6 +1,7 @@
 ---
 title: "Bye bye Airbnb"
 date_published: "2016-11-13"
+backlinks:
 ---
 
 It's 9:50pm on an otherwise wonderful Sunday night, and two officers from Certis Cisco, under the appointment of URA stood outside my door. They are here to bring us back to square one.

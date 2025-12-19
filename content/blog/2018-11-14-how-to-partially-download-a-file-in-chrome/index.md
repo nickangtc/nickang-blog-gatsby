@@ -2,6 +2,7 @@
 title: "How to partially download a file in Chrome"
 date_published: "2018-11-14"
 tags: ["Tech"]
+backlinks:
 ---
 
 If you’re the developer of an app that needs to pull large files from other servers, during testing or development, you may have wanted to partially download a very large file so you don't have to wait for the full, potentially hour-long download to finish.

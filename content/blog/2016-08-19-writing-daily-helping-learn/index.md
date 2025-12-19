@@ -2,6 +2,11 @@
 title: "How writing daily is helping me learn"
 date_published: "2016-08-19"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-11-01-saying-the-obvious/"
+    title: "Saying the obvious"
+  - slug: "/2020-06-28-word-rafting/"
+    title: "Word rafting"
 ---
 
 ![patterns](images/unsplashpic-min-1024x576.jpeg) Image: Mike Wilson

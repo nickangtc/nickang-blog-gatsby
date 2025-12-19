@@ -5,6 +5,7 @@ date_updated: "2024-01-05"
 excerpt: "Can a projector screen help me watch less TV? Conclusion: Yes. Get one, and move your TV out of your damned bedroom now!"
 tags: ["Good intentions", "Living"]
 fav: false
+backlinks:
 ---
 
 I just ordered a projector screen from Amazon and wanted to make a note of my good intention with it: I want to watch TV less habitually by moving my projector TV out of my bedroom and into the living room. The missing piece is a backdrop to project onto.

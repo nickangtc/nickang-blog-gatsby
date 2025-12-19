@@ -2,6 +2,7 @@
 tags: ["Personal"]
 title: "Substantial juxtaposition in Keong Saik"
 date_published: "2016-08-25"
+backlinks:
 ---
 
 To juxtapose elements in a scene against others is to pick on contrasts. In Duxton where I’m having programming classes, the contrast is stark at every corner: newly erected skyscrapers behind two-storey shophouses that have stood since Singapore was a British colony; adults, mostly corporate workers, walk around the old streets dressed in clothes that are up to date.

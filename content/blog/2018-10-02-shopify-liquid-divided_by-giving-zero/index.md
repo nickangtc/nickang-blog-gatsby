@@ -1,6 +1,7 @@
 ---
 title: "Shopify Liquid divided_by giving zero"
 date_published: "2018-10-02"
+backlinks:
 ---
 
 Setting up [Liquid](https://shopify.github.io/liquid/) for server-side rendering for an app and for some reason, a simple arithmetic operation is incorrectly yielding the value zero? I recently met with the same problem with Shopify Liquid divided_by giving zero. The solution is trivial, but the problem could take you (like it did for me) about 20 minutes to debug. The problem? Rounding.

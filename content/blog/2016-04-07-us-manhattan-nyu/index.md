@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "(US) Manhattan And A Desire To Belong In NYU"
 date_published: "2016-04-07"
+backlinks:
+  - slug: "/2016-04-08-broadway/"
+    title: "(US) A Little Broadway"
 ---
 
 ![Few flowers have bloomed even though it's Spring time](images/DSCF6764_edited.jpg) Few flowers have bloomed even though it's Spring time, but these ones are doing well

@@ -1,6 +1,7 @@
 ---
 title: "Thoughts from watching Do You Trust This Computer"
 date_published: "2018-04-08"
+backlinks:
 ---
 
 One thing led to another, as usual. Elon Musk shared a video on Instagram and I followed his prompt to watch the full version of the video snippet he posted.

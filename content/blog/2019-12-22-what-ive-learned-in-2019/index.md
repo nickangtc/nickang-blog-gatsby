@@ -1,6 +1,9 @@
 ---
 title: "What I've learned in 2019"
 date_published: "2019-12-22"
+backlinks:
+  - slug: "/annual-review-2019/"
+    title: "Goals for 2020"
 ---
 
 ![Walking in our neighbourhood in Mitte, Berlin](images/2019-look-back-at-what-ive-done-and-learned-nick-ang-blog-1-1024x768.jpg) Walking in our new neighbourhood in Mitte, Berlin

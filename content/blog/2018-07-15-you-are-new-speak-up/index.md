@@ -1,6 +1,9 @@
 ---
 title: "You are new, speak up!"
 date_published: "2018-07-15"
+backlinks:
+  - slug: "/2018-09-20-company-rejoin-after-quitting/"
+    title: "I work in a company where people rejoin after quitting"
 ---
 
 ![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) Photo by BRUNO CERVERA on Unsplash

@@ -5,6 +5,7 @@ date_updated: "2024-06-15"
 excerpt: ""
 tags: ["Communication", "Book"]
 fav: false
+backlinks:
 ---
 
 Read my notes for this book on my substack: https://nickang.substack.com/p/book-notes-four-thousand-weeks-by

@@ -3,6 +3,25 @@ title: "General Assembly Singapore Review - Web Development Immersive"
 date_published: "2017-03-12"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-03-19-7-things-i-learned-about-programming-bootcamps/"
+    title: "7 Things I’ve Learned About Programming Bootcamps (After Attending One Twice)"
+  - slug: "/2017-04-08-how-to-learn-new-programming-language-work/"
+    title: "The better way to approach a new programming language at work"
+  - slug: "/2017-11-03-what-is-git/"
+    title: "What is Git?"
+  - slug: "/2018-01-12-courage-to-build/"
+    title: "Regaining the courage to build"
+  - slug: "/2018-03-24-create-simple-command-line-program-node/"
+    title: "How to create simple Command Line Program with Node"
+  - slug: "/2019-04-04-a-small-gesture-changes-everything/"
+    title: "A small gesture changes everything"
+  - slug: "/2019-12-27-technical-skills-are-not-just-for-software-developers/"
+    title: "Technical skills are not just for software developers"
+  - slug: "/2019-12-29-the-best-approach-to-start-learning-to-code/"
+    title: "The best approach to start learning to code"
+  - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
+    title: "Reflecting on my career in tech: 5 years in"
 ---
 
 ![general assembly singapore review nick ang](images/general-assembly-singapore-review-nick-ang-1024x576.png)

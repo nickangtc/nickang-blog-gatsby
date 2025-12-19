@@ -3,6 +3,11 @@ title: "How to implement a Linked List in JavaScript"
 date_published: "2017-11-18"
 tags: ["Tech"]
 fav: true
+backlinks:
+  - slug: "/2017-11-17-linked-list-explained-part-1/"
+    title: "Linked List explained"
+  - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
+    title: "How to implement an LRU cache in JavaScript"
 ---
 
 ![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash

@@ -2,6 +2,9 @@
 title: "How to tunnel HTTP requests into localhost"
 date_published: "2017-10-12"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2017-10-27-start-using-the-command-line-part-2/"
+    title: "How to start using the command line (part 2)"
 ---
 
 ![ngrok explanation illustration](images/ngrok-1024x683.png)

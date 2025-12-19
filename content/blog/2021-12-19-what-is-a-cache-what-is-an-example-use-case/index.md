@@ -4,6 +4,7 @@ date_published: "2021-12-19"
 excerpt: "What is a cache? What is an example use case? Explained with a video"
 tags: ["Tech"]
 fav: false
+backlinks:
 ---
 
 New project. Sharing a new technical learning everyday! Inspired by the tenacious artist [@beeple_crap](https://www.beeple-crap.com/).

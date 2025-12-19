@@ -2,6 +2,7 @@
 title: "How to create simple Command Line Program with Node"
 date_published: "2018-03-24"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) Photo by Blake Connally on Unsplash

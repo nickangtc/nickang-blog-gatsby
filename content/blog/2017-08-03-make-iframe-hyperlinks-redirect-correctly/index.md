@@ -2,6 +2,7 @@
 title: "Make iframe hyperlinks redirect correctly in main document"
 date_published: "2017-08-03"
 tags: ["Tech"]
+backlinks:
 ---
 
 At work recently we had to figure a way to redirect a user to another webpage when she clicks on a URL. This is obviously a trivial task for 99 percent of cases - just use `<a href="http://destination-url.com">Click</a>`. But within an `<iframe>`, URL redirects can act strangely.

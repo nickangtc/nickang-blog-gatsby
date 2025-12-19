@@ -1,6 +1,9 @@
 ---
 title: "Are we not all scientists?"
 date_published: "2020-11-08"
+backlinks:
+  - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
+    title: "First impressions of the Astrohaus Freewrite"
 ---
 
 We are all very scientific, each of us, even if we don’t necessarily think about ourselves as scientists.

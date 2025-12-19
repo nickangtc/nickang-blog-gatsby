@@ -3,6 +3,9 @@ title: "Notes from The Courage to Be Disliked by Kishimi and Koga"
 date_published: "2021-01-03"
 excerpt: Nick's notes from reading The Courage to Be Disliked.
 tags: ["Book"]
+backlinks:
+  - slug: "/2021-01-10-focus-on-understanding-not-on-what-is-right/"
+    title: "Focus on understanding, not on what is right"
 ---
 
 ![The book cover of The Courage to Be Disliked](/images/the-courage-to-be-disliked-book-cover.jpg)

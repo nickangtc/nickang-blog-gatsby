@@ -4,6 +4,9 @@ date_published: "2021-11-01"
 excerpt: 
 tags: ["Creativity"]
 fav: false
+backlinks:
+  - slug: "/2021-12-04-labeling-things-properly-in-a-digital-garden/"
+    title: "Labeling things properly in a digital garden"
 ---
 
 About a week ago I sent out a [letter](https://buttondown.email/nickang/archive/why-are-you-subscribed-to-this/) to my subscribers asking them to tell me one question: Why are you subscribed? 

@@ -3,6 +3,9 @@ title: "Problems and solutions"
 date_published: "2021-03-21"
 excerpt: "Many problems in life have more than one solution, but among those solutions, one is probably more effective than the other."
 tags: ["Creativity"]
+backlinks:
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 For every problem, there is almost always multiple solutions.

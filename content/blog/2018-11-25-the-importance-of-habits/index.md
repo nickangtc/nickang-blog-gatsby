@@ -1,6 +1,9 @@
 ---
 title: "The importance of habits"
 date_published: "2018-11-25"
+backlinks:
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
 ---
 
 [YouTube video link](https://www.youtube.com/watch?v=_HEnohs6yYw)

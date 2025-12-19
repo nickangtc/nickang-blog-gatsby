@@ -1,6 +1,9 @@
 ---
 title: "Cappuccino people"
 date_published: "2018-08-11"
+backlinks:
+  - slug: "/2018-08-26-how-to-find-good-food/"
+    title: "How to find good food"
 ---
 
 ![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) Parts Unknown: Cologne, Germany

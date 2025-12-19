@@ -1,6 +1,7 @@
 ---
 title: "Nice to have a brain"
 date_published: "2016-08-20"
+backlinks:
 ---
 
 ![classroom with people at general assembly singapore](images/20160819-DSCF8116-1024x683.jpg) In class at General Assembly Singapore

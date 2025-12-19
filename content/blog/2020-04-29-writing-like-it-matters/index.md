@@ -2,6 +2,7 @@
 title: Words matter
 date_published: "2020-04-29"
 excerpt: Inspired by a book and an article, I decided to write!
+backlinks:
 ---
 
 Among the people I know personally, I am probably the most prone to romanticising writing. I don't like that about myself and hope that I would become much more practical with the words I write. Romanticising wordplay is like Owen Wilson in Midnight in Paris: an insufferable joy ride.

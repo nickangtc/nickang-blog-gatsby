@@ -1,6 +1,13 @@
 ---
 title: "Why You Might Want to Disengage From Politics"
 date_published: "2020-11-22"
+backlinks:
+  - slug: "/2020-11-29-the-untouchable-space-between-stimulus-and-response/"
+    title: "The Untouchable Space Between Stimulus and Response"
+  - slug: "/2021-01-10-focus-on-understanding-not-on-what-is-right/"
+    title: "Focus on understanding, not on what is right"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
 ---
 
 Recently, I saw a tweet quoting a minister back home saying something that was supposedly incendiary. I did not get why as the words seemed innocuous when read without context. So I tweeted asking for context and I understood why some tweets later.

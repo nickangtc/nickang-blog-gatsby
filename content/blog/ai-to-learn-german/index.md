@@ -6,6 +6,7 @@ excerpt: "Could this be the beginning of ultra-accelerated language learning?"
 tags: ["Living", "Tech"]
 fav: false
 creation_duration_minutes: 27
+backlinks:
 ---
 
 I'm in a bouldering gym. The lady over the counter tells me it's 12.90 euros, please.

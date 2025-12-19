@@ -1,6 +1,19 @@
 ---
 title: "First impressions of the Astrohaus Freewrite"
 date_published: "2019-12-15"
+backlinks:
+  - slug: "/2019-12-22-what-ive-learned-in-2019/"
+    title: "What I've learned in 2019"
+  - slug: "/2020-11-01-writing-a-book-during-nanowrimo-2020/"
+    title: "Writing a book during NaNoWriMo 2020"
+  - slug: "/2020-11-08-are-we-not-all-scientists/"
+    title: "Are we not all scientists?"
+  - slug: "/2021-04-04-showing-up-in-the-cellar/"
+    title: "Showing up in the cellar"
+  - slug: "/2021-04-17-free-time-default-activity/"
+    title: "Free time default activity"
+  - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
+    title: "Reflecting on my career in tech: 5 years in"
 ---
 
 ![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg)

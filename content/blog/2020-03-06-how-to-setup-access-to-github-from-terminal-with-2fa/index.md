@@ -2,6 +2,7 @@
 title: "How to setup access to GitHub from Terminal with 2FA"
 date_published: "2020-03-06"
 tags: ["Tech"]
+backlinks:
 ---
 
 ![github terminal 2fa nick ang](images/github-terminal-2fa-nick-ang.png)

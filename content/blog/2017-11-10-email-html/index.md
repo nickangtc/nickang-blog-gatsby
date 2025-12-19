@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Dear email HTML, please get better"
 date_published: "2017-11-10"
+backlinks:
+  - slug: "/2017-12-14-prevent-jquery-loading-image-parsehtml/"
+    title: "How to prevent jQuery from loading image in parseHTML"
 ---
 
 ![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) Photo by Erik-Jan Leusink on Unsplash

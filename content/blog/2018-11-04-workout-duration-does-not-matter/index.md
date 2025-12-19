@@ -1,6 +1,7 @@
 ---
 title: "Workout duration does not matter"
 date_published: "2018-11-04"
+backlinks:
 ---
 
 ![](images/a7b4fa9f-417e-46f3-bd89-fff0968d313b-29283-00000741da735904.jpg)

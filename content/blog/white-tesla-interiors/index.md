@@ -6,6 +6,9 @@ excerpt:
 tags: ["Good intentions", "Living", "Personal"]
 status: "revisit"
 fav: false
+backlinks:
+  - slug: "/tesla-2/"
+    title: "Tesla: As good as they are made out to be"
 ---
 
 We just [bought a Tesla](/tesla). Even though it hasn't arrived, I'm thinking a lot about one aspect of its configuration: the white interior.

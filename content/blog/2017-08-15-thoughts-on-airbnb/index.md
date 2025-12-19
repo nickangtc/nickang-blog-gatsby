@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on Airbnb"
 date_published: "2017-08-15"
+backlinks:
 ---
 
 One of the things I find myself enjoying more about travelling is the accommodation. No it is not about being able to afford to live in nicer hotels now that Charlane and I are both working adults. Money has little to do with the joy we are getting from staying in people's homes through Airbnb!

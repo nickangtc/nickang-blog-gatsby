@@ -2,6 +2,9 @@
 tags: ["Personal"]
 title: "Wishing Diigo was a product by Evernote"
 date_published: "2018-01-30"
+backlinks:
+  - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
+    title: "How a Daily Note fixed my note taking process"
 ---
 
 ![diigo and evernote](images/Screen-Shot-2018-01-30-at-9.28.26-PM-1024x302.png) Integrating Diigo and Evernote is possible with a service like IFTTT but nothing beats product ownership

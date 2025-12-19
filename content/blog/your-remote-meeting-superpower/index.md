@@ -5,6 +5,7 @@ date_updated: "2022-03-30"
 excerpt: "You can now leave without social repercussions; don't waste this, and don't waste time."
 tags: ["Productivity", "Communication"]
 fav: false
+backlinks:
 ---
 
 There's a party question that some people ask, which goes, "If you could have a superpower, what would you like it to be?" In the last few years I've refined my answer as this: "I would like to be able to slip out of any social situation without repercussions." _Ha ha_. It usually gets a few knowing nods, especially from other introverts.

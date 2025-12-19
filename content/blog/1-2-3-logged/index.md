@@ -5,6 +5,9 @@ date_updated: "2023-12-13"
 excerpt: "How to log your life's moments, observations, and thoughts like a pro"
 tags: ["Productivity", "Tech"]
 fav: false
+backlinks:
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
 ---
 
 One of the more impactful discoveries for me in terms of organising my messy head is something Michael Dean calls *logloglog*. In this post, I'll talk about how I've adapted his workflow and made it my own, and what impact it has had.

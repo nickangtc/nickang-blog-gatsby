@@ -2,6 +2,9 @@
 title: "Implementing a Queue in JavaScript?"
 date_published: "2017-12-25"
 tags: ["Tech"]
+backlinks:
+  - slug: "/2021-10-10-specialist-or-generalist/"
+    title: "Specialist or Generalist?"
 ---
 
 Yesterday I [asked myself](/2017-12-24-implement-stack-javascript-array/) whether it was necessary to implement a **stack** abstract data type in JavaScript. The answer turned out to be "no," because you can just use the built-in `Array` data type to simulate a stack without obvious performance penalties.

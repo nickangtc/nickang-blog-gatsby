@@ -5,6 +5,7 @@ date_updated: "2023-12-31"
 excerpt: "A counter to my own argument to always default to writing instead of reading when you have free time."
 tags: ["Living", "Creativity"]
 fav: false
+backlinks:
 ---
 
 As a writerly person, should you spend your down time reading or writing by default?

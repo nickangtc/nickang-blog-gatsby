@@ -7,6 +7,7 @@ maturity-1-2-3: 2
 excerpt: "Food can be healthy and enjoyable. So should your friends."
 tags: ["Living"]
 fav: true
+backlinks:
 ---
 
 I find it helpful to think of friends as I would the foods that I consume regularly. It helps me consider people as friends (or not).

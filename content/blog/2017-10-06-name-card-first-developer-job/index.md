@@ -2,6 +2,7 @@
 title: "The name card I used to get my first developer job"
 date_published: "2017-10-06"
 tags: ["Tech"]
+backlinks:
 ---
 
 Going for a light-hearted post today. I want to share with you the ridiculously simple name card that I used to get my first developer job.

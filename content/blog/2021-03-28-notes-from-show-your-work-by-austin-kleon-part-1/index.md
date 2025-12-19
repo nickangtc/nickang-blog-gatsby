@@ -3,6 +3,11 @@ title: "Notes from Show Your Work by Austin Kleon (Part 1)"
 date_published: "2021-03-28"
 excerpt: "As someone who feels like he does not qualify as an artist but wants to be one, I'm keeping this book close by."
 tags: ["Book"]
+backlinks:
+  - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
+    title: "How a Daily Note fixed my note taking process"
+  - slug: "/2021-11-07-why-active-on-instagram-again/"
+    title: "Why I'm active on Instagram again"
 ---
 
 ![Show your work by Austin Kleon book cover](/images/show-your-work-by-austin-kleon.png)

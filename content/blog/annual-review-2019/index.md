@@ -2,6 +2,17 @@
 title: "Goals for 2020"
 date_published: "2019-12-31"
 tags: ["Living", "Annual Review"]
+backlinks:
+  - slug: "/annual-review-2017/"
+    title: "My New Year's resolution for 2018"
+  - slug: "/annual-review-2018/"
+    title: "My favourite posts from 2018"
+  - slug: "/annual-review-2020/"
+    title: "My 2020 Annual Review"
+  - slug: "/annual-review-2021/"
+    title: "My 2021 Annual Review"
+  - slug: "/annual-review-2023/"
+    title: "My 2023 Annual Review"
 ---
 
 Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.
