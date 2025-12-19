@@ -1,7 +1,7 @@
 ---
 title: "My favourite posts from 2018"
 date_published: "2018-12-29"
-tags: ["Living"]
+tags: ["Living", "Annual Review"]
 ---
 
 ![favourite posts from 2018 nick ang](images/favourite-posts-from-2018-nick-ang-1024x682.jpg)

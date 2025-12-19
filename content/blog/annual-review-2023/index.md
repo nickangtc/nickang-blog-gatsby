@@ -3,7 +3,7 @@ title: "My 2023 Annual Review"
 date_published: "2023-12-22"
 date_updated: "2023-12-22"
 excerpt: What went well in 2023? What did not go so well? What did I learn?
-tags: ["Living"]
+tags: ["Living", "Annual Review"]
 fav: false
 ---
 

@@ -18,7 +18,7 @@ const TAGS_TO_SHOW_AS_TOPICS = [
   "Tech",
   "Living",
   "Creativity",
-  "PKM",
+  "Annual Review",
   "Leadership",
   "Communication",
   "Interviewing",
@@ -44,7 +44,7 @@ const tagToSectionHeading = tag => {
     Tech: "🤖 Tech",
     Living: "😊 Living",
     Creativity: "🌌 Creativity",
-    PKM: "📝 Personal Knowledge Management",
+    "Annual Review": "📆 Annual Review",
     Leadership: "🙇🏻‍♂️ Leadership",
     Communication: "🗣 Communication",
     Interviewing: "💼 Interviewing",
@@ -59,7 +59,7 @@ const tagToPageSlug = tag => {
     Tech: "tech",
     Living: "living",
     Creativity: "creativity",
-    PKM: "pkm",
+    "Annual Review": "annual-review",
     Leadership: "leadership",
     Communication: "communication",
     Interviewing: "interviewing",
@@ -140,7 +140,7 @@ export const pageQuery = graphql`
               "Tech"
               "Living"
               "Creativity"
-              "PKM"
+              "Annual Review"
               "Leadership"
               "Communication"
               "Interviewing"

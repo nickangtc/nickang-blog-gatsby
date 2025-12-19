@@ -1,7 +1,7 @@
 ---
 title: "Goals for 2020"
 date_published: "2019-12-31"
-tags: ["Living"]
+tags: ["Living", "Annual Review"]
 ---
 
 Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.

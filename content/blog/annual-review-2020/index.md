@@ -1,7 +1,7 @@
 ---
 title: "My 2020 Annual Review"
 date_published: "2020-12-13"
-tags: ["Living"]
+tags: ["Living", "Annual Review"]
 ---
 
 This is the first time I am writing an Annual Review in this format. I've experimented with various formats over the last three years ([2017](/annual-review-2017/), [2018](/annual-review-2018/), [2019](/annual-review-2019/)) and I think it is time to bring some consistency into these year-end reflections.
