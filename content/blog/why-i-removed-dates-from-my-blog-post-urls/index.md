@@ -14,7 +14,7 @@ Running the blog on Gatsby means I have free reign on how I want the site to wor
 One of the things I decided early on when I first [moved to Gatsby from WordPress](/2020-05-30-why-i-migrated-my-blog-from-wordpress-to-gatsby) was to prepend the date of the post's publication to the URL:
 
 ```
-https://www.nickang.com/2022-01-02-my-2021-annual-review/
+https://www.nickang.com/annual-review-2021/
 ```
 
 It's nice because it's date-stamped, but it's kind of long, isn't it?

@@ -4,7 +4,7 @@ date_published: "2020-12-13"
 tags: ["Living"]
 ---
 
-This is the first time I am writing an Annual Review in this format. I’ve experimented with various formats over the last three years ([2017](/2017-12-31-new-years-resolution-2018/), [2018](/2018-12-29-my-favourite-posts-from-2018/), [2019](/2019-12-31-goals-for-2020/)) and I think it is time to bring some consistency into these year-end reflections.
+This is the first time I am writing an Annual Review in this format. I've experimented with various formats over the last three years ([2017](/annual-review-2017/), [2018](/annual-review-2018/), [2019](/annual-review-2019/)) and I think it is time to bring some consistency into these year-end reflections.
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.
 

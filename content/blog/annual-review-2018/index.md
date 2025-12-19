@@ -8,6 +8,8 @@ tags: ["Living"]
 
 In a bid to understand what I've been thinking about and have done for the year, I'm taking stock of the posts I've published this year.
 
+You can find my reviews from other years here: [2017](/annual-review-2017/), [2019](/annual-review-2019/), [2020](/annual-review-2020/), [2021](/annual-review-2021/), and [2023](/annual-review-2023/).
+
 Here are some stats (bracketed is number from 2017):
 
 - **Posts published**: 130 (96)

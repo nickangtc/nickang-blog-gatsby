@@ -9,7 +9,7 @@ fav: false
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.
 
-This is my third year writing an Annual Review in this format. You can find my reviews from yesteryears here: [2017](/2017-12-31-new-years-resolution-2018/), [2018](/2018-12-29-my-favourite-posts-from-2018/), [2019](/2019-12-31-goals-for-2020/), [2020](/2020-12-13-my-2020-annual-review/), and [2021](/2022-01-02-my-2021-annual-review/).
+This is my third year writing an Annual Review in this format. You can find my reviews from yesteryears here: [2017](/annual-review-2017/), [2018](/annual-review-2018/), [2019](/annual-review-2019/), [2020](/annual-review-2020/), and [2021](/annual-review-2021/).
 
 In the review, I ask myself three questions:
 

@@ -8,6 +8,8 @@ tags: ["Living", "Personal"]
 
 I'm not doing this for the sake of tradition or anything like that. Instead, I'd just like to make use of the pensiveness that comes for free at the end of the year to do some visualisation of what the new year is going to be like for me, my wife, and my dog.
 
+You can find my reviews from other years here: [2018](/annual-review-2018/), [2019](/annual-review-2019/), [2020](/annual-review-2020/), [2021](/annual-review-2021/), and [2023](/annual-review-2023/).
+
 ### Resolution 1: Get outta here
 
 ![pacific coast highway road with forest](images/pacific-coast-highway-road-with-forest-1024x683.jpg) Photo by Lou Levit on Unsplash

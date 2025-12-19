@@ -39,7 +39,7 @@ But it is October 2019 now, and I'm back on Instagram.
 
 ## Moving to Berlin
 
-In a [blog post](/2017-12-31-new-years-resolution-2018/) I published about my new year's resolutions for 2018, I talked about how I wanted to leave my country to live abroad for a few years. That didn't happen last year, but with some hard work, we've managed to move to Berlin this year, in October.
+In a [blog post](/annual-review-2017/) I published about my new year's resolutions for 2018, I talked about how I wanted to leave my country to live abroad for a few years. That didn't happen last year, but with some hard work, we've managed to move to Berlin this year, in October.
 
 Relocating to a new city is probably the most exciting thing I've ever done in my life so far, and I really wanted to document my experience in packing up, moving, and settling into a new continent, country, and city. I was sure that I would experience many new things that if left undocumented, would be forgotten memories.
 

@@ -27,7 +27,7 @@ So my biggest lesson this year is learning how useful and feasible it is to writ
 
 This is really obvious when put into a sentence, but it took me close to 30 years to figure this out. Sports is basically fun exercise!
 
-One of my [2018 New Year's Resolutions](/2017-12-31-new-years-resolution-2018/) was to find a way to sustain an exercise regime. I recognise the benefits of a healthy body, of feeling strong, and how it correlates to a strong mind, but I've never experienced success in setting up a long-term exercise regime like some of my friends have since their teens.
+One of my [2018 New Year's Resolutions](/annual-review-2017/) was to find a way to sustain an exercise regime. I recognise the benefits of a healthy body, of feeling strong, and how it correlates to a strong mind, but I've never experienced success in setting up a long-term exercise regime like some of my friends have since their teens.
 
 Going to the gym works for some people but not me. I dislike "hitting the gym". Though if the gym was an object I think I might actually enjoy _hitting_ it. For me, running on a treadmill and doing repeated body movements is as interesting as watching paint dry. I never enjoyed it, and I attributed my countless failed attempts to start an exercise regime in the gym to this lack of joy.
 
