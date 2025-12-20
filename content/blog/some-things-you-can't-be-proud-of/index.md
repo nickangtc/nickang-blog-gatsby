@@ -51,7 +51,7 @@ Act accordingly.
 
 ---
 
-I was compelled to write this after hearing about the pageant winner and the politicians in Finland who posted pictures of themselves doing the small eyes gesture. Look how charming this politician is, makes you want to give him power, don’t you?
+I was compelled to write this after hearing about the pageant winner and the politicians in Finland who posted pictures of themselves doing the small eyes gesture. Look how charming these people are.
 ￼
 ![screenshot of linkedin post](./images/disgraceful-finland-politicians.png)
 
