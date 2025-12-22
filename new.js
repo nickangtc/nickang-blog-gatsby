@@ -44,16 +44,26 @@ program.parse(process.argv)
 /**
  * MAIN PROCESS
  */
+
+/**
+ * Sanitize post title for use as URL slug
+ * Removes or replaces URL-unsafe characters
+ */
+function sanitizeSlug(title) {
+  return title
+    .toLowerCase()
+    .split(" ")
+    .join("-")
+    .replace(/[^a-z0-9\-]/g, "") // Remove all non-alphanumeric and non-hyphen characters
+}
+
 const generatePostFolder = async function ({
   postTitle,
   shouldGenerateImagesFolder,
 }) {
   const blogDir = __dirname + "/content/blog"
   const date = getCurrentDate()
-  const newPostDir = `${blogDir}/${postTitle
-    .toLowerCase()
-    .split(" ")
-    .join("-")}`
+  const newPostDir = `${blogDir}/${sanitizeSlug(postTitle)}`
   console.log("newPostDir:", newPostDir)
 
   try {

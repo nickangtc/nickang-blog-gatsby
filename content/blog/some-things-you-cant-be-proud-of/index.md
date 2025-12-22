@@ -7,6 +7,8 @@ tags: ["Living", "Opinion"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/dr5/"
+    title: "National pride is a weird thing"
 ---
 
 We can't choose the parents we were born to, nor can we choose which country we were born in.
