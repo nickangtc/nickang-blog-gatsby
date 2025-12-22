@@ -29,6 +29,8 @@ This man's question gave me good feelings for a moment. Hell yeah, I'm Singapore
 
 To be proud of our nationality is a bit like taking credit for a family heirloom -- you can cherish it, admire its craftsmanship, and benefit from its legacy, but you didn't create it, so it isn't yours to boast about.
 
+Update 22.12.2025: I wrote a response to the Ms Finland shenanigans, which touches upon this superiority that some people continue to feel they have over others. Read it [here](/some-things-you-can't-be-proud-of/).
+
 ## (Career) Downsides of being an Engineering Director
 
 I spoke to an Engineering Director today who works in an old-school German enterprise. He tells me a few things that I need to bear in mind as I plot the next phase of my own career:
