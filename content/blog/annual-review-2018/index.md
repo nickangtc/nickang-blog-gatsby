@@ -13,6 +13,8 @@ backlinks:
     title: "My 2021 Annual Review"
   - slug: "/annual-review-2023/"
     title: "My 2023 Annual Review"
+  - slug: "/annual-review-2025/"
+    title: "My 2025 Annual Review"
 ---
 
 ![favourite posts from 2018 nick ang](images/favourite-posts-from-2018-nick-ang-1024x682.jpg)

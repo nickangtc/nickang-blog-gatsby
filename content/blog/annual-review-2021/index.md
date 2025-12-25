@@ -14,6 +14,8 @@ backlinks:
     title: "Goals for 2020"
   - slug: "/annual-review-2023/"
     title: "My 2023 Annual Review"
+  - slug: "/annual-review-2025/"
+    title: "My 2025 Annual Review"
   - slug: "/why-i-removed-dates-from-my-blog-post-urls/"
     title: "Why I removed dates from my blog post URLs"
 ---

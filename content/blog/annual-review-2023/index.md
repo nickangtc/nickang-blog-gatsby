@@ -14,6 +14,8 @@ backlinks:
     title: "Goals for 2020"
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
+  - slug: "/annual-review-2025/"
+    title: "My 2025 Annual Review"
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.

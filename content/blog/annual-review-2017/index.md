@@ -21,6 +21,8 @@ backlinks:
     title: "My 2021 Annual Review"
   - slug: "/annual-review-2023/"
     title: "My 2023 Annual Review"
+  - slug: "/annual-review-2025/"
+    title: "My 2025 Annual Review"
 ---
 
 ![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg) The Moleskine notebook I used every step of the way in 2017
