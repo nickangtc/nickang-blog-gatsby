@@ -6,6 +6,8 @@ backlinks:
     title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
   - slug: "/2021-04-27-visiting-and-evaluating-singapore/"
     title: "Visiting and evaluating Singapore"
+  - slug: "/word-2026/"
+    title: "Why I chose this to be my word for 2026"
 ---
 
 I regularly get asked why I moved to Berlin. While I’d be glad to answer this question every time I get asked because because *wow*, I *get* to live in Berlin, I wanted to write my answer properly so I can share this article with whoever seems to really want to know my reasons.

@@ -6,6 +6,8 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-03-12-general-assembly-singapore-review/"
     title: "General Assembly Singapore Review - Web Development Immersive"
+  - slug: "/word-2026/"
+    title: "Why I chose this to be my word for 2026"
 ---
 
 ![a picture of Nick and Charlane in an empty new rental apartment](/images/nickang-new-rental-apartment-berlin.jpg)
