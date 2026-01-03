@@ -68,11 +68,11 @@ Since my guiding word of 2026 is [strike](/word-2026/), I decided to chew my lea
 
 Using Claude on Max vs Pro is the difference between a buffet and a meal in a restaurant. You pay more, but you pay a fixed price for all-you-can-eat.
 
-Since I'm currently [having a big appetite (building apps)](/annual-review-2025/), ordering a-la-carte is too expensive.
+Since I'm currently [having a big appetite (building apps)](/annual-review-2025/), ordering à la carte is too expensive.
 
 It costs $3/MTok input, $15/MTok output for Sonnet 4.5. You can forget about using their top of the line model Opus 4.5, which is $15/MTok input, $75/MTok output. That's just plain ridiculous.
 
-I've tried a-la-carte – the tokens get burned too quickly once I went past the usage limit in a 5-hour window. It added up so quickly that I found myself stopping usage and moving on to something else, which wasn't always what I wanted.
+I've tried à la carte – the tokens get burned too quickly once I went past the usage limit in a 5-hour window. It added up so quickly that I found myself stopping usage and moving on to something else, which wasn't always what I wanted.
 
 There is a psychological switch that turns off when you know you've paid the entrance fee. You go from being conservative about using Claude Code to being on the offence, using it as much as possible in your work session.
 
