@@ -2,10 +2,10 @@
 title: "Back on Max at 100 € per month"
 date_published: "2026-01-03"
 date_updated: "2026-01-03"
-excerpt:
+excerpt: "Claude Code is the best thing since sliced bread"
 tags: ["Tech", "Productivity"]
 fav: false
-creation_duration_minutes:
+creation_duration_minutes: 45
 backlinks:
 ---
 
