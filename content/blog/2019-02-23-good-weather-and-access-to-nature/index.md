@@ -3,7 +3,7 @@ title: "Good weather and access to nature"
 date_published: "2019-02-23"
 backlinks:
   - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
-    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
+    title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
   - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
     title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
 ---

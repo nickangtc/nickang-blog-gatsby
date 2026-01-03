@@ -5,7 +5,7 @@ tags: ["Tech"]
 backlinks:
 ---
 
-This is a group of videos that are part of a bigger series of video walkthroughs. Read [Experienced Developer does FreeCodeCamp’s Web Development course](/2020-03-21-experienced-developer-does-freecodecamps-web-development-course-and-explain-everything/) for more details about the video series.
+This is a group of videos that are part of a bigger series of video walkthroughs. Read [Experienced Developer does FreeCodeCamp's Web Development course](/2020-03-21-experienced-developer-does-freecodecamps-web-development-course-and-explain-everything/) for more details about the video series.
 
 I recently finished recording and publishing 5 video tutorials that cover Basic HTML! I am quite happy with how they turned out and I have decided to continue to record more video tutorials, at least until I complete the Responsive Web Design certificate on [freecodecamp.org](https://freecodecamp.org).
 

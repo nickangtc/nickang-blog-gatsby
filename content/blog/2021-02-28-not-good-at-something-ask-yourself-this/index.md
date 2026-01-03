@@ -8,19 +8,19 @@ fav: true
 backlinks:
 ---
 
-I’ve been talking to several colleagues at work to find out what I’m lacking as a new team leader in the organisation. I did that because I was beginning to feel all over the place, doing a little here and there. Something about spreading myself thin feels wrong. It feels like I’m not focusing, and if I’m not focusing, how can the team of people that I lead focus? And if they do focus, how would I know if they’re focusing on the right things?
+I've been talking to several colleagues at work to find out what I'm lacking as a new team leader in the organisation. I did that because I was beginning to feel all over the place, doing a little here and there. Something about spreading myself thin feels wrong. It feels like I'm not focusing, and if I'm not focusing, how can the team of people that I lead focus? And if they do focus, how would I know if they're focusing on the right things?
 
-So, I spoke to a few colleagues about that. I would tell them the problem generally as “since I became a team lead, I’ve been working on X and Y and Z at the same time and it feels like I’m being ineffective” and I’d deliberately not pose a specific question to them and await their natural response. I got a few insights and I wanted to talk about one of them.
+So, I spoke to a few colleagues about that. I would tell them the problem generally as "since I became a team lead, I've been working on X and Y and Z at the same time and it feels like I'm being ineffective" and I'd deliberately not pose a specific question to them and await their natural response. I got a few insights and I wanted to talk about one of them.
 
-And it is this: there is a **difference between “I am not good at X” versus “I haven’t put in the time to get good at X.”** 
+And it is this: there is a **difference between "I am not good at X" versus "I haven't put in the time to get good at X."** 
 
-That’s an important distinction that I’ve now learned to make. I spoke to two people who independently alluded to this notion — that I (Nick) don’t know what to focus on yet because, well, I haven’t put in the time to understand what to focus on!
+That's an important distinction that I've now learned to make. I spoke to two people who independently alluded to this notion — that I (Nick) don't know what to focus on yet because, well, I haven't put in the time to understand what to focus on!
 
-It doesn’t mean that I’m bad at validating ideas or measuring impact, or seeing the big picture, or any of those things that I suspect we all doubt ourselves about now and then. It *may* mean that, but I cannot know before I put in the time to give those things a proper go.
+It doesn't mean that I'm bad at validating ideas or measuring impact, or seeing the big picture, or any of those things that I suspect we all doubt ourselves about now and then. It *may* mean that, but I cannot know before I put in the time to give those things a proper go.
 
-So what I’m trying to say is this: **whenever you think you are bad at something, ask yourself, have I put in the time to have a shot at being good at this?**
+So what I'm trying to say is this: **whenever you think you are bad at something, ask yourself, have I put in the time to have a shot at being good at this?**
 
-Because I’ve had to focus on time-sensitive tasks like hiring immediately after I started my role as a team lead, I have been spread thin and as a result, I have not been able to dedicate time to understanding the big picture, to understand what yardsticks we should use to measure our team’s success, and how to validate items in our backlog against our current goals.
+Because I've had to focus on time-sensitive tasks like hiring immediately after I started my role as a team lead, I have been spread thin and as a result, I have not been able to dedicate time to understanding the big picture, to understand what yardsticks we should use to measure our team's success, and how to validate items in our backlog against our current goals.
 
 I have more confidence now as I understand that I have a *chance* at being good at some of these — I just have to find and put in the time.
 

@@ -46,7 +46,7 @@ Another good outcome I've found from talking about the good and bad is that you 
 
 This helps your manager learn your perspective about the team's priorities and resulting backlog, which in turn helps him improve his ability to prioritise, communicate, and find interesting work for you, specifically, to do.
 
-### 3. Were there any decisions you made lately that you aren’t sure about? Or anything open-ended you’d like to discuss? 
+### 3. Were there any decisions you made lately that you aren't sure about? Or anything open-ended you'd like to discuss? 
 
 We all make decisions at our jobs. Sometimes it's a small decision, like who from Team X you chose to reach out to collaborate on a task. Other times it's bigger, like deciding on Approach A to building a new web service rather than Approach B. Occasionally, we're just not sure if we made the best decision. 
 
@@ -93,7 +93,7 @@ If there's nothing else that comes out of the 1-1, at least walk away with some 
 
 No? Why not? You should! :)
 
-### 9. What’s your focus in the coming 2 weeks?
+### 9. What's your focus in the coming 2 weeks?
 
 Hearing what you're planning to work on, your manager can provide suggestions on approach, point out potential blind spots, reconsider assumptions made, share relevant resources, offer to do something that could ensure smooth passage, and so on.
 

@@ -34,7 +34,7 @@ You might perhaps be a little puzzled: *didn't you say earlier that you put your
 
 Also, it's important to me to not only have a process for capturing important or urgent things but also the purportedly "unimportant" and not urgent things, because those things often end up being interesting:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everything interesting begins in the “unimportant and not urgent” quadrant. Eliminating it is the dumbest thing you can do and the worst advice Covey gave.</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1424986677861228548?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everything interesting begins in the "unimportant and not urgent" quadrant. Eliminating it is the dumbest thing you can do and the worst advice Covey gave.</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1424986677861228548?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 To illustrate the range of ideas that can come up in a normal day for me, here are a few scenarios:
 

@@ -32,7 +32,7 @@ The first point is this: **you should tend towards doing a job that you're good 
 
 This is a point that Cal Newport also made in his book. Here's an excerpt from [my notes](/2016-03-06-book-cal-newport-so-good-they-cant-ignore-you/) of the book:
 
-> If you are good at what you do, you’re more likely to love your job. Research by Amy Wrzesniewski revealed that the type of work one does doesn’t necessarily predict whether she would enjoy it. She did this by pointing out that college administrative assistants are equally split when asked whether they see their jobs as a job, career, or a calling, and the biggest predictor for viewing such a job as a "calling" was the number of years on the job.
+> If you are good at what you do, you're more likely to love your job. Research by Amy Wrzesniewski revealed that the type of work one does doesn't necessarily predict whether she would enjoy it. She did this by pointing out that college administrative assistants are equally split when asked whether they see their jobs as a job, career, or a calling, and the biggest predictor for viewing such a job as a "calling" was the number of years on the job.
 
 The positively circular logic works something like this:
 

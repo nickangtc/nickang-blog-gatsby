@@ -24,14 +24,14 @@ One of the big benefits of being apolitical is having peace of mind. The apoliti
 
 But you must wonder, at what cost does this benefit come to individuals and society?
 
-## What’s at stake?
-When you do not engage in politics in a democracy, your "lack of participation can lead to ‘political ills’ such as corruption and dishonesty among politicians as they are not held accountable." That is what the sociologist, Mosby, said in 1898 in the *[North American Review](https://www.jstor.org/stable/25119084)*.
+## What's at stake?
+When you do not engage in politics in a democracy, your "lack of participation can lead to 'political ills' such as corruption and dishonesty among politicians as they are not held accountable." That is what the sociologist, Mosby, said in 1898 in the *[North American Review](https://www.jstor.org/stable/25119084)*.
 
 The argument sounds logical. Thus, this rhetoric about not voting from the [Rewire News Group](https://rewirenewsgroup.com/article/2014/03/11/real-consequences-young-people-voting/) feels familiar:
 
-> Making a conscious effort to vote is important because it has **very real consequences for our lives**. It affects access to health care, the distribution of wealth, the social and political climate of our country, and even civil rights. Not voting means that you aren’t getting a say in the people who are governing and representing us. **It is making it easier for politicians who don’t represent our points of view to make decisions for us**. If we ever want equal representation for women, racial minorities, and young people, we have to elect them into office.
+> Making a conscious effort to vote is important because it has **very real consequences for our lives**. It affects access to health care, the distribution of wealth, the social and political climate of our country, and even civil rights. Not voting means that you aren't getting a say in the people who are governing and representing us. **It is making it easier for politicians who don't represent our points of view to make decisions for us**. If we ever want equal representation for women, racial minorities, and young people, we have to elect them into office.
 
-So, not voting has very real consequences because it enables politicians who don’t represent our points of view to make decisions for us.
+So, not voting has very real consequences because it enables politicians who don't represent our points of view to make decisions for us.
 
 Again, this sounds logical.
 
@@ -54,7 +54,7 @@ In general, I believe in reducing waste, to be prudent with resources, and the e
 
 I think the time, money, and energy spent politicking could be diverted to building schools, hospitals and other infrastructure, expanding healthcare, and doing other practical things that benefit people directly.
 
-Of course, we should expect a process like democracy that tries to elucidate society’s collective interest to have a cost. It takes time to communicate ideas and for people to make up their minds about them.
+Of course, we should expect a process like democracy that tries to elucidate society's collective interest to have a cost. It takes time to communicate ideas and for people to make up their minds about them.
 
 What I am unsure about is just how much of this overhead is necessary. I am not interested in looking at research that has tried to quantify this. Sometimes your gut just knows.
 
@@ -77,12 +77,12 @@ In both imaginations, you affect someone in a real way. Not some distant, imposs
 
 You probably already see how being politically engaged can affect your mental health and cost you money and time.
 
-Now let’s talk about what I see as the biggest cost of political engagement: tribalism.
+Now let's talk about what I see as the biggest cost of political engagement: tribalism.
 
 ## 3. Politics brings out Tribalism
 Tribalism is the state of being organised by, or advocating for,  tribes or tribal lifestyles.
 
-In Singapore, for example, there is the Workers’ Party (WP) tribe, the People’s Action Party (PAP) tribe, the National Solidarity Party (NSP) tribe, and many other less-known tribes.
+In Singapore, for example, there is the Workers' Party (WP) tribe, the People's Action Party (PAP) tribe, the National Solidarity Party (NSP) tribe, and many other less-known tribes.
 
 When a person identifies with a political party and votes for them, he is co-opted into that tribe. By the very nature of a tribe, it means that he is duty-bound to think of people who are not part of *their* tribe as outsiders. Others. And others are not to be trusted; at least not to the same extent as one of us. Thereby, the "us versus them" social structure perpetuates. 
 
@@ -99,7 +99,7 @@ Eventually, even when you have good reason to disagree — like, you know, facts
 Life is unfortunately not a university classroom where open-mindedness is a prerequisite. The [murder](https://www.bbc.com/news/world-europe-54598546) of Professor Samuel Paty shows that nowadays even *university classrooms* are not university classrooms.
 
 ## 4. An Uninformed vote is also counted as one
-Finally, it’s worth examining the electoral process itself for flaws.
+Finally, it's worth examining the electoral process itself for flaws.
 
 Assume that I decided against my judgement and invested energy, time, and money to learn all I can about the various political parties and their track record in my country.
 
@@ -123,13 +123,13 @@ There are many reasons for people to inadvertently cast uninformed votes:
 - general apathy but still voting because of pressure from family or friends
 - researching using biased, non-credible news sources (e.g. Facebook rants, fake news, non-credible news sites, etc.).
 
-Considering how big a role rage-driven media (social or traditional) play in informing people’s views these days, it is likely that your informed vote will account for very little in shaping the outcome of an election.
+Considering how big a role rage-driven media (social or traditional) play in informing people's views these days, it is likely that your informed vote will account for very little in shaping the outcome of an election.
 
 Would you not rather pour your time, money, and energy to help yourself or someone else directly instead?
 
 ## Enter or Disengage
 
-Let’s take stock. 
+Let's take stock. 
 
 Politics is a stage and the cast is comprised of characters who are each vying for your attention and ultimately, your vote. They will doll themselves up in that endeavour.
 

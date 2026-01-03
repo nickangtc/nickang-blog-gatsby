@@ -52,7 +52,7 @@ Here's a real glass shatterer: there is no such thing as "plain" text.
 
 As much as we have been led to believe by programmes like Notepad that save documents in "plain text", there is actually no such thing. Every string that is stored in memory is done so using a specific encoding. Otherwise, we face the music, as Joel Spolsky eloquently puts it:
 
-> Almost every stupid “my website looks like gibberish” or “she can’t read my emails when I use accents” problem comes down to one naive programmer who didn’t understand the simple fact that if you don’t tell me whether a particular string is encoded using UTF-8 or ASCII or ISO 8859-1 (Latin 1) or Windows 1252 (Western European), you simply cannot display it correctly or even figure out where it ends.
+> Almost every stupid "my website looks like gibberish" or "she can't read my emails when I use accents" problem comes down to one naive programmer who didn't understand the simple fact that if you don't tell me whether a particular string is encoded using UTF-8 or ASCII or ISO 8859-1 (Latin 1) or Windows 1252 (Western European), you simply cannot display it correctly or even figure out where it ends.
 
 This means we have to specify the encoding as much as possible whenever we're dealing with strings.
 

@@ -14,19 +14,19 @@ The first time you try to clone a repository from GitHub to your laptop (after b
 You should use these inputs:
 
 - username: your GitHub email address (not your username)
-- password: a **special token** generated from GitHub developer settings
+- password: a **special token** generated from GitHub developer settings
 
 ## **Generating the special token**
 
 Because of enforced 2-factor-authentication (2FA) by your organisation, you will need to use a special token to access GitHub from Terminal instead of your normal password. This setup should only need to happen once.
 
 1. Login to [github.com](http://github.com)
-2. Go to [https://github.com/settings/tokens](https://github.com/settings/tokens)
+2. Go to [https://github.com/settings/tokens](https://github.com/settings/tokens)
 3. Click on Generate new token
 4. You will be asked for the scope of access this token will grant -> select all, since it's for you and you want full control
 5. Click Generate token -> Copy this. There is no need to store this anywhere, you can always regenerate a new token and invalidate the current one if needed
 
-This token is what you need to enter as your **password** in Terminal, instead of the normal password you use to login on [github.com](http://github.com).
+This token is what you need to enter as your **password** in Terminal, instead of the normal password you use to login on [github.com](http://github.com).
 
 ## Troubleshooting
 

@@ -73,7 +73,7 @@ A lot of my self-comparisons come from reading newsletters, I realize. Here's a 
 - Robert Heaton
 - Indie Hackers
 
-There's a Chinese saying: “旧的不去，新的不来” (_jiù de bù qù, xīn de bù lái_), which means you must let go of the old for the new to arrive.
+There's a Chinese saying: "旧的不去，新的不来" (_jiù de bù qù, xīn de bù lái_), which means you must let go of the old for the new to arrive.
 
 Meditation cleansed my mind.
 Unsubscribing cleared my feed.

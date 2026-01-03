@@ -24,16 +24,16 @@ About 2 years ago I was at a company off-site on Bintan island in Indonesia and 
 
 One of my colleagues started, "So, what would you do if you didn't have to worry about money?" We went around the circle in the middle of the pool, answering this bloody difficult question.
 
-It's a difficult question because each of us in that pool, having grown up, has had to learn to give up pursuing our dreams. Right after we're done with school, people around us just started expecting us to find work. *Don’t be an unemployed bum. You’ve studied enough, time to get to work.*
+It's a difficult question because each of us in that pool, having grown up, has had to learn to give up pursuing our dreams. Right after we're done with school, people around us just started expecting us to find work. *Don't be an unemployed bum. You've studied enough, time to get to work.*
 
-But what if we haven’t had enough time to explore the work of our dreams? Like writing or singing or rock climbing or becoming an astronaut?
+But what if we haven't had enough time to explore the work of our dreams? Like writing or singing or rock climbing or becoming an astronaut?
 
 It's not until I was suddenly booted out of school after my final year into the "real world" that I realised, "Oh crap, now I have to somehow have an income."
 
 That moment I asked "how am I going to make money?" was the moment I put my dreams of being a writer in a metal box on the top of a bookshelf. In the basement. With no lights.
 
-Once I graduated from university with a Bachelor's degree in Environmental Studies (Geography specialisation), [I started a company](/2016-03-12-hardware-startup-why-shelf/). Then I realised how bad I was at trying to build that company that [I went to learn to write software](/2016-08-15-entering-digital-jungle/). I’ve been doing software engineering work ever since because I don't hate the work and it pays well.
+Once I graduated from university with a Bachelor's degree in Environmental Studies (Geography specialisation), [I started a company](/2016-03-12-hardware-startup-why-shelf/). Then I realised how bad I was at trying to build that company that [I went to learn to write software](/2016-08-15-entering-digital-jungle/). I've been doing software engineering work ever since because I don't hate the work and it pays well.
 
 "That's how dad ended up being a software engineer, my dear," I imagine myself finally saying to my daughter.
 
-And I know I wouldn’t be satisfied with that answer.
+And I know I wouldn't be satisfied with that answer.

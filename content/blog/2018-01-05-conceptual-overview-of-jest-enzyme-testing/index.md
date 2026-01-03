@@ -33,7 +33,7 @@ In short:
 - `expect()` is used to assert
     
     - eg. `expect(wrapper.find('.header').text()).toEqual('hello');`
-- It is perfectly fine to nest a `describe` within another. As this [article](https://techblog.commercetools.com/testing-in-react-best-practices-tips-and-tricks-577bb98845cd) puts it: _'“describes” are meant to explain conditions, whereas “its” are meant to explain the expected output.'_
+- It is perfectly fine to nest a `describe` within another. As this [article](https://techblog.commercetools.com/testing-in-react-best-practices-tips-and-tricks-577bb98845cd) puts it: _'"describes" are meant to explain conditions, whereas "its" are meant to explain the expected output.'_
 - We make use of Jest's unique [snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html) feature to easily keep an eye on unwanted changes to our React views
     
     - Jest will automatically generate a new snapshot and compare it with the old snapshot whenever [`toMatchSnapshot()`](https://facebook.github.io/jest/docs/en/expect.html#tomatchsnapshotoptionalstring) is called in test code

@@ -15,9 +15,9 @@ Two weeks ago, I published an article about [disengaging from politics](/2020-11
 
 The problem is, the internet and the physical libraries around the world are full of texts just like the one I wrote.
 
-Almost any sentence can simultaneously be deemed as completely true, somewhat true, or completely false, even if it was something as seemingly factual as “when you turn on a microwave with something metallic inside, it will induce a spark.”
+Almost any sentence can simultaneously be deemed as completely true, somewhat true, or completely false, even if it was something as seemingly factual as "when you turn on a microwave with something metallic inside, it will induce a spark."
 
-Apparently if you put a circular, flat piece of aluminium foil in the microwave and turn it on, you [might not get a spark](https://www.livescience.com/why-metal-sparks-in-microwave.html) because there are fewer edges for ions to pile-up that might then “rip an electron off a molecule in the air,” inducing a spark.
+Apparently if you put a circular, flat piece of aluminium foil in the microwave and turn it on, you [might not get a spark](https://www.livescience.com/why-metal-sparks-in-microwave.html) because there are fewer edges for ions to pile-up that might then "rip an electron off a molecule in the air," inducing a spark.
 
 Your mileage may vary.
 
@@ -35,6 +35,6 @@ The point here is that you need to ask yourself what *you consider true or false
 
 There are, of course, hard facts, like if you pushed a sharp knife into a piece of meat, you will create an incision. But most of the things that we bother to contend with on a day to day basis, the things that people say, are not hard facts.
 
-I researched for many hours the concept of “truth” for this article and I eventually came full circle to arrive at the answer that gets to the heart of this important question: *how can we separate false ideas from the true ones?*
+I researched for many hours the concept of "truth" for this article and I eventually came full circle to arrive at the answer that gets to the heart of this important question: *how can we separate false ideas from the true ones?*
 
 The answer, I think, is this: you must *decide for yourself* whether to dismiss, test, or accept these ideas one by one.

@@ -38,7 +38,7 @@ So I took a break from mechanical keyboards and for a while, just stuck with the
 
 ![](/images/applemagickeyboard.jpeg)
 
-The Apple Magic Keyboard. It’s technically non-mechanical but it is a workhorse.
+The Apple Magic Keyboard. It's technically non-mechanical but it is a workhorse.
 
 But some time after I started at Shopify, I felt the urge to take a swing at mechanical keyboards again.
 
@@ -85,4 +85,4 @@ Probably a lot...
 
 But today I'm putting the stake in the ground to unmake one of the decisions that I never made myself: I am a software engineer, but I do not need mechanical keyboards. I can still do my work. In fact, for me, I can do it faster, and with less pain.
 
-The moral of the story is this: don’t let people decide what is best for you.
+The moral of the story is this: don't let people decide what is best for you.

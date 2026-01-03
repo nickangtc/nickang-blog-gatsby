@@ -36,7 +36,7 @@ A heads up: I am now a parent and I love it! Keep that in mind as you read this 
 
 Because my path to parenthood resembles more a maze than a beeline, this post is likely going to be broad and meandering, and I'll double-click on things that _I_ think are interesting and leave out other details. If there is something you'd like me to expand on in a future post, let me know in the comments.
 
-Alright, no further ado, let’s begin.
+Alright, no further ado, let's begin.
 
 ///
 
@@ -145,7 +145,7 @@ The stakes are ridiculously high! Here's how I articulated this worry to my frie
 
 > In the off-chance that either of us _really_ hates having a kid when we have one, what will happen? I mean, what are the options from that point onwards? You can't give up on the kid. You don't want to give up on your relationship. Then how? I think the chances of us hating having a kid is non-trivial. That's why this whole thing is so scary for us.
 
-When I gather all the reasons I mentioned, spread them on a table and consider them as a whole, it felt like deciding to have a kid was like gambling on our relationship and our cherished lifestyle for the chance to win a mystery prize. At best it could be a lifetime of happiness. At worst, it's a crushed piece of paper with the words "you've been punk’d" inscribed by the devil itself.
+When I gather all the reasons I mentioned, spread them on a table and consider them as a whole, it felt like deciding to have a kid was like gambling on our relationship and our cherished lifestyle for the chance to win a mystery prize. At best it could be a lifetime of happiness. At worst, it's a crushed piece of paper with the words "you've been punk'd" inscribed by the devil itself.
 
 
 ///

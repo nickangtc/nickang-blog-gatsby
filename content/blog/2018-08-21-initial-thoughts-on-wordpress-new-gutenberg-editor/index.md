@@ -14,7 +14,7 @@ Gutenberg is everything but that. Even though the technology is fascinating (I b
 
 So there it is: I'm not a fan of the Gutenberg editor as it is right now. I concede that it may be because I'm used to my old ways and because I don't know its full potential, but I'll come out to say I'm wrong down the line if I _am_ wrong. For now, I prefer good old Markdown.
 
-My overthinking mind is already worrying about whether I'll continue to love using WordPress for publishing this blog. What if the WordPress team forces it on everyone eventually, removing support for the "classic" editor? That would take away the quiet joy of writing in the distraction-free mode with no option for formatting, no drag-and-drop fanciness, no pseudo what-you-see-is-what-you-get (WYSIWYG). 
+My overthinking mind is already worrying about whether I'll continue to love using WordPress for publishing this blog. What if the WordPress team forces it on everyone eventually, removing support for the "classic" editor? That would take away the quiet joy of writing in the distraction-free mode with no option for formatting, no drag-and-drop fanciness, no pseudo what-you-see-is-what-you-get (WYSIWYG). 
 
 As usual, too many options kill focus and the rob us of the joy of simplicity. I'm a big fan of progress, but this is one of those rare cases where application of more advanced technology brings us one step backward, not forward, in my honest opinion.
 

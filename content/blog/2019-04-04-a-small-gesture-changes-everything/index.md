@@ -16,6 +16,6 @@ You had no real reason to tell me your story and how I was a part of it, but you
 
 I wrote my [review](/2017-03-12-general-assembly-singapore-review/) of the General Assembly web development course where I learned to code as a way of giving back to the community of career-switchers and beginner coders.
 
-It was a small act of kindness, inspired by [another person’s](https://jaredtong.com/general-assembly-singapore-review/) small act of kindness as he published the review that helped _me_ feel confident in enrolling in the programming bootcamp.
+It was a small act of kindness, inspired by [another person's](https://jaredtong.com/general-assembly-singapore-review/) small act of kindness as he published the review that helped _me_ feel confident in enrolling in the programming bootcamp.
 
-And I consider Andrew’s sharing with me today another small of act kindness. I believe it is small acts of kindness like these that collectively make our society stronger and more connected. Knowing that I have moved the needle by a tiny millimetre on this front makes me incredibly pleased!
+And I consider Andrew's sharing with me today another small of act kindness. I believe it is small acts of kindness like these that collectively make our society stronger and more connected. Knowing that I have moved the needle by a tiny millimetre on this front makes me incredibly pleased!

@@ -37,7 +37,7 @@ Sure, navigating around directories and creating and deleting and renaming files
 
 For example, you need to use the command line with basic commands like `cd directory_name` to know that Terminal will not report little successful operations but instead, only complain when there is problem. So changing directory with `cd` just quietly succeeds. Also, learning to use the humble `cd` command teaches you that in Terminal, you are always working from a specific directory. None of these things are intuitive at the start until you try doing some things with commands.
 
-Once you know the basics, at some point you put two and two together and realise that there probably are a lot more sophisticated commands you can use to do cool things with. And, you’d be able to guess that if an operation is successful, it could be quiet and the way to check is to do an `ls` or `cat filename` to see the contents on folders and files.
+Once you know the basics, at some point you put two and two together and realise that there probably are a lot more sophisticated commands you can use to do cool things with. And, you'd be able to guess that if an operation is successful, it could be quiet and the way to check is to do an `ls` or `cat filename` to see the contents on folders and files.
 
 Finally, you start to apply your knowledge in real-life scenarios. That's when your knowledge of Terminal really pays off.
 

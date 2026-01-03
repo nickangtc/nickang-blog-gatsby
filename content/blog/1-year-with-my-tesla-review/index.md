@@ -312,7 +312,7 @@ So the point is we should avoid charging beyond 80% – a recommendation that's 
 
 Armed with this knowledge, I always set my charge limit to 80% at maximum. But sometimes, you know, when you're trying to finish your Filet-O-Fish at McDonald's, and your car is reaching the charge limit... you just have to move the goal post a little. So I'd increase the limit to +5% to 'buy' me more time.
 
-Note: Tesla also implements the idea of a Congestion fee for Supercharger stations, which is 'a fee you pay when a Supercharger site is busy, and your vehicle’s battery is above a certain level.' This one's unavoidable with adjusting charge limits.
+Note: Tesla also implements the idea of a Congestion fee for Supercharger stations, which is 'a fee you pay when a Supercharger site is busy, and your vehicle's battery is above a certain level.' This one's unavoidable with adjusting charge limits.
 
 Note 2: In the end, in my opinion, the idle fee and congestion fee work very effectively in favour of EV owners, because life would be more haphazard if you always arrived to a full charging station.
 

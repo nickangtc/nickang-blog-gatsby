@@ -3,7 +3,7 @@ title: "Why I love the seasons"
 date_published: "2020-08-23"
 backlinks:
   - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
-    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
+    title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
   - slug: "/2020-10-11-learning-in-public/"
     title: "Learning in public"
   - slug: "/annual-review-2020/"

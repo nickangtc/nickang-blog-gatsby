@@ -1,5 +1,5 @@
 ---
-title: "6 Things I’ve Learned from my Second Year Living in Berlin (away from Singapore)"
+title: "6 Things I've Learned from my Second Year Living in Berlin (away from Singapore)"
 date_published: "2021-10-03"
 date_updated: "2022-11-03"
 excerpt: "Two years already! I still love living in Berlin, a city of history and openness."
@@ -8,7 +8,7 @@ fav: true
 todos: "add links"
 backlinks:
   - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
-    title: "7 Things I’ve Learned from my First Year Living in Berlin (away from Singapore)"
+    title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
 ---
 
 In a few days it will be my second full year having relocated to Berlin. A lot has happened. A full year of grappling with covid, for one. And our first child was born here last month! Here are some of my learnings from the past year.

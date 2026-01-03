@@ -15,7 +15,7 @@ When reading a book, evaluate the ideas, not the person. If the idea from the au
 
 Not everything is as neatly packaged into atomic units like ideas are. But even so, it is still important to ask the question.
 
-Let’s take another example: hiring people.
+Let's take another example: hiring people.
 
 What needs evaluating when we are interviewing to hire a new employee? Here are some things we might evaluate:
 
@@ -27,7 +27,7 @@ And here are some things we should not even try to evaluate because they are irr
 
 Remember what needs evaluating here.
 
-A person’s past is trickier, but it should not directly weigh on our evaluation either. The only exception applies when we ask ourselves and confirm that, *this thing from the past? Yeah, it falls into our evaluation criteria in this context.*
+A person's past is trickier, but it should not directly weigh on our evaluation either. The only exception applies when we ask ourselves and confirm that, *this thing from the past? Yeah, it falls into our evaluation criteria in this context.*
 
 For example, if we somehow knew that the candidate got fired from her previous job, we can ask her about it during the interview. But should her being fired be of any immediate consequence?
 

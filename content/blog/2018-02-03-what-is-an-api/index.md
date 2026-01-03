@@ -67,7 +67,7 @@ In other words, an API is really just **a way for a piece of software to access 
 
 As Petr Gazarov succinctly [explains](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82):
 
-> "Let’s say you’re using a third-party library in your code. Once incorporated into your code, a library becomes part of your overall app. Being a distinct piece of software, the library would likely have an API which allows it to interact with the rest of your code."
+> "Let's say you're using a third-party library in your code. Once incorporated into your code, a library becomes part of your overall app. Being a distinct piece of software, the library would likely have an API which allows it to interact with the rest of your code."
 
 That's so much clearer. Thanks, Petr!
 

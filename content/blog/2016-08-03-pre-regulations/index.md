@@ -13,11 +13,11 @@ Airbnb.
 
 Paddle boarding from the Manhattan side of New York to Brooklyn.
 
-Unless it’s clearly bad for society collectively, only the sour and ill balanced will beat their chests and yell cry foul.
+Unless it's clearly bad for society collectively, only the sour and ill balanced will beat their chests and yell cry foul.
 
-In life, there is plenty more that we can but don’t do. For some it’s because they don’t even think to do those things. For many others it might be more a matter of choice. But that is odd, considering how much we seem to like proclaiming that life is short. YOLO, right?
+In life, there is plenty more that we can but don't do. For some it's because they don't even think to do those things. For many others it might be more a matter of choice. But that is odd, considering how much we seem to like proclaiming that life is short. YOLO, right?
 
-On a lighter note, I just realised how angry I can sometimes get with hotel showers. When I lift that tap handle and expect water to flow out from below and onto my feet and instead am greeted by an unexpected downpour of cold water, I just feel like smashing a hole in the wall. Of course, I’m not going to do that lest I break the pipe and get dr(owned) by much more cold water.
+On a lighter note, I just realised how angry I can sometimes get with hotel showers. When I lift that tap handle and expect water to flow out from below and onto my feet and instead am greeted by an unexpected downpour of cold water, I just feel like smashing a hole in the wall. Of course, I'm not going to do that lest I break the pipe and get dr(owned) by much more cold water.
 
 \* \* \*
 

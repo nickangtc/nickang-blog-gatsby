@@ -37,9 +37,9 @@ When you subconsciously worry, that is an internal stimulus. What you do next mi
 
 How you *act* is a response. 
 
-It is easy to acknowledge this because intuition tells you that nobody can make you do what you don’t wish to do. Your school teacher could not make you do your homework if you did not willingly want to do it.  If punishments can definitively control us, we would live in a world without delinquency.
+It is easy to acknowledge this because intuition tells you that nobody can make you do what you don't wish to do. Your school teacher could not make you do your homework if you did not willingly want to do it.  If punishments can definitively control us, we would live in a world without delinquency.
 
-What we don’t often think about is how this also applies to the level of perception.
+What we don't often think about is how this also applies to the level of perception.
 
 How you *perceive* is also a response.
 
@@ -51,19 +51,19 @@ And if you go one level lower, at perhaps the most fundamental level of human be
 
 Here, most people would instinctively disagree. I did too, at first. But how you *feel* is also a response.
 
-People don’t make you angry so much as you *let* them make you angry. 
+People don't make you angry so much as you *let* them make you angry. 
 
-People don’t make you feel inferior so much as you *let* them make you feel inferior. 
+People don't make you feel inferior so much as you *let* them make you feel inferior. 
 
 And here is the uncomfortable truth: people *cannot* make you feel discriminated against. You can choose to not let them make you feel that way and instead, choose a different response like striving for the life you want in spite of them.
 
 The key is to recognise that every response you have is a response you let yourself have.
 
-Of course, it’s not so simple. We also have a subconscious mind that takes the space over when we’re not paying attention.
+Of course, it's not so simple. We also have a subconscious mind that takes the space over when we're not paying attention.
 
 If how you feel is a response, then it means that by the time you feel a certain way after encountering a stimulus, you have already passed that space between stimulus and response.
 
-In the earlier scenario of discrimination, your subconscious mind is likely to choose to perceive that you are being profiled and discriminated against and go into “I am not your lunch” mode, making you puff up your chest, ready for a fight.
+In the earlier scenario of discrimination, your subconscious mind is likely to choose to perceive that you are being profiled and discriminated against and go into "I am not your lunch" mode, making you puff up your chest, ready for a fight.
 
 The good news is, if you want to feel a different way, you can simply go back to that space and alter your response.
 
@@ -73,17 +73,17 @@ Here are 4 ways in which taking control of our responses can improve our lives.
 
 The biggest improvement comes from disliking yourself less.
 
-Let’s say that you wrote an article and you shared it on Facebook. The next day, you wake up to find multiple people openly disagreeing with you.
+Let's say that you wrote an article and you shared it on Facebook. The next day, you wake up to find multiple people openly disagreeing with you.
 
-Now you feel stupid because someone saw your point and rebuked it. *Why didn’t I think of that myself? I could have saved myself some embarrassment.*
+Now you feel stupid because someone saw your point and rebuked it. *Why didn't I think of that myself? I could have saved myself some embarrassment.*
 
-You feel hurt because now your social standing among your friends has deteriorated and you start to feel inferior. *Everyone seeing this post must think that I’m lame.*
+You feel hurt because now your social standing among your friends has deteriorated and you start to feel inferior. *Everyone seeing this post must think that I'm lame.*
 
-These are feelings I had recently when I shared my opinion that [it is okay to disengage from politics](/2020-11-22-why-you-might-want-to-disengage-from-politics/). When I read people’s replies on Facebook, I felt like I was being attacked. I felt a little stupid. And I certainly felt like I’ve lost the respect of some people.
+These are feelings I had recently when I shared my opinion that [it is okay to disengage from politics](/2020-11-22-why-you-might-want-to-disengage-from-politics/). When I read people's replies on Facebook, I felt like I was being attacked. I felt a little stupid. And I certainly felt like I've lost the respect of some people.
 
 But over the next few days, I remembered about the space that exists between stimulus and response.
 
-I saw that someone’s disagreement was the stimulus and that I chose to respond by letting their comment make me feel like I was being attacked, that I was stupid and that I have lost the respect of other people.
+I saw that someone's disagreement was the stimulus and that I chose to respond by letting their comment make me feel like I was being attacked, that I was stupid and that I have lost the respect of other people.
 
 Once I noticed that I was able to choose to see those disagreeing comments for what they were: disagreeing comments.
 
@@ -91,7 +91,7 @@ I was not being attacked! Discourse requires people to go back and forth disagre
 
 I am not stupid! If I knew everything and was right about everything, I would have found no reason to write and share my writing with people in the first place.
 
-Now, I might have lost someone else’s respect, but what someone else thinks about me is a response from *that* person’s mind and therefore beyond *my* control. It is pointless to mull over what only exists in someone else’s headspace.
+Now, I might have lost someone else's respect, but what someone else thinks about me is a response from *that* person's mind and therefore beyond *my* control. It is pointless to mull over what only exists in someone else's headspace.
 
 Much of the day-to-day suffering that we experience comes from us letting that space be controlled by the terrible autopilot that is our subconscious mind.
 
@@ -99,15 +99,15 @@ The moment we remember this, we regain control of that space and it becomes easy
 
 ## 2. You become kinder to others
 
-Here’s another example, this time to illustrate the difference in how we treat other people when we remember to take control of this space.
+Here's another example, this time to illustrate the difference in how we treat other people when we remember to take control of this space.
 
 On a recent morning walk with my partner and dog, I decided to stop by the local cafe to grab a cup of coffee.
 
 It was Sunday so the cafe was empty. I walked in and placed my order with one of the two men behind the counter. I paid and stood aside to wait for my coffee.
 
-I like to watch the barista making my coffee. It’s a craft. However, I soon noticed that something was amiss.
+I like to watch the barista making my coffee. It's a craft. However, I soon noticed that something was amiss.
 
-One of the men was clearly more experienced than the other in making coffee as I could see him appraising the other’s every move. The first shot of espresso was apparently not done well, so the experienced barista poured it away and instructed the trainee barista to try again and pull a second shot. He did the same with the milk.
+One of the men was clearly more experienced than the other in making coffee as I could see him appraising the other's every move. The first shot of espresso was apparently not done well, so the experienced barista poured it away and instructed the trainee barista to try again and pull a second shot. He did the same with the milk.
 
 As I continued to observe what was happening, I started feeling uncomfortable. I was anticipating the coffee to be bad. Having been a barista before, I knew how hard it was to pull a good shot of espresso and froth a jug of smooth milk.
 
@@ -129,7 +129,7 @@ I instinctively tapped the cup of coffee against the countertop to break the lar
 
 In the space in my mind, I had what was a conversation with myself.
 
-*Yes, they made me wait a while for poorly-made coffee. But they did not do it deliberately to upset me. In fact, as with most things done by most people, they probably did none of it with me in mind at all. Here is just a guy who is trying to learn to make good coffee. He is clearly not there yet and needs more time. We all need time to learn, don’t we? Heck, even Einstein used to not know physics. Also, don’t forget how you had to learn slowly to become a decent barista by serving sub-standard coffee, too.*
+*Yes, they made me wait a while for poorly-made coffee. But they did not do it deliberately to upset me. In fact, as with most things done by most people, they probably did none of it with me in mind at all. Here is just a guy who is trying to learn to make good coffee. He is clearly not there yet and needs more time. We all need time to learn, don't we? Heck, even Einstein used to not know physics. Also, don't forget how you had to learn slowly to become a decent barista by serving sub-standard coffee, too.*
 
 Once I had that internal dialogue, which happened purely in that space in my mind between the stimulus and my response, I no longer let myself get worked up.
 
@@ -145,11 +145,11 @@ The blue in the sky looked a little more vibrant later that morning.
 
 When you pause in the space before responding, you improve your chances of having a constructive conversation with someone. In this way, you help yourself learn and grow faster.
 
-Let’s revisit the Facebook post example.
+Let's revisit the Facebook post example.
 
 When I read the first few disagreements, I was initially able to respond from the space, calmly and rationally.
 
-But soon, someone wrote his disagreement with stronger words like “ignorant,” which felt like a blade on flesh. I could feel the blood that oozed boil off. 
+But soon, someone wrote his disagreement with stronger words like "ignorant," which felt like a blade on flesh. I could feel the blood that oozed boil off. 
 
 Instead of considering his argument, I latched on to his accusation and, unthinkingly, I responded with a snarky comment. In hindsight, it is clear to me now that that was the moment my subconscious mind took control of the space.
 
@@ -159,7 +159,7 @@ Things once again became clear to me.
 
 What I had effectively done was let myself be angered by that comment. That was my first response. And my second response was to send the snarky comment.
 
-And what was the outcome? I shut the door to dialogue with this person and probably blew the chance for us to learn from each other again. *This person isn’t worth my time arguing with,* would be a reasonable conclusion on his part.
+And what was the outcome? I shut the door to dialogue with this person and probably blew the chance for us to learn from each other again. *This person isn't worth my time arguing with,* would be a reasonable conclusion on his part.
 
 If you remember to use the space before responding, you will learn faster by making it safe for others to teach you what they know.
 
@@ -169,13 +169,13 @@ And if you find what someone says disagreeable, and you are in that space, you m
 
 And finally, when you sometimes face inevitable and undeniable hardship, you can use this space as a refuge.
 
-“Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our *freedom*.” (emphasis mine.)
+"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our *freedom*." (emphasis mine.)
 
 These are words from someone who had endured life in several Nazi concentration camps, survived, and continued to live after the war. Dr Viktor Frankl unsurprisingly struggled to find meaning in life when he, along with his fellow prisoners, was treated worse than animals in the camps.
 
-“[m]an is that being who invented the gas chambers of Auschwitz,” he said in *Man’s Search For Meaning*. “However, he is also that being who entered those gas chambers upright…”
+"[m]an is that being who invented the gas chambers of Auschwitz," he said in *Man's Search For Meaning*. "However, he is also that being who entered those gas chambers upright…"
 
-What he means by this is that even down to the forceful and tragic end of one’s life in a gas chamber, one still owned the freedom to choose how to respond.
+What he means by this is that even down to the forceful and tragic end of one's life in a gas chamber, one still owned the freedom to choose how to respond.
 
 That is the nature of the space between stimulus and response. It is untouchable by anything and anyone but you. It is the only true freedom that we have been afforded as humans!
 

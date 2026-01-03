@@ -4,7 +4,7 @@ date_published: "2018-08-15"
 backlinks:
 ---
 
-Matt D'Avela is a filmmaker and rising YouTuber who has managed to build a community of people who are or aspire to be minimalists. 
+Matt D'Avela is a filmmaker and rising YouTuber who has managed to build a community of people who are or aspire to be minimalists. 
 
 Recently, he published a new video in which he shared how through minimalism, he came up with a simple rule for managing his personal finances. I really like it:
 

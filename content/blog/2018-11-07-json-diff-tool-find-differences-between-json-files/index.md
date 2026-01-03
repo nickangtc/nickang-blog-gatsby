@@ -13,9 +13,9 @@ At Smartly.io where I work, we sometimes have to help our customers debug a prob
 
 With [API](/2018-02-03-what-is-an-api/) requests naturally comes a lot of JSON objects, since basically every data transfer protocol now happens with JSON over the internet.
 
-Before today, I admit, I haven’t thought to diff two JSON files using an external tool. I mostly just eyeballed the two files in Visual Studios Code and looked for differences. Thinking in retrospect now, I feel so silly. As a developer, looking for such a tool should have come more naturally!
+Before today, I admit, I haven't thought to diff two JSON files using an external tool. I mostly just eyeballed the two files in Visual Studios Code and looked for differences. Thinking in retrospect now, I feel so silly. As a developer, looking for such a tool should have come more naturally!
 
-In today’s debugging, I wanted to find out what was the change that one of our users tried to make to her Ad Set through our tool that resulted in the dreaded “Unknown Error” returned from Facebook’s server.
+In today's debugging, I wanted to find out what was the change that one of our users tried to make to her Ad Set through our tool that resulted in the dreaded "Unknown Error" returned from Facebook's server.
 
 Technically speaking, that involved looking at the current configuration (in JSON format) of the Ad Set in question via the [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) and then contrasting it against the request that our backend tried to make for updating its value.
 
@@ -31,4 +31,4 @@ Personally, this was the highlight of my workday. On my first try, I found a too
 
 This tool has eliminated all possibility for human error in trying to find the differences manually. It also saved me time and cognitive power, which I put to good use in the rest of the debugging.
 
-Thanks [Zack Grossbart](http://www.zackgrossbart.com/blog/more-about-zack/) for creating and hosting this free tool. It’s a real time and brain saver. (You sir seem to have an amazing list of open source projects under your name - very inspiring!)
+Thanks [Zack Grossbart](http://www.zackgrossbart.com/blog/more-about-zack/) for creating and hosting this free tool. It's a real time and brain saver. (You sir seem to have an amazing list of open source projects under your name - very inspiring!)

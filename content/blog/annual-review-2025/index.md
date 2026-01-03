@@ -7,6 +7,8 @@ tags: ["Annual Review", "Living"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/back-on-max/"
+    title: "Back on Max at 100 € per month"
 ---
 
 This has been a year to remember.
@@ -29,11 +31,11 @@ Let's dig in.
 
 I received my final pay check in July and went solo, meaning that I'm now the developer, designer, product owner, marketer for some kind of business that sells some kind of software. In 2026 I'll work to make that clearer.
 
-I was aiming for 1k euros MRR by now, but because I chose to take _Arbeitslosengeld_ (unemployment money) – which I learned about only AFTER I quit – I'm doing the ​*Arbeitssuchend*​ (job seeking) thing, which includes attending a full-time German language course. And that screwed up my original timeline.
+I was aiming for 1k euros MRR by now, but because I chose to take _Arbeitslosengeld_ (unemployment money) – which I learned about only AFTER I quit – I'm doing the *Arbeitssuchend* (job seeking) thing, which includes attending a full-time German language course. And that screwed up my original timeline.
 
 Nevertheless, this is a _good_ thing that happened this year, because I felt that I needed to come back to entrepreneurship some day, and I'm glad I had the courage to take the leap after almost 10 years of receiving increasingly larger salaries as a software engineer. Scratching an itch big time.
 
-​**Speaking German more confidently**​. This year I attended 3 months of a full-time German language course (2 months more next year) and am proud to say that I can now speak roughly at the B2 level (it goes A1, A2, B1, then B2).
+**Speaking German more confidently**. This year I attended 3 months of a full-time German language course (2 months more next year) and am proud to say that I can now speak roughly at the B2 level (it goes A1, A2, B1, then B2).
 
 This is already paying dividends as it unlocks a greater quality of life in Germany.
 
@@ -47,7 +49,7 @@ We also unwittingly started doing more things with our bikes. From August till t
 
 I count this as something that "went well" because our bicycles have provided us with good memories, some exercise, and a lot of utility.
 
-​**I hit the gym 115 times this year**​. That's 2.4 times a week on average and is a personal record in consistency.
+**I hit the gym 115 times this year**. That's 2.4 times a week on average and is a personal record in consistency.
 
 To pull off this gym routine, in October I changed gyms to one that is open 24/7 with self-service entry and have been entering the gym on most days at 6am and leaving at 7am, before my family is awake.
 
@@ -65,11 +67,11 @@ One final note on this topic: as I strike out on my own, I keep coming back to t
 
 What I mean is that I believe I need to already live the lifestyle I hope to live as a solo business owner, rather than wait until I've hit success to live it, because this is the **least complex state** of being a business owner there is. After this comes taxes, accounting, customer support, bug fixes, and so on.
 
-​**Seasonal farm visits**​. The highlight of our nature escapades this year has been to pluck cherries in a farm in the region (Apfelparadies, Mörs) in late June. The cherries oozed deep red juice and were abundant. I insist on going back again next year and the years after.
+**Seasonal farm visits**. The highlight of our nature escapades this year has been to pluck cherries in a farm in the region (Apfelparadies, Mörs) in late June. The cherries oozed deep red juice and were abundant. I insist on going back again next year and the years after.
 
 ![freshly plucked cherries in our hands](./images/cherries.jpeg)
 
-​**Invested in good tools**​. Buying the most expensive computer I've ever owned: Mac Studio M4 Max.
+**Invested in good tools**. Buying the most expensive computer I've ever owned: Mac Studio M4 Max.
 
 The price tag of 2280 EUR is worth it, as I'm developing apps full-time now and it has helped reduce iOS app build times to under 10 seconds. For comparison, my MacBook Air builds the same project in around 30 seconds. Since "build and run" is something you'd need to do very often as an iOS developer, this is a huge time saver.
 
@@ -96,7 +98,7 @@ I'm happy. I look forward to my afternoon cup of coffee everyday and would argue
 
 ## What didn't go so well this year?
 
-​**Still can't say for sure where we'll live long-term**​. Spontaneously had multiple serious conversations about staying in Germany or moving some place else.
+**Still can't say for sure where we'll live long-term**. Spontaneously had multiple serious conversations about staying in Germany or moving some place else.
 
 Places we considered:
 
@@ -125,15 +127,15 @@ My journal entry speaks volumes of my mentality at the time of this decision: "I
 
 Time blurs memories. I actually thought that I made this decision after I started 4 hour daily German classes, so I was surprised to learn from my journal entries that I made this decision BEFORE I was preoccupied with German classes.
 
-I should have kept morning time reserved for personal development, whether that be reading, writing, or going to the gym. I've written about my ‘miracle morning' practice in a [recent post](https://nickang.com/coming-back-to-miracle-mornings/).
+I should have kept morning time reserved for personal development, whether that be reading, writing, or going to the gym. I've written about my 'miracle morning' practice in a [recent post](https://nickang.com/coming-back-to-miracle-mornings/).
 
 ## What did I learn this year?
 
-​**Don't work before bed**​. Attempting to be do something productive (work) before bedtime ends in disaster 80 percent of the time for me, because if I don't finish what I intended before it's time to sleep, I'll get poor sleep. The brain stays active instead of shutting down.
+**Don't work before bed**. Attempting to be do something productive (work) before bedtime ends in disaster 80 percent of the time for me, because if I don't finish what I intended before it's time to sleep, I'll get poor sleep. The brain stays active instead of shutting down.
 
 I've learned that it's more optimal to do something light and unrelated to work to ramp down the brain to land onto the tarmac of sleep gently. These days that's reading or writing a journal entry.
 
-**How to title journal entries**.​ I should have started every single Day One journal entry with a clear title. It makes reviewing 10x easier. It's also good practice for a marketer. A few titles I liked:
+**How to title journal entries**. I should have started every single Day One journal entry with a clear title. It makes reviewing 10x easier. It's also good practice for a marketer. A few titles I liked:
 
 - You won't want to forget this trick to get people to read what you have to say
 - I have to improve on this thing if I want to be heard
@@ -161,11 +163,11 @@ I already knew this, but am taking heed for the new year, hopefully so that nobo
 
 Radical incrementalism means to work a bit then leaver for the next day and come back again. It's working sustainably. It's saying OK I'm done for the day and truly moving on to the next part of the day, knowing that this very decision will fuel your next day's work.
 
-​**Your first business is not a business, it's personal development**.​ Heard it from a YouTube video. I agree 100%, maybe because it gives me permission to fail?
+**Your first business is not a business, it's personal development**. Heard it from a YouTube video. I agree 100%, maybe because it gives me permission to fail?
 
 **Always prioritise physical activity.** It's a good policy to let exercise precede productivity in any given day. Good physical fitness leads to better mental acuity, and both amplify the output of knowledge work.
 
-**Time is all children need from us.** I was in Neuenahr one summer day with my daughter. We're sitting in a random field and as soon as we sat down, she starts collecting daisies and grass into her tote bag. Then she launches into full ‘cooking' play. She cooked and I sampled her cooking. We did this for 1.5 hours and went to get ice cream. That was a wonderful day.
+**Time is all children need from us.** I was in Neuenahr one summer day with my daughter. We're sitting in a random field and as soon as we sat down, she starts collecting daisies and grass into her tote bag. Then she launches into full 'cooking' play. She cooked and I sampled her cooking. We did this for 1.5 hours and went to get ice cream. That was a wonderful day.
 
 ![daughter, dog, and me sitting on the grass in Neuenahr playing pretend cooking](./images/grass-neuenahr.jpeg)
 
@@ -206,7 +208,7 @@ Me...
 - Pulling out my first white nose hair
 - Grabbing a large butterfly that was trapped in a hotel breakfast room, bringing it out to the street, and my daughter asking to take it in her hand to let it go. It flew away
 - Watching the entire Star Wars line-up of movies and The Mandalorian for the first time. This is the way. I have spoken
-- Truly understanding ‘speed is a feature' from hearing the news of entrepreneur Maor Shlomo building and selling Base44 to Wix for $80 million in under 1 year
+- Truly understanding 'speed is a feature' from hearing the news of entrepreneur Maor Shlomo building and selling Base44 to Wix for $80 million in under 1 year
 - Selling my camper van, getting rid of a burden that a few years ago was an asset (bought at 68k, sold at 40k, after 3.5 years of ownership)
 - Going back to school for the first time in almost 10 years (German language classes, 8:30am to 12:45pm every weekday for 5 months)
 - Receiving a phone call from my daughter for the first time

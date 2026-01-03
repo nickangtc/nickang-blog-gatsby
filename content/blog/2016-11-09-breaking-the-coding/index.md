@@ -17,13 +17,13 @@ For the past three days I've been forcing myself to work on my past projects, to
 
 So I'm going to take a day, maybe half a day, away from Atom (code editor). Since Donald Trump literally just became the President of the United States of America, I think being away from the computer altogether is somewhat a good idea.
 
-What I've learned from this episode of fatigue is that the ability to recognise yourself reaching a point of saturation may not come naturally to some. For people like me who can get stupidly excited about things when it starts to get interesting (ie. when I start to be proficient at it), the indicator of fatigue is about as bright as a star in the city sky.
+What I've learned from this episode of fatigue is that the ability to recognise yourself reaching a point of saturation may not come naturally to some. For people like me who can get stupidly excited about things when it starts to get interesting (ie. when I start to be proficient at it), the indicator of fatigue is about as bright as a star in the city sky.
 
-Let's face it. Feeling tired is a thing, and it's a thing that we must acknowledge, not brush aside. The outcome of ignoring it is a dip in productivity and general lethargy, as I'm experiencing just before I started writing this.
+Let's face it. Feeling tired is a thing, and it's a thing that we must acknowledge, not brush aside. The outcome of ignoring it is a dip in productivity and general lethargy, as I'm experiencing just before I started writing this.
 
 There's no shame in not wanting to do X just because you've done too much of it recently. I can imagine Obama echoing this sentiment right now. Without variety, life can be dull. And what goodness can come out of a dull person?
 
-I'm bored of writing code today, so I'm closing my laptop and choosing to read a book instead. Maybe I'll watch Black Mirror. Perhaps at night we'll go out for a nice dinner.
+I'm bored of writing code today, so I'm closing my laptop and choosing to read a book instead. Maybe I'll watch Black Mirror. Perhaps at night we'll go out for a nice dinner.
 
 Sounds good.
 

@@ -9,13 +9,13 @@ backlinks:
 
 As a company grows, even if the resignation rate remains constant, the absolute number of employees who leave the company each month will grow in tandem.
 
-Recently, I’ve witnessed some colleagues leaving the company. Some for family reasons, others for personal growth. I want to talk about the latter kind of resignations - the kind where you leave to go to join a company that is giving you an overall better offer.
+Recently, I've witnessed some colleagues leaving the company. Some for family reasons, others for personal growth. I want to talk about the latter kind of resignations - the kind where you leave to go to join a company that is giving you an overall better offer.
 
-A quick caveat - I’m talking mainly about companies that are not in the early-stage startup phase, where the headcount is at least 50. Below that size, the camaraderie is usually so strong that the social dynamics are completely different.
+A quick caveat - I'm talking mainly about companies that are not in the early-stage startup phase, where the headcount is at least 50. Below that size, the camaraderie is usually so strong that the social dynamics are completely different.
 
 ## Changing jobs not long after joining one
 
-Is it wrong to leave when you haven’t stayed long in a company? What is the definition of long? Within a year? At least two years?
+Is it wrong to leave when you haven't stayed long in a company? What is the definition of long? Within a year? At least two years?
 
 In my opinion, if you were brought on as a full-time employee and you leave in under a year, motivated purely by a better offer, then it is a dick move.
 
@@ -33,15 +33,15 @@ We are human, emotional animals living in impossibly large societies held togeth
 
 So naturally, when considering leaving a company, we should consider the implications to our colleagues. Leaving without considering that is plain selfish.
 
-But once you’ve considered that and factored it into your leaving timeline, and you have legitimate reasons to jump ship, I believe you should still leave for the better offer.
+But once you've considered that and factored it into your leaving timeline, and you have legitimate reasons to jump ship, I believe you should still leave for the better offer.
 
 ## My view on changing jobs
 
 Ultimately, my view on this topic is built on the belief that companies should have to continually wrestle to keep their good people around.
 
-As an employee, we don’t owe it to our colleagues and to the company to stay beyond a couple of extra months out of graciousness.
+As an employee, we don't owe it to our colleagues and to the company to stay beyond a couple of extra months out of graciousness.
 
-The truth is, as people living in a capitalistic world, we have to fight for our professional growth because no one else will. That doesn’t mean cutting throats to get to the top. It just means looking out for yourself and your family.
+The truth is, as people living in a capitalistic world, we have to fight for our professional growth because no one else will. That doesn't mean cutting throats to get to the top. It just means looking out for yourself and your family.
 
 In my opinion, to keep good employees, companies should refresh their offers to employees at least on a yearly basis, or whenever employees talk about a looming offer from another company.
 

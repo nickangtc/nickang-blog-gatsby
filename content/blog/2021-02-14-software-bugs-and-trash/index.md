@@ -39,13 +39,13 @@ Imagine a software company has an existing workflow for dealing with bugs that g
 
 What's the problem with this workflow?
 
-The main problem is that there is **friction** between “potential bug reported to the right development team” and “bug report filed in Jira.” Is this the kind of friction that helps a person not fall flat when walking on ice, or the kind that builds up heat and wears things down?
+The main problem is that there is **friction** between "potential bug reported to the right development team" and "bug report filed in Jira." Is this the kind of friction that helps a person not fall flat when walking on ice, or the kind that builds up heat and wears things down?
 
 A better workflow might be for step 3 to be like this instead:
 
 3. The ping by the employee reporting the bug gets **automatically created** as a bug report in the relevant development team's Jira board.
 
-This makes more sense than the old workflow because the Jira board is the inbox, the equivalent of a city’s rubbish bin, where bug reports are supposed to be filed. The old workflow is akin to littering in the city, as the trash is mentioned once in Slack and potentially forgotten until it gets swooped up by the wind, hits the windscreen of a passing car, and causes a fatal accident. Or it causes fewer tourists to visit the city because the streets are dirty and smelly. The city (or the company) slowly withers.
+This makes more sense than the old workflow because the Jira board is the inbox, the equivalent of a city's rubbish bin, where bug reports are supposed to be filed. The old workflow is akin to littering in the city, as the trash is mentioned once in Slack and potentially forgotten until it gets swooped up by the wind, hits the windscreen of a passing car, and causes a fatal accident. Or it causes fewer tourists to visit the city because the streets are dirty and smelly. The city (or the company) slowly withers.
 
 All good so far. Now let's add a twist.
 
@@ -60,7 +60,7 @@ This is the development team with the most bugs, not because of substandard work
 
 If you were an executive on the Engineering leadership team, what would you do? I believe the analogy of the city and the company can help us think through this problem.
 
-If there is a particularly busy intersection in a city, and the bins around that intersection are too few and too small to accommodate everyone’s trash, and people are starting to leave their trash on the ground next to the bin when the bins are full, what would a city official do?
+If there is a particularly busy intersection in a city, and the bins around that intersection are too few and too small to accommodate everyone's trash, and people are starting to leave their trash on the ground next to the bin when the bins are full, what would a city official do?
 
 I guess that the city government would either install more bins or expand the existing ones and find a way to increase the capacity for processing the trash. Either way would be better than letting the trash pollute the city streets. Ignoring the trash is just not a viable option if the city wanted to remain conducive to locals and attractive to visitors.
 

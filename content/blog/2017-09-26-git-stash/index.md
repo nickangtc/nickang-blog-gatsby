@@ -82,4 +82,4 @@ Read more directly from the makers via the [docs](https://git-scm.com/docs/git-s
 Other git-related short tutorials:
 
 - [How to squash git commits](/2017-09-23-squash-git-commits/)
-- [How to completely replace git branch code with another branch’s code](/2017-09-30-replace-git-branch-code/)
+- [How to completely replace git branch code with another branch's code](/2017-09-30-replace-git-branch-code/)

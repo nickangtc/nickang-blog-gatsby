@@ -11,15 +11,15 @@ backlinks:
 
 At some point in your programming career, you will come to a fork in the road to choose between code readability or efficiency. Which do you choose?
 
-Take the example of an array of `Person` objects. Let’s say this was the data you expect to be returned from an internal [API](/2018-02-03-what-is-an-api/).
+Take the example of an array of `Person` objects. Let's say this was the data you expect to be returned from an internal [API](/2018-02-03-what-is-an-api/).
 
-Because it’s an internal API, you know that there is a chance that some of the `Person` objects may have a `null` value in certain keys. For example:
+Because it's an internal API, you know that there is a chance that some of the `Person` objects may have a `null` value in certain keys. For example:
 
 ![code readability or efficiency 1 - nick ang blog](images/code-readability-or-efficiency-1-nick-ang-blog-1024x576.png)
 
-In your front-end that is supposed to consume this data and visualise it for the user, you know you’ll have to do a bit of cleaning up. You don’t want to present a list of slackHandles that includes the weirdo “null”.
+In your front-end that is supposed to consume this data and visualise it for the user, you know you'll have to do a bit of cleaning up. You don't want to present a list of slackHandles that includes the weirdo "null".
 
-At this point, you may think of using the built-in `.map()` method in JavaScript. But then you remember that map doesn’t allow you to skip items in the array - the mapped array will always have the same number of items as the original array.
+At this point, you may think of using the built-in `.map()` method in JavaScript. But then you remember that map doesn't allow you to skip items in the array - the mapped array will always have the same number of items as the original array.
 
 One good solution you think of implementing next is to first put the array through another built-in method, `filter()`, before employing `.map()`. Sounds good!
 
@@ -43,12 +43,12 @@ So in this example, I would choose the method of doing `array.filter().map()` ov
 
 To be honest, even if the array was 100,000 items in length, I might still choose the filter-and-map approach.
 
-In the bigger scheme of things, walking through an array once versus twice is not a big difference, even though it is technically double the number of operations. Often times, the real culprit of inefficient code is a loop within another loop, not a loop that is run twice. It’s the difference between:
+In the bigger scheme of things, walking through an array once versus twice is not a big difference, even though it is technically double the number of operations. Often times, the real culprit of inefficient code is a loop within another loop, not a loop that is run twice. It's the difference between:
 
 - 100,000 + 100,000 = 200,000 operations
 - and 100,000 x 100,000 = 10,000,000,000 operations
 
-Moral of the story? Learn to prefer writing code that is easier to read, even if it means slightly poorer performance. Most of the time, that “poorer” performance by the computer is negligible and not visible. The time penalty you would be putting on your fellow programmer, on the other hand, probably isn’t!
+Moral of the story? Learn to prefer writing code that is easier to read, even if it means slightly poorer performance. Most of the time, that "poorer" performance by the computer is negligible and not visible. The time penalty you would be putting on your fellow programmer, on the other hand, probably isn't!
 
 * * *
 

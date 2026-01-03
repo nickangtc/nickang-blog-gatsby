@@ -22,21 +22,21 @@ Now, how did I remember this company goal as an employee? Well, the leadership t
 
 Now, we can also apply this at the individual team level.
 
-The reason I got a chance to become a 'team lead' at work was that our original team has grown significantly and we saw an opportunity to split the team into two to work in smaller, more effective groups. With this in mind, I figured that the most important thing I’d need to do as a new manager was to get the message across that we're doing this split for a reason.
+The reason I got a chance to become a 'team lead' at work was that our original team has grown significantly and we saw an opportunity to split the team into two to work in smaller, more effective groups. With this in mind, I figured that the most important thing I'd need to do as a new manager was to get the message across that we're doing this split for a reason.
 
-“So, what's the reason?” I began asking myself.
+"So, what's the reason?" I began asking myself.
 
-"Because we need to work in smaller groups" isn't exactly motivating nor reflective of the deeper reason we spun off into our team. I thought about it briefly and came up with this: "Our team is going to focus much more on doing proactive work that will reduce our customers' need for additional support in the first place. We are going upstream to fix problems instead of continuing to equip the company to give amazing customer support.”
+"Because we need to work in smaller groups" isn't exactly motivating nor reflective of the deeper reason we spun off into our team. I thought about it briefly and came up with this: "Our team is going to focus much more on doing proactive work that will reduce our customers' need for additional support in the first place. We are going upstream to fix problems instead of continuing to equip the company to give amazing customer support."
 
 In my first week of 1-1s (one-on-one meetings) with my new direct reports, I said this to each person. Message sent.
 
 Then, at various other meetings with the whole team in the week that followed, I repeated this once or twice more to make sure that people knew we were headed in this general direction after the split. Not just people in my team this time, but also the people in the other team that split from our original.  Message repeated.
 
-At this point, the message should be planted in people’s minds. It's clear why the split was needed and how it is going to help our now-department deliver better outcomes for the company.
+At this point, the message should be planted in people's minds. It's clear why the split was needed and how it is going to help our now-department deliver better outcomes for the company.
 
 One important caveat to making this 'repeat yourself' tactic effective is to not spend too much time crafting a top-down message but instead, send a good-enough message that sets the direction and then let people shape it.
 
-For example, with my team's new mission, we have now arrived at a more succinct version that had me and a few colleagues go, “YES!” Our team is focused on creating wide-ranging solutions for the general customer base that minimises their need for additional support.
+For example, with my team's new mission, we have now arrived at a more succinct version that had me and a few colleagues go, "YES!" Our team is focused on creating wide-ranging solutions for the general customer base that minimises their need for additional support.
 
 As some of my colleagues would say, *boom*.
 

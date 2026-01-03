@@ -32,7 +32,7 @@ I wanted to understand why Bluehost is giving away free SSL. After all, it must 
 
 Turns out, there's a project called [Let's Encrypt](https://letsencrypt.org/about/).
 
-> Let’s Encrypt is a free, automated, and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG).
+> Let's Encrypt is a free, automated, and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG).
 
 Technically, _they_ are the ones giving free SSL. Bluehost, as it turns out, is just riding on the certificates issued for free by Let's Encrypt.
 
@@ -50,7 +50,7 @@ As a blogger, there's really no need to encrypt anything. The only data you'll l
 
 However, Google has been pushing for secure sites to be the norm for a while now and they have been quite aggressive at doing so. They have done so in gradual steps, and now we're entering the [final phase](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html) of that push by Google:
 
-> Beginning in July 2018 with the release of Chrome 68, Chrome will mark all HTTP sites as “not secure”.
+> Beginning in July 2018 with the release of Chrome 68, Chrome will mark all HTTP sites as "not secure".
 
 ![google not secure logo](images/google-not-secure-logo.png) The Not secure sign in Chrome. It might as well be screaming "Leave now or you'll be hacked!"
 

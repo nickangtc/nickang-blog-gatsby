@@ -14,7 +14,7 @@ As a writerly person, should you spend your down time reading or writing by defa
 
 I tried to answer this tough question in a [post](https://nickang.substack.com/p/13-to-read-or-to-write), where I declared:
 
-> For me, reading is like filling my bottle with seawater when I’m thirsty - I’m not going to be able to drink it until I distil it. Writing is the process of distilling potable knowledge.
+> For me, reading is like filling my bottle with seawater when I'm thirsty - I'm not going to be able to drink it until I distil it. Writing is the process of distilling potable knowledge.
 
 This I still fully agree with (luckily, because that post was published only a month ago). But at the same time there are good reasons to default to reading instead.
 

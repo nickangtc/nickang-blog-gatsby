@@ -23,16 +23,16 @@ Of course, someone — a designer with behavioural psychology training — has a
 
 Like it or not, the driver *will* notice that number if it was displayed there. He is likely to subconsciously track that number and see how that number fluctuates. And he's going to want to know *why* it fluctuates. Why is that number sometimes closer to 12 than 13? 
 
-## “Eco” driving behaviour
-But wait, there’s another nudge tactic. Assisting the driver to figure out the reasons for the fluctuating number is another indicator: a green “Eco” light. 
+## "Eco" driving behaviour
+But wait, there's another nudge tactic. Assisting the driver to figure out the reasons for the fluctuating number is another indicator: a green "Eco" light. 
 
-This indicator lights up when I'm stepping the accelerator lightly, and disappears when I'm pressing harder to overtake. It trained my brain, subconsciously, to drive in a way that keeps the green “eco” light on.
+This indicator lights up when I'm stepping the accelerator lightly, and disappears when I'm pressing harder to overtake. It trained my brain, subconsciously, to drive in a way that keeps the green "eco" light on.
 
-Together, the fuel efficiency number and the green “eco” indication light have succeeded in influencing my behaviour as a driver. I tend to go gentler on the accelerator nowadays.
+Together, the fuel efficiency number and the green "eco" indication light have succeeded in influencing my behaviour as a driver. I tend to go gentler on the accelerator nowadays.
 
-How could I apply [nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) to what I do at work to train our customer support representatives (at Smartly.io, that’s almost everybody in the company) to do more of X and less of Y and support our customers better? How could I similarly apply this to train our customers?
+How could I apply [nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) to what I do at work to train our customer support representatives (at Smartly.io, that's almost everybody in the company) to do more of X and less of Y and support our customers better? How could I similarly apply this to train our customers?
 
-How can we make use of micro nudges to inform good behaviour? The people at Amsterdam’s Schiphol Airport had a clue.
+How can we make use of micro nudges to inform good behaviour? The people at Amsterdam's Schiphol Airport had a clue.
 
 ![photo of a sticker of a mosquito pasted on a men's room urinal](/images/schiphol-airport-wikimedia.png)
 *Image source: [Stefan Bellini](https://commons.wikimedia.org/wiki/User:Stefan_Bellini)*

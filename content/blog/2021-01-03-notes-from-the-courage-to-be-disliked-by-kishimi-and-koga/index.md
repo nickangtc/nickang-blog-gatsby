@@ -20,15 +20,15 @@ backlinks:
 
 ## If I implemented one idea from this book right now, which one would it be?
 
-This book is full of ideas, but the most important one for me is the **separation of tasks**. By ‘tasks’ the authors mean everything that each of us does and are.
+This book is full of ideas, but the most important one for me is the **separation of tasks**. By 'tasks' the authors mean everything that each of us does and are.
 
 If you believe in the path you have chosen to take, then traverse it and care not how others respond to it. Your choice is *your* task. How other people judge and react to your choice is *their* task.
 
 To know who a task belongs, we can ask this question: *Who is ultimately going to receive the result brought about by the choice that is made?*
 
-Take a child who is not studying for example. The child is the one who pays the price in the future for not studying, not the parent. Therefore, if a parent enlists a tutor for the child unsolicited, purportedly for the child’s good, the parent is *intruding* on the child’s task. That intrusion causes interpersonal problems. My dad has intruded on my growth before, and I stood my ground (in the form of yelling at him) because I knew my growth was my task, not his.
+Take a child who is not studying for example. The child is the one who pays the price in the future for not studying, not the parent. Therefore, if a parent enlists a tutor for the child unsolicited, purportedly for the child's good, the parent is *intruding* on the child's task. That intrusion causes interpersonal problems. My dad has intruded on my growth before, and I stood my ground (in the form of yelling at him) because I knew my growth was my task, not his.
 
-Another example from the book is the acne-laden boy being worried about his looks. He is the one who ultimately determines how he feels about himself. Therefore if other students make fun of him for his acne, and he tries to convince the assholes not to make fun of him, then *he* is intruding on *other people’s tasks*. (Yes, separation works both ways.)
+Another example from the book is the acne-laden boy being worried about his looks. He is the one who ultimately determines how he feels about himself. Therefore if other students make fun of him for his acne, and he tries to convince the assholes not to make fun of him, then *he* is intruding on *other people's tasks*. (Yes, separation works both ways.)
 
 What someone else thinks about how he looks is their task, not his. True, by making fun of him, other people are intruding on his task, too. Or at least attempting to. But the boy only needs to remember that *how he feels about himself* is *his task*, then he can move on to other things in life. Case closed, assholes! (Edit on 20 October 2022: This [blog post](https://world.hey.com/dhh/don-t-tell-someone-how-to-feel-b3fd3c25) by DHH entitled "Don't tell someone how to feel" tells of how this happens in the workplace too.)
 
@@ -40,9 +40,9 @@ For example, when people don't agree with what I write, I will contend with thei
 
 *Ahhhh...*
 
-Related to this main idea is a useful yardstick: **freedom is being disliked by other people**. (Yes, one can misconstrue this as saying “do whatever you want and make people dislike you,” but the authors also recommend coupling this indicator together with another, which is how much you feel like you are contributing to others.)
+Related to this main idea is a useful yardstick: **freedom is being disliked by other people**. (Yes, one can misconstrue this as saying "do whatever you want and make people dislike you," but the authors also recommend coupling this indicator together with another, which is how much you feel like you are contributing to others.)
 
-The title of the book is The *Courage* to Be Disliked, and that is because the authors and Alfred Adler acknowledge that it is not easy to live and be free in accordance to one’s principles. **It takes courage to do so, and the people without that courage to do the same themselves will dislike you for it**.
+The title of the book is The *Courage* to Be Disliked, and that is because the authors and Alfred Adler acknowledge that it is not easy to live and be free in accordance to one's principles. **It takes courage to do so, and the people without that courage to do the same themselves will dislike you for it**.
 
 So, if some people dislike you, it means that you are likely living according to your principles. Use it as an indicator. As long as you focus on separating tasks, you can focus on being yourself and contributing to others in whatever ways you please.
 
@@ -50,6 +50,6 @@ So, if some people dislike you, it means that you are likely living according to
 
 This is a book that distils the life-changing ideas of a philosopher-psychologist Alfred Adler. The ideas change your life by altering the way you perceive problems.
 
-The book explains how all problems are interpersonal problems and that if you want to be able to like yourself, you need to adjust the way you view your relationships. Chiefly, by learning to practice the separation of life’s tasks.
+The book explains how all problems are interpersonal problems and that if you want to be able to like yourself, you need to adjust the way you view your relationships. Chiefly, by learning to practice the separation of life's tasks.
 
 The format is an interesting dialogue between a youth and a philosopher. Through their dialogue, the authors effectively unpack the various ideas of Alfred Adler, which are based on teleology (the explanation of behaviours from their purpose as opposed to their cause), and ground them in real-life examples.

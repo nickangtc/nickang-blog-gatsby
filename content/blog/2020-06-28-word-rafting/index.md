@@ -19,9 +19,9 @@ Shime (shim-eh, "like Beyoncé" as he describes it) sent me a DM [on twitter](ht
 
 Okay, so here's the idea: a **word raft** consists of a small group of people who are committed to writing and publishing an article every week for the foreseeable future. Each person's true motivation for joining a word raft can and probably will vary, but the main goal is to write more and write regularly.
 
-A word raft is designed to be small - no more than 5 rafters at a time. This is of course an arbitrary number at this point but I think the small size is important in keeping us feeling personally accountable to the other 1-4 rafters on board our raft. *Keep paddling you son of a bitch or we'll all die in the middle of the god damn ocean!* Maybe Shime didn’t know this about me before he let me on his raft.
+A word raft is designed to be small - no more than 5 rafters at a time. This is of course an arbitrary number at this point but I think the small size is important in keeping us feeling personally accountable to the other 1-4 rafters on board our raft. *Keep paddling you son of a bitch or we'll all die in the middle of the god damn ocean!* Maybe Shime didn't know this about me before he let me on his raft.
 
-Anyway, there is a real consequence to not keeping up. The moment a person becomes dead weight (by stopping to write and publish once a week), we haul that person overboard and take in someone who has been paddling in the water and may be more enthusiastic about being aboard a raft that is headed for our shared destination. Oh and the rule Shime has set is that once you have been kicked off a raft, you’ll never be allowed back on. Only practical people need apply, I suppose.
+Anyway, there is a real consequence to not keeping up. The moment a person becomes dead weight (by stopping to write and publish once a week), we haul that person overboard and take in someone who has been paddling in the water and may be more enthusiastic about being aboard a raft that is headed for our shared destination. Oh and the rule Shime has set is that once you have been kicked off a raft, you'll never be allowed back on. Only practical people need apply, I suppose.
 
 ## Why I joined a word raft
 
@@ -45,6 +45,6 @@ Okay, so those are my main reasons to join a word raft. I have a few other small
 - Experience first-hand being part of a writing support group
 - Get closer to the truth to why I am drawn to writing in the first place through practice
 
-So that’s it. I’m ready for this. 
+So that's it. I'm ready for this. 
 
 Thank you, Shime, for conceptualising the idea of the writing raft, writing about it, and sending it my way and helping me aboard this raft. I'm looking forward to the journey.

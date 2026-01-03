@@ -135,7 +135,7 @@ Perhaps in the evening, I get an idea that came out of nowhere and it's somethin
 
 In these scenarios, I use my top of mind note to park things that *I know* I will want to explore later. It's putting into action this modern truism that Tiago Forte tweeted recently:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Before having a second brain: “That’s important, I’ll keep it in mind”<br><br>After having a second brain: “That’s important, I won’t keep it in mind”</p>&mdash; Tiago Forte (@fortelabs) <a href="https://twitter.com/fortelabs/status/1426659730563297280?ref_src=twsrc%5Etfw">August 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Before having a second brain: "That's important, I'll keep it in mind"<br><br>After having a second brain: "That's important, I won't keep it in mind"</p>&mdash; Tiago Forte (@fortelabs) <a href="https://twitter.com/fortelabs/status/1426659730563297280?ref_src=twsrc%5Etfw">August 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is the first section of the top of mind note, and I put them under the subheading **Inbox**. So the inbox section looks like this in my PKM:
 

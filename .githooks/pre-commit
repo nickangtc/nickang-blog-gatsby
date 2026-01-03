@@ -1,0 +1,26 @@
+#!/bin/bash
+# Pre-commit hook to normalize blog posts and generate backlinks
+
+# Get the directory where this script is located
+HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$HOOK_DIR/.." && pwd)"
+cd "$PROJECT_ROOT"
+
+# Normalize blog post typography (smart quotes, invisible characters, etc.)
+python3 "$HOOK_DIR/normalize-blog-posts.py"
+if [ $? -ne 0 ]; then
+  echo "❌ Blog post normalization failed"
+  exit 1
+fi
+
+# Generate backlinks
+node scripts/generate-backlinks.js
+if [ $? -ne 0 ]; then
+  echo "❌ Backlinks generation failed"
+  exit 1
+fi
+
+# Stage any updated markdown files
+git add content/blog/**/index.md 2>/dev/null || true
+
+exit 0

@@ -111,4 +111,4 @@ Exit to save as before. Now when you run `git log`, you should see that the 3 co
 Other git-related short tutorials:
 
 - [How to use git stash (and when not to use it)](/2017-09-26-git-stash/)
-- [How to completely replace git branch code with another branch’s code](/2017-09-30-replace-git-branch-code/)
+- [How to completely replace git branch code with another branch's code](/2017-09-30-replace-git-branch-code/)

@@ -15,7 +15,7 @@ Edit 23 Feb 2025: A note from me about Elon Musk. He has become very much the ki
 Yep, I thought I was going to do something big with my life as Elon Musk has. It was when I believed that doing "something big" was the epitome of a meaningful life.
 
 ![](/images/yagbem1.webp)
-_The internet reproducing a meme that Elon Musk’s job is to be badass. (source: The [Joe Rogan Experience podcast](https://www.youtube.com/watch?v=ycPr5-27vSI))_
+_The internet reproducing a meme that Elon Musk's job is to be badass. (source: The [Joe Rogan Experience podcast](https://www.youtube.com/watch?v=ycPr5-27vSI))_
 
 Nowadays, having gone past that phase, I'm constantly nagged by this feeling that this might be one of the biggest mental hurdles that young people (mostly men) don't know that they will have to learn to jump over. Let's interrogate that feeling.
 
@@ -26,7 +26,7 @@ Even from the vantage point of being a mature 32-year-old adult, I still don't t
 For me, all of this grew out of a bus ride that, for all other purposes, was uneventful.
 
 ![](/images/yagbem2.webp)
-_With friends in London, circa 2011. (I’m the middle guy.)_
+_With friends in London, circa 2011. (I'm the middle guy.)_
 
 Two friends and I were riding a bus somewhere in London. We were university freshmen on vacation at the time, I believe. During the ride, one of my friends reached into his backpack and took out a book with a black and white cover featuring a man with great hair smiling.
 
@@ -105,7 +105,7 @@ The narrative of Elon in my mind, painted by the media and his tweets, is this: 
 
 And I think this narrative isn't so much wrong as it is terribly understated. I find that being hardworking and smart is a winning formula too, but the word "hardworking" in cases like Elon and Richard is deceptively innocuous. The sacrifices and pains are huge.
 
-(_Edit on 5 June 2022_: My friend [Reka](https://www.linkedin.com/in/rekacsima), who read this post, sent me a link to a [YouTube video](https://www.youtube.com/watch?v=JF-KrSnixr4) that is narrated by Justine Musk, Elon’s first and now ex-wife. I hadn’t watched it before but I wasn’t surprised by her narration of the problems she had to deal with in her relationship… Have a watch for yourself to see what kind of sacrifices are at play, not just on the part of Elon - in fact, even more on the part of his family.)
+(_Edit on 5 June 2022_: My friend [Reka](https://www.linkedin.com/in/rekacsima), who read this post, sent me a link to a [YouTube video](https://www.youtube.com/watch?v=JF-KrSnixr4) that is narrated by Justine Musk, Elon's first and now ex-wife. I hadn't watched it before but I wasn't surprised by her narration of the problems she had to deal with in her relationship… Have a watch for yourself to see what kind of sacrifices are at play, not just on the part of Elon - in fact, even more on the part of his family.)
 
 Younger me thought hardworking meant working maybe 8am to 8pm (already 3 hours more than the typical office worker!) and then seeing my family in the evening, and when the weekend swung around, chilling and going for a hike or watching a movie.
 

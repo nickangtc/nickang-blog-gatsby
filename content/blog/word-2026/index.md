@@ -7,6 +7,8 @@ tags: ["Daily Reflection", "Annual Review"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/back-on-max/"
+    title: "Back on Max at 100 € per month"
 ---
 
 I recently visited a friend in Switzerland over Christmas.
@@ -31,7 +33,7 @@ Who knows. But heck, if I can't remember a single word to live by for the year, 
 
 And as the title of this posts alluded to, I've decided on a word of the year for 2026.
 
-The word is ​**strike**​.
+The word is **strike**.
 
 ## Why strike? The short answer
 
@@ -66,7 +68,7 @@ I have no social obligations since I'm living abroad. I'm free to invent myself 
 
 I have proven to myself over the last 3 years that I'm capable of balancing work and life well, living most days without the regret of "I should have spent more time with my daughter/wife."
 
-I've basically never been readier to strike because ​**I have a healthier body, a more solid home base (family), a bigger professional network, more savings, more tacit knowledge, and more skills than I've ever had before**​.
+I've basically never been readier to strike because **I have a healthier body, a more solid home base (family), a bigger professional network, more savings, more tacit knowledge, and more skills than I've ever had before**.
 
 With all this in place, it's time to go on the offensive. To strike!
 
@@ -87,11 +89,11 @@ When I hear the verb "strike," it evokes the following:
 
 But that doesn't really answer the question. A more direct answer:
 
-- ​**Friendships and relationships**​. Strike out the ones that don't deserve my time
-- ​**Personal finance**​. Spend generously on healthy food, sports, tools that provide leverage. Spend less on junk food, TV subscriptions, home appliances and accessories, and restaurants
-- ​**Business**​. Prototype and get things in the hands of potential users within days, not weeks or months. Build 10x productivity workflow with AI agents and custom toolset
-- ​**Living**​. Say yes to more hare-brained adventure ideas from daughter/wife. Seize any block of 2-3 days of together-time to do interesting things. Banish work-related thoughts/actions during family time. Protect sanctity of 4:30pm cut-off every weekday
-- ​**Personal brand**​. Engage fully with those worth engaging with. Write and publish 3x a week on average across LinkedIn, Substack, and [blog](https://nickang.com)
+- **Friendships and relationships**. Strike out the ones that don't deserve my time
+- **Personal finance**. Spend generously on healthy food, sports, tools that provide leverage. Spend less on junk food, TV subscriptions, home appliances and accessories, and restaurants
+- **Business**. Prototype and get things in the hands of potential users within days, not weeks or months. Build 10x productivity workflow with AI agents and custom toolset
+- **Living**. Say yes to more hare-brained adventure ideas from daughter/wife. Seize any block of 2-3 days of together-time to do interesting things. Banish work-related thoughts/actions during family time. Protect sanctity of 4:30pm cut-off every weekday
+- **Personal brand**. Engage fully with those worth engaging with. Write and publish 3x a week on average across LinkedIn, Substack, and [blog](https://nickang.com)
 
 ## People who struck (inspiration)
 

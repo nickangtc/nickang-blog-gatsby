@@ -11,7 +11,7 @@ Nope, I haven't got an epiphany to write about some big idea. I just miss loggin
 
 I'll start with today.
 
-We played a nice game of badminton in the morning with my university friend Ezra at NTU. Mei has only been playing with twice and I can tell she's already getting better at the game. I mean, she was kicking our asses. Part of my shoe sole came off halfway though (because she served the shuttlecock to the wrong half of the court and I stupidly ran after it by reflex), so I didn't get the chance to claim victory. Or so I tell myself.
+We played a nice game of badminton in the morning with my university friend Ezra at NTU. Mei has only been playing with twice and I can tell she's already getting better at the game. I mean, she was kicking our asses. Part of my shoe sole came off halfway though (because she served the shuttlecock to the wrong half of the court and I stupidly ran after it by reflex), so I didn't get the chance to claim victory. Or so I tell myself.
 
 Then our usual lunch at the Business School, and then back home.
 
@@ -31,21 +31,21 @@ That about sums up my day today.
 
 Since we got back from our month-long trip around the US (from New York to Los Angeles), I've been busy coding. It's the first time I'm learning to code this furiously. My hunger to know how to code is growing by the day, and it feels great.
 
-These are interesting times. Code is not like English, though they're both languages. Knowing code isn't exactly going to let you 'talk' to your computer. Programming language syntax is like English vocabulary, but the grammar is completely haywire. A lot of times I want my webpage to do something but it ends up doing everything else but what I intended. If it were like talking to a computer, I'd be able to tell it like in a conversation. Nope, we're not there yet with technology.
+These are interesting times. Code is not like English, though they're both languages. Knowing code isn't exactly going to let you 'talk' to your computer. Programming language syntax is like English vocabulary, but the grammar is completely haywire. A lot of times I want my webpage to do something but it ends up doing everything else but what I intended. If it were like talking to a computer, I'd be able to tell it like in a conversation. Nope, we're not there yet with technology.
 
 Programming also differs from talking because of the logic involved. In speech and in writing, we imply certain things, like who's saying what in a dialogue between two characters in a novel, or the fact that the car we're talking about has four wheels and runs on petrol.
 
-To a computer, though, nothing is implied. Instead, everything is and must be spelled out. Firstly for the computer to understand what you want it to do, and then secondly for other humans who might have to read your code to understand what you were trying to accomplish when writing different lines of code.
+To a computer, though, nothing is implied. Instead, everything is and must be spelled out. Firstly for the computer to understand what you want it to do, and then secondly for other humans who might have to read your code to understand what you were trying to accomplish when writing different lines of code.
 
 It's not easy learning to code from scratch. But the good news is, 'scratch' is no longer below sea level. In 2016, learning from scratch is no longer starting from zero - all the free resources online that have been made by people to teach and empower others to make software have made the barrier to entry significantly lower.
 
-That said, I must maintain that it's not easy to learn. Don't listen to the "programming is easy!" hype. Nonsense. Quincy Larson's [post](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.uzv6zmkj8) gives newcomers a better preview into what it's like psycho-emotionally to learn to code. (Larson is the founder of Freecodecamp, the free online course where I'm learning to code from.)
+That said, I must maintain that it's not easy to learn. Don't listen to the "programming is easy!" hype. Nonsense. Quincy Larson's [post](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.uzv6zmkj8) gives newcomers a better preview into what it's like psycho-emotionally to learn to code. (Larson is the founder of Freecodecamp, the free online course where I'm learning to code from.)
 
-The tools and scrolls are more attainable than they've ever been in history, but becoming proficient at reading and writing code still takes a great deal of patience and time. It is, after all, a skill.
+The tools and scrolls are more attainable than they've ever been in history, but becoming proficient at reading and writing code still takes a great deal of patience and time. It is, after all, a skill.
 
-(Becoming good is also difficult because programming languages and protocols and standards continue to evolve quickly. HTML5, Ruby on Rails, etc.)
+(Becoming good is also difficult because programming languages and protocols and standards continue to evolve quickly. HTML5, Ruby on Rails, etc.)
 
-Last week I was stuck on a coding challenge where I was supposed to write a web app that tells you the weather in your city. The sequence of events that the code needed to handle was something like this:
+Last week I was stuck on a coding challenge where I was supposed to write a web app that tells you the weather in your city. The sequence of events that the code needed to handle was something like this:
 
 1. Ask you for permission to get your location.
 2. Get your location through Chrome's built-in geolocating feature (works only with Chrome users).
@@ -56,11 +56,11 @@ I worked on it everyday for close to two weeks, hitting obstacle after obstacle.
 
 I know, I know, I'm new to the whole thing so that pace is normal! But here's where I stop you. Though you're probably right, the way that is said makes it sound too easy.
 
-You see, I was stuck on a very specific problem. I could write out the sequence of events that needed to take place for the programme to work right from the moment I received the challenge - the structure wasn't the problem. It was _what_ code to use to implement that sequence that baffled me.
+You see, I was stuck on a very specific problem. I could write out the sequence of events that needed to take place for the programme to work right from the moment I received the challenge - the structure wasn't the problem. It was _what_ code to use to implement that sequence that baffled me.
 
-For example, while asynchronous processes made sense to me (multiple things happening at the same time to reduce a user's waiting time on a webpage), actually trying to put them in a queue (so that code chunk B is able to execute using some data returned from code chunk A which operates asynchronously) wasn't at all straightforward when you have to code (not write) it out. It wasn't easy, until it become easy - when I finally figured it out.
+For example, while asynchronous processes made sense to me (multiple things happening at the same time to reduce a user's waiting time on a webpage), actually trying to put them in a queue (so that code chunk B is able to execute using some data returned from code chunk A which operates asynchronously) wasn't at all straightforward when you have to code (not write) it out. It wasn't easy, until it become easy - when I finally figured it out.
 
-Now it's really quite straightforward to me. When an async operation has successfully completed, you can declare a [callback function](/2021-05-18-what-is-a-callback-an-analogy-with-tea/) whose code will then be executed, and the way you do that is to...
+Now it's really quite straightforward to me. When an async operation has successfully completed, you can declare a [callback function](/2021-05-18-what-is-a-callback-an-analogy-with-tea/) whose code will then be executed, and the way you do that is to...
 
 Okay, I'm not quite ready for technical writing yet so I'll skip the details.
 

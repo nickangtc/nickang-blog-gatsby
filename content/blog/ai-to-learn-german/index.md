@@ -29,7 +29,7 @@ So I think it could help answer my question here.
 
 I whip my phone out, launch ChatGPT voice mode, and I speak:
 
-> Here's some context, and I need your help to help me know how to say something in German as a reply to that situation. So I'm in a climbing gym, and the person asks if I have cash. And I said, I don't have it, but maybe in the car. And so that's what I wanted to say in German. I said, **vielleicht im Auto**. Is that correct?”
+> Here's some context, and I need your help to help me know how to say something in German as a reply to that situation. So I'm in a climbing gym, and the person asks if I have cash. And I said, I don't have it, but maybe in the car. And so that's what I wanted to say in German. I said, **vielleicht im Auto**. Is that correct?"
 
 It replies two seconds later with affirmation and praise:
 
@@ -51,17 +51,17 @@ Here is ChatGPT (4o)'s full reply:
 
 > Here are some other phrases a local might use for "Maybe in the car," depending on the context and tone:
 >
-> 1. **„Vielleicht ist es im Auto.“**
+> 1. **„Vielleicht ist es im Auto."**
 >    (More complete sentence structure: "Maybe it's in the car.")
-> 2. **„Könnte im Auto sein.“**
+> 2. **„Könnte im Auto sein."**
 >    (Casual: "Could be in the car.")
-> 3. **„Wahrscheinlich im Auto.“**
+> 3. **„Wahrscheinlich im Auto."**
 >    (Suggestive: "Probably in the car.")
-> 4. **„Liegt bestimmt im Auto.“**
+> 4. **„Liegt bestimmt im Auto."**
 >    (Confident: "It's definitely in the car.")
-> 5. **„Schau mal im Auto nach.“**
+> 5. **„Schau mal im Auto nach."**
 >    (Directive: "Check in the car.")
-> 6. **„Eventuell im Auto?“**
+> 6. **„Eventuell im Auto?"**
 >    (Questioning: "Maybe in the car?")
 >
 > These options might sound more natural depending on the context—whether you're making a suggestion, guessing, or prompting someone to check.

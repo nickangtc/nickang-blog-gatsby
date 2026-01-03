@@ -27,7 +27,7 @@ In the review, I ask myself three questions:
 2. What did not go so well this year?
 3. What did I learn this year?
 
-I go into each of these in the sections below. Let’s get started!
+I go into each of these in the sections below. Let's get started!
 
 ## What went well this year?
 
@@ -41,7 +41,7 @@ I go into each of these in the sections below. Let’s get started!
 
 **Fulfilled my dream of living abroad for a full year**. I [learned a lot](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/) about what is important in life, like diversity, language, [seasonal weather](/2020-08-23-why-i-love-the-seasons/), and quiet Sundays.
 
-**Gained tech independence with a private cloud server**. I bought and set up my own NAS (network-attached storage) device, which serves as a personal cloud server. I am using the [Synology DS218](https://www.synology.com/en-global/products/DS218). Now, instead of launching the Google Photos app to sync my images and videos to Google’s servers, I launch the DS Photo app to sync them to my server that is attached to two swappable 6-terabytes hard disk drives. The peace of mind that comes from knowing that my life’s memories are stored in these physical drives is priceless. I know my partner [won’t ever have to ask](/2020-04-16-tech-independence/) me, “What have you done?”
+**Gained tech independence with a private cloud server**. I bought and set up my own NAS (network-attached storage) device, which serves as a personal cloud server. I am using the [Synology DS218](https://www.synology.com/en-global/products/DS218). Now, instead of launching the Google Photos app to sync my images and videos to Google's servers, I launch the DS Photo app to sync them to my server that is attached to two swappable 6-terabytes hard disk drives. The peace of mind that comes from knowing that my life's memories are stored in these physical drives is priceless. I know my partner [won't ever have to ask](/2020-04-16-tech-independence/) me, "What have you done?"
 
 **Started managing my knowledge with a personal wiki**. One of the more exciting things I have started this year is to set up my own [personal knowledge management system](/2020-07-05-personal-knowledge-management-system/). I created 362 notes this year, each one trying to contain an atom of knowledge. I am confident that next year my PKM will start to bear fruits as it hits a critical mass of inter-related notes.
 
@@ -62,21 +62,21 @@ I go into each of these in the sections below. Let’s get started!
 - Unorthodox (Limited series of 4 episodes): 4 hours
 - Rick and Morty (Season 4): 3.8 hours
 
-I watched most of these on weekdays just before bed. Assuming that I had, on each weekday evening, 1 hour to watch something, it means that I have squandered 144 out of 262 weekdays. That’s 55 per cent of all weekday evenings spent mindlessly watching TV. This is why I don’t ever allow myself to say, “I don’t have time.” To be clear, my goal is not to hit 0 hours but to reduce it to something more acceptable to me.
+I watched most of these on weekdays just before bed. Assuming that I had, on each weekday evening, 1 hour to watch something, it means that I have squandered 144 out of 262 weekdays. That's 55 per cent of all weekday evenings spent mindlessly watching TV. This is why I don't ever allow myself to say, "I don't have time." To be clear, my goal is not to hit 0 hours but to reduce it to something more acceptable to me.
 
 **Tried and failed at writing a novel**. I was serious about trying to write fiction this year, especially when [NaNoWriMo](https://nanowrimo.org/) came around. But halfway through November, I gave up because I was dissatisfied with the quality of my writing. The story felt juvenile as a result of my unrefined fiction writing skills and lack of imagination.
 
 ## What did I learn this year?
 
-**No need to journal daily**. One of the [goals](/2019-12-31-goals-for-2020/) I set myself this year was to journal every day. Once I started meditating, I realised I needed to journal less. Some days I’d sit down to journal and find that my mind was already clear. I had nothing I wanted to talk to myself about. So this year I realised that I only need to journal whenever I need to clear my mind.
+**No need to journal daily**. One of the [goals](/2019-12-31-goals-for-2020/) I set myself this year was to journal every day. Once I started meditating, I realised I needed to journal less. Some days I'd sit down to journal and find that my mind was already clear. I had nothing I wanted to talk to myself about. So this year I realised that I only need to journal whenever I need to clear my mind.
 
 **The best way to improve your writing is dedicating time for re-writes**. As I started publishing once a week, I realised that the quality of each article positively correlated to the amount of time I spent [rewriting](https://qr.ae/pNe3tg). I also learned that when a piece is well-written, friends will tell you about it. Some nice people told me that about the  [disengaging from politics](/2020-11-22-why-you-might-want-to-disengage-from-politics/) article and the one about the [untouchable space between stimulus and response](/2020-11-29-the-untouchable-space-between-stimulus-and-response/). So put in the time to rewrite before publishing an article.
 
-**Reading someone’s list of learnings is not very helpful**. This section is exactly a list of learnings, and I bet they won’t bring you close to as much value as they bring me. An ex-colleague whom I look up to wrote a brilliant 50-points list of things he had learned while working at Smartly.io, but when I tried to apply his learnings to my day-to-day work, I failed miserably. The reason, I learned, is simple: we learn from stories, not pithy bullet points or quotes. There is a difference between helping someone conclude and presenting them the conclusion.
+**Reading someone's list of learnings is not very helpful**. This section is exactly a list of learnings, and I bet they won't bring you close to as much value as they bring me. An ex-colleague whom I look up to wrote a brilliant 50-points list of things he had learned while working at Smartly.io, but when I tried to apply his learnings to my day-to-day work, I failed miserably. The reason, I learned, is simple: we learn from stories, not pithy bullet points or quotes. There is a difference between helping someone conclude and presenting them the conclusion.
 
-**Hurt people hurt people**. In any given year, we will get hurt several times by people we encounter. But once I learned that it is people who are hurt who hurt other people, I became able to sidestep people’s attempts to hurt me. Most of the time, these people don’t even realise that they are hurting inside when they in turn hurt you. Let them be, and don’t let them hurt you. It’s a worthy reminder that [you control your response](/2020-11-29-the-untouchable-space-between-stimulus-and-response/). Let that person work on his response.
+**Hurt people hurt people**. In any given year, we will get hurt several times by people we encounter. But once I learned that it is people who are hurt who hurt other people, I became able to sidestep people's attempts to hurt me. Most of the time, these people don't even realise that they are hurting inside when they in turn hurt you. Let them be, and don't let them hurt you. It's a worthy reminder that [you control your response](/2020-11-29-the-untouchable-space-between-stimulus-and-response/). Let that person work on his response.
 
-And that’s a wrap on my 2020. Thank you for reading, and happy new year!
+And that's a wrap on my 2020. Thank you for reading, and happy new year!
 
 ---
 

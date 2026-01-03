@@ -42,4 +42,4 @@ It may be a bug in the new macOS, I'm not sure. But I'm glad it solved the probl
 
 However, I also made another change that could have resolved the issue for me. A developer colleague recommended this and I followed it:
 
-> if you haven’t done so already, you might want to exclude your code projects folder in OSX Spotlight settings (System Preferences > Spotlight > Privacy > Prevent Spotlight from searching these locations). Otherwise e.g. installing Node modules will cause Spotlight to re-index of all the files under node_modules. This indexing seems to cause quite a bit of long-lasting CPU load at least on Big Sur.
+> if you haven't done so already, you might want to exclude your code projects folder in OSX Spotlight settings (System Preferences > Spotlight > Privacy > Prevent Spotlight from searching these locations). Otherwise e.g. installing Node modules will cause Spotlight to re-index of all the files under node_modules. This indexing seems to cause quite a bit of long-lasting CPU load at least on Big Sur.

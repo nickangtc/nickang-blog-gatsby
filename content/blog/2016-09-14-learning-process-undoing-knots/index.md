@@ -18,10 +18,10 @@ To write code that sets up a database that can communicate with your application
 
 It is difficult for everyone, not just me or you. Every aspiring web developer will need to put fingers to keys and create that bridge to learn how the whole thing works at least once.
 
-My first try at creating a database-linked server application was met with countless problems, like knots in a long string. I know where I’m supposed to head, but the knots keep me from going through.
+My first try at creating a database-linked server application was met with countless problems, like knots in a long string. I know where I'm supposed to head, but the knots keep me from going through.
 
-First it was the new framework called Sequelize, which apparently is used by many developers as a way to use the JavaScript language (practically every web developer’s bread) to communicate with the database, which uses something called SQL (Structured Query Langauge) - where “sequelize” got its name from. Then it was how to run Sequelize commands on the command line, as well as how to write code in the server side hosted on Node.js.
+First it was the new framework called Sequelize, which apparently is used by many developers as a way to use the JavaScript language (practically every web developer's bread) to communicate with the database, which uses something called SQL (Structured Query Langauge) - where "sequelize" got its name from. Then it was how to run Sequelize commands on the command line, as well as how to write code in the server side hosted on Node.js.
 
-Learning to code is a continual process of de-knotting to get to the end of the line. Well, except there’s no end of _the_ line, but really just the end of _this_ or _that_ line. When I finally untied the knots today that were blocking me from implementing an exercise project that linked to a database through Sequelize, it was magnificent. I think I might have even said “it’s so straightforward after you get it!”
+Learning to code is a continual process of de-knotting to get to the end of the line. Well, except there's no end of _the_ line, but really just the end of _this_ or _that_ line. When I finally untied the knots today that were blocking me from implementing an exercise project that linked to a database through Sequelize, it was magnificent. I think I might have even said "it's so straightforward after you get it!"
 
-While having a straight rope now feels great, I know this is not the last time I’ll be spending hours in cognitive high-gear trying to chew away a knot. I look forward to undoing many more knots to come, because that's how I know I'm getting better.
+While having a straight rope now feels great, I know this is not the last time I'll be spending hours in cognitive high-gear trying to chew away a knot. I look forward to undoing many more knots to come, because that's how I know I'm getting better.

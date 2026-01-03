@@ -12,9 +12,9 @@ backlinks:
 
 *Is this fictional or autobiographical, you wonder? I ask in response: does it matter?*
 
-I used to be able to think on my feet, which is to say, when I find myself in a situation where my mind is quietly posing a question, I would be able to quietly answer it directly. I wouldn’t, instead, think of googling as my first instinct.
+I used to be able to think on my feet, which is to say, when I find myself in a situation where my mind is quietly posing a question, I would be able to quietly answer it directly. I wouldn't, instead, think of googling as my first instinct.
 
-Everything used to be obvious. I’m not talking about how the world is becoming more complex, and therefore things are becoming more obfuscated. That may be true, but I feel I’ve degraded far beyond that in the Think For Yourself arena. I freakin’ google everything — even when I have a preliminary answer, I’d try to find someone on the internet that could confirm that I’m on the right track.
+Everything used to be obvious. I'm not talking about how the world is becoming more complex, and therefore things are becoming more obfuscated. That may be true, but I feel I've degraded far beyond that in the Think For Yourself arena. I freakin' google everything — even when I have a preliminary answer, I'd try to find someone on the internet that could confirm that I'm on the right track.
 
 Everything used to be obvious in the sense that I would be able to think on my own.
 
@@ -31,7 +31,7 @@ A third conclusion was that trying to put it all together is possible but very h
 
 That kid, if armed with a computer and a programming manual, would probably have been capable of coming close to writing an decent economic model on a computer from scratch.
 
-But that kid has now picked up a terrible habit of consulting the internet at every turn. Returning to the past with this habit, he would probably have googled “why adults work so much” and in return, read a bunch of posts written for no other reason other than search engine optimisation, and, depending on just how hastily those ranking posts were written, potentially be misled about not just the facts, but how to think in the first place.
+But that kid has now picked up a terrible habit of consulting the internet at every turn. Returning to the past with this habit, he would probably have googled "why adults work so much" and in return, read a bunch of posts written for no other reason other than search engine optimisation, and, depending on just how hastily those ranking posts were written, potentially be misled about not just the facts, but how to think in the first place.
 
 These days, people call this kid's ability first principles thinking.
 

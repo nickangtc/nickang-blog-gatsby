@@ -4,7 +4,7 @@ date_published: "2016-03-25"
 backlinks:
 ---
 
-_From [Quora](https://www.quora.com/Should-you-renovate-the-whole-house-at-once-or-little-by-little):_ 
+_From [Quora](https://www.quora.com/Should-you-renovate-the-whole-house-at-once-or-little-by-little):_ 
 
 **Should you renovate the whole house at once or little by little?**
 

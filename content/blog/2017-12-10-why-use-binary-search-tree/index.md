@@ -41,9 +41,9 @@ Here's how an eloquent answer on [Quora](https://www.quora.com/What-are-some-pra
 
 > A binary search tree "can efficiently maintain a dynamically changing dataset in sorted order, for some 'sortable' type."
 
-I describe this in my head as the ”always insert in the right place" approach. This approach ensures that we can conduct [binary search](/2017-11-22-binary-search-explained/) on the entire binary search tree at any time without having to re-order anything.
+I describe this in my head as the "always insert in the right place" approach. This approach ensures that we can conduct [binary search](/2017-11-22-binary-search-explained/) on the entire binary search tree at any time without having to re-order anything.
 
-Because of this structure, insertion and deletion of nodes can be achieved very quickly. Instead of traversing every element sequentially until the right one is found, which is how we work with arrays, we only need to traverse half the tree, then half of half the tree, then half of half of half the tree... I think you get the picture - the result is much faster insertion/deletion than array, with _almost_ none of the draw backs. We’ll touch on a BST’s main weakness very soon.
+Because of this structure, insertion and deletion of nodes can be achieved very quickly. Instead of traversing every element sequentially until the right one is found, which is how we work with arrays, we only need to traverse half the tree, then half of half the tree, then half of half of half the tree... I think you get the picture - the result is much faster insertion/deletion than array, with _almost_ none of the draw backs. We'll touch on a BST's main weakness very soon.
 
 So what are some use cases? The main use case that I find relatable is in indexing database entries. If you have a user table in your database with 1 million entries and you need to find the user with email 'hello@world.com', you can get there with a **balanced** binary search tree in at most 21 iterations.
 
@@ -51,7 +51,7 @@ If it was an array and sorted by email string (_if_ it was sorted), it would pro
 
 ## The main weakness of a binary search tree
 
-Earlier I mentioned a "balanced" binary search tree. Let’s deconstruct that idea now.
+Earlier I mentioned a "balanced" binary search tree. Let's deconstruct that idea now.
 
 A binary search tree can get out of balance. This is the first thing to realise about a binary search tree.
 
@@ -81,4 +81,4 @@ In the next post (to come), we'll look at how to create a self-balancing tree.
 - BST can search, access, insert, and delete data elements in logarithmic time `O(log n)`
 - BST is much faster than an array at search, insert, and delete (`O(log n)` vs `O(n)`)
 - BST is slightly slower than an array at access (`O(log n)` vs `O(1)`)
-- BST’s main weakness is its tendency to become imbalanced if left unregulated by some self-balancing mechanism
+- BST's main weakness is its tendency to become imbalanced if left unregulated by some self-balancing mechanism

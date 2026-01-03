@@ -35,7 +35,7 @@ And the door shuts between us.
 
 Don't worry, this kindergarten isn't a prison for children. It's just that the optics are clearer when focused in description like this. She likes her friends and other child minders in there.
 
-Also, she was fine that evening. I broached the topic to her, explaining to her how that child minder should have been more patient and let her walk in by herself. She now dislikes that child minder even more and articulates it as “she should be patient!"
+Also, she was fine that evening. I broached the topic to her, explaining to her how that child minder should have been more patient and let her walk in by herself. She now dislikes that child minder even more and articulates it as "she should be patient!"
 
 ---
 
