@@ -144,6 +144,23 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
 
+      <section>
+        <p>
+          <strong>Want to comment?</strong> I'm active on{" "}
+          <a
+            href="https://www.linkedin.com/in/nickangtc/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>{" "}
+          and would love to hear from you there. Alternatively, you can{" "}
+          <Link to="/contact">email me</Link>.
+        </p>
+      </section>
+
+      <hr />
+
       <iframe
         src="https://nickang.substack.com/embed"
         width="100%"
